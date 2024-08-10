@@ -1,7 +1,7 @@
 ---
 title: ''Merck Group''' – Merck KGaA (Formerly EMD Group) Was Founded on March 28, 1668 in Darmstadt as a Pharmaceutical Company; It Is Now One of the World
-date: 2024-08-08 19:46:13
-updated: 2024-08-09 10:28:59
+date: 2024-08-09T00:35:50.415Z
+updated: 2024-08-10T00:35:50.415Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
 ## How to Properly Shutdown Driver Process with Outstanding Jobs Intact - Solution Found
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d8f264410.jpg)
 
  If you run into a blue screen of death with**Driver unloaded without cancelling pending operations** error code, you’re not alone. But don’t worry. it’s often quite easy to fix…
@@ -27,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 2. **[](https://tools.techidaily.com/drivereasy/download/) [Reinstall the faulty driver](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Uninstall incompatible programs**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### **Fix 1: Update your drivers (nea** rly always fixes the problem)
 
  Perhaps the most common cause of the ‘**driver unloaded without cancelling pending operations** ’ error is an outdated/corrupted/faulty device driver on your system. So you should update your drivers to see if it fixes the issue.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,21 +47,33 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a23f5f0b9.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually.  
  Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted toupgrade when you click   **Update All.**  You get full support and a 30-day money back guarantee.)  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a282e05cc.jpg)
 4. Restart your computer and check if**DRIVER UNLOADED WITHOUT CANCELLING PENDING OPERATIONS** problem has been resolved. If the problem still exists, then move on to **Fix 2** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Reinstall the faulty driver
 
  Another useful trick for the **DRIVER UNLOADED WITHOUT CANCELLING PENDING OPERATIONS** error is to reinstall the faulty driver according to user feedback. To do so:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time. Then type **devmgmt.msc** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d2a3c0863.png)
 2. Locate and double-click on**Unknown devices** or**Other devices** .
 3. Right-click on**an item** and click**Uninstall device** . (The item usually has an exclamation mark to indicate a conflict).
 4. Restart your computer.
 5. On your keyboard, press**the Windows logo key** and**R** at the same time. Then type **devmgmt.msc** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d2a3c0863.png)
 6. Click the**Scan for hardware changes** icon to reinstall the driver you just uninstalled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d806cf8e6.jpg)

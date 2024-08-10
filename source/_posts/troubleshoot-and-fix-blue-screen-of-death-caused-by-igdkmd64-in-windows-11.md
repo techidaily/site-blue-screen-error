@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Fix Blue Screen of Death Caused by IGDKMD64 in Windows 11
-date: 2024-08-06 12:54:56
-updated: 2024-08-09 11:40:56
+date: 2024-08-09T00:35:51.266Z
+updated: 2024-08-10T00:35:51.266Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
 ## Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bc7d9d8c1c.jpg)
 
 A**Blue Screen of Death (BSOD)**is usually hardware or software related. In most cases, when you see a blue screen of death error, you will also see an error code (marked by the red rectangle). Since the exact cause and the solutions could be hard to get, Microsoft has included a QR code with each BSOD in Windows 10\. If you missed the chance to mark down the error code or scan the QR code, you are not at your wits ends. There are still many options that you can try to get the blue screen of death error go away. **Note that** methods varied depending on different codes. If you want to have more specific tutorial about a specific BSOD error, search your error code in our knowledge base [_https://www.drivereasy.com/knowledge/_](https://tools.techidaily.com/drivereasy/download/). If your problem has yet to be addresses, feel free to leave us comment and we’ll see what else we can do. Step 1:[**Check if you have enough space left**](https://tools.techidaily.com/drivereasy/download/)Step 2: **[Scan your computer for viruses](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Apply all available Windows service packs and other updates](https://tools.techidaily.com/drivereasy/download/)** Step 4: **[Test Your System Memory and your Hard Disk Drive(HDD)](https://www.drivereasy.com/knowledge/5-tips-to-fix-a-blue-screen-of-death-bsod-on-windows-10/#m4)** Step 5: **[Roll Back Drivers in Safe Mode](https://tools.techidaily.com/drivereasy/download/)** **IMPORTANT**: If your computer won’t boot, you need to refer to[**this post**](https://tools.techidaily.com/drivereasy/download/)to get into desktop and then safe mode first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1: Check if you have enough space left
 
 Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\.
@@ -27,8 +33,14 @@ Blue Screen of Death problems and some other serious error, such as data corrupt
 
 Make sure you have upgraded your antivirus program database to the latest version first. Then use it to scan your computer to see if there is some virus that could cause this problem. If you are not sure how to update your database of your antivirus program, it is suggested that you search for related information in the developer or manufacturer website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 3: Apply all available Windows service packs and other updates
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 Service pack is a collection of updates and fixes, called patches, for operating system or a software program. It usually allows an easy and single installation. You could usually check your service pack in**Control Panel > System**. In Windows, most patches and fixes are available through**Windows Update**. It is suggested that you check whether your computer has installed the latest released patches in**Settings > Updates & security.** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)It’s also important that you keep your device drivers up-to-date. Some BSOD could be caused by faulty or outdated device drivers. To update your drivers, you can search on the manufacturer support website your PC model and see if there are updates available. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bcc356d652.png)
@@ -41,16 +53,25 @@ These two tests are done to make sure whether your memory card or hard drive are
 
  2) You could choose**Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose**Check for problems the next time I start my computer** if you are too occupied now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 If you don’t see any error here, it’s likely that your memory card is not causing any issues. Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\. Run a Hard Disk Drive testPlease make sure you have closed all open programs and files before your disk check. 1) Follow the path**Start button** **\> File Explorer > This PC**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)2) Locate the hard drive that you would like to check. Right click it and choose**Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties-in-hard-drive.jpg)3) Go to**Tools**tab and then click**Check**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)4) If your hard disk drive is problem free, you will see the notification like this:
 
 ## ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)  5: Roll Back Drivers in Safe Mode
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 One of the first things you need to ask yourself is whether you have installed any new applications or drivers on your computer. If so, it is very likely that the change you made caused the BSOD. In this case, it is suggested that you**roll the newly installed driver back**to its previous version. If you are not sure what changes have you made, it is suggested that you do a system restore. If you need help with system restore on Windows 10, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/)for more information. 1) Go to**Safe Mode**first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/). 2) On your keyboard, press**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png)and**R**at the same time. Then type**devmgmt.msc**in the run box and hit**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)3) In**Device Manager**, locate the device that you would like to roll back the driver to. Right-click the device name and click **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)4) Go to the **Driver**tab, and click **Roll Back Driver**.![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)5) If the**Roll Back Driver**option here is**grey**, you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/)instead. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)If you find that your hardware is the cause of your BSOD problem, please try one of the following ideas:
 
 * Replace the problematic hardware.

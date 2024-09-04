@@ -1,7 +1,7 @@
 ---
 title: The Selection of Sample Size and Frequency in SPC Should Balance Representativeness with Resource Efficiency
-date: 2024-08-15T01:25:21.192Z
-updated: 2024-08-16T01:25:21.192Z
+date: 2024-09-03T23:50:37.188Z
+updated: 2024-09-04T23:50:37.188Z
 tags:
   - win11
   - win10
@@ -179,5 +179,8 @@ You can follow the instruction below to remove certain applications:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

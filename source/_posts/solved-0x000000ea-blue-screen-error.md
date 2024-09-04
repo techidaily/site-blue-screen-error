@@ -1,7 +1,7 @@
 ---
 title: "SOLVED: 0X000000EA Blue Screen Error"
-date: 2024-08-15T01:27:09.886Z
-updated: 2024-08-16T01:27:09.886Z
+date: 2024-09-03T23:50:35.113Z
+updated: 2024-09-04T23:50:35.113Z
 tags:
   - win11
   - win10
@@ -166,5 +166,8 @@ You can follow the instruction below to remove certain applications:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

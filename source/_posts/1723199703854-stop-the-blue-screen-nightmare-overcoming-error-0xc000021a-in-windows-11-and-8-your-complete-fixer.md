@@ -1,7 +1,7 @@
 ---
 title: "Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer!"
-date: 2024-09-03T23:50:39.742Z
-updated: 2024-09-04T23:50:39.742Z
+date: 2024-09-09T00:41:36.904Z
+updated: 2024-09-10T00:41:36.904Z
 tags:
   - win11
   - win10
@@ -45,6 +45,12 @@ You can follow the instruction below to remove certain applications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you have recently installed more than one application, just repeat the above procedure.
 
  **Step two:** **Restore Device Drivers**
@@ -55,6 +61,12 @@ You can follow the instruction below to remove certain applications:
 
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
@@ -65,10 +77,22 @@ You can follow the instruction below to remove certain applications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Still, if you have recently updated more than one device driver, you need to uninstall them one by one. If you are not sure which applications or which device drivers installed could be the culprit, you can check the System Log in**Event Viewer** for additional error messages:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
@@ -79,6 +103,12 @@ You can follow the instruction below to remove certain applications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
 
  **Step three:** **Perform a SFC Scan**
@@ -91,6 +121,12 @@ You can follow the instruction below to remove certain applications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
 
 [](https://images.drivereasy.com/wp-content/uploads/2016/12/fortect-download-now.png) ](https://www.drivereasy.com/redirect/partner.php?post%5Fid=drivereasyen8389&id=153&url=https%3A%2F%2Fwww.drivereasy.com%2Fknowledge%2Ferror-0xc000021a-blue-screen-death-windows-10-8-solved%2F&param2=)
@@ -107,6 +143,18 @@ You can follow the instruction below to remove certain applications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It is also suggested that you use[Driver](https://tools.techidaily.com/drivereasy/download/) [Ea](https://tools.techidaily.com/drivereasy/download/) [sy](https://tools.techidaily.com/drivereasy/download/) to help you update all your device drivers so as to avoid any further problems. Installing faulty device drivers could be one of the causes of the blue screen of death problems,[Driver Easy](https://tools.techidaily.com/drivereasy/download/) can keep you from falling into that pit ever again.
 
 * [BSOD](https://tools.techidaily.com/drivereasy/download/)
@@ -180,16 +228,3 @@ You can follow the instruction below to remove certain applications:
 <li><a href="https://blue-screen-error.techidaily.com/vanquish-your-devices-vexing-orangish-malady-expert-tips-for-restoring-normalcy/"><u>Vanquish Your Device's Vexing Orangish Malady: Expert Tips for Restoring Normalcy</u></a></li>
 <li><a href="https://blue-screen-error.techidaily.com/win32kfullsys-bsod-explained-steps-to-recover-and-prevent-future-issues/"><u>Win32kfull.sys BSoD Explained: Steps to Recover and Prevent Future Issues</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

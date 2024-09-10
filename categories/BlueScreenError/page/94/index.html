@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"blue-screen-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-26'>
                 
                     
-                        <a href="/comprehensive-guide-to-overcome-the-repaired-windows-10-unexpected-store-exception-issue-successfully/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive Guide to Overcome the [REPAIRED] Windows 10 Unexpected Store Exception Issue Successfully</span>
+                        <a href="/step-by-step-walkthrough-for-fixing-the-tdr-blue-screen-error-due-to-nvlddmkmsys-windows/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Walkthrough for Fixing the TDR Blue Screen Error Due to nvlddmkm.sys (Windows)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-address-kernel-heap-instability-issues-in-your-system/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Address Kernel Heap Instability Issues in Your System</span>
+                        <a href="/step-by-step-guide-to-correcting-a-critical-memory-management-failure-pool-header-on-windows-11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide to Correcting a Critical Memory Management Failure (Pool Header) on Windows 11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/banish-your-windows-10-nightmares-masterful-fix-for-event-traced-fatal-errors/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Banish Your Windows 10 Nightmares: Masterful Fix for Event Traced Fatal Errors</span>
+                        <a href="/1723199729943-astm-e4n9-provides-a-standardized-approach-for-calibrating-measurement-tools-in-the-us/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">ASTM E4n9 Provides a Standardized Approach for Calibrating Measurement Tools in the US</span>
                         </a>
                     
               
                 
                     
-                        <a href="/effective-solutions-to-overcome-memory-management-blue-screen-in-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Effective Solutions to Overcome &#39;Memory Management&#39; Blue Screen in Windows 11</span>
+                        <a href="/solved-bugcodeusbdriver-blue-screen-on-windows-11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">[Solved] BUGCODE_USB_DRIVER Blue Screen on Windows 11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-nxmemory-execution-issues-on-windows-a-step-by-step-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing NXMemory Execution Issues on Windows: A Step-by-Step Guide</span>
+                        <a href="/how-to-properly-discard-drivers-with-incomplete-operations/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Properly Discard Drivers with Incomplete Operations</span>
                         </a>
                     
               
                 
                     
-                        <a href="/overcoming-ntfssys-bsod-issues-effective-solutions-for-windows-10-users/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Overcoming NTFS.sys BSOD Issues: Effective Solutions for Windows 10 Users</span>
+                        <a href="/resolving-classpnpsys-conflicts-for-smooth-windows-10-and-7-operation/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resolving CLASSPNP.SYS Conflicts for Smooth Windows 10 and 7 Operation</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-repair-a-failed-ntfssys-error-and-stop-the-blue-screen-in-windows-10/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Repair a Failed NTFS.sys Error and Stop the Blue Screen in Windows 10</span>
+                        <a href="/master-the-art-of-repairing-crashing-windows-7-pcs-with-our-comprehensive-strategies/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Master the Art of Repairing Crashing Windows 7 PCs with Our Comprehensive Strategies</span>
                         </a>
                     
               
                 
                     
-                        <a href="/easy-fixes-to-address-critical-system-info-issue-causing-your-pc-to-crash/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Fixes to Address Critical System Info Issue Causing Your PC to Crash</span>
+                        <a href="/how-to-fix-a-corrupted-fat-volume-on-your-windows-10-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Fix a Corrupted FAT Volume on Your Windows 10 PC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-steps-for-correcting-internal-power-malfunction-on-windows-11-computers/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Steps for Correcting Internal Power Malfunction on Windows 11 Computers</span>
+                        <a href="/how-to-fix-bad-pool-header-bsod-error-on-windows-10/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Fix Bad Pool Header BSOD Error on Windows 10</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-the-windows-10-unexpected-store-exception-error/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix the Windows 10 Unexpected Store Exception Error</span>
+                        <a href="/winodws-7s-nightmare-decoded-a-step-by-step-guide-to-fixing-the-0x00000050-bsod-error/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Winodws 7&#39;S Nightmare Decoded - A Step-by-Step Guide to Fixing the 0X00000050 BSoD Error</span>
                         </a>
                     
               

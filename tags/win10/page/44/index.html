@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"blue-screen-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-03'>
                 
                     
-                        <a href="/how-to-fix-0xc000000e-error/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix 0Xc000000e Error</span>
+                        <a href="/fixed-cmusbdacsys-blue-screen-of-death-in-windows/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</span>
                         </a>
                     
               
                 
                     
-                        <a href="/effective-remedies-for-kernel-errors-in-windows-11-a-comprehensive-fixed-approach/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Effective Remedies for Kernel Errors in Windows 11: A Comprehensive Fixed Approach</span>
+                        <a href="/troubleshooting-and-fixing-bsod-issues-due-to-tcpipsys-on-windows-os/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Fixing BSOD Issues Due to TCP/IP.sys on Windows OS</span>
                         </a>
                     
               
                 
                     
-                        <a href="/resolving-the-ntfssys-blue-screen-of-death-on-windows-10-a-step-by-step-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolving the ntfs.sys Blue Screen of Death on Windows 10: A Step-by-Step Guide</span>
+                        <a href="/blue-screen-of-death-overcome-error-code-0x00000116-in-a-flash/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Blue Screen of Death: Overcome Error Code 0X00000116 in a Flash</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-fltmgrsys-blue-screen-of-death-in-windows/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix fltmgr.sys Blue Screen of Death in Windows</span>
+                        <a href="/solution-steps-for-the-persistent-netwtw04sys-blue-screen-error-on-win10/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solution Steps for the Persistent Netwtw04.sys Blue Screen Error on Win10</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solved-0x0000009f-blue-screen-error/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solved: 0X0000009F Blue-Screen Error</span>
+                        <a href="/1723199749355-guide-to-correct-video-schedulers-internal-error-on-your-windows-10-device-solved/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide to Correct Video Scheduler’s Internal Error on Your Windows 10 Device - Solved</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-resolve-hardware-errors-and-stop-machine-check-bluescreens-in-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Resolve Hardware Errors and Stop Machine Check Bluescreens in Windows 11</span>
+                        <a href="/tackle-your-pcs-nvpcfsys-blue-screen-error-with-these-simple-fixes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tackle Your PC&#39;s nvpcf.sys Blue Screen Error with These Simple Fixes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-the-blues-a-comprehensive-guide-to-resolving-bsod-error-code-0x0000001a/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing the Blues: A Comprehensive Guide to Resolving BSOD Error Code 0X0000001A</span>
+                        <a href="/effective-solutions-to-the-multiple-irp-complete-bug-that-triggers-a-blue-screen-on-your-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effective Solutions to the &#39;Multiple IRP Complete&#39; Bug That Triggers a Blue Screen on Your PC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-bad-pool-header-bsod-error-on-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix Bad Pool Header BSOD Error on Windows 11</span>
+                        <a href="/solved-stop-0x0000007b-blue-screen-error/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solved: STOP 0X0000007B Blue Screen Error</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-fix-for-the-0x000eb301-blue-screen-dilemma-on-pcs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering Fix for the 0X000eb301 Blue Screen Dilemma on PCs</span>
+                        <a href="/how-to-troubleshoot-and-fix-the-critical-system-failure-bsod-code-0x00000133-in-windows-10/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Troubleshoot and Fix the Critical System Failure (BSOD) Code 0X00000133 in Windows 10</span>
                         </a>
                     
               
                 
                     
-                        <a href="/driver-verifier-issue-resolution-with-iomgr-adherence/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Driver Verifier Issue Resolution with Iomgr Adherence</span>
+                        <a href="/hal-initialization-failed-in-windows-10-solved/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">HAL INITIALIZATION FAILED in Windows 10 [Solved]</span>
                         </a>
                     
               

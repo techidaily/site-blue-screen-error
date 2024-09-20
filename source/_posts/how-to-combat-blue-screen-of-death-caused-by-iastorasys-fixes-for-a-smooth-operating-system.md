@@ -1,7 +1,7 @@
 ---
 title: "How to Combat Blue Screen of Death Caused by IaStora.sys: Fixes for a Smooth Operating System"
-date: 2024-09-09T00:42:38.608Z
-updated: 2024-09-15T00:13:07.881Z
+date: 2024-09-13T18:42:41.044Z
+updated: 2024-09-20T01:50:52.329Z
 tags:
   - win11
   - win10
@@ -127,23 +127,9 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**Y** in the Command Prompt to confirm that you’d like to perform the disk check next time you restart your computer. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-141.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Make sure you’ve closed all the applications and saved your work. Then restart Windows.
 
@@ -154,6 +140,13 @@ chkdsk.exe /f /r
  6) Once the disk check has been completed, check your computer or run Windows Update again to see if the Driver PNP Watchdog error has been removed.
 
  If so, then congrats. If not, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
 
@@ -181,6 +174,13 @@ chkdsk.exe /f /r
 
 If your Driver PNP Watchdog error persists, try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Try Automatic Repair
 
  Automatic Repair helps fix problems that keep Windows from loading, including a blue screen error like Driver PNP Watchdog. So if Driver PNP Watchdog keeps occurring, try Automatic Repair.
@@ -193,19 +193,6 @@ If your Driver PNP Watchdog error persists, try the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-145.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) The Windows RE (Recovery Environment) screen opens. Click**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-146.png)
@@ -214,15 +201,22 @@ If your Driver PNP Watchdog error persists, try the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-147.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish the process.
@@ -255,13 +249,6 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Follow the on-screen instructions to finish it.
 
 Hopefully, Windows repair will scan and fix your error automatically.
@@ -277,6 +264,13 @@ You should make sure the Volume Shadow Copy service is running properly:
  2) Type**services.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-151.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and double-click**Volume Shadow Copy** .
 
@@ -312,18 +306,17 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/complete-fix-for-hypervisor-error-causing-blue-screen-of-death-on-windows-11-expert-advice/"><u>Complete Fix for HYPERVISOR ERROR Causing Blue Screen of Death on Windows 11 - Expert Advice</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-kernel-mode-violations-the-pool-header-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Repairing Kernel-Mode Violations: The Pool Header Blue Screen of Death on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-it-what-it-means-when-your-pc-requires-a-forced-reboot/"><u>Fixing IT: What It Means When Your PC Requires a Forced Reboot</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-reno-8t-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo Reno 8T 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-speed-edit-photos-in-windows-11/"><u>In 2024, Unlocking Speed Edit Photos in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-defy-2-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Defy 2 Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/reliable-schedule-with-the-petsafe-six-meal-auto-feeder-ideal-for-your-furry-friend/"><u>Reliable Schedule with the PetSafe Six-Meal Auto Feeder – Ideal for Your Furry Friend</u></a></li>
-<li><a href="https://media-tips.techidaily.com/secure-a-250-discount-on-the-portable-marvel-xgimis-mogo/"><u>Secure a $250 Discount on the Portable Marvel: XGIMI's MoGo</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/sharing-browser-exploration-the-upcoming-chrome-tab-group-capability/"><u>Sharing Browser Exploration: The Upcoming Chrome Tab Group Capability</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-the-best-10-spotify-recorders-for-2024/"><u>The Ultimate Guide to the Best 10 Spotify Recorders for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-limitations-of-using-chatgpt-for-analyzing-the-cryptocurrency-market/"><u>Top 5 Limitations of Using ChatGPT for Analyzing the Cryptocurrency Market</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-a-failed-dpc-transition-error-in-windows-systems/"><u>Troubleshooting and Fixing a Failed DPC Transition Error in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199721721-troubleshooting-the-notorious-blue-screen-error-0xc000021a-in-windows-11-and-8-solutions-proven-to-work/"><u>Troubleshooting the Notorious Blue Screen (Error 0xC000021A) in Windows 11 and 8: Solutions Proven to Work</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>[New] From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-image-perfection-an-editors-guide-for-2024/"><u>[New] Image Perfection An Editor's Guide for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-correct-the-bad-pool-header-blue-screen-error-in-windows-11/"><u>Comprehensive Guide to Correct the 'Bad Pool Header' Blue Screen Error in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-eliminating-bsod-caused-by-hypervisor-glitch-in-windows-11-systems/"><u>Diagnose and Repair: Eliminating BSOD Caused by Hypervisor Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-your-windows-10-faster-work-100/"><u>How to Make Your Windows 10 Faster [Work 100%]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>In 2024, Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x7-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X7 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-best-text-to-audio-converters-of-all-times/"><u>New 2024 Approved Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-and-effective-method-for-uploading-to-dailymotion-for-2024/"><u>Quick and Effective Method for Uploading to Dailymotion for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-fix-the-issue-when-you-cant-access-destiny-2-servers-anymore/"><u>Steps to Fix the Issue When You Can't Access Destiny 2 Servers Anymore</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-windows-11s-critical-system-failure-machine-check-exception/"><u>Understanding and Solving Windows 11'S Critical System Failure (Machine Check Exception)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-gptbot-revolutionizing-text-generation-vs-censorship-fears/"><u>Unpacking GPTBot: Revolutionizing Text Generation Vs. Censorship Fears</u></a></li>
 </ul></div>
 

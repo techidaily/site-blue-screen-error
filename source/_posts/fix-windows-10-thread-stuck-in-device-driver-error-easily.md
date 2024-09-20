@@ -1,7 +1,7 @@
 ---
 title: Fix Windows 10 Thread Stuck in Device Driver Error. Easily!
-date: 2024-09-09T16:22:16.965Z
-updated: 2024-09-14T17:54:31.342Z
+date: 2024-09-13T20:50:55.390Z
+updated: 2024-09-20T01:40:01.411Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
  According to user reports, disabling**Secure Boot** and driver integrity checks have helped them fix the problem. So you can give it a shot to see if it works.
@@ -93,24 +86,18 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/settings-1.jpg)
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
-4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
-5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
+5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
 7. Use**the arrow keys** to navigate to**Secure Boot** (could be found on the**Security** , the**Boot** or the**Authentication** tab). Then select its value to **Disable** .
@@ -121,12 +108,33 @@ Here are the steps on how to disable driver integrity checks:
 1. On your keyboard, press the**Windows logo key** and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -163,21 +171,20 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-perfect-palette-playbook-mastering-the-art-of-grading/"><u>[New] Perfect Palette Playbook Mastering the Art of Grading</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-recorded-tones-the-iphone-voicemail-keeper/"><u>[New] Recorded Tones The iPhone Voicemail Keeper</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-5-essential-tips-for-monetizing-your-content-finding-the-right-viewer-count/"><u>[Updated] 2024 Approved 5 Essential Tips for Monetizing Your Content Finding the Right Viewer Count</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-perfect-youtube-music-sets-for-2024/"><u>[Updated] Crafting Perfect YouTube Music Sets for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-selections-unveiling-the-top-5-professional-drones-for-2024/"><u>Expert Selections Unveiling the Top 5 Professional Drones for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-system-failures-the-windows-11-memory-management-bluescreen-solution/"><u>Fixing System Failures: The Windows 11 Memory Management Bluescreen Solution</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-memory-access-issue-causing-bsod-blue-screen/"><u>Fixing the Kernel Memory Access Issue Causing BSOD (Blue Screen)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/implementing-meta-ai-techniques-effectively-on-instagram/"><u>Implementing Meta AI Techniques Effectively on Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhance-social-gaming-experience-xbox-to-fb-livestream/"><u>In 2024, Enhance Social Gaming Experience Xbox to FB Livestream</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-s23-tactical-edition-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy S23 Tactical Edition with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-art-of-dealing-with-win32ksys-blue-screens-a-wdf01000sys-fix-guide/"><u>Master the Art of Dealing with Win32k.sys Blue Screens: A Wdf01000.sys Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-netwtw10sys-bsod-blue-screen-windows-issue/"><u>Resolved: Fixing the Netwtw10.sys BSoD (Blue Screen) Windows Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-on-windows-10-a-comprehensive-guide/"><u>Resolving Critical System Crashes on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-for-tl-wn722n-not-showing-up-problem-on-a-windows-system/"><u>Step by Step Resolution for 'TL-WN722N Not Showing Up' Problem on a Windows System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-repairing-the-acpisys-driver-issue-in-windows-10/"><u>Step-by-Step Guide: Repairing the ACPI.sys Driver Issue in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-kernel-security-check-violation-on-your-windows-10-system/"><u>Troubleshooting and Fixing the 'Kernel Security Check Violation' On Your Windows 10 System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-conference-room-to-youtube-google-meet-broadcasting/"><u>[New] 2024 Approved From Conference Room to Youtube Google Meet Broadcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-premier-9-social-media-screen-grabs/"><u>[New] Premier 9 Social-Media Screen Grabs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-asmrs-health-perks-a-guide/"><u>[New] Unlocking ASMR's Health Perks A Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-win32kbasesys-blue-screen-error-on-windows-1110/"><u>[Solved] Win32kbase.sys Blue Screen Error on Windows 11/10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-metaverse-simplified-avatar-designs/"><u>2024 Approved Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199742941-comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199733618-critical-service-crash-to-blue-screen-of-death-solving-windows-11-issues-with-ease/"><u>Critical Service Crash to Blue Screen of Death? Solving Windows 11 Issues with Ease!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-navigating-and-correcting-bsod-glitches-in-windows-11/"><u>Expert Advice: Navigating and Correcting BSOD Glitches in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-pc-issues-fixing-windows-1ns-bsod-due-to-machine-check-exceptions/"><u>Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y28-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y28 5G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s17e-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo S17e Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-kernel-mode-memory-management-bug-a-step-by-step-guide/"><u>Resolving the 'Kernel Mode Memory Management' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-bluscreen-issues-the-dxgkrnl-error-explained-and-fixed/"><u>Resolving Windows 10 BluScreen Issues: The Dxgkrnl Error Explained and Fixed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplified-methods-for-correcting-the-itbm-driver-accessibility-error/"><u>Simplified Methods for Correcting the ITBM Driver Accessibility Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-football-manager-2021-crash-problems-with-ease-a-complete-tutorial/"><u>Solve Your PC's Football Manager 2021 Crash Problems with Ease - A Complete Tutorial</u></a></li>
 </ul></div>
 

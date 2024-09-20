@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for the Persistent Thread Blocked by Windows Driver in Win 10
-date: 2024-09-09T16:59:25.403Z
-updated: 2024-09-14T19:30:01.532Z
+date: 2024-09-13T17:23:36.724Z
+updated: 2024-09-20T04:52:23.396Z
 tags:
   - win11
   - win10
@@ -129,11 +129,32 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer hopefully the CLASSPNP.SYS blue screen issue has been fixed. If the problem persists, move on to**Step 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -146,10 +167,10 @@ Here’s how to use Fortect to run a Windows repair:
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
@@ -170,46 +191,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click **Scan drive** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
-5. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
+5. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 6. Restart your computer and see if the CLASSPNP.SYS error has been fixed.
 
@@ -237,20 +233,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-wdf01000sys-blue-screen-error/"><u>[Fixed] Wdf01000.sys Blue Screen Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-building-immersive-thumbnails-for-igtv-videos-for-2024/"><u>[New] Building Immersive Thumbnails for IGTV Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>[New] In 2024, Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-taking-screen-grabs-compliance-on-youtube/"><u>[New] In 2024, Taking Screen Grabs Compliance on YouTube</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-driver-corrupted-expool-error-on-windows-10/"><u>[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-strategies-for-flawless-cricket-livestreams/"><u>2024 Approved Essential Strategies for Flawless Cricket Livestreams</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-resolved-ultimate-guide-to-troubleshooting-dxgkrnl-video-errors-on-windows-10/"><u>Blue Screen Resolved: Ultimate Guide to Troubleshooting Dxgkrnl Video Errors on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/cure-your-pcs-persistent-blue-screens-with-these-fixes-for-dxgkrnl-issues-in-windows-nt/"><u>Cure Your PC's Persistent Blue Screens with These Fixes for Dxgkrnl Issues in Windows nT</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-integrate-siri-on-tiktok-a-comprehensive-guidebook/"><u>How to Integrate Siri on TikTok - A Comprehensive Guidebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Zero 30 5G?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-poco-x5-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Poco X5 Through Google Earth?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27s Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-nvpcfsys-bsod-issue-step-by-step-guide/"><u>Solving the nvpcf.sys BSoD Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-eliminating-rtwlanesys-bsod-errors/"><u>Troubleshooting Guide: Eliminating RTWLane.SYS BSOD Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-vital-framework-breakdowns-in-windows-11-problem-solved/"><u>Winning the Battle Against Vital Framework Breakdowns in Windows 11 - Problem Solved</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-forward-thinking-desktopmobile-chat-apps/"><u>[New] Forward-Thinking Desktop/Mobile Chat Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-videos-on-iphone/"><u>[New] In 2024, How to Loop Videos on iPhone?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-linksys-wrt32x-router-smart-multi-device-traffic-management/"><u>Comprehensive Analysis of the Linksys WRT32X Router: Smart Multi-Device Traffic Management</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/error-0xc000021a-blue-screen-of-death-on-windows-10-and-8-solved/"><u>Error 0xC000021A Blue Screen of Death on Windows 10 & 8 [Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-non-responsive-steam-issues-expert-advice-for-gamers/"><u>Fixing Non-Responsive Steam Issues: Expert Advice for Gamers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hack-the-art-world-essential-free-3d-psd-files/"><u>Hack the Art World Essential Free 3D PSD Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/securing-your-content-adobe-presenter-captures/"><u>Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-the-kmodeexceptionnothandled-bugs-on-windows-10-and-11-platforms/"><u>Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet-for-2024/"><u>The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-0x0000000a-your-ultimate-guide-to-resolving-blue-screens/"><u>Winning Against 0X0000000A: Your Ultimate Guide to Resolving Blue Screens</u></a></li>
 </ul></div>
 

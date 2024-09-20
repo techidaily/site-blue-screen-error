@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide
-date: 2024-09-08T02:05:16.184Z
-updated: 2024-09-14T20:34:55.356Z
+date: 2024-09-13T02:32:11.824Z
+updated: 2024-09-19T23:24:09.848Z
 tags:
   - win11
   - win10
@@ -58,10 +58,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 After the testing, Windows will restart automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
@@ -73,15 +73,16 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 ### Fix 4: Check for Windows Update
@@ -93,14 +94,15 @@ Here’s how you can check for Windows Update
 1. Type**Windows Update** in the box. Click**Check for updates** on the top result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
 
@@ -127,13 +129,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -147,6 +142,19 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
@@ -185,19 +193,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-obs-revived-camera-back-to-life-for-2024/"><u>[New] OBS Revived Camera Back to Life for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-parable-pedagogues-group-ultimate-eight-for-2024/"><u>[New] Parable Pedagogues Group - Ultimate Eight for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-art-of-making-youtube-thumbnails-on-the-go-mobile/"><u>[Updated] In 2024, The Art of Making YouTube Thumbnails on the Go (Mobile)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/conquering-system-failures-tackling-the-troublesome-stop-error-code-0x00000f4-bsod-issue/"><u>Conquering System Failures: Tackling the Troublesome STOP Error Code 0X00000F4 BSOD Issue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/dividing-drama-how-to-split-vimeo-videos/"><u>Dividing Drama How to Split Vimeo Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-experience-essential-tips-to-fix-low-fps-problems-in-valheim-during-2024/"><u>Elevate Your Gameplay Experience: Essential Tips to Fix Low FPS Problems in Valheim During 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-addressing-and-correcting-the-serious-dxgkrnl-bsod-problems-on-windows-11-computers/"><u>Guide: Addressing and Correcting the Serious Dxgkrnl BSOD Problems on Windows 11 Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-memory-management-crash-error-in-windows-11/"><u>How to Fix the 'Memory Management' Crash Error in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sifting-through-legacy-works-a-cultural-journey/"><u>In 2024, Sifting Through Legacy Works A Cultural Journey</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-understanding-irql-levels-in-windows-7-troubleshooting/"><u>Resolved: Understanding IRQL Levels in Windows 7 Troubleshooting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/siemens-ag/"><u>Siemens AG</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-quintessential-quality-control-for-sound-customization/"><u>The Quintessential Quality Control for Sound Customization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-classic-film-aesthetics-masterclass-in-video-production/"><u>[New] In 2024, Classic Film Aesthetics Masterclass in Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-animated-bouncing-text-2-ways/"><u>[New] In 2024, How to Create Animated Bouncing Text [2 Ways]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-blue-screen-problem-linked-to-tcpipsys-in-microsoft-operating-systems/"><u>Diagnose and Repair 'Blue Screen' Problem Linked to tcpip.sys in Microsoft Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-storportsys-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Fixing StorPort.sys Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-duckduckgo-understanding-its-features-and-safety/"><u>Discovering DuckDuckGo: Understanding Its Features and Safety</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-google-meet-microphone-not-working-on-windows-operating-systems-11-and-10/"><u>DIY Fixes for Google Meet Microphone Not Working on Windows Operating Systems - 11 and 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-blue-screen-error-caused-by-tcpipsys-in-windows-11-7-and-8/"><u>How to Fix the Blue Screen Error Caused by TCP/IP.sys in Windows 11, 7 & 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-navigating-telegram-web-applications/"><u>In 2024, Mastering the Art of Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-tune-tracker-and-manager-android-companion/"><u>Top Tune Tracker & Manager, Android Companion</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-overcome-device-driver-lock-ups-on-your-windows-10-system-with-ease/"><u>Troubleshoot and Overcome Device Driver Lock-Ups on Your Windows 10 System with Ease</u></a></li>
 </ul></div>
 

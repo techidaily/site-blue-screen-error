@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2024-09-09T20:29:12.439Z
-updated: 2024-09-14T19:58:00.442Z
+date: 2024-09-18T07:30:40.764Z
+updated: 2024-09-19T22:59:10.509Z
 tags:
   - win11
   - win10
@@ -78,13 +78,6 @@ Then Windows will search the update for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Disable & Reset Driver Verifier
 
  If unluckily after solving the driver problems, the error still occur, try to disable and reset the Driver Verifier on your Windows 10\.
@@ -96,15 +89,22 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
@@ -143,17 +143,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-your-devices-potential-with-these-8-must-have-apps/"><u>[New] Unleash Your Device's Potential with These 8 Must-Have Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[Updated] 2024 Approved A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-best-script-innovation-place-for-2024/"><u>[Updated] Best Script Innovation Place for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/demystifying-data-a-beginners-guide-to-facebook-insights/"><u>Demystifying Data A Beginner's Guide to Facebook Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-cure-fallout-4-of-its-disconcerting-black-screen-error/"><u>Expert Advice to Cure Fallout 4 of Its Disconcerting Black Screen Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hapag-lloyd-ag/"><u>Hapag-Lloyd AG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-windows-crashing-with-rtwlanesys-a-comprehensive-guide/"><u>How to Stop Windows Crashing with 'rtwlane.sys': A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-made-easy-discover-manycam-virtual-webcam-solutions/"><u>Live Streaming Made Easy: Discover ManyCam - Virtual Webcam Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-notorious-bad-pool-header-problem-in-windows-tutorial/"><u>Step-by-Step Fix for the Notorious Bad Pool Header Problem in Windows [TUTORIAL]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-the-crash-comprehensive-steps-to-fix-the-blue-screen-with-stop-code-0x00000124-in-windows-os/"><u>Stop the Crash: Comprehensive Steps to Fix the Blue Screen with Stop Code 0X00000124 in Windows OS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-complete-users-manual-to-zoom-meeting-recordings-for-2024/"><u>The Complete User's Manual to Zoom Meeting Recordings for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199733873-the-ultimate-guide-to-cancel-free-driver-deactivation-during-active-tasks-problem-solved/"><u>The Ultimate Guide to Cancel-Free Driver Deactivation During Active Tasks - Problem Solved</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-new-frontier-of-android-gaming-with-kinemaster/"><u>[New] Exploring the New Frontier of Android Gaming with KineMaster</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unraveling-the-purpose-behind-facebooks-blue-icon-for-2024/"><u>[Updated] Unraveling the Purpose Behind Facebook's Blue Icon for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapseed-essentials-conquering-image-enhancement/"><u>2024 Approved Snapseed Essentials Conquering Image Enhancement</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/classpnpsys-in-windows-117-solved/"><u>CLASSPNP.SYS in Windows 11/7 [SOLVED]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-connection-8-wi-fi-optimization-tips/"><u>Enhance Your iPhone's Connection: 8 Wi-Fi Optimization Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-optimal-watchlists/"><u>Harnessing ChatGPT for Optimal Watchlists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>In 2024, Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-shortcut-to-share-tiktoks-and-twitters-integration/"><u>In 2024, The Shortcut to Share TikToks & Twitters Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-basics-top-settings-to-optimize-on-new-windows-11/"><u>Mastering the Basics: Top Settings to Optimize on New Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-corrupted-pages-due-to-faulty-hardware-in-windows-11-and-10/"><u>Resolving Corrupted Pages Due to Faulty Hardware in Windows 11 and 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-bsod-errors-in-windows-10-efficiently/"><u>Step-by-Step Guide: Overcoming BSOD Errors in Windows 10 Efficiently</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-troubleshooting-how-to-stop-windows-7-from-crashing-complete-manual/"><u>Ultimate Troubleshooting: How to Stop Windows 7 From Crashing (Complete Manual)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-10-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 10 [Fixed]</u></a></li>
 </ul></div>
 

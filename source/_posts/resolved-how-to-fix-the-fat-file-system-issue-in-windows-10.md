@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the FAT File System Issue in Windows 10"
-date: 2024-09-11T22:45:28.948Z
-updated: 2024-09-14T23:23:42.648Z
+date: 2024-09-13T04:20:34.613Z
+updated: 2024-09-20T03:18:36.814Z
 tags:
   - win11
   - win10
@@ -86,37 +86,30 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
@@ -124,26 +117,19 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -159,9 +145,23 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
 
@@ -205,12 +205,20 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-your-pc-ran-into-a-problem-and-needs-to-restart/"><u>[Solved] Your PC Ran Into a Problem and Needs to Restart</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unpublished-photography-scrutiny-and-complementary-selections/"><u>[Updated] 2024 Approved Unpublished Photography Scrutiny & Complementary Selections</u></a></li>
-<li><a href="https://win-blog.techidaily.com/detailed-breakdown-the-shift-in-fortnite-fps-ratings-after-season-8-rollout/"><u>Detailed Breakdown: The Shift in Fortnite FPS Ratings After Season 8 Rollout</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-winerror-0xc0000005/"><u>Mastering the Art of Fixing WinError 0Xc0000005</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-8-stunning-movie-creator-for-mac/"><u>New 8 Stunning Movie Creator for Mac</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-0xc0000017-your-pc-needs-to-be-repaired/"><u>SOLVED: 0Xc0000017 Your PC Needs To Be Repaired</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-definitive-fix-for-catastrophic-event-tracing-failures-on-your-windows-11-pc/"><u>The Definitive Fix for Catastrophic Event Tracing Failures on Your Windows 11 PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-disc-replay-a-look-at-the-goofy-giggle-fest/"><u>[New] Disc Replay A Look at 'The Goofy Giggle-Fest'</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfect-game-video-edits-made-easy-for-newcomers/"><u>[New] In 2024, Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-error-code-0x0000009f-solutions-and-fixes/"><u>Blue Screen of Death Error Code 0X0000009F - Solutions and Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-dxvk-and-its-benefits-for-wingaming-enthusiasts/"><u>Decoding DXVK and Its Benefits for WinGaming Enthusiasts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-overcoming-critical-failure-codes-errors-for-a-smooth-windows-operating-experience/"><u>Expert Advice: Overcoming Critical Failure Codes Errors for a Smooth Windows ➡️ Operating Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-error-code-0x0000007e-in-windows-7-a-comprehensive-guide/"><u>Fixing the 'Blue Screen of Death' Error Code 0X0000007E in Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-ensuring-your-departure-a-step-by-step-guide-to-tiktok-account-removal/"><u>How To: Ensuring Your Departure - A Step-by-Step Guide to TikTok Account Removal</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-conquer-windows-10-a-mov-filming-masterclass/"><u>In 2024, Conquer Windows 10 A MOV Filming Masterclass</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-g24-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto G24 Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content-for-2024/"><u>Master the Art of Attraction Secrets to Viral TikTok Unboxing Content for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199735565-regular-documentation-of-calibration-checks-is-essential-for-audits-and-maintaining-traceability/"><u>Regular Documentation of Calibration Checks Is Essential for Audits and Maintaining Traceability.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-blue-screen-errors-fixing-netwkstorsys-in-windows-11/"><u>Resolving Blue Screen Errors: Fixing 'NetWKSTOR.SYS' In Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-windows-10-storportsys-blue-screen-of-death-a-step-by-step-guide/"><u>Solving Windows 10 Storport.sys Blue Screen of Death: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

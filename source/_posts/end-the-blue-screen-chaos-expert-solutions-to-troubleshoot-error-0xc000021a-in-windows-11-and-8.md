@@ -1,7 +1,7 @@
 ---
 title: "End the Blue Screen Chaos: Expert Solutions to Troubleshoot Error 0xC000021A in Windows 11 and 8"
-date: 2024-09-18T16:57:13.532Z
-updated: 2024-09-20T06:18:21.957Z
+date: 2024-09-20T08:36:23.664Z
+updated: 2024-09-25T18:45:42.617Z
 tags:
   - win11
   - win10
@@ -59,7 +59,22 @@ Here’s how you can do it:
 2. Type**mdsched.exe** and press**Enter** to run the tool.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d00474dff3.jpg)
 3. Click**Restart now and check for problems** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0065d2532.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows should then automatically check for memory problems once your computer restarts.
 
@@ -68,10 +83,10 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solutions 3: Restore your system
@@ -86,10 +101,16 @@ See how to do it:
 3. Click**Next** to restore your system to the recommended previous state. Or you can select**Choose a different restore point** to view more restore points.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d00d8b78f7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Follow the the on-screen instructions to complete system restore.
@@ -112,5 +133,21 @@ Follow the the on-screen instructions to complete system restore.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/est-free-youtube-comment-finder-you-should-try-for-2024/"><u>[New] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts-for-2024/"><u>[New] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-real-world-usability-of-photoshops-motion-reduction/"><u>[New] The Real-World Usability of Photoshop’s Motion Reduction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-new-camera-settings-in-ios-11/"><u>[Updated] Navigating Through New Camera Settings in iOS 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/brighten-up-a-simple-trick-to-make-your-corsair-keyboard-glow-again/"><u>Brighten Up! A Simple Trick to Make Your Corsair Keyboard Glow Again</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-storportsys-stop-code-errors-in-windows-11/"><u>Comprehensive Fixes to Address Storport.sys Stop Code Errors in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-dealing-with-the-unusual-unexpected-store-exception-in-windows-10/"><u>Comprehensive Solutions for Dealing with the Unusual 'Unexpected Store Exception' In Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-infamous-0x0000001e-bsod-issue/"><u>Effective Solutions for the Infamous 0X0000001E BSOD Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-stop-error-stop-0x0000003b-on-your-computer/"><u>Fixing the Critical Stop Error (STOP) 0X0000003B on Your Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-12plus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 12+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-stop-code-0x0000007b-on-windows-machines/"><u>Tackling the Blue Screen Stop Code 0X0000007B on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/take-your-games-to-the-next-level-install-updated-drivers-for-geforce-rtx-2080-ti/"><u>Take Your Games to The Next Level - Install Updated Drivers for GeForce RTX 2080 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death
-date: 2024-09-22T08:32:08.934Z
-updated: 2024-09-25T16:46:22.357Z
+date: 2024-09-23T19:26:31.528Z
+updated: 2024-09-30T23:47:46.711Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Memory Diagnostics
 
  Memory corruption can also cause such blue screen error. You can run memory diagnostics to fix it.
@@ -60,38 +53,25 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 3. Click**Restart now and check for problems(recommended)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 After the testing, Windows will restart automatically.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -105,6 +85,13 @@ After the testing, Windows will restart automatically.
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows Update
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can address security flaws and bugs related to both hardware and software. So make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.  
@@ -115,14 +102,14 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go on to follow the on-screen instructions to install the updates.
 
@@ -150,10 +137,10 @@ Here’s how to use Fortect to repair system files on your PC:
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -169,6 +156,13 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
@@ -207,22 +201,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>[Updated] Integrating Zoom and Skype The Ultimate Guide to Efficient Video Calls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-overwatch-video-capture-quick-simple-and-effective-for-2024/"><u>[Updated] Overwatch Video Capture – Quick, Simple, and Effective for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rapid-capture-visuals-and-voices-together/"><u>[Updated] Rapid Capture Visuals & Voices Together</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-university-sound-snatchers-for-2024/"><u>[Updated] Ultimate University Sound Snatchers for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beyond-the-blue-screen-fixing-the-persistent-pnp-watchdog-driver-glitch/"><u>Beyond the Blue Screen: Fixing the Persistent PNP Watchdog Driver Glitch</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/bringing-bytes-home-4-ways-to-transfer-data-pc/"><u>Bringing Bytes Home 4 Ways to Transfer Data PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-for-unresolved-kmode-error-codes-on-modern-windows-versions-windows-1011/"><u>Comprehensive Fixes for Unresolved kMODE Error Codes on Modern Windows Versions (Windows 10/11)</u></a></li>
-<li><a href="https://facebook.techidaily.com/deactivation-day-what-happens-next/"><u>Deactivation Day: What Happens Next?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decode-the-blue-screen-nightmare-ntoskrnlexe-issues-and-how-to-fix-them-effectively/"><u>Decode the Blue Screen Nightmare: NTOSKRNL.EXE Issues and How to Fix Them Effectively</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-protection-oversight-rectified-no-more-blue-screens-of-death/"><u>Driver Protection Oversight Rectified – No More Blue Screens of Death!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-hidden-gems-to-hit-videos-strategies-for-success/"><u>From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-easily-navigate-to-biosuefi-in-windows-10/"><u>Guide to Easily Navigate to BIOS/UEFI in Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/logitechs-surround-sound-revolution-pro-xs-game-changer/"><u>Logitech's Surround Sound Revolution: Pro X’s Game Changer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-15-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 15 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-wdf01000sys-crashes-and-system-hangs/"><u>Troubleshooting Guide for 'WDF01000.SYS' Crashes and System Hangs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-unforeseen-kernel-trapping-and-blue-screen-of-death-in-windows-10/"><u>Troubleshooting Guide for Unforeseen Kernel Trapping and Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-blue-screen-of-death-solutions-a-comprehensive-how-to-guide/"><u>Windows 11 Blue Screen of Death Solutions: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>[Updated] Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/bouncie-gps-tracker-your-go-to-budget-friendly-easy-to-use-navigation-solution/"><u>Bouncie GPS Tracker - Your Go-To Budget Friendly, Easy-to-Use Navigation Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-storportsys-bsod-in-windows-11-machines/"><u>Comprehensive Troubleshooting for Storport.sys BSOD in Windows 11 Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-playstation-portable-launch-details-dates-costs-and-purchase-locations/"><u>Discover PlayStation Portable Launch Details: Dates, Costs & Purchase Locations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-bad-system-configuration-bsod-fast-simple-steps-to-resolve/"><u>Fix 'Bad System Configuration' BSOD Fast: Simple Steps to Resolve</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x00000124-bsod-issue-in-windows-10-and-7-complete-guide/"><u>Fixing the 0X00000124 BSOD Issue in Windows 10 and 7 - Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-software-for-your-epson-xp-440-with-simple-steps/"><u>Get the Newest Software for Your Epson XP-440 with Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f34-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F34 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/masterful-fb-marketing-essential-tips-for-every-business-level/"><u>Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-critical-error-solutions-for-windows-10-users/"><u>Netwtw04.sys Critical Error Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fltrmgrsys-bsod-error-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving the Fltrmgr.sys BSOD Error on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-to-your-storahcisys-bsod-problem-in-windows-computers/"><u>Ultimate Solution to Your Storahci.sys BSOD Problem in Windows Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-troubleshooting-tips-for-bsod-errors-on-windows-11-systems/"><u>Ultimate Troubleshooting Tips for BSOD Errors on Windows 11 Systems</u></a></li>
 </ul></div>
 

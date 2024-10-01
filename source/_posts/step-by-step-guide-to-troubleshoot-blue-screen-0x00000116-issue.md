@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Troubleshoot Blue Screen 0X00000116 Issue
-date: 2024-08-20T08:48:47.127Z
-updated: 2024-08-21T08:48:47.127Z
+date: 2024-09-23T17:46:25.542Z
+updated: 2024-09-30T17:59:15.286Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ## Troubleshooting the Notorious Blue Screen (Error 0xC000021A) in Windows 11 and 8: Solutions Proven to Work
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585395abcc09a-600x326.png)
 
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes 0xC000021A blue screen of death error in no time!
@@ -56,25 +53,16 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -85,9 +73,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
@@ -104,9 +89,6 @@ You can follow the instruction below to remove certain applications:
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,26 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-11/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-audacity-audio-basics-for-new-mac-users/"><u>[Updated] In 2024, Audacity Audio Basics for New Mac Users</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-solution-how-to-stop-windows-7-from-frequent-freezing-full-step-by-step-tutorial/"><u>Complete Solution: How to Stop Windows 7 From Frequent Freezing - Full Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-philanthropy-facebooks-contribution-in-virus-combat/"><u>Digital Philanthropy: Facebook's Contribution in Virus Combat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discovering-metaverse-8-premium-vr-eyewear-selections-for-2024/"><u>Discovering Metaverse 8 Premium VR Eyewear Selections for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntkrnlmpexe-bsod-comprehensive-troubleshooting-guide/"><u>Fixing the Notorious ntkrnlmp.exe BSOD: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-quick-fix-flipping-clips-in-final-cut-pro-made-easy/"><u>In 2024, Quick Fix Flipping Clips in Final Cut Pro Made Easy</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-8-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 8? Fixed | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-windows-blue-screen-of-death-fixing-watchdogsys-crashes/"><u>Overcoming Windows Blue Screen of Death: Fixing watchdog.sys Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reversing-trash-woes-for-windows-11-users/"><u>Reversing Trash Woes for Windows 11 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-netwtw04sys-bsod-error-in-windows-10/"><u>Troubleshooting the 'Netwtw04.sys' BSOD Error in Windows 10</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

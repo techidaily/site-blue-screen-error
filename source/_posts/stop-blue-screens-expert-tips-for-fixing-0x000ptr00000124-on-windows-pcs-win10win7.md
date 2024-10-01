@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)"
-date: 2024-09-25T00:47:58.690Z
-updated: 2024-09-26T03:49:33.609Z
+date: 2024-09-26T21:43:49.641Z
+updated: 2024-09-30T17:41:53.941Z
 tags:
   - win11
   - win10
@@ -27,11 +27,25 @@ Driver Verifier is built in every version of Windows operating system. It monito
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Reinstall your graphic card driver
 
  Mostly, the graphic card driver like NVIDIA, Intel or AMD is the culprit behind this BSOD error. Reinstall graphic card driver helped many users fix the issue. Thus you can give it a shot.
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
 
@@ -54,13 +68,6 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -68,10 +75,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -86,19 +93,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
@@ -106,10 +100,16 @@ Then Windows will search the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
@@ -127,16 +127,16 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -170,19 +170,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x0000001e-blue-screen-error-code/"><u>[Solved] Stop: 0X0000001E Blue Screen Error Code</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>[Updated] In 2024, Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-your-perfect-mp4-device/"><u>[Updated] Selecting Your Perfect MP4 Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-a-steady-mindfulness-routine-with-chatgpt-a-step-by-step-guide/"><u>Creating a Steady Mindfulness Routine with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-drivercorruptedexceptionpool-errors-in-windows-11-step-by-step-guide/"><u>Fixing DRIVER_CORRUPTED_EXCEPTION_POOL Errors in Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-update-or-replace-acpisys-in-your-windows-10-device/"><u>How to Correctly Update or Replace acpi.sys in Your Windows 10 Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>In 2024, Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/leading-social-media-hash-tracking-software-for-fb-tweet-and-insta/"><u>Leading Social Media Hash Tracking Software for FB, Tweet & Insta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-magical-movies-on-a-budget-with-chatgpt-assisted-scripts/"><u>Making Magical Movies on a Budget with ChatGPT-Assisted Scripts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor-for-2024/"><u>Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-logitech-mx-stream-driver-download-tutorial/"><u>Step-by-Step Logitech MX Stream Driver Download Tutorial</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-to-eradicate-the-drivercorruptedexpool-error-on-windows-solved-driver-corrupted-expool-error/"><u>Step-by-Step Tutorial to Eradicate the 'DRIVER_CORRUPTED_EXPOOL' Error on Windows ([Solved] DRIVER CORRUPTED EXPOOL Error)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-the-critical-process-failed-causing-blue-screen-of-death-errors-in-windows-11/"><u>Troubleshooting Tips for the Critical Process Failed, Causing Blue Screen of Death Errors in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-successfully-overcoming-hal-initialization-problems-in-windows-nvme-storage-devices-cpu-overclocking-issues-and-more/"><u>Unraveling the Mystery: Successfully Overcoming HAL Initialization Problems in Windows Nvme Storage Devices, CPU Overclocking Issues, and More</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] 2024 Approved Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-samsung-photography-essentials-a-detailed-review-2023/"><u>[Updated] In 2024, Samsung Photography Essentials – A Detailed Review, 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-voice-that-captures-hearts-intro-artistry/"><u>2024 Approved Voice that Captures Hearts Intro Artistry</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-storportsys-stop-code-errors-in-windows-11/"><u>Comprehensive Fixes to Address Storport.sys Stop Code Errors in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-dealing-with-the-unusual-unexpected-store-exception-in-windows-10/"><u>Comprehensive Solutions for Dealing with the Unusual 'Unexpected Store Exception' In Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-bsod-due-to-pfn-list-issues-on-your-windows-10-pc/"><u>Diagnosing & Correcting BSOD Due to PFN List Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-eliminating-the-unexpected-trapping-bug-leading-to-blue-screen-failures-in-windows-11/"><u>Guide: Eliminating the Unexpected Trapping Bug Leading to Blue Screen Failures in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-the-ios-145-update-is-going-to-really-hurt-facebook/"><u>How the iOS 14.5 Update Is Going to Really Hurt Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-snapshits-pro-photography-edits-guide-for-2024/"><u>Mastering Snapshits Pro Photography Edits Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-tech-setup-new-frameworks-latest-innovation-with-deepcomputings-starfive-soc-board-features-advanced-risc-v-technology-for-laptops/"><u>Revolutionize Your Tech Setup: New Framework's Latest Innovation with DeepComputing's StarFive SoC Board Features Advanced RISC-V Technology for Laptops</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-stop-code-0x0000007b-on-windows-machines/"><u>Tackling the Blue Screen Stop Code 0X0000007B on Windows Machines</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/the-leading-5-mp3-music-download-apps-in-202-anything-you-need-streamline-your-media-on-any-device/"><u>The Leading 5 MP3 Music Download Apps in 202 Anything You Need: Streamline Your Media on Any Device!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win-10-driver-failures-how-to-repair-the-dangerous-corruptedexpool-error-effectively/"><u>Win 10 Driver Failures: How to Repair the Dangerous 'CORRUPTED_EXPOOL' Error Effectively</u></a></li>
 </ul></div>
 

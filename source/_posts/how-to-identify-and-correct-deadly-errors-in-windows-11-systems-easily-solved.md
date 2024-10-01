@@ -1,7 +1,7 @@
 ---
 title: How To Identify and Correct Deadly Errors in Windows 11 Systems Easily [SOLVED]
-date: 2024-08-20T08:54:10.441Z
-updated: 2024-08-21T08:54:10.441Z
+date: 2024-09-28T00:55:17.854Z
+updated: 2024-09-30T19:32:59.586Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
 ## How to Fix the BSOD Error Code 0xC000021A in Windows 11 and 8 - Solutions Inside
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585395abcc09a-600x326.png)
 
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes 0xC000021A blue screen of death error in no time!
@@ -56,15 +53,8 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
@@ -77,18 +67,12 @@ You can follow the instruction below to remove certain applications:
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)
 
  Still, if you have recently updated more than one device driver, you need to uninstall them one by one. If you are not sure which applications or which device drivers installed could be the culprit, you can check the System Log in**Event Viewer** for additional error messages:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
@@ -101,10 +85,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
@@ -137,8 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +124,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiency-at-play-reducing-youtube-video-length/"><u>[New] In 2024, Efficiency at Play Reducing YouTube Video Length</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers/"><u>[Updated] Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acquire-and-setup-windows-xp-movie-creator-for-2024/"><u>Acquire & Setup Windows XP Movie Creator for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-handling-inpage-data-faults-that-trigger-system-crashes/"><u>Expert Tips for Handling Inpage Data Faults That Trigger System Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bad-pool-header-error-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing the 'Bad Pool Header' Error on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a78-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A78 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-infinix-note-30i-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Infinix Note 30i to Mac? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-why-does-my-computer-need-an-immediate-reboot/"><u>Resolved: Why Does My Computer Need an Immediate Reboot?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-the-clock-watchdog-timeout-blue-screen-on-win10/"><u>Step-by-Step Guide: Overcoming the Clock Watchdog Timeout Blue Screen on Win10</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

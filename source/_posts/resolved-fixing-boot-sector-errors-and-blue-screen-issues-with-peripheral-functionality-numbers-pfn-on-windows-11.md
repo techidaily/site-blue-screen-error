@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Boot Sector Errors & Blue Screen Issues with Peripheral Functionality Numbers (PFN) on Windows 11"
-date: 2024-09-22T04:21:47.651Z
-updated: 2024-09-25T19:47:50.695Z
+date: 2024-09-26T16:38:59.237Z
+updated: 2024-10-01T00:48:44.899Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ According to Microsoft,
 > The_**BAD\_POOL\_CALLER**_ bug check has a value of**0x000000C2** . This indicates that the current thread is making a bad pool request.
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -63,11 +56,25 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -87,13 +94,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -101,10 +101,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -116,10 +116,16 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
@@ -131,10 +137,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
@@ -149,23 +155,9 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
@@ -174,6 +166,19 @@ If the problem persists, move on to the next step.
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -186,6 +191,13 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -213,15 +225,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-unwind-with-our-top-10-serene-games-for-2024/"><u>[New] Unwind With Our Top 10 Serene Games for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-assessment-of-vidmas-impact-on-modern-screen-recorders-for-2024/"><u>[Updated] Assessment of Vidma's Impact on Modern Screen Recorders for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-a70-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A70 Fingerprint Lock</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-the-multiple-irp-complete-bug-that-triggers-a-blue-screen-on-your-pc/"><u>Effective Solutions to the 'Multiple IRP Complete' Bug That Triggers a Blue Screen on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199749355-guide-to-correct-video-schedulers-internal-error-on-your-windows-10-device-solved/"><u>Guide to Correct Video Scheduler’s Internal Error on Your Windows 10 Device - Solved</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-camon-20-premier-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Camon 20 Premier 5G Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-the-persistent-netwtw04sys-blue-screen-error-on-win10/"><u>Solution Steps for the Persistent Netwtw04.sys Blue Screen Error on Win10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tackle-your-pcs-nvpcfsys-blue-screen-error-with-these-simple-fixes/"><u>Tackle Your PC's nvpcf.sys Blue Screen Error with These Simple Fixes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-infographic-index-youtubes-surprising-stat-treasury-2017-for-2024/"><u>The Infographic Index YouTube's Surprising Stat Treasury (2017) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[New] 2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>[New] 2024 Approved Sync Music & Visuals The Art of Canva Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-worldly-stories-startup-guide-for-future-travel-vloggers/"><u>[New] In 2024, Crafting Worldly Stories Startup Guide for Future Travel Vloggers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>[Updated] 2024 Approved Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-clock-watchdog-timeout-blue-screen-on-windows-11/"><u>Effective Solutions for the Clock Watchdog Timeout Blue Screen on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-unmountable-boot-volume-error-in-windows-11-expert-tips-and-solutions/"><u>How to Resolve the Unmountable Boot Volume Error in Windows 11 - Expert Tips and Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-solve-win32ksys-blue-screen/"><u>How To Solve win32k.sys Blue Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-google-pixel-foldmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Google Pixel FoldMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-6-web-spaces-for-corporate-social-connections/"><u>In 2024, Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mannheimer-versicherungen-ag/"><u>Mannheimer Versicherungen AG</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-quick-remedies-for-hidclasssys-errors-your-easy-guide-awaits/"><u>Mastering Quick Remedies for HIDCLASS.SYS Errors – Your Easy Guide Awaits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-screen-recordings-the-recmeister-way-for-2024/"><u>Mastering Screen Recordings The Recmeister Way for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-for-the-notorious-ndis-driver-error-message/"><u>Mastering the Fix for the Notorious NDIS Driver Error Message</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimize-call-transcription-4-proven-tips-for-fb-video-calls-for-2024/"><u>Optimize Call Transcription 4 Proven Tips for FB Video Calls for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reveldataxtract-expert-raid-recovery-services/"><u>RevelDataXtract: Expert RAID Recovery Services</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-bluescreen-issue-a-detailed-guide-on-fixing-iastorasys-errors/"><u>Solving the 'BlueScreen' Issue: A Detailed Guide on Fixing IaStora.sys Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-blue-screen-of-death-due-to-corrupted-usb-drivers-in-windows-10/"><u>Troubleshooting and Resolving Blue Screen of Death Due to Corrupted USB Drivers in Windows 10</u></a></li>
 </ul></div>
 

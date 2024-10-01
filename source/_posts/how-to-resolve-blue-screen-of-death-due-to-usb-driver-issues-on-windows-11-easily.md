@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Blue Screen of Death Due to USB Driver Issues on Windows 11 Easily
-date: 2024-08-20T08:53:45.137Z
-updated: 2024-08-21T08:53:45.137Z
+date: 2024-09-28T22:14:19.786Z
+updated: 2024-09-30T18:26:04.941Z
 tags:
   - win11
   - win10
@@ -39,16 +39,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
  If you have recently installed more than one application, just repeat the above procedure.
@@ -65,16 +59,10 @@ You can follow the instruction below to remove certain applications:
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -97,16 +85,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,23 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/"><u>[New] In 2024, In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-viewer-ultimate-video-quality-on-pcmobile/"><u>[New] Premium Viewer Ultimate Video Quality on PC/Mobile</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminate-your-storportsys-blue-screen-woes-with-these-simple-fixes-on-windows-11/"><u>Eliminate Your StorPort.sys Blue Screen Woes with These Simple Fixes on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-s-top-rated-free-flv-video-editing-tools/"><u>New 2024 Approved S Top-Rated Free FLV Video Editing Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-ntfssys-blue-screen-of-death-in-windows-10-a-step-by-step-guide/"><u>Resolving the NTFS.sys Blue Screen of Death in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-correct-kernel-security-breach-warnings-in-windows-operating-system/"><u>Troubleshoot and Correct Kernel Security Breach Warnings in Windows ^ Operating System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlimited-compression-techniques-for-large-webm-video-files/"><u>Unlimited Compression Techniques for Large WebM Video Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199684442-windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

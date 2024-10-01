@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repair 0X00000124 Fatal Error on Windows 7 & 10 Systems
-date: 2024-09-24T07:54:37.570Z
-updated: 2024-09-26T02:29:14.592Z
+date: 2024-09-24T00:35:31.981Z
+updated: 2024-09-30T20:13:20.482Z
 tags:
   - win11
   - win10
@@ -50,24 +50,31 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -93,32 +100,11 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
@@ -127,17 +113,31 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -149,20 +149,27 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
 
@@ -179,13 +186,6 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -213,16 +213,21 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-elite-screen-recording-apps-of-2023-expert-picks-for-2024/"><u>[Updated] Elite Screen Recording Apps of 2023 - Expert Picks for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MOV videos ?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-bad-pool-header-error-and-restoring-stability-in-windows-pressure-a-detailed-tutorial/"><u>Effective Solutions for Fixing the Bad Pool Header Error and Restoring Stability in Windows Pressure: A Detailed Tutorial</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/effortless-no-cost-screening-of-android-gadgets-for-2024/"><u>Effortless, No-Cost Screening of Android Gadgets for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-unexpected-store-exception-bug-in-windows-10-a-step-by-step-guide/"><u>Fixing 'Unexpected Store Exception' Bug in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-storage-device-failure-storportsys-bsod-in-windows-10-expert-advice/"><u>Fixing Critical Storage Device Failure (Storport.sys BSOD) in Windows 10 - Expert Advice</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-sudden-store-exception-glitch-on-your-windows-11-pc/"><u>Fixing the Sudden 'Store Exception' Glitch on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-orange-screen-of-deathsolved/"><u>How To Fix Orange Screen Of Death[SOLVED]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Camon 20 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-amplification-masterful-youtube-tagging-tips-for-2024/"><u>The Art of Amplification Masterful YouTube Tagging Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unseen-threats-of-macgpt-based-apps/"><u>The Unseen Threats of MacGPT-Based Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069025282-updated-in-2024-discover-the-best-open-worlds-today/"><u>[Updated] In 2024, Discover the Best Open Worlds Today!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-guide-on-resolving-kernel-memory-glitches-leading-to-blue-screens-step-by-step-repair-tutorial/"><u>Complete Guide on Resolving Kernel Memory Glitches Leading to Blue Screens - Step by Step Repair Tutorial</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-overcome-and-prevent-volsnapsys-bsod-in-your-windows-operating-system/"><u>Effective Strategies to Overcome and Prevent Volsnap.sys BSOD in Your Windows Operating System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-correcting-the-windows-10-blue-screen-glitches-post-software-enhancement/"><u>Guide: Correcting the Windows 10 Blue Screen Glitches Post-Software Enhancement</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-setup-mode-on-an-echo-dot-device-a-step-by-step-tutorial/"><u>How To Enable Setup Mode On An Echo Dot Device – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-axon-40-lite-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Axon 40 Lite for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raphic-review-fifa-video-gains-on-social-platforms-for-2024/"><u>Infographic Review FIFA Video Gains on Social Platforms for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-windows-11-kernel-error-fixes-and-prevention-tips/"><u>Resolved: Windows 11 Kernel Error Fixes and Prevention Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/specific-heat-capacity-tends-to-be-higher-in-denser-woods-due-to-the-greater-mass-per-unit-volume/"><u>Specific Heat Capacity Tends to Be Higher in Denser Woods Due to the Greater Mass per Unit Volume</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tips-to-fix-the-persistent-fltrmgrsys-bsod-error-on-your-windows-device/"><u>Step-by-Step Tips to Fix the Persistent Fltrmgr.sys BSOD Error on Your Windows Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-titans-speak-out-discovering-ai-chatbot-kingpins/"><u>Tech Titans Speak Out: Discovering AI Chatbot Kingpins</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y27-4g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y27 4G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-7-bsod-error-0x0000007e-solutions-for-a-smoother-pc-experience/"><u>Troubleshooting Windows 7 BSOD Error 0X0000007E: Solutions for a Smoother PC Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tutorial-fixing-the-criticalservice-failed-and-blue-screen-of-death-in-your-windows-11-machine/"><u>Tutorial: Fixing the 'CRITICAL_SERVICE Failed' And Blue Screen of Death in Your Windows 11 Machine</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/visionparts-examination-for-2024/"><u>VisionParts Examination for 2024</u></a></li>
 </ul></div>
 

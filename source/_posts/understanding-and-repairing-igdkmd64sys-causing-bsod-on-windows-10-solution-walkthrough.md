@@ -1,7 +1,7 @@
 ---
 title: Understanding and Repairing igdkmd64.sys Causing BSOD on Windows 10 [Solution Walkthrough]
-date: 2024-09-24T04:21:48.896Z
-updated: 2024-09-26T03:17:55.152Z
+date: 2024-09-23T16:09:46.923Z
+updated: 2024-09-30T20:25:27.607Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
@@ -67,18 +74,18 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### I’m using Windows 7
 
@@ -90,16 +97,22 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your drivers
 
@@ -113,16 +126,10 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -131,10 +138,16 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the**fltmgr.sys** blue screen of death issue has been resolved. If yes, then great! If the issue remains, please move on to**Fix 3** , below.
@@ -149,13 +162,6 @@ There are two ways you can repair possible issues with your system files:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -183,21 +189,28 @@ Here’s how to use Fortect to run a Windows repair:
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click **Yes** when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any.
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the problem has been fixed.
 
  Check your computer to see if the**fltmgr.sys** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Check disk errors
 
@@ -209,25 +222,19 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk**   and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools**   tab >**Check** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click**Scan drive** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
@@ -260,24 +267,19 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-attempted-execute-of-noexecute-memory-in-windows/"><u>[Fixed] Attempted Execute of Noexecute Memory in Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-jriver-media-centre-non-microsoft-media-option/"><u>[New] JRiver Media Centre Non-Microsoft Media Option</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-streamline-social-tweet-to-fb-guide/"><u>[Updated] 2024 Approved Streamline Social Tweet to FB Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-money-matters-finns-financial-framework/"><u>[Updated] In 2024, Money Matters Finn's Financial Framework</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-tier-auditory-theatre-plays-for-2024/"><u>[Updated] Top-Tier Auditory Theatre Plays for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>2024 Approved Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-verifier-issue-resolution-with-iomgr-adherence/"><u>Driver Verifier Issue Resolution with Iomgr Adherence</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8-for-2024/"><u>Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-windows-camera-malfunction-error-0xa00f4292-resolved/"><u>Expert Tips for Dealing with Windows Camera Malfunction - Error 0xA00F4292 Resolved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-bad-pool-header-bsod-error-on-windows-11/"><u>How to Fix Bad Pool Header BSOD Error on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-hypervisior-error-bsod-on-windows-11/"><u>How to Fix HYPERVISIOR ERROR BSoD on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-achieving-smooth-audio-segmentation-with-premier/"><u>In 2024, Achieving Smooth Audio Segmentation with Premier</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-nirvana-of-movement-youtubes-top-10-yoga-creators/"><u>In 2024, Nirvana of Movement – YouTube’s Top 10 Yoga Creators</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-fix-for-the-0x000eb301-blue-screen-dilemma-on-pcs/"><u>Mastering Fix for the 0X000eb301 Blue Screen Dilemma on PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-device-driver-error-on-windows-11-resolve-issues-immediately/"><u>Quick Fixes for 'Device Driver Error' On Windows 11: Resolve Issues Immediately</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-error-on-windows-7-a-comprehensive-guide/"><u>Resolving the BSOD Error on Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-0xc0000017-your-pc-needs-to-be-repaired/"><u>SOLVED: 0Xc0000017 Your PC Needs To Be Repaired</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-for-windows-10-drivers-corruption-errors-corruptedexpool/"><u>Step-by-Step Troubleshooting for Windows 10 Drivers Corruption Errors (CORRUPTED_EXPOOL)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-dealing-with-unstable-wallpaper-engine-on-windows-11-10-systems/"><u>Troubleshooting Guide: Dealing with Unstable Wallpaper Engine on Windows 11, 10 Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-igtv-to-fb-broadcast-optimal-sharing-strategies/"><u>[New] 2024 Approved IGTV to FB Broadcast Optimal Sharing Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>[Updated] 2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pixel-perfection-in-image-integration/"><u>[Updated] Pixel Perfection in Image Integration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>[Updated] Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/arvato-systems/"><u>Arvato Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-getting-siri-to-voice-your-words-on-apple-operating-systems/"><u>Easy Steps: Getting Siri to Voice Your Words on Apple Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-eliminating-the-unexpected-trapping-bug-leading-to-blue-screen-failures-in-windows-11/"><u>Guide: Eliminating the Unexpected Trapping Bug Leading to Blue Screen Failures in Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-netgear-nighthawk-rax120-unmatched-speed-and-performance/"><u>In-Depth Analysis of the Netgear Nighthawk RAX120 - Unmatched Speed and Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/kooteks-laptop-cooling-pad-assessment-a-comprehensive-look-at-this-high-performance-option/"><u>Kootek's Laptop Cooling Pad Assessment: A Comprehensive Look at This High-Performance Option</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-inaccessible-boot-device-blue-screen-error-on-windows-11-a-visual-guide/"><u>Solving 'Inaccessible Boot Device' Blue Screen Error on Windows 11: A Visual Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y200 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-io-manager-and-driver-verifier-conflicts/"><u>Troubleshooting Guide: Fixing IO Manager and Driver Verifier Conflicts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-acpisys-error-on-windows-11-step-by-step-guide/"><u>Troubleshooting the acpi.sys Error on Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-fixing-fatal-errors-in-pnp-detection-on-windows-11/"><u>Troubleshooting Tips for Fixing Fatal Errors in PNP Detection on Windows 11</u></a></li>
 </ul></div>
 

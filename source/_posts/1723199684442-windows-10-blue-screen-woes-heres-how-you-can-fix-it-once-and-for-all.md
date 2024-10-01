@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All
-date: 2024-09-21T05:48:16.812Z
-updated: 2024-09-26T01:33:44.690Z
+date: 2024-09-29T18:59:02.672Z
+updated: 2024-09-30T19:29:52.339Z
 tags:
   - win11
   - win10
@@ -23,9 +23,23 @@ A**Blue Screen of Death (BSOD)**is usually hardware or software related. In most
 
 Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Scan your computer for viruses
 
 Make sure you have upgraded your antivirus program database to the latest version first. Then use it to scan your computer to see if there is some virus that could cause this problem. If you are not sure how to update your database of your antivirus program, it is suggested that you search for related information in the developer or manufacturer website.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Apply all available Windows service packs and other updates
 
@@ -34,22 +48,15 @@ Service pack is a collection of updates and fixes, called patches, for operating
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bcc356d652.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the**Update**button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**Update All**).
 
 ## ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bcc4ae4019.jpg)  4: Test Your System Memory and your Hard Disk Drive(HDD)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 These two tests are done to make sure whether your memory card or hard drive are to blame for the BSOD error. If they are problematic, you should consider replace them as soon as possible. Test Your System Memory 1) On your keyboard, press**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
@@ -64,34 +71,21 @@ These two tests are done to make sure whether your memory card or hard drive are
 If you don’t see any error here, it’s likely that your memory card is not causing any issues. Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\. Run a Hard Disk Drive testPlease make sure you have closed all open programs and files before your disk check. 1) Follow the path**Start button** **\> File Explorer > This PC**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)2) Locate the hard drive that you would like to check. Right click it and choose**Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties-in-hard-drive.jpg)3) Go to**Tools**tab and then click**Check**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)4) If your hard disk drive is problem free, you will see the notification like this:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)  5: Roll Back Drivers in Safe Mode
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 One of the first things you need to ask yourself is whether you have installed any new applications or drivers on your computer. If so, it is very likely that the change you made caused the BSOD. In this case, it is suggested that you**roll the newly installed driver back**to its previous version. If you are not sure what changes have you made, it is suggested that you do a system restore. If you need help with system restore on Windows 10, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/)for more information. 1) Go to**Safe Mode**first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/). 2) On your keyboard, press**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png)and**R**at the same time. Then type**devmgmt.msc**in the run box and hit**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)3) In**Device Manager**, locate the device that you would like to roll back the driver to. Right-click the device name and click **Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)4) Go to the **Driver**tab, and click **Roll Back Driver**.![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)5) If the**Roll Back Driver**option here is**grey**, you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/)instead. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)If you find that your hardware is the cause of your BSOD problem, please try one of the following ideas:
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Replace the problematic hardware.
@@ -118,24 +112,17 @@ If you find that your software is the cause of your BSOD problem, please try the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhance-call-clarity-choose-from-the-best-10-free-recorders/"><u>[Updated] In 2024, Enhance Call Clarity Choose From the Best 10 Free Recorders</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovating-the-open-a-podcasters-playbook/"><u>[Updated] Innovating the Open A Podcaster's Playbook</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/airbus-defence-and-space/"><u>Airbus Defence & Space</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-repair-corrupted-partition-function-number-pfn-lists-and-avoid-blue-screen-on-windows-10/"><u>Effective Solutions to Repair Corrupted Partition Function Number (PFN) Lists & Avoid Blue Screen on Windows 10</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/elevate-your-snap-game-15-must-try-tactics-for-2024/"><u>Elevate Your Snap Game 15 Must-Try Tactics for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/end-windows-7-crash-woes-proven-methods-for-reliable-performance-all-in-one-guide/"><u>End Windows 7 Crash Woes: Proven Methods for Reliable Performance (All-in-One Guide)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-inaccessible-boot-device-bsod-in-windows-10-with-pictures/"><u>Fix Inaccessible Boot Device BSOD in Windows 10 [with Pictures]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-gaming-displays-top-5-ps5-edition/"><u>Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/kernel-mode-system-instability-identifying-and-solving-heap-corruption-malfunctions/"><u>Kernel Mode System Instability: Identifying and Solving Heap Corruption Malfunctions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/legacy-tech-lifeline-atlasos-revival-plan/"><u>Legacy Tech Lifeline: AtlasOS Revival Plan</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimized-writing-techniques-with-chatgpt-aide/"><u>Optimized Writing Techniques with ChatGPT Aide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-brother-printer-printing-obstructions-in-windows/"><u>Overcoming Brother Printer Printing Obstructions in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oppo-a18-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Oppo A18</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-blue-screen-fixing-memory-issues-in-windows-10-and-11/"><u>Resolving Blue Screen: Fixing Memory Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-header-blue-screen-of-death-in-windows-10-a-step-by-step-guide/"><u>Resolving the 'Bad Pool Header' Blue Screen of Death in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/revolutionary-approaches-to-share-fb-videos-on-whatsapp-for-2024/"><u>Revolutionary Approaches to Share FB Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199715642-troubleshoot-and-fix-your-pcs-0x000000d1-error-in-minutes-no-tech-know-how-required/"><u>Troubleshoot and Fix Your PC's 0X000000D1 Error in Minutes - No Tech Know-How Required</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-your-pcs-0x000000d1-error-in-minutes-no-tech-know-how-required/"><u>Troubleshoot and Fix Your PC's 0X000000D1 Error in Minutes - No Tech Know-How Required!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-entertainment-localized-live-streams-in-the-digital-age-2024/"><u>[New] Top Entertainment Localized Live Streams in the Digital Age, 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-squashing-social-media-smears-with-grace/"><u>[Updated] Squashing Social Media Smears with Grace</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/acpisys-in-windows-11-how-to-identify-and-fix-common-problems-quickly/"><u>acpi.sys in Windows 11: How to Identify and Fix Common Problems Quickly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-budget-friendly-fitbit-versa-smartwatch/"><u>Comprehensive Guide to the Budget-Friendly Fitbit Versa Smartwatch</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-update-canon-mx492-printer-drivers-for-windows-operating-systems-step-by-step-tutorial/"><u>Easy Update: Canon MX492 Printer Drivers for Windows Operating Systems - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/evolving-educational-practices-at-mansion-house-2022/"><u>Evolving Educational Practices at Mansion House 2022</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-failed-hardware-abstraction-layer-hal-start-up-issue-in-windows-10/"><u>Fixing the Failed Hardware Abstraction Layer (HAL) Start-Up Issue in Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-blue-screen-of-death-in-windows-7/"><u>How to Fix Blue Screen of Death in Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-the-notorious-stop-error-0x00000050-in-windows-7-easily/"><u>Troubleshoot and Repair the Notorious Stop Error 0X00000050 in Windows 7 Easily</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-systems-audio-for-optimal-performance/"><u>Update Your System’s Audio for Optimal Performance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32ksys-bluescreen-woes-heres-how-to-restore-stability-to-your-windows-system/"><u>Win32K.sys Bluescreen Woes? Here’s How to Restore Stability to Your Windows System</u></a></li>
 </ul></div>
 

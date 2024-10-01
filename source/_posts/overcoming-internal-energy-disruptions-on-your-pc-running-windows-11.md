@@ -1,7 +1,7 @@
 ---
 title: Overcoming Internal Energy Disruptions on Your PC Running Windows 11
-date: 2024-09-20T07:03:22.034Z
-updated: 2024-09-26T01:46:10.104Z
+date: 2024-09-28T22:40:08.805Z
+updated: 2024-09-30T18:45:35.748Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -43,13 +50,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Memory Diagnostics
 
  Memory corruption can also cause such blue screen error. You can run memory diagnostics to fix it.
@@ -60,16 +60,30 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 3. Click**Restart now and check for problems(recommended)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
+
 After the testing, Windows will restart automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -80,23 +94,16 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
@@ -108,16 +115,24 @@ Here’s how you can check for Windows Update
 1. Type**Windows Update** in the box. Click**Check for updates** on the top result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-Go on to follow the on-screen instructions to install the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Go on to follow the on-screen instructions to install the updates.
 
 ### Fix 5: Repair corrupted system files
 
@@ -156,13 +171,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -200,15 +208,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-screen-hulu-on-any-system-seamlessly/"><u>[New] 2024 Approved How to Screen Hulu On Any System Seamlessly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-iphoneandroid-5-tactics-for-downloading-igtv/"><u>[New] 2024 Approved IPhone/Android 5 Tactics for Downloading IGTV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-offline-viewing-of-full-hd-fb-content-for-2024/"><u>[New] Offline Viewing of Full-HD FB Content for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-0x0000007e-blue-screen-of-death-error-on-windows-7/"><u>[Solved] 0X0000007E Blue Screen of Death Error on Windows 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-on-screen-image-enhancement-mastering-online-cropping-tactics/"><u>[Updated] On-Screen Image Enhancement Mastering Online Cropping Tactics</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-internal-error-in-video-scheduling-apps-on-windows-11/"><u>How to Fix 'Internal Error' In Video Scheduling Apps on Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/perfecting-your-reel-integrating-music-on-instagram/"><u>Perfecting Your Reel Integrating Music on Instagram</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-nmihardwarefailure-bsod-error/"><u>Solved: NMI_HARDWARE_FAILURE BSOD Error</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-major-players-in-the-digital-age-navigating-facebook-twitter-instagram-and-youtube/"><u>The Major Players in the Digital Age: Navigating Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-of-death-bsod-caused-by-clock-watchdog-in-windows-11/"><u>Troubleshooting Blue Screen of Death (BSOD) Caused by Clock Watchdog in Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-apex-elite-comprehensive-4k-touch-desktops-for-2024/"><u>[Updated] Apex Elite Comprehensive 4K Touch Desktops for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-classroom-aid-selecting-effective-recorders-for-2024/"><u>[Updated] Classroom Aid Selecting Effective Recorders for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagrams-newest-feature-reels-explained/"><u>[Updated] Mastering Instagram's Newest Feature Reels Explained</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unlimited-access-to-creative-mcb-resources/"><u>2024 Approved Unlimited Access to Creative MCB Resources</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-master-these-techniques-to-fix-windows-10s-bugcodeusb-driver-woes/"><u>Blue Screen Blues? Master These Techniques to Fix Windows 10'S BUGCODE_USB Driver Woes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-no-more-correcting-netwtw10sys-system-failures-for-smooth-computing/"><u>Blue Screen No More: Correcting Netwtw10.sys System Failures for Smooth Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199722911-comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-vgksys-bsod-error-a-step-by-step-guide/"><u>Fixing the 'vgk.sys' BSoD Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/giggles-and-grins-topical-humor-guides-for-everyone-for-2024/"><u>Giggles and Grins Topical Humor Guides for Everyone for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-gpt-4-all-revealing-how-it-powers-ai-technology/"><u>Inside GPT- 4 All: Revealing How It Powers AI Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/pinnacle-spotlight-tapes-for-2024/"><u>Pinnacle Spotlight Tapes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users-for-2024/"><u>The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users for 2024</u></a></li>
 </ul></div>
 

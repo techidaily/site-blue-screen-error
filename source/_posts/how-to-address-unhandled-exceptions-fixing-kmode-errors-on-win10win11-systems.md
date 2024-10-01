@@ -1,7 +1,7 @@
 ---
 title: "How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems"
-date: 2024-08-20T08:51:56.604Z
-updated: 2024-08-21T08:51:56.604Z
+date: 2024-09-28T23:38:39.070Z
+updated: 2024-09-30T18:57:01.558Z
 tags:
   - win11
   - win10
@@ -26,18 +26,12 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
 
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
@@ -54,18 +48,12 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -74,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
  2) Click**Command Prompt (Admin)** to run it as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
  3) Click**Yes** when prompted by User Account Control.
@@ -87,6 +71,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
@@ -104,21 +95,36 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -126,16 +132,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
  Go on to follow the on-screen instructions to install the updates.
@@ -153,8 +153,6 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +160,18 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-video-vanguard-showdown-which-is-worthier-obs-or-twitch-studio/"><u>[Updated] Video Vanguard Showdown Which Is Worthier, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-photos-with-these-top-11-tutorials/"><u>2024 Approved Elevate Your Photos with These Top 11 Tutorials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-crafting-stunning-collage-photos-on-iphone/"><u>2024 Approved Expert Techniques for Crafting Stunning Collage Photos on iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-driververifierdetectedviolation-blue-screen-of-death-in-windows-10/"><u>How to Resolve the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-essential-guide-to-mobile-asmr-sounds/"><u>In 2024, Your Essential Guide to Mobile ASMR Sounds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-google-pixel-fold-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Google Pixel Fold Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshoot-and-resolve-blue-screen-errors-from-system-pte/"><u>Step-by-Step Tutorial: Troubleshoot and Resolve 'Blue Screen' Errors From System PTE</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-monster-hunter-worlds-startup-void-how-to-overcome-total-black-screen-problems/"><u>Troubleshooting Monster Hunter: World's Startup Void - How to Overcome Total Black Screen Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netiosys-bsod-errors-on-your-windows-pc-step-by-step-tips/"><u>Troubleshooting NETIO.SYS BSoD Errors on Your Windows PC: Step-by-Step Tips</u></a></li>
+</ul></div>
 

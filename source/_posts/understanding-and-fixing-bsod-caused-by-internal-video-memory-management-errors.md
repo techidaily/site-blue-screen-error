@@ -1,7 +1,7 @@
 ---
 title: Understanding and Fixing BSOD Caused by Internal Video Memory Management Errors
-date: 2024-08-20T08:49:53.166Z
-updated: 2024-08-21T08:49:53.166Z
+date: 2024-09-27T00:45:36.628Z
+updated: 2024-10-01T00:30:30.195Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ You can follow the instruction below to remove certain applications:
 
  2) Then right-click the newly installed application and choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
  If you have recently installed more than one application, just repeat the above procedure.
@@ -58,23 +55,14 @@ You can follow the instruction below to remove certain applications:
 
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -85,10 +73,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
@@ -101,9 +85,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
@@ -136,8 +117,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +124,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-superb-video-connections-adventures/"><u>[New] Superb Video Connections Adventures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-visual-effects-in-online-platforms/"><u>[Updated] 2024 Approved The Comprehensive Guide to Visual Effects in Online Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-smart-speakers-showdown-echo-pop-vs-echo-dot-explored/"><u>Amazon's Smart Speakers Showdown: Echo Pop Vs. Echo Dot Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banish-the-bsod-expert-tips-to-resolve-the-0x000000d1-problem/"><u>Banish the BSOD: Expert Tips to Resolve the 0X000000D1 Problem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-explained-step-by-step-solution-for-asmthcisys-blue-screen-issue/"><u>BSOD Explained - Step-by-Step Solution for 'asmthci.sys' Blue Screen Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/efficient-methods-to-launch-advanced-boot-options-on-windows-10-systems/"><u>Efficient Methods to Launch Advanced Boot Options on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-surface-drivers-update-a-comprehensive-tutorial/"><u>Effortless Surface Drivers Update – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-the-fixed-unexpected-store-exception-error-in-windows-10-systems/"><u>How to Correctly Address the Fixed 'Unexpected Store Exception' Error in Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-hal-initialization-error-on-windows-10-complete-guide/"><u>How to Fix HAL Initialization Error on Windows 10 - Complete Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/launching-live-recordings-on-hp-computers/"><u>Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-unmountable-boot-volume-issue-in-windows-10-a-complete-guide/"><u>Resolving the Unmountable Boot Volume Issue in Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/telechargez-gratuitement-le-convertisseur-video-winxdvd-pour-transformer-vos-fichiers-dvd-en-mp4avi-prets-pour-ios-et-android/"><u>Téléchargez Gratuitement Le Convertisseur Vidéo WINXDVD Pour Transformer Vos Fichiers DVD en MP4/AVI, Prêts Pour iOS Et Android</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-correcting-windows-7s-notorious-blue-screen-issue/"><u>Troubleshooting and Correcting Windows 7'S Notorious Blue Screen Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-video-clarity-adding-captions-on-youtube-for-2024/"><u>Unlock Video Clarity Adding Captions on YouTube for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

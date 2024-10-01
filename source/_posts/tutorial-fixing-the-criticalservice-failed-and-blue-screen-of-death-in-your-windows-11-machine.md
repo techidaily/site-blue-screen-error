@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Fixing the 'CRITICAL_SERVICE Failed' And Blue Screen of Death in Your Windows 11 Machine"
-date: 2024-08-20T08:51:09.975Z
-updated: 2024-08-21T08:51:09.975Z
+date: 2024-09-27T00:42:03.364Z
+updated: 2024-09-30T19:47:56.254Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
 ## Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-36.jpg)
 
  Recently, you upgrade your Windows operating system to Windows 10\. Windows 10 is great but it also brings you some troubles. The Blue Screen of Death(BSOD) is one of the Windows 10 nightmares. **UNEXPECTED\_STORE\_EXCEPTION**  is one of the common BSOD errors. If you’re facing this blue screen error, rest assured. We’ve found the answer for you. Please read on the page.[](https://tools.techidaily.com/drivereasy/download/)
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
@@ -50,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
@@ -61,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
 ## Solution 2\. Running System File Checker
@@ -79,23 +66,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  3) Click**Yes** when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Solution 3\. Update your drivers**
 
  The blue screen errors are always caused by the incompatible, outdated or corrupted drivers. Therefore, we highly recommend updating device drivers on your Windows to ensure your system run properly whenever the blue screen shows on your computer.
@@ -112,20 +97,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 4\. Check for Windows Updates
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can  address security flaws and bugs related to both hardware and software. Thus make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.
@@ -133,6 +126,13 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -153,8 +153,6 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +160,26 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quickvid-simplified-w11-screen-capture-software/"><u>[New] 2024 Approved QuickVid Simplified W11 Screen Capture Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-address-chromes-problematic-facebook-vids/"><u>[New] Address Chrome's Problematic Facebook Vids</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-simplified-pathway-using-instagram-live-effectively/"><u>2024 Approved Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-creativity-mastering-the-art-of-graphic-design-careers/"><u>Cutting-Edge Creativity Mastering the Art of Graphic Design Careers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-on-new-operating-system/"><u>Dealing with C1900101 on New Operating System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747833-fix-windows-10-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 10 Thread Stuck in Device Driver Error. Easily</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-drivercorruptedexpool-error-in-windows-11-a-comprehensive-guide/"><u>Fixing DRIVER_CORRUPTED_EXPOOL Error in Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-kernel-level-heap-overflows-solutions-and-techniques/"><u>Fixing Kernel-Level Heap Overflows: Solutions and Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-repairing-the-acpi-system-driver-in-your-window-10-pc/"><u>Guide: Repairing the ACPI System Driver in Your Window 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-blue-screen-errors-caused-by-ntkrnlmpexe-in-windows/"><u>How to Stop Blue Screen Errors Caused by ntkrnlmp.exe in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-evaluating-inshots-capabilities-against-market-leaders/"><u>In 2024, Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-m14-4g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy M14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-nokia-c32-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Nokia C32</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips/"><u>Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-storage-errors-on-windows-11-tackling-the-fat-file-system-failures/"><u>Overcoming Storage Errors on Windows 11: Tackling the FAT File System Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-irql-not-less-or-equal-errors-in-windows-7-a-comprehensive-guide/"><u>Resolving IRQL Not Less or Equal Errors in Windows 7 - A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199750909-zero-downtrouble-with-windows-0x00000116-bsod-easy-fixes-inside/"><u>Zero Downtrouble with Windows 0X00000116 BSOD - Easy Fixes Inside</u></a></li>
+</ul></div>
 

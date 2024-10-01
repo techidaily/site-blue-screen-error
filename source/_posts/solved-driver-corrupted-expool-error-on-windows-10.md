@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2024-09-22T04:28:14.364Z
-updated: 2024-09-26T06:12:19.682Z
+date: 2024-09-29T00:15:34.997Z
+updated: 2024-09-30T23:48:39.730Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ Driver Verifier is built in every version of Windows operating system. It monito
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
@@ -68,17 +74,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -93,18 +99,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
 
@@ -121,6 +127,19 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
@@ -132,13 +151,6 @@ You need to do these:
  Then type**Verifier /reset** in the window and press**Enter** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
 
@@ -164,19 +176,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-ps3-gameplay-for-2024/"><u>[New] How to Record PS3 Gameplay for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation/"><u>[New] Unleash the Power of Windows 11 with Auto HDR Feature Activation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-and-troubleshoot-steam-titles-wont-start-on-windows-10/"><u>Fix & Troubleshoot: Steam Titles Won't Start on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-unmountable-boot-volume-error-in-windows-11-expert-tips-and-solutions/"><u>How to Resolve the Unmountable Boot Volume Error in Windows 11 - Expert Tips and Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-solve-win32ksys-blue-screen/"><u>How To Solve win32k.sys Blue Screen</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-organize-a-virtual-gathering-using-zoom-on-android/"><u>In 2024, How to Organize a Virtual Gathering Using Zoom on Android</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mannheimer-versicherungen-ag/"><u>Mannheimer Versicherungen AG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-quick-remedies-for-hidclasssys-errors-your-easy-guide-awaits/"><u>Mastering Quick Remedies for HIDCLASS.SYS Errors – Your Easy Guide Awaits</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-for-the-notorious-ndis-driver-error-message/"><u>Mastering the Fix for the Notorious NDIS Driver Error Message</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-the-process-of-making-smaller-images-tips-and-tricks-for-2024/"><u>Streamlining the Process of Making Smaller Images Tips & Tricks for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-blue-screen-of-death-due-to-corrupted-usb-drivers-in-windows-10/"><u>Troubleshooting and Resolving Blue Screen of Death Due to Corrupted USB Drivers in Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-guide-for-viewing-mkv-videos-on-your-samsung-television/"><u>Troubleshooting Guide for Viewing MKV Videos on Your Samsung Television</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-pathfinder-wrath-of-the-righteous-failed-start-up-issues/"><u>Troubleshooting Tips: Solving 'Pathfinder: Wrath of the Righteous' Failed Start-Up Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-youtube-channel-today-for-2024/"><u>[New] How to Create A YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[New] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-set-the-mood-music-for-whatsapp-status/"><u>[New] Set the Mood Music for WhatsApp Status</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-images-with-dynamic-mosaic-designs/"><u>[New] Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>[Updated] 2024 Approved Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-overcoming-non-detectable-obs-camera-link-for-2024/"><u>[Updated] Overcoming Non-Detectable OBS Camera Link for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-your-marketing-game-on-reddit-proven-success-techniques/"><u>[Updated] Skyrocket Your Marketing Game on Reddit Proven Success Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-troubleshooting-correcting-the-bad-pool-header-problem-on-your-windows-10-system/"><u>BSOD Troubleshooting: Correcting the 'Bad Pool Header' Problem on Your Windows 10 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199752249-certain-gene-mutations-can-lead-to-higher-cholesterol-levels-and-hypertension-which-are-risk-factors-for-plaque-formation-in-the-arteries/"><u>Certain Gene Mutations Can Lead to Higher Cholesterol Levels and Hypertension, Which Are Risk Factors for Plaque Formation in the Arteries</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-g54-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does G54 5G has native HEVC support?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-the-fatal-blue-screen-caused-by-dxgkrnl-on-windows-11-solution-guide/"><u>How to Repair the Fatal Blue Screen Caused by Dxgkrnl on Windows 11 - Solution Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/laptop-guide-securely-watching-netflix-shows-offline/"><u>Laptop Guide: Securely Watching Netflix Shows Offline</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/navigating-through-ntfssys-blue-screen-issues-fixes-for-windows-1ve-users/"><u>Navigating Through ntfs.sys Blue Screen Issues: Fixes for Windows 1Ve Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-with-advanced-cookie-management-technology/"><u>Optimized with Advanced Cookie Management Technology</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-to-crucial-building-block-compromise-in-windows-11-platforms/"><u>Solution to Crucial Building Block Compromise in Windows 11 Platforms</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-blue-screen-dxgmms2sys-errors-on-your-windows-11-pc/"><u>Step-by-Step Fixes for Blue Screen 'dxgmms2.sys' Errors on Your Windows 11 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-solving-the-ntfssys-blue-screen-of-death-on-windows-11/"><u>Ultimate Guide: Solving the ntfs.sys Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bsod-errors-related-to-pfn-list-corruption-on-microsofts-latest-os-windows-11/"><u>Understanding and Resolving BSOD Errors Related to PFN List Corruption on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-strategies-for-addressing-window-10s-power-error-internally/"><u>Winning Strategies for Addressing Window 10'S Power Error Internally</u></a></li>
 </ul></div>
 

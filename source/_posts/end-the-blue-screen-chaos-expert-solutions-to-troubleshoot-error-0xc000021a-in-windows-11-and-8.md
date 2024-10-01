@@ -1,7 +1,7 @@
 ---
 title: "End the Blue Screen Chaos: Expert Solutions to Troubleshoot Error 0xC000021A in Windows 11 and 8"
-date: 2024-09-20T08:36:23.664Z
-updated: 2024-09-25T18:45:42.617Z
+date: 2024-09-27T00:48:16.407Z
+updated: 2024-09-30T23:10:22.744Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfebf6571e.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** You can do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cffe964db3.jpg)
 
  Restart your computer to see if the error disappear. If yes, so great! If you still see the error, don’t give up hope, you have something else to try…
@@ -61,33 +69,19 @@ Here’s how you can do it:
 3. Click**Restart now and check for problems** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0065d2532.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows should then automatically check for memory problems once your computer restarts.
 
  As soon as Windows completes the process, your computer will restart again. Check if the blue screen error disappears.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solutions 3: Restore your system
 
@@ -101,16 +95,17 @@ See how to do it:
 3. Click**Next** to restore your system to the recommended previous state. Or you can select**Choose a different restore point** to view more restore points.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d00d8b78f7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Follow the the on-screen instructions to complete system restore.
@@ -135,19 +130,22 @@ Follow the the on-screen instructions to complete system restore.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/est-free-youtube-comment-finder-you-should-try-for-2024/"><u>[New] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts-for-2024/"><u>[New] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-real-world-usability-of-photoshops-motion-reduction/"><u>[New] The Real-World Usability of Photoshop’s Motion Reduction</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-through-new-camera-settings-in-ios-11/"><u>[Updated] Navigating Through New Camera Settings in iOS 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/brighten-up-a-simple-trick-to-make-your-corsair-keyboard-glow-again/"><u>Brighten Up! A Simple Trick to Make Your Corsair Keyboard Glow Again</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-storportsys-stop-code-errors-in-windows-11/"><u>Comprehensive Fixes to Address Storport.sys Stop Code Errors in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-dealing-with-the-unusual-unexpected-store-exception-in-windows-10/"><u>Comprehensive Solutions for Dealing with the Unusual 'Unexpected Store Exception' In Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-infamous-0x0000001e-bsod-issue/"><u>Effective Solutions for the Infamous 0X0000001E BSOD Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-stop-error-stop-0x0000003b-on-your-computer/"><u>Fixing the Critical Stop Error (STOP) 0X0000003B on Your Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-12plus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 12+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-stop-code-0x0000007b-on-windows-machines/"><u>Tackling the Blue Screen Stop Code 0X0000007B on Windows Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/take-your-games-to-the-next-level-install-updated-drivers-for-geforce-rtx-2080-ti/"><u>Take Your Games to The Next Level - Install Updated Drivers for GeForce RTX 2080 Ti</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-great-sound-from-mmx-200/"><u>Unleashing Great Sound From MMX 200</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-hiring-guide-locating-excellent-film-capturers/"><u>[Updated] 2024 Approved Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-start-engaging-with-friends-on-insta-chat/"><u>2024 Approved Quick Start Engaging with Friends on Insta Chat</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2x-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2x 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-pro-max-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 Pro Max to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ntoskrnlexe-bsod-mystery-unraveled-expert-solutions-for-system-stability-on-windows-pcs/"><u>NTOSKRNL.EXE BSoD Mystery Unraveled – Expert Solutions for System Stability on Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-fortnights-performance-problems-fixing-game-lags-swiftly/"><u>Resolving Fortnight's Performance Problems: Fixing Game Lags Swiftly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-storportsys-blue-screen-errors-on-windows-11-a-step-by-step-guide/"><u>Resolving Storport.sys Blue Screen Errors on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-troubleshooting-the-pool-header-error-in-windows-11/"><u>Resolving the Blue Screen: Troubleshooting the 'Pool Header' Error in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6s-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6s Plus</u></a></li>
+<li><a href="https://win-info.techidaily.com/the-ultimate-list-of-the-best-screenshot-utilities-for-pcs-running-windows/"><u>The Ultimate List of the Best Screenshot Utilities for PCs Running Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-windows-11-easy-fixes-for-stuck-device-driver-errors-and-system-threads/"><u>Troubleshoot Windows 11: Easy Fixes for Stuck Device Driver Errors and System Threads</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-windows-10-blue-screen-error-0x00000133/"><u>Ultimate Guide: Resolving Windows 10 Blue Screen Error 0X00000133</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-windows-blue-screen-error-0x0000001e/"><u>Understanding and Fixing Windows Blue Screen Error 0X0000001E</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/velvet-vaults-2022-olympic-skaters/"><u>Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-poco-c51-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Poco C51 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Fix of Video TDR Failures Due to atikmpag.sys on Windows 10: Step-by-Step Solutions"
-date: 2024-09-24T21:36:14.458Z
-updated: 2024-09-26T00:38:28.777Z
+date: 2024-09-24T20:30:00.082Z
+updated: 2024-09-30T18:50:00.245Z
 tags:
   - win11
   - win10
@@ -38,43 +38,45 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click **Yes** when you’re prompted to confirm.
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 **Here is how to run DISM** :
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
- Wait a while for the whole process to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
+ Wait a while for the whole process to finish.
 
 3. Restart your computer for the change to take effect.
 
  Check to see if the event tracing fatal error still occurs. If it doesn’t occur, then great – you’ve fixed the issue! If it still happens, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -108,25 +110,33 @@ Here are the steps on how to disable secure boot:
 1. On your keyboard, press the**Windows logo key** and click the**Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/settings-1.jpg)
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
 7. Use**the arrow keys** to navigate to**Secure Boot** (could be found on the**Security** , the**Boot** or the**Authentication** tab). Then select its value to **Disable** .
@@ -137,13 +147,6 @@ Here are the steps on how to disable driver integrity checks:
 1. On your keyboard, press the**Windows logo key** and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
@@ -187,19 +190,15 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-converting-videos-with-impact-sdr-to-hdr-your-essential-guide/"><u>[New] Converting Videos with Impact SDR to HDR - Your Essential Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-digital-presence-mastering-the-art-of-video-reacts-for-2024/"><u>[New] Elevate Your Digital Presence Mastering the Art of Video Reacts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-partition-performance-topping-recorder-showdown/"><u>[Updated] In 2024, Partition Performance Topping Recorder Showdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amazon-firestick-and-fandango-a-match-made-in-heaven-getting-started-with-downloads/"><u>Amazon Firestick and Fandango: A Match Made in Heaven - Getting Started with Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-printer-fresh-driver-downloads-and-installation-tips-for-smooth-performance/"><u>Canon MG3022 Printer - Fresh Driver Downloads and Installation Tips for Smooth Performance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-storportsys-stop-code-errors-in-windows-11/"><u>Comprehensive Fixes to Address Storport.sys Stop Code Errors in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-dealing-with-the-unusual-unexpected-store-exception-in-windows-10/"><u>Comprehensive Solutions for Dealing with the Unusual 'Unexpected Store Exception' In Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-bsod-due-to-pfn-list-issues-on-your-windows-10-pc/"><u>Diagnosing & Correcting BSOD Due to PFN List Issues on Your Windows 10 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-alternatives-to-chatgpt-app-from-openai-a-list-of-top-7-picks/"><u>Discover Alternatives to ChatGPT App From OpenAI - A List of Top 7 Picks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-infamous-0x0000001e-bsod-issue/"><u>Effective Solutions for the Infamous 0X0000001E BSOD Issue</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kid-galaxy-ford-f150-remote-control-truck-review/"><u>Kid Galaxy Ford F150 Remote Control Truck Review</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-stop-code-0x0000007b-on-windows-machines/"><u>Tackling the Blue Screen Stop Code 0X0000007B on Windows Machines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-lgbtplus-films-streaming-on-netflix-this-july-2024/"><u>Top LGBT+ Films Streaming on Netflix This July 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-tips-for-excellent-xbox-game-playbacks/"><u>[Updated] 2024 Approved Top 10 Tips for Excellent Xbox Game Playbacks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-amplify-your-youtubes-interaction-with-emojis/"><u>[Updated] Amplify Your Youtubes' Interaction with Emojis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-memes-the-ultimate-guide-to-gif-creation-for-2024/"><u>Crafting Memes The Ultimate Guide to GIF Creation for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y27-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y27 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-cmusbdacsys-causes-bsod-on-windows-systems/"><u>Resolved: Fixing 'CMUSBDAC.sys' Causes BSoD on Windows Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bsod-errors-caused-by-faulty-memory-usage-on-windows-11/"><u>Troubleshooting and Repairing BSOD Errors Caused by Faulty Memory Usage on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-ntfssys-fault-and-fixing-the-bsod-in-windows-10-systems/"><u>Troubleshooting the ntfs.sys Fault and Fixing the BSOD in Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/untangling-the-knot-a-how-to-guide-for-fixing-unmountable-boot-volume-error-on-windows-10/"><u>Untangling the Knot: A How-To Guide for Fixing 'Unmountable Boot Volume' Error on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/webex-microphone-problems-here-are-4-effective-fixes-for-2/"><u>Webex Microphone Problems? Here Are 4 Effective Fixes for 2지정</u></a></li>
 </ul></div>
 

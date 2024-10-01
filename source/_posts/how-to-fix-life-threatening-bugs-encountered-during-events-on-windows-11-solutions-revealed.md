@@ -1,7 +1,7 @@
 ---
 title: How to Fix Life-Threatening Bugs Encountered During Events on Windows 11 – Solutions Revealed
-date: 2024-08-20T08:52:06.082Z
-updated: 2024-08-21T08:52:06.082Z
+date: 2024-09-28T20:54:17.353Z
+updated: 2024-09-30T21:26:38.114Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 2. **a driver that purposely or accidentally changed critical kernel code or data**
 
  Since we’ve got the causes cleared out, it’s not that hard for us to locate the solutions to this problem. Read on and find out how to fix the Critical\_Structure\_Corruption error on Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -69,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Repair Windows OS with Fortect
 
  If you’d like to get your computer back to its working state ASAP, you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -82,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -98,38 +106,50 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that triggers the BSOD error, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Run memory diagnostic tool
 
  As mentioned, one of the possible causes for this problem is faulty hardware, such as corrupted memory card. Luckily, you can easily get it checked out with the built-in diagnostic tool. Here is how:
@@ -137,38 +157,41 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**mdsched.exe** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-37-58.png)
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Check the Event Viewer
 
  Event Viewer tells you exactly what happened when you had the Critical\_Structure\_Corruption blue screen of death error. You’ll have a better idea what is the culprit driver or hardware when the error occurs. Here is how you can check it:
 
 1. On your keyboard, press the **Windows logo key** and **X** at the same time, then click **Event Viewer** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-42-28.png)
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Final option
 
  If the above method won’t work to help, you might need to consider getting your Windows 10 refreshed or reinstalled.
@@ -185,8 +208,6 @@ For more information, please visit the post below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +215,20 @@ For more information, please visit the post below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-footage-with-videoleaps-zoom/"><u>[New] Sharpen Your Footage with Videoleap's ZOOM</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-times-tales-top-10-historical-channels-to-study-with/"><u>[Updated] 2024 Approved Discover Time's Tales Top 10 Historical Channels to Study With</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-skyhigh-snapshot-top-5-time-lapse-videos/"><u>[Updated] Skyhigh Snapshot - Top 5 Time-Lapse Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>2024 Approved From Flash Photography to Sustained Videography Your Pixiz Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-srt-to-sub-guide-practical-conversion-methods/"><u>2024 Approved SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-equipment-starter-guide-for-beginners/"><u>2024 Approved YouTube Equipment Starter Guide For Beginners</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199738532-choosing-the-appropriate-type-of-spc-chart-is-critical-depending-on-the-data-variables-or-attributes-being-analyzed/"><u>Choosing the Appropriate Type of SPC Chart Is Critical Depending on the Data (Variables or Attributes) Being Analyzed.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solution-for-blue-screen-of-death-stop-fatal-error-0x000000f4/"><u>Comprehensive Solution for Blue Screen of Death STOP Fatal Error (0X000000F4)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-internal-power-error-in-windows-10-complete-guide/"><u>Fixing the 'Internal Power Error' In Windows 10 - Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quadruple-regulatory-routes-in-artificial-intelligence-by-government/"><u>Quadruple Regulatory Routes in Artificial Intelligence by Government</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-the-blue-screen-apc-index-mismatch-issue/"><u>Troubleshooting Guide: Fixing the Blue Screen 'APC Index Mismatch' Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/verkleinern-sie-grosse-videoinhalte-fur-facebook-schritt-fur-schritt-anleitung/"><u>Verkleinern Sie Große Videoinhalte Für Facebook - Schritt-Für-Schritt-Anleitung</u></a></li>
+</ul></div>
 

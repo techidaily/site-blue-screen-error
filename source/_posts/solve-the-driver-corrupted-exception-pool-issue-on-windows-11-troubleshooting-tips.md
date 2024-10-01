@@ -1,7 +1,7 @@
 ---
 title: "Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips"
-date: 2024-09-24T05:36:46.078Z
-updated: 2024-09-26T01:15:14.898Z
+date: 2024-09-26T16:52:12.966Z
+updated: 2024-09-30T21:48:33.664Z
 tags:
   - win11
   - win10
@@ -68,18 +68,25 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -97,6 +104,19 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -104,19 +124,6 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -127,22 +134,15 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -168,17 +168,16 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>[New] Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>[Updated] Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-youtube-thumbnails-for-mac-professionals/"><u>2024 Approved The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/a-step-by-step-guide-overcoming-stop-error-0x00000124-in-windows-11-and-windows-7-operating-systems/"><u>A Step-by-Step Guide: Overcoming Stop Error 0X00000124 in Windows 11 and Windows 7 Operating Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/arkadis/"><u>Arkadis</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mf4500-printer-software-downloads/"><u>Canon MF4500 Printer Software Downloads</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-tutorial-to-correct-the-ntfssys-failed-blue-screen-error-in-windows-10-devices/"><u>Comprehensive Tutorial to Correct the 'ntfs.sys Failed' Blue Screen Error in Windows 10 Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/iastorasys-related-bsod-errors-a-comprehensive-fixing-approach/"><u>Iastora.sys-Related BSOD Errors: A Comprehensive Fixing Approach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-blaze-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Blaze Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-official-method-to-unlock-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Official Method to Unlock Your iPhone SE (2020)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-visionaries-of-video-workshop/"><u>In 2024, The Visionaries of Video Workshop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-high-resolution-monitors-for-pc-and-laptop-games/"><u>[New] Affordable, High-Resolution Monitors for PC & Laptop Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-preparing-for-a-mobile-cinematic-experience/"><u>[New] Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-a-blue-screen-when-playing-videos-with-dxgkrnl-driver-on-windows-11-solutions/"><u>How to Resolve a Blue Screen When Playing Videos with Dxgkrnl Driver on Windows 11 [Solutions]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-bluescreen-error-due-to-cmusbdacsys-malfunction-in-windows-os/"><u>How to Stop the Bluescreen Error Due to 'CMUSBDAC.sys' Malfunction in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-mirage-crash-issues-expert-fixes-and-tricks/"><u>Solve Assassin's Creed Mirage Crash Issues | Expert Fixes & Tricks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-the-blue-screen-nightmare-overcoming-error-0xc000021a-in-windows-11-and-8-your-complete-fixer/"><u>Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streaming-success-starts-here-your-channel-gear-guide-for-2024/"><u>Streaming Success Starts Here Your Channel Gear Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-fat-file-system-errors-expert-tips-and-techniques/"><u>Troubleshooting and Solving Windows 11 FAT File System Errors: Expert Tips & Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-kmodeexceptionnothandled-mistake-in-windows-11-and-windows-10/"><u>Troubleshooting the KMODE_Exception_Not_Handled Mistake in Windows 11 and Windows 10</u></a></li>
 </ul></div>
 

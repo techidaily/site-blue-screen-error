@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair System Service Issues on Your Windows 7 PC
-date: 2024-09-19T23:42:26.936Z
-updated: 2024-09-25T19:54:30.180Z
+date: 2024-09-26T17:23:00.802Z
+updated: 2024-09-30T21:03:54.587Z
 tags:
   - win11
   - win10
@@ -59,15 +59,16 @@ HYPERVISOR ERROR blue screen of death on Windows
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
-3. Click the software recently installed (we use**Steam** as an example here), then **Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
+3. Click the software recently installed (we use**Steam** as an example here), then **Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
 4. Restart your computer afterward.
@@ -84,24 +85,24 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run your computer to see if the blue screen error HYPERVISOR ERROR is still seen. If so, please move on.
 
@@ -119,6 +120,14 @@ HYPERVISOR ERROR blue screen of death on Windows
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -127,13 +136,6 @@ HYPERVISOR ERROR blue screen of death on Windows
  Use your computer like how you normally would to see if the HYPERVISOR ERROR is fixed by updated device drivers. If the blue screen error remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Hyper-V settings
 
@@ -145,11 +147,26 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Select**Turn Windows features on or off** on the left side menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-5.png)
 4. Make sure the boxes for**Hyper-V** and**Windows Hypervisor Platform** are empty.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-6.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-7.png)
 5. Restart your computer if you make changes here.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then see if the blue screen of death HYPERVISOR ERROR is still seen. If so, please move further.
 
@@ -165,13 +182,6 @@ HYPERVISOR ERROR blue screen of death on Windows
 2. Type **mdsched.exe** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-32.jpg)
 3. Click **Restart now and check for problems (recommended)** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **IMPORTANT: Make sure to save all your work before restarting.**  
 
@@ -189,22 +199,16 @@ HYPERVISOR ERROR blue screen of death on Windows
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the HYPERVISOR ERROR. Then please[**move on to the next method**](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM checks
 
@@ -230,18 +234,18 @@ sfc /scannow
 
  4) After the scan, run your computer like how you normally would to see if the blue screen error HYPERVISOR ERROR still remains. If so, move on to the next test:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6.2 Run dism.exe
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -275,10 +279,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -319,20 +323,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-asuss-proart-pa-329q-an-elite-professional-4k-display-examination/"><u>[Updated] Asus's ProArt PA 329Q – An Elite Professional 4K Display Examination</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-directscreencapture-simple-and-swift-recordings-for-2024/"><u>[Updated] DirectScreenCapture Simple & Swift Recordings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>2024 Approved Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c32-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C32 Quickly | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-hal-initialization-failed-error-in-windows-11-expert-tips-and-tricks/"><u>How to Overcome 'Hal Initialization Failed' Error in Windows 11: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-installation-walkthrough-for-moviemaker-6-users/"><u>In 2024, Installation Walkthrough for Moviemaker 6 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-classpnpsys-error-resolution-for-a-smooth-experience-on-windows-117-systems/"><u>Mastering CLASSPNP.SYS Error Resolution for a Smooth Experience on Windows 11/7 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-2/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199745004-proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-in-page-kernel-data-error-and-blue-screen-of-death-comprehensive-fix-guide/"><u>Resolved: In-Page Kernel Data Error and Blue Screen of Death - Comprehensive Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-nonfunctional-windows-spotlight-on-windows-11/"><u>Troubleshooting Fixes for Nonfunctional Windows Spotlight on Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/ultimate-screenshot-tools-for-youtube-live-sharing-for-2024/"><u>Ultimate Screenshot Tools for YouTube Live Sharing for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-the-win32kfullsys-blue-screen-of-death-problem/"><u>Understanding and Correcting the Win32KFull.sys Blue Screen of Death Problem</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unravel-the-10-best-free-iphone-image-organizers-and-designers/"><u>[Updated] In 2024, Unravel the 10 Best FREE iPhone Image Organizers and Designers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>2024 Approved From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://facebook.techidaily.com/data-purge-and-its-implications-for-privacy-protection-in-social-media/"><u>Data Purge and Its Implications for Privacy, Protection in Social Media</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-the-mysteries-of-effective-youtube-keywords-for-2024/"><u>Decoding the Mysteries of Effective YouTube Keywords for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminate-your-windows-10-trouble-fixing-the-unanticipated-store-exception-error-with-ease/"><u>Eliminate Your Windows 10 Trouble: Fixing the Unanticipated Store Exception Error with Ease</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-rtwlanesys-blue-screen-error/"><u>Fixed: rtwlane.sys Blue Screen Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-bugcodendis-driver-bug-a-complete-fix-manual/"><u>How to Overcome BUGCODE_NDIS Driver Bug: A Complete Fix Manual</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-comprehensive-guide-to-understanding-and-using-slug-lines/"><u>In 2024, A Comprehensive Guide to Understanding and Using Slug Lines</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inside-out-with-t5-ultimate-sport-and-action-recorder/"><u>Inside Out with T5 - Ultimate Sport and Action Recorder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Civi 3 Disney 100th Anniversary Edition? Fixed | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/lidl-gmbh/"><u>Lidl GmbH</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-windows-10-when-it-gets-frozen-by-device-driver-issues/"><u>Quick Fixes for Windows 10 When It Gets Frozen by Device Driver Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-essential-guide-to-youtube-time-tracking-for-2024/"><u>The Essential Guide to YouTube Time Tracking for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-poor-connection-quality-message-in-windows-11-resolved/"><u>Troubleshooting the 'Poor Connection Quality' Message in Windows 11 – Resolved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-users-guide-troubleshooting-and-fixing-video-dxgkrnl-fatal-error-bsod/"><u>Windows 11 User's Guide: Troubleshooting and Fixing Video Dxgkrnl Fatal Error BSOD</u></a></li>
 </ul></div>
 

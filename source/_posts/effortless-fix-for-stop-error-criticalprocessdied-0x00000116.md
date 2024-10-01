@@ -1,7 +1,7 @@
 ---
 title: Effortless Fix for Stop Error 'CRITICAL_PROCESS_DIED' (0X00000116)
-date: 2024-08-20T08:50:41.327Z
-updated: 2024-08-21T08:50:41.327Z
+date: 2024-09-26T23:26:56.528Z
+updated: 2024-09-30T16:51:23.675Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d20682484ee39b27689e93ff94b9b7638592055fc
 
 ## Troubleshooting the Notorious Blue Screen (Error 0xC000021A) in Windows 11 and 8: Solutions Proven to Work
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585395abcc09a-600x326.png)
 
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes 0xC000021A blue screen of death error in no time!
@@ -56,28 +53,16 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -104,9 +89,6 @@ You can follow the instruction below to remove certain applications:
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,29 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-hidden-power-of-windows-11/"><u>[New] Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-inside-with-lgs-360-degree-vr-world/"><u>2024 Approved Step Inside with LG's 360-Degree VR World</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-wallet-friendly-digital-repository-heavyweight-file-haven/"><u>2024 Approved Wallet-Friendly Digital Repository Heavyweight File Haven</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-enhanced-site-analytics-and-personalization/"><u>Cookiebot: Your Key to Enhanced Site Analytics and Personalization</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746517-how-to-fix-a-fatal-error-using-event-tracer-on-your-windows-10-pc-now-solved/"><u>How to Fix a Fatal Error Using Event Tracer on Your Windows 10 PC - Now Solved!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ntoskrnlexe-bsod-mystery-unraveled-expert-solutions-for-system-stability-on-windows-pcs/"><u>NTOSKRNL.EXE BSoD Mystery Unraveled – Expert Solutions for System Stability on Windows PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-storportsys-blue-screen-errors-on-windows-11-a-step-by-step-guide/"><u>Resolving Storport.sys Blue Screen Errors on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-troubleshooting-the-pool-header-error-in-windows-11/"><u>Resolving the Blue Screen: Troubleshooting the 'Pool Header' Error in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-windows-10-blue-screen-error-0x00000133/"><u>Ultimate Guide: Resolving Windows 10 Blue Screen Error 0X00000133</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-performance-comparison-gpu-vs-cpu-in-video-encoding-speeds/"><u>Ultimate Performance Comparison: GPU Vs. CPU in Video Encoding Speeds</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-windows-blue-screen-error-0x0000001e/"><u>Understanding and Fixing Windows Blue Screen Error 0X0000001E</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

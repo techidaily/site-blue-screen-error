@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Fix for the 'IGDKMD64.sys' System Crash on Windows 11: A User-Friendly Guide"
-date: 2024-08-20T08:49:24.177Z
-updated: 2024-08-21T08:49:24.177Z
+date: 2024-09-30T00:46:23.230Z
+updated: 2024-09-30T21:20:26.852Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ## Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0d0b5a268.jpg)
 
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes for Bad Pool Header Windows 7
 
  Here are 5 fixes that have helped other users resolve the Bad Pool Header in Window 7 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,8 +32,18 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -77,32 +81,51 @@ To do so:
 1. On your keyboard, press **the Windows logo key**  and type memory. Then click on **Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable Windows search
 
 **Windows search** is a service in our system that keeps an index of files on your computer to improve searching speed. But it can also be corrupted and responsible for this blue screen issue. So we might have to disable it to see if it works. Here’s how:
 
 1. FOn your keyboard, press the   **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c0ed1f89.jpg)
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
@@ -124,16 +147,18 @@ To do so:
 To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **E**   at the same time. Then right-click on**Local Disk (C:)** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
@@ -151,8 +176,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +183,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-pnpdetectedfatalerror-error-on-windows-10/"><u>[Fixed] PNP_Detected_Fatal_Error Error on Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-your-channels-ranking-simple-strategies-unveiled/"><u>[New] Elevating Your Channel's Ranking Simple Strategies Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-capture-360-degree-scenes-on-iphone-share-with-fb/"><u>[New] In 2024, Capture 360-Degree Scenes on iPhone, Share with FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-video-content-for-budding-vloggers/"><u>[New] Innovative Video Content for Budding Vloggers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-cost-free-text-animation-techniques/"><u>[New] Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elite-android-and-pc-mkv-software/"><u>[Updated] 2024 Approved Elite Android & PC MKV Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-errors-from-core-system-components-leading-to-bsod-on-windows-11/"><u>Diagnosing and Repairing Fatal Errors From Core System Components Leading to BSoD on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tips-record-powerpoint-live-with-webcam-for-2024/"><u>Essential Tips Record PowerPoint Live with Webcam for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-why-igdkmd64sys-causes-blue-screens-and-how-to-fix-it-in-win10/"><u>Expert Tips: Why IgdkmD64.sys Causes Blue Screens and How to Fix It in WIN10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-digital-realm-with-toms-gear-insights-unveiling-top-tier-electronics-and-systems/"><u>Mastering the Digital Realm with Tom's Gear Insights - Unveiling Top-Tier Electronics and Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-windows-failed-to-initialize-hardware-abstraction-layer-problem-tips-for-windows-10-users/"><u>Solving the 'Windows Failed to Initialize Hardware Abstraction Layer' Problem: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-complete-breakdown-of-the-samsung-galaxy-tab-s5e-top-android-tablet-on-the-market/"><u>The Complete Breakdown of the Samsung Galaxy Tab S5e - Top Android Tablet on the Market</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-badpoolheader-blue-screen-issue-on-windows-10-pcs/"><u>Troubleshooting and Repairing BAD_POOL_HEADER Blue Screen Issue on Windows 10 PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-critical-system-error-code-0x00000124-in-windows-operating-systems-11-and-7/"><u>Troubleshooting the Critical System Error: Code 0X00000124 in Windows Operating Systems 11 and 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199742005-winning-over-a-weak-network-error-on-windows-11-heres-your-solution/"><u>Winning Over a Weak Network Error on Windows 11? Here’s Your Solution!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubed-out-todays-most-fondly-watched-tracks-for-2024/"><u>Youtubed Out Today's Most Fondly Watched Tracks for 2024</u></a></li>
+</ul></div>
 

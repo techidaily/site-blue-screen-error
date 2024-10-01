@@ -1,7 +1,7 @@
 ---
 title: How to Fix an Internal Power Failure Problem in Windows 11 Easily and Quickly
-date: 2024-08-15T01:23:08.597Z
-updated: 2024-08-16T01:23:08.597Z
+date: 2024-09-24T19:11:00.490Z
+updated: 2024-09-30T22:29:06.702Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
 ## How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5928ec40c3439.jpg)
 
 You may come across an **UNMOUNTABLE\_BOOT\_VOLUME** Blue Screen of Death error when you power on your Windows 10 computer. It blocks you away from your files and data. To fix this problem, you can try the methods as follows. (**Note**that you will need a**Windows 10 DVD**or a**bootable USB drive** before you proceed. If you have neither of them, you can[**burn a Windows 10 ISO file to an available USB drive**](https://tools.techidaily.com/drivereasy/download/)using another computer. Once you have your Windows 10 media prepared, put it into your computer and boot your computer from it. If you don’t know how to do it, please check[**How to Boot from a USB Drive, DVD or CD**](https://tools.techidaily.com/drivereasy/download/). Then you can try any of the methods listed below.)[**1) Fix UNMOUNTABLE_BOOT_VOLUME error with Automatic Repair**](https://tools.techidaily.com/drivereasy/download/) [**2) Fix UNMOUNTABLE_BOOT_VOLUME error by Fixing Master Boot Record**](https://tools.techidaily.com/drivereasy/download/) [**3) Fix UNMOUNTABLE_BOOT_VOLUME error using Chkdsk command**](https://tools.techidaily.com/drivereasy/download/) [**4) Fix UNMOUNTABLE_BOOT_VOLUME error by reinstalling Windows 10**](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **1) Fix UNMOUNTABLE\_BOOT\_VOLUME Windows 10 blue screen error with Automatic Repair**
 
 Using Automatic Repair is the easiest way to fix problem of this kind. **a)**On the**Windows Setup**screen, after you finish choosing your language, click on**Repair your computer**at the bottom left.
@@ -33,9 +27,6 @@ Using Automatic Repair is the easiest way to fix problem of this kind. **a)**On 
 
 **b)** Click on**Troubleshoot**on the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5929362e0888f.png)
 
 **c)** Click on**Startup Repair**on the**Advanced options**screen.
@@ -48,37 +39,63 @@ Using Automatic Repair is the easiest way to fix problem of this kind. **a)**On 
 
 **e)**The repair will be started immediately. Please wait patiently for the process to be finished.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2) Fix UNMOUNTABLE\_BOOT\_VOLUME error by Fixing Master Boot Record**
 
 **Master Boot Record (MBR)**identifies where and how your operating system is located so that you can boot your computer normally. A malfunctioning MBR can cause problems such as UNMOUNTABLE\_BOOT\_VOLUME. **a)** **Repeat the steps in method 1**until you see the screen of**Advanced options**. **b)**Select**Command Prompt**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592936ce6af22.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**Type “_**bootrec /fixboot**_“in Command Prompt, and then hit**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592929886a4b2.png)
 
 **d)** Wait for completion of the process, and then restart your computer to see if the error message shows up.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3) Fix UNMOUNTABLE\_BOOT\_VOLUME error using Chkdsk command**
 
 UNMOUNTABLE\_BOOT\_VOLUME error can be caused by problems on your hard drive. You can run Chkdsk command to check up and fix these problems.**a)** Open**Command Prompt**on your Windows 10 media as the steps above show. **b)** Type in “_**chkdsk /r c:**_“(Note that “**c:**” here refers to your**boot drive**and**replace**this with the letter you use in case**your boot drive is not C Drive**) and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592929bf2b117.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)**  Wait for completion of the process, and then restart your computer to see if it runs normally.
 
@@ -98,8 +115,6 @@ If you try all methods above and you still get the  UNMOUNTABLE\_BOOT\_VOLUME bl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +122,26 @@ If you try all methods above and you still get the  UNMOUNTABLE\_BOOT\_VOLUME bl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-superior-gameplay-androids-leading-gba-emulators-for-2024/"><u>[New] Superior Gameplay Android's Leading GBA Emulators for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[Updated] 2023 | How to Post Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-dynamic-descriptor-constructor-for-2024/"><u>[Updated] Dynamic Descriptor Constructor for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[Updated] Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-gallery-archive-services/"><u>[Updated] Leading Gallery Archive Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-pop-7-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Pop 7 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solution-to-windows-10-ntfs-file-system-malfunctions-fixes-you-need-to-know/"><u>Comprehensive Solution to Windows 10 NTFS File System Malfunctions: Fixes You Need to Know</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-address-video-schedulers-internal-error-in-windows-10-systems/"><u>Effective Strategies to Address Video Scheduler's Internal Error in Windows 10 Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-production-top-4k-video-editing-software/"><u>Elevate Your Video Production Top 4K Video Editing Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-issue-in-windows-7-solution-guide/"><u>How to Fix the 'Bad Pool Header' Issue in Windows 7 - Solution Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-trim-your-videos-for-free-10-best-online-tools-for-2024/"><u>New Trim Your Videos for Free 10 Best Online Tools for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-unexpected-kernel-mode-trap-kmodeexceptionnothandled-blue-screen-of-death-on-windows-10/"><u>Resolved: Fixing the Unexpected Kernel Mode Trap (KMODE_EXCEPTION_NOT_HANDLED) Blue Screen of Death on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-tricks-for-reaching-the-windows-10-safe-mode-quickly/"><u>Simple Tricks for Reaching the Windows 10 Safe Mode Quickly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-10-compatibility-a-comprehensive-guide-for-fixing-apple-airpods-mic-problems/"><u>Solving Windows 10 Compatibility: A Comprehensive Guide for Fixing Apple AirPods Mic Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-nw-0x4b56-cab37d98-ac7e-error-code-dxgmms2sys-on-win11/"><u>Troubleshooting Windows Nw-0x4b56-Cab37d98-Ac7e Error Code - dxgmms2.sys on Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-video-tdr-problems-and-atikmpagsys-on-windows-10-a-comprehensive-guide/"><u>Winning the Battle Against Video TDR Problems and atikmpag.sys on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-fight-against-syntpsys-bsod-issues-effective-strategies-for-windows-users/"><u>Winning the Fight Against SYNTP.SYS BSOD Issues: Effective Strategies for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Bad Pool Header' Error on Windows 10, 8 & 7: Comprehensive Solutions"
-date: 2024-08-20T08:49:07.489Z
-updated: 2024-08-21T08:49:07.489Z
+date: 2024-09-23T18:55:31.695Z
+updated: 2024-09-30T17:29:28.229Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for Bad Pool Header Windows 7
 
  Here are 5 fixes that have helped other users resolve the Bad Pool Header in Window 7 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -63,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Windows Memory Diagnostic
 
  If you’ve recently made any changes to your computer, say upgrading memory etc., then we might have to run the built-in Windows tool called **Windows Memory Diagnostic**   to help check  our system for memory problems and see if it fixes this **Bad Pool Header** blue screen problem.
@@ -77,11 +68,23 @@ To do so:
 1. On your keyboard, press **the Windows logo key**  and type memory. Then click on **Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
@@ -93,31 +96,51 @@ To do so:
 **Windows search** is a service in our system that keeps an index of files on your computer to improve searching speed. But it can also be corrupted and responsible for this blue screen issue. So we might have to disable it to see if it works. Here’s how:
 
 1. FOn your keyboard, press the   **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c0ed1f89.jpg)
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Check for hardware issues
 
  Turn off and unplug your PC, then remove all of your RAM sticks. Try to power your computer back on with the sticks, ONE BY ONE. If your computer fails to boot with one specific RAM, you know which one is to blame.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check disk errors
 
  Disk check is a useful in-built  Windows tool that scans our hard disk and external drives for errors and fix them.
@@ -127,9 +150,6 @@ To do so:
 To do so:
 
 1. On your keyboard, press **the Windows logo key**   and **E**   at the same time. Then right-click on**Local Disk (C:)** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
@@ -151,8 +171,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +178,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unpacking-the-power-of-engaging-titles-for-youtube-shorts/"><u>[New] Unpacking the Power of Engaging Titles for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-sync-your-views-iphones-looping-feature/"><u>[Updated] 2024 Approved Sync Your Views IPhone's Looping Feature</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-formulating-flashy-podcast-teasers/"><u>[Updated] In 2024, Formulating Flashy Podcast Teasers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-10-highest-performing-business-youtube-platforms-explained/"><u>2024 Approved 10 Highest Performing Business YouTube Platforms Explained</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-no-more-rtwlanesys-error-solution/"><u>Blue Screen of Death No More - 'rtwlane.sys' Error Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-memory-corruption-errors-the-complete-guide/"><u>Diagnosing and Repairing Memory Corruption Errors: The Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-storportsys-blue-screen-of-death-under-windows-1nk-system/"><u>Diagnosing and Repairing the storport.sys Blue Screen of Death Under Windows 1Nk System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-the-inaccessible-boot-disk-bsod-in-windows-11-illustrated-instructions/"><u>How to Repair the Inaccessible Boot Disk BSOD in Windows 11 - Illustrated Instructions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mc-homestead-architectural-wonders/"><u>MC Homestead Architectural Wonders</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-intensify-visual-soundscapes-for-optimal-engagement/"><u>New In 2024, Intensify Visual Soundscapes for Optimal Engagement</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-pc-error-0xc0000017-essential-steps-for-successful-system-repair/"><u>RESOLVED: PC Error 0Xc0000017 - Essential Steps for Successful System Repair</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-the-timeout-bsod-error-on-windows-11-operating-systems/"><u>Step-by-Step Guide: Overcoming the Timeout BSOD Error on Windows 11 Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-tips-how-chatgpt-enhances-your-novel-writing-experience/"><u>Top 9 Tips: How ChatGPT Enhances Your Novel Writing Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-potential-with-the-q500-drone-for-2024/"><u>Unleashing Potential with the Q500 Drone for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-add-emojisstickers-to-videos-on-pcmacmobileonline/"><u>Updated How Add Emojis/Stickers to Videos on PC/Mac/Mobile/Online</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32kfullsys-bsod-explained-steps-to-recover-and-prevent-future-issues/"><u>Win32kfull.sys BSoD Explained: Steps to Recover and Prevent Future Issues</u></a></li>
+</ul></div>
 

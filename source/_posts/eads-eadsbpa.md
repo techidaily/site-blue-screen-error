@@ -1,7 +1,7 @@
 ---
 title: EADS EADSB.PA
-date: 2024-09-24T05:46:36.769Z
-updated: 2024-09-26T09:01:29.861Z
+date: 2024-09-23T17:38:21.964Z
+updated: 2024-09-30T21:40:29.759Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Update all your available drivers
 
  Many blue screen errors are blamed on  outdated, corrupted or missing device drivers. BAD\_SYSTEM\_CONFIG\_INFO is no exception. Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 4. Reboot your Windows 10 to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-43-48.jpg)
 3. Click **Repair your computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 5. Type the following commands and press **Enter**  after each.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **bootrec /repairbcd**  
@@ -105,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 7. Reboot your Windows 10 to see if it works.
 
 See if this method works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Fix your Windows Registry
 
@@ -155,15 +156,16 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>[New] 2024 Approved Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>[Updated] In 2024, The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-what-are-the-disadvantages-of-vr/"><u>[Updated] What Are the Disadvantages of VR?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-on-windows-11-correct-usb-driver-problem-for-smooth-operation/"><u>Blue Screen of Death on Windows 11? Correct USB Driver Problem for Smooth Operation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-youtube-trailers-a-filmora-guide/"><u>Crafting YouTube Trailers A Filmora Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-unmountable-boot-volume-bsod-on-windows-10-step-by-step-solutions/"><u>Fixing 'Unmountable Boot Volume' BSOD on Windows 10 - Step by Step Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-solutions-for-video-memory-handling-issues/"><u>Fixing Blue Screen of Death: Solutions for Video Memory Handling Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guaranteed-fixes-for-non-executable-memory-exploits-on-your-pc/"><u>Guaranteed Fixes for Non-Executable Memory Exploits on Your PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-endless-bluetooth-in-win10/"><u>Solving Endless Bluetooth in Win10</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-10-mac-video-capture-programs-reviewed-for-2024/"><u>Top 10 Mac Video Capture Programs Reviewed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-hdr-master-the-4k-quest-continues/"><u>[New] ASUS ProArt HDR Master The 4K Quest Continues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] In 2024, Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-broadcast-without-breaks-2023-guides-to-overcoming-livestream-disruptions-on-fb/"><u>[Updated] 2024 Approved Broadcast Without Breaks 2023 Guides to Overcoming Livestream Disruptions on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-harness-youtubes-creative-commons-in-video-making/"><u>[Updated] 2024 Approved How to Harness YouTube's Creative Commons in Video Making</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-bsod-fix-how-to-resolve-0x00000124-on-windows-10-and-7-systems/"><u>Blue Screen of Death (BSoD) Fix: How to Resolve 0X00000124 on Windows 10 and 7 Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/discovering-future-proof-hexadrones/"><u>Discovering Future-Proof HexaDrones</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correct-video-schedulers-internal-error-on-your-windows-10-device-solved/"><u>Guide to Correct Video Scheduler’s Internal Error on Your Windows 10 Device - Solved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-correcting-watchdogsys-bsod-mishaps/"><u>Step-by-Step Strategies for Diagnosing and Correcting Watchdog.sys BSOD Mishaps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-following-are-the-top-10-media-players-with-the-slow-motion-feature-to-give-an-astonishing-experience-to-you-while-you-are-viewing-your-most-loved-video/"><u>The Following Are the Top 10 Media Players with the Slow Motion Feature to Give an Astonishing Experience to You While You Are Viewing Your Most Loved Video</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-iastorasys-bsod-problems-expert-tips-and-tricks/"><u>Troubleshooting and Resolving IaStora.sys BSOD Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unsuccessful-dpc-shift-glitch-on-windows-systems-solution-provided/"><u>Troubleshooting the Unsuccessful DPC Shift Glitch on Windows Systems [Solution Provided]</u></a></li>
 </ul></div>
 

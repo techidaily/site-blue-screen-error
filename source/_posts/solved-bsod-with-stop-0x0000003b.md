@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-09-24T06:54:34.715Z
-updated: 2024-09-25T17:28:30.861Z
+date: 2024-09-29T17:01:03.267Z
+updated: 2024-10-01T00:12:41.889Z
 tags:
   - win11
   - win10
@@ -43,17 +43,31 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
@@ -65,22 +79,15 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -138,18 +138,22 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-full-exploration-of-speech-to-text-features-within-gdoc/"><u>[New] A Full Exploration of Speech-to-Text Features Within GDoc</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-your-youtube-income-understanding-adsense-payments-for-every-1k-watch/"><u>[New] Maximizing Your Youtube Income Understanding AdSense Payments for Every 1K Watch</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199742332-solved-bsod-error-video-memory-management-internal/"><u>[SOLVED] BSOD Error “Video Memory Management Internal”</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-info-on-crafting-engaging-yt-shorts-for-2024/"><u>[Updated] Essential Info on Crafting Engaging YT Shorts for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-10-unexpected-store-exception-error/"><u>How to Fix the Windows 10 Unexpected Store Exception Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-ntoskrnlexe-crashes-and-stop-bsod-from-ruining-your-day/"><u>How to Resolve Windows NTOSKRNL.EXE Crashes and Stop BSoD From Ruining Your Day</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-hot-30-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Hot 30 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/seeing-clearly-now-understanding-how-true-4k-surpasses-standard-1080p-resolution/"><u>Seeing Clearly Now: Understanding How True 4K Surpasses Standard 1080P Resolution</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-syntpsys-bsod-issue-on-your-windows-pc-a-comprehensive-guide/"><u>Solving the SYNTP.SYS BSOD Issue on Your Windows PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nails-unleashed-elevate-your-video-presence-for-2024/"><u>Thumbnails Unleashed Elevate Your Video Presence for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-storportsys-bsod-fixes-and-tips-for-windows-11-pros/"><u>Winning the Battle Against Storport.sys BSoD: Fixes and Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>[New] 2024 Approved Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mythos-makers-mecca-prime-pantheon-seven/"><u>[Updated] Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crafting-authenticity-secrets-of-successful-video-endorsements/"><u>2024 Approved Crafting Authenticity Secrets of Successful Video Endorsements</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bayerische-hypotheken-und-wechselbank/"><u>Bayerische Hypotheken Und Wechselbank</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-video-tdr-failure-due-to-atikmpagsys-on-windows-11-fixed/"><u>Comprehensive Troubleshooting for Video TDR Failure Due to atikmpag.sys on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-your-iphone-experience-by-combining-siri-with-chatgpt-ai/"><u>Enhancing Your iPhone Experience by Combining Siri with ChatGPT AI</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-storahcisys-blue-screen-issues/"><u>Fix storahci.sys Blue Screen Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos-for-2024/"><u>Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-critical-stop-error-due-to-video-memory-issues-in-windows/"><u>How to Fix Critical Stop Error Due to Video Memory Issues in Windows?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interface-to-enlarge-videography-elements/"><u>Interface to Enlarge Videography Elements</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-s23-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy S23 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/requesting-for-unrestricted-access-to-shared-visual-and-audio-content-for-2024/"><u>Requesting for Unrestricted Access to Shared Visual & Audio Content for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-0x000000ea-bsod-issue-on-your-windows-pc/"><u>Resolving 0X000000EA BSOD Issue on Your Windows PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-persistent-clock-watchdog-timeout-blue-screen-of-death-on-windows-10-systems/"><u>Solving the Persistent Clock Watchdog Timeout Blue Screen of Death on Windows 10 Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-n-11-dxgkrnl-errors-leading-to-a-blue-screen-of-death/"><u>Troubleshooting and Solving Windows N 11 Dxgkrnl Errors Leading to a 'Blue Screen of Death'</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199690822-windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today</u></a></li>
 </ul></div>
 

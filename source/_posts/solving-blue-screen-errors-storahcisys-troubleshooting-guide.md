@@ -1,7 +1,7 @@
 ---
 title: "Solving Blue Screen Errors: Storahci.sys Troubleshooting Guide"
-date: 2024-08-20T08:49:22.030Z
-updated: 2024-08-21T08:49:22.030Z
+date: 2024-09-24T20:57:53.352Z
+updated: 2024-09-30T21:55:03.006Z
 tags:
   - win11
   - win10
@@ -15,17 +15,10 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 ## Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de2bda24df.png)
 
  If you’re with Intel graphics card and you’re seeing the blue screen of death error with the code **_VIDEO TDR FAILURE_** , you’re not alone. Many Windows users are reporting this problem as well. But no worries, it’s possible to fix, no matter how dreadful it seems.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 5 fixes for VIDEO TDR FAILURE
 
 * [What is VIDEO TDR FAILURE blue screen of death?](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 * [5: Repair corrupted system files with Fortect](https://tools.techidaily.com/drivereasy/download/)
 
  Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **What is VIDEO TDR FAILURE blue screen of death?**
 
@@ -49,47 +49,47 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
  2) Type **sfc/ scannow** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de476b0552.png)
 
  3) **System File Checker** will help you scan for the corruptions in your system files and restore the corrupted or missing files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2:** **Restore graphics card driver**
 
  If this problem happens after you updated your graphics card driver, roll it back to previous stage: 1) On your keyboard, press the **Windows logo key** and **R** at the same time. Click **Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a90fde1afee.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91039ebb0d.png)
 
  3) Click **Driver** tab, click **Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a910633218b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer after this change. If the **Roll Back Driver** option here is grey like the following screen shot, skip to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578ded4881db6.png)
 
 ## **3: Uninstall or disable graphics card driver**
@@ -100,20 +100,28 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Disable device** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91255c707f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If the problem persists, go back to **step 2)** and click **Uninstall device** this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9120f950a7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tick the box for **Delete the driver software for this device** and click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9127db1094.png)
 
  4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
@@ -150,10 +158,14 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
  If there’s any problem, you can click Start Repair to start the repair process. You’d need to buy the pro version (which comes with a 60-day Money-Back Guarantee) to unlock this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -166,8 +178,6 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +185,24 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-sony-bdp-s3700-review-updated/"><u>[New] 2024 Approved Sony BDP- S3700 Review - Updated</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pushing-boundaries-in-mobile-game-mastery-kinemasters-reviewed-journey/"><u>[New] Pushing Boundaries in Mobile Game Mastery - KineMaster's Reviewed Journey</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming-for-2024/"><u>[Updated] Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-visual-narratives-effective-titling/"><u>2024 Approved Crafting Visual Narratives Effective Titling</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bayer-ag/"><u>Bayer AG</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/chromebook-screenshot-hacks-in-four-steps-for-2024/"><u>Chromebook Screenshot Hacks in Four Steps for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-critical-error-0x000000ea-a-step-by-step-guide/"><u>How to Overcome the Critical Error 0X000000EA - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-10-device-driver-hanging-issue-quickly-and-effectively/"><u>How to Resolve 'Windows 10 Device Driver Hanging' Issue Quickly & Effectively</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-overcome-whea-unrecoverable-bsod-mistakes/"><u>How to Successfully Overcome WHEA Unrecoverable BSOD Mistakes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-moto-g23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Moto G23 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-classpnpsys-compatibility-problems-in-windows-117-fixed/"><u>Overcoming CLASSPNP.SYS Compatibility Problems in Windows 11/7 [FIXED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-win32kfullsys-bsod-a-comprehensive-guide/"><u>Resolving Win32kFull.sys BSOD: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/spc-uses-statistical-methods-to-monitor-and-control-manufacturing-processes-for-quality-assurance/"><u>SPC Uses Statistical Methods to Monitor and Control Manufacturing Processes for Quality Assurance.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-play-40c-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Play 40C Phone Pattern Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-whea-watchdog-hardware-exception-tips-for-correction/"><u>Troubleshooting WHEA (Watchdog Hardware Exception) - Tips for Correction</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-copyright-laws-when-making-personal-copies-of-disney-films-from-dvds/"><u>Understanding Copyright Laws When Making Personal Copies of Disney Films From DVDs</u></a></li>
+</ul></div>
 

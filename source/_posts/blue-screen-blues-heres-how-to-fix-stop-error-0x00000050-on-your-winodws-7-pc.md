@@ -1,7 +1,7 @@
 ---
 title: Blue Screen Blues? Here's How to Fix Stop Error 0X00000050 on Your Winodws 7 PC!
-date: 2024-08-20T08:48:13.720Z
-updated: 2024-08-21T08:48:13.720Z
+date: 2024-09-28T22:53:30.234Z
+updated: 2024-09-30T19:59:49.888Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
@@ -62,9 +59,6 @@ You can follow the instruction below to remove certain applications:
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -73,9 +67,6 @@ You can follow the instruction below to remove certain applications:
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)
 
  Still, if you have recently updated more than one device driver, you need to uninstall them one by one. If you are not sure which applications or which device drivers installed could be the culprit, you can check the System Log in**Event Viewer** for additional error messages:
@@ -86,9 +77,6 @@ You can follow the instruction below to remove certain applications:
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -97,16 +85,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,25 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[Updated] 2024 Approved Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-closed-virtual-doors-an-expert-look-at-your-unseen-audience-on-the-internet/"><u>Behind Closed Virtual Doors: An Expert Look at Your Unseen Audience on the Internet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-fix-ntdlldll-and-ndissys-crashes-a-comprehensive-guide/"><u>Diagnose and Fix ntdll.dll & Ndis.sys Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-entry-to-windows-10s-advanced-system-configuration-options/"><u>Effortless Entry to Windows 10'S Advanced System Configuration Options</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-notorious-ntfs-file-system-errors-on-your-windows-11-pc-effortlessly/"><u>How to Fix the Notorious NTFS File System Errors on Your Windows 11 PC Effortlessly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-10t-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 10T 5G FRP Bypass</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/issue-sorted-out-necessity-of-rebooting-after-your-computer-encounters-trouble/"><u>Issue Sorted Out – Necessity of Rebooting After Your Computer Encounters Trouble</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-getting-a-refund-on-steam-a-comprehensive-walkthrough/"><u>Master the Art of Getting a Refund on Steam: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/preserve-your-animated-fun-discover-the-best-9-gif-recorder-apps-for-pc-for-2024/"><u>Preserve Your Animated Fun Discover the Best 9 GIF Recorder Apps for PC for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-infamous-bad-pool-header-error-in-windows-7-systems/"><u>Step-by-Step Fixes for the Infamous Bad Pool Header Error in Windows 7 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-honor-magic-6-pro-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Honor Magic 6 Pro</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

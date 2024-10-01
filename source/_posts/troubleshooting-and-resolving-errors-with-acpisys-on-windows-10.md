@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Errors with acpi.sys on Windows 10
-date: 2024-08-20T08:50:10.541Z
-updated: 2024-08-21T08:50:10.541Z
+date: 2024-09-29T18:54:46.535Z
+updated: 2024-09-30T22:49:47.056Z
 tags:
   - win11
   - win10
@@ -39,16 +39,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
  If you have recently installed more than one application, just repeat the above procedure.
@@ -59,21 +53,12 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -92,9 +77,6 @@ You can follow the instruction below to remove certain applications:
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,24 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vivid-visuals-brush-up-your-youtube-beauty-videos/"><u>[New] Vivid Visuals Brush up Your YouTube Beauty Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-cataloging-fb-video-ratios/"><u>2024 Approved Cataloging FB Video Ratios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experiential-business-the-vr-revolution/"><u>2024 Approved Experiential Business The VR Revolution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-podcasters-guide-to-the-10-finest-mic-options/"><u>2024 Approved Podcaster's Guide to the 10 Finest Mic Options</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-woes-overcome-vgksys-crash-and-stay-productive/"><u>Blue Screen Woes? Overcome vgk.sys Crash and Stay Productive</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-diagnosing-and-repairing-volsnapsys-bsod-problems-on-windows-systems/"><u>Expert Advice: Diagnosing and Repairing Volsnap.sys BSOD Problems on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-intel-optane-memory-software-for-your-windows-computer-fixed/"><u>How to Get the Latest Intel Optane Memory Software for Your Windows Computer [FIXED]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-spots-for-digital-3d-glamour-text-artistry-for-2024/"><u>Leading Spots for Digital 3D Glamour Text Artistry for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-resolving-windows-11s-blue-screen-of-death/"><u>Step-by-Step Guide: Resolving Windows 11'S Blue Screen of Death</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-correct-blue-screen-of-death-bsod-due-to-ndis-drivers/"><u>Troubleshooting Steps to Correct Blue Screen of Death (BSOD) Due to NDIS Drivers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

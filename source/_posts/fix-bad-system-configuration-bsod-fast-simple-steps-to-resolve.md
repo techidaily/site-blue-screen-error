@@ -1,7 +1,7 @@
 ---
 title: "Fix 'Bad System Configuration' BSOD Fast: Simple Steps to Resolve"
-date: 2024-08-20T08:49:30.500Z
-updated: 2024-08-21T08:49:30.500Z
+date: 2024-09-24T20:46:00.674Z
+updated: 2024-09-30T23:24:36.117Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 
 ## Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/bad-system-config-info.png)
 
 **BAD\_SYSTEM\_CONFIG\_INFO**  is one of the common Blue Screen of Death (BSOD) error on Windows system. If you’re experiencing this error, rest assured, you’re not alone. Many Windows users have this problem. More importantly, you can fix it through the methods below quickly & easily!
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 effective methods to fix BAD\_SYSYTEM\_CONFIG\_INFO
 
  The Bad System Config Info blue screen error could be caused by different reasons. This guide is covering 3 different effective and easy methods for your to try. You may not have to try them all; just start from the top and work your way down, till you solve your problem.
@@ -37,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Method 1: Update all your available drivers
 
  Many blue screen errors are blamed on  outdated, corrupted or missing device drivers. BAD\_SYSTEM\_CONFIG\_INFO is no exception. Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -51,20 +42,21 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-update-drivers.jpg)
 4. Reboot your Windows 10 to see if it works.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Method 2: Fix your BCD file
 
  This error could be also caused by the damaged BCD (Boot Configuration Data) file . So if your Win 10 can’t enter safe mode to fix the error, be sure to try to fix the BCD file.
@@ -77,13 +69,25 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 3. Click **Repair your computer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
  **bootrec /repairbcd**  
@@ -93,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/09ddd1e1d519ec50106329674e880f8e0b08837f2
 7. Reboot your Windows 10 to see if it works.
 
 See if this method works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Fix your Windows Registry
 
@@ -134,8 +145,6 @@ See if this method works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +152,18 @@ See if this method works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>[New] 2024 Approved How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-driver-corrupted-expool-error-on-windows-11/"><u>[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigate-through-group-sharing-options-on-messenger/"><u>[Updated] In 2024, Navigate Through Group Sharing Options on Messenger</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-fixing-system-pte-misuse-causing-blue-screens/"><u>Expert Advice on Fixing SYSTEM PTE MISUSE Causing Blue Screens</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-10-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 10 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-pova-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Pova 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-blue-screen-of-death-in-windows-10-after-a-system-update/"><u>How to Overcome Blue Screen of Death in Windows 10 After a System Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-playing-god-of-war-in-an-exciting-new-fps-mode/"><u>PC Gamers Rejoice: Playing God of War in an Exciting New FPS Mode!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-addressing-the-critical-pnpdetectedfatalerror-on-windows-11/"><u>Step-by-Step Solution: Addressing the Critical PNP_Detected_Fatal_Error on Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/time-lapse-magic-capturing-moments-with-an-ipad/"><u>Time-Lapse Magic Capturing Moments with an iPad</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-roblox-freezing-issues-on-your-desktop-in-just-6-steps/"><u>Troubleshoot and Resolve Roblox Freezing Issues on Your Desktop in Just 6 Steps!</u></a></li>
+</ul></div>
 

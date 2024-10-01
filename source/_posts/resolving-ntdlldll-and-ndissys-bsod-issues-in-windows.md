@@ -1,7 +1,7 @@
 ---
 title: Resolving ntdll.dll & ndis.sys BSOD Issues in Windows
-date: 2024-09-21T21:15:48.321Z
-updated: 2024-09-26T02:03:14.582Z
+date: 2024-09-29T21:43:09.533Z
+updated: 2024-09-30T22:28:09.307Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Uninstall potential problematic software
 
 **Alcohol 120%** , **Daemon Tools** , **MacDriver** and **Intel HAXM** (Hardware Accelerated Execution Manager) are reported to be related to the Critical\_Structure\_Corruption blue screen of death error. If you have one of them installed in your PC, upgrade them to the latest version or remove them from your PC. See if your problem is resolved after this.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -65,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -101,22 +115,8 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -146,39 +146,19 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-37-58.png)
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Check the Event Viewer
 
@@ -187,13 +167,28 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 1. On your keyboard, press the **Windows logo key** and **X** at the same time, then click **Event Viewer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-42-28.png)
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final option
@@ -221,18 +216,21 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-high-quality-fb-videos-for-ff-browser-users/"><u>[New] High-Quality FB Videos for FF Browser Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/breeze-through-the-resolution-of-stop-code-0x00000116-on-your-pc/"><u>Breeze Through the Resolution of Stop Code 0X00000116 on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decoding-and-repairing-critical-nmihardwarefailure-bsod-windows-bug-successfully-explained/"><u>Decoding and Repairing Critical NMI_HARDWARE_FAILURE BSOD Windows Bug Successfully Explained</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-netwtw04sys-blue-screen-of-death-in-windows-10-systems/"><u>Diagnosing and Fixing Netwtw04.sys Blue Screen of Death in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diy-solutions-for-dealing-with-system-pte-error-induced-blue-screen-problems/"><u>DIY Solutions for Dealing with System PTE Error-Induced Blue Screen Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-control-problems-with-mice-on-resident-evil-village-gameplay/"><u>Fixing Control Problems with Mice on Resident Evil Village Gameplay</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-x50-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor X50 Face Lock?</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-reno-10-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Reno 10 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-with-iphone-burst-photography/"><u>In 2024, Unleash Creativity with iPhone Burst Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-depth-guide-to-mobilepcmac-movie-capture-for-2024/"><u>In-Depth Guide to Mobile/PC/Mac Movie Capture for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-unbootable-windows-10-error-a-step-by-step-guide-with-images/"><u>Solving the Unbootable Windows 10 Error: A Step-by-Step Guide with Images</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-correcting-blue-screen-error-apc-index-mismatch/"><u>Troubleshooting Steps for Correcting 'Blue Screen Error - APC Index Mismatch'</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-iphones-secrets-to-perfect-movement-capture/"><u>[New] Expert Tips IPhone's Secrets to Perfect Movement Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-video-content-youtube-to-igtv-transition/"><u>[Updated] In 2024, Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-revealing-the-top-10-hidden-story-supporters/"><u>[Updated] In 2024, Revealing the Top 10 Hidden Story Supporters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-game-capture-kit-tools-and-methodologies-for-2024/"><u>[Updated] The Ultimate Game Capture Kit Tools and Methodologies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-cutting-edge-chroma-techniques-for-kinemaster/"><u>2024 Approved Expert Insights Cutting-Edge Chroma Techniques for KineMaster</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-reviewing-magix-music-production-for-budding-musicians/"><u>2024 Approved Reviewing Magix Music Production for Budding Musicians</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-wheauncorrectable-issues-in-your-system/"><u>Diagnosing and Fixing 'WHEA_UNCORRECTABLE' Issues in Your System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bluescreen-of-death-resolving-0x00000124-bsod-in-windows-10-and-windows-7/"><u>Fixing the Bluescreen of Death: Resolving 0X00000124 BSOD in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-tackling-cc-issues-with-ease-in-window-10/"><u>Guide to Tackling CC Issues with Ease in Window 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-unexpected-kernel-mode-trap-that-triggers-blue-screen-errors-in-windows-10-solved/"><u>How to Address the Unexpected Kernel Mode Trap That Triggers Blue Screen Errors in Windows 10 (Solved)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-tips-from-toms-hardware-experts/"><u>Navigating the World of Computing: Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11s-ntfs-filesystem-compatibility-error-a-guide/"><u>Resolving Windows 11'S NTFS Filesystem Compatibility Error: A Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-blue-screen-issues-on-windows-7-pcs/"><u>Step-by-Step Solutions for Blue Screen Issues on Windows 7 PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshoot-and-solve-nvpcfsys-bsod-issues-on-pc/"><u>Ultimate Guide to Troubleshoot and Solve nvpcf.sys BSoD Issues on PC</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the KMODE_Exception_Not_Handled Mistake in Windows 11 and Windows 10
-date: 2024-08-20T08:52:21.583Z
-updated: 2024-08-21T08:52:21.583Z
+date: 2024-09-26T23:55:13.678Z
+updated: 2024-09-30T21:49:10.746Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
@@ -58,16 +55,10 @@ You can follow the instruction below to remove certain applications:
 
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -86,9 +77,6 @@ You can follow the instruction below to remove certain applications:
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -101,9 +89,6 @@ You can follow the instruction below to remove certain applications:
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -120,9 +105,6 @@ You can follow the instruction below to remove certain applications:
 
  In Windows, most patches and fixes are available through**Windows Update** . It is suggested that you check whether your computer has installed the latest released patches in**Settings > Updates & security.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)
 
  It is also suggested that you use[Driver](https://tools.techidaily.com/drivereasy/download/) [Ea](https://tools.techidaily.com/drivereasy/download/) [sy](https://tools.techidaily.com/drivereasy/download/) to help you update all your device drivers so as to avoid any further problems. Installing faulty device drivers could be one of the causes of the blue screen of death problems,[Driver Easy](https://tools.techidaily.com/drivereasy/download/) can keep you from falling into that pit ever again.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,28 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-a-detailed-comparison-vsdc-vs-other-recorders-for-2024/"><u>[Updated] A Detailed Comparison VSDC vs Other Recorders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-25-hashtags-that-will-make-you-a-social-media-star-on-instagram/"><u>[Updated] Top 25 Hashtags That Will Make You a Social Media Star on Instagram</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beginners-pathway-to-grasping-hd-content-standards/"><u>2024 Approved Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>2024 Approved Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acer-laptop-trackpad-drivers-for-windows-11-free-download/"><u>Acer Laptop Trackpad Drivers for Windows 11 - Free Download</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>Digital Migration Made Simple Top 5 File Transfer Routes for Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-system-failures-in-depth-solutions-for-the-infamous-blue-screen-and-kernel-data-errors-in-webpages/"><u>Fixing Critical System Failures: In-Depth Solutions for the Infamous Blue Screen and Kernel Data Errors in Webpages</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dxgmms2sys-bsod-issue-solutions-for-windows-11-users/"><u>Fixing the 'dxgmms2.sys' BSOD Issue: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/hal-initialization-failed-in-windows-11-solved/"><u>HAL INITIALIZATION FAILED in Windows 11 [Solved]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-webinar-label-builder-kit/"><u>In 2024, Expert Webinar Label Builder Kit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y17swithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y17swith/without a PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hardware-glitches-causing-display-problems-on-windows-1110-effective-fixes-inside/"><u>Troubleshooting Hardware Glitches Causing Display Problems on Windows 11/10: Effective Fixes Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successfully-completed-understanding-your-systems-need-for-restart/"><u>Troubleshooting Successfully Completed: Understanding Your System's Need for Restart</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-galaxy-s24-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung Galaxy S24 on Windows?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

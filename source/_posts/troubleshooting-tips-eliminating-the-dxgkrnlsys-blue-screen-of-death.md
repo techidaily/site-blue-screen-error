@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Eliminating the 'dxgkrnl.sys' Blue Screen of Death"
-date: 2024-08-20T08:50:56.727Z
-updated: 2024-08-21T08:50:56.727Z
+date: 2024-09-28T16:22:48.799Z
+updated: 2024-10-01T00:10:49.925Z
 tags:
   - win11
   - win10
@@ -53,18 +53,12 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -79,17 +73,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,16 +85,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -136,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +124,24 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-story-an-easy-guide-to-screen-recording/"><u>[New] 2024 Approved Instagram Story An Easy Guide to Screen Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>[New] In 2024, Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamline-your-skype-talks-using-obs-effectively-for-2024/"><u>[New] Streamline Your Skype Talks Using OBS Effectively for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-craft-captivating-gopro-time-lapse-footage-hacks/"><u>[Updated] Craft Captivating GoPro Time-Lapse Footage Hacks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/certain-gene-mutations-can-lead-to-higher-cholesterol-levels-and-hypertension-which-are-risk-factors-for-plaque-formation-in-the-arteries/"><u>Certain Gene Mutations Can Lead to Higher Cholesterol Levels and Hypertension, Which Are Risk Factors for Plaque Formation in the Arteries.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-win32k-memory-management-failure-error-0x000000ea/"><u>Comprehensive Solutions for Win32k Memory Management Failure (Error 0X000000EA)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/direct-compare-obs-and-twitch-studio-benefits-for-2024/"><u>Direct Compare OBS and Twitch Studio Benefits for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-syntpsys-bsod-issue-on-your-windows-pc-a-comprehensive-guide/"><u>Solving the SYNTP.SYS BSOD Issue on Your Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-art-of-choosing-high-impact-youtube-channels/"><u>Unveiling the Art of Choosing High-Impact Youtube Channels</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-storportsys-bsod-fixes-and-tips-for-windows-11-pros/"><u>Winning the Battle Against Storport.sys BSoD: Fixes and Tips for Windows 11 Pros</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

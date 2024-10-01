@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions
-date: 2024-08-20T08:53:24.265Z
-updated: 2024-08-21T08:53:24.265Z
+date: 2024-09-23T17:16:07.718Z
+updated: 2024-09-30T17:38:31.607Z
 tags:
   - win11
   - win10
@@ -53,14 +53,8 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
@@ -69,9 +63,6 @@ You can follow the instruction below to remove certain applications:
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -82,10 +73,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
@@ -98,9 +85,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
@@ -121,9 +105,6 @@ You can follow the instruction below to remove certain applications:
 
  In Windows, most patches and fixes are available through**Windows Update** . It is suggested that you check whether your computer has installed the latest released patches in**Settings > Updates & security.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)
 
  It is also suggested that you use[Driver](https://tools.techidaily.com/drivereasy/download/) [Ea](https://tools.techidaily.com/drivereasy/download/) [sy](https://tools.techidaily.com/drivereasy/download/) to help you update all your device drivers so as to avoid any further problems. Installing faulty device drivers could be one of the causes of the blue screen of death problems,[Driver Easy](https://tools.techidaily.com/drivereasy/download/) can keep you from falling into that pit ever again.
@@ -136,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +124,29 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-securing-memories-how-to-obtain-facebooks-live-videos/"><u>[New] Securing Memories How to Obtain Facebook's Live Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-perfect-srt-output-with-premiere-pro/"><u>[Updated] Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-uploading-and-sharing-gifs-on-instagram-step-by-step-approach/"><u>[Updated] In 2024, Uploading & Sharing GIFs on Instagram Step-by-Step Approach</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-and-store-fb-conversations-best-methods-summarized/"><u>2024 Approved Capture & Store FB Conversations - Best Methods Summarized</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-spotlight-the-25-influencers-redefining-engagement/"><u>2024 Approved Spotlight The 25 Influencers Redefining Engagement</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-drives-your-site-to-success-superior-seo-powered-by-innovation/"><u>Cookiebot Drives Your Site to Success - Superior SEO Powered by Innovation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/error-free-operations-deciphering-the-causes-behind-unexpected-system-reboots/"><u>Error-Free Operations: Deciphering the Causes Behind Unexpected System Reboots</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-hal-initialization-failed-issues-on-windows-11-step-by-step-tutorial/"><u>Fixing 'HAL Initialization Failed' Issues on Windows 11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-creators-to-viewers-a-roadmap-for-uploading-vids-on-facebook-for-2024/"><u>From Creators to Viewers A Roadmap for Uploading Vids on Facebook for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-critical-stop-error-blue-screen-with-code-0x00000133-in-windows-10/"><u>Resolving the Critical Stop Error: Blue Screen with Code 0X00000133 in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-non-paged-memory-problems-a-complete-fix-for-windows-10-users/"><u>Solving Non-Paged Memory Problems: A Complete Fix for Windows ‪10 Users‬</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-to-stop-ntkrnlmpexe-from-causing-system-failures/"><u>Step-by-Step Solution to Stop NTKRNLMP.EXE From Causing System Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199733102-troubleshooting-the-fltrmgrsys-crashing-issue-in-windows-systems-solutions-inside/"><u>Troubleshooting the Fltrmgr.sys Crashing Issue in Windows Systems - Solutions Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-brief-how-reconnect-loop-bug-in-lol-was-fixed-in-latest-update/"><u>Update Brief: How 'Reconnect Loop Bug' In LoL Was Fixed in Latest Update</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

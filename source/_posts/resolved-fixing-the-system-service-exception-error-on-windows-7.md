@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the 'System Service Exception' Error on Windows 7"
-date: 2024-08-20T08:52:03.907Z
-updated: 2024-08-21T08:52:03.907Z
+date: 2024-09-26T23:22:58.301Z
+updated: 2024-09-30T19:46:54.746Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
  2) Click**Yes** .
@@ -56,34 +60,49 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
  6) You’ll see the Memory check going. The process could take some time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3\. Update device drivers**
 
  The installation of a fault driver could also be the cause of  0x00000050 blue screen error. To fix it, you need to update all your device drivers to their best-match versions.
@@ -106,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
@@ -119,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +142,20 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-humorhub-quick-and-quirky-images-for-2024/"><u>[New] HumorHub Quick & Quirky Images for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-video-quality-enabling-av1-on-youtube/"><u>[New] Maximizing Video Quality Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-meme-template-toolkit/"><u>[Updated] The Essential Meme Template Toolkit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-compelling-channel-names-simplified/"><u>Creating Compelling Channel Names Simplified</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-win32k-bug-tips-to-combat-windows-boot-crashes/"><u>Fixing the Win32K Bug: Tips to Combat Windows Boot Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-resolving-netwtw04sys-system-bluescreen-on-windows-11/"><u>Guide to Resolving 'Netwtw04.sys' System Bluescreen on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50s-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Nubia Z50S Pro Bootloader Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-14-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 14 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-ntfs-file-system-issues-on-windows-10-fix-guide/"><u>Solving NTFS File System Issues on Windows 10 - Fix Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamline-your-video-watch-with-borderless-youtube/"><u>Streamline Your Video Watch with Borderless YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-classpnpsys-issues-solutions-for-windows-11-and-windows/"><u>Troubleshooting Classpnp.sys Issues: Solutions for Windows 11 & Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-the-vgk-system-crash-that-leads-to-a-bsod-interruption/"><u>Understanding and Fixing the VGK System Crash That Leads to a BSoD Interruption</u></a></li>
+</ul></div>
 

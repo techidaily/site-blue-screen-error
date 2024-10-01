@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing the Critical System Error UNMOUNTABLE_BOOT_VOL on Windows 11"
-date: 2024-08-20T08:53:01.559Z
-updated: 2024-08-21T08:53:01.559Z
+date: 2024-09-27T00:41:06.639Z
+updated: 2024-09-30T22:03:39.273Z
 tags:
   - win11
   - win10
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
@@ -50,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
@@ -61,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
 ## Solution 2\. Running System File Checker
@@ -74,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  2) Click**Command Prompt (Admin)** to run it as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
  3) Click**Yes** when prompted by User Account Control.
@@ -87,7 +72,21 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -109,32 +108,34 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 4\. Check for Windows Updates
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can  address security flaws and bugs related to both hardware and software. Thus make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.
 
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
  Go on to follow the on-screen instructions to install the updates.
@@ -152,8 +153,6 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +160,20 @@ Your any comment or feedback is welcomed coming below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-watching-wonders-amazon-primes-top-series-on-twitter/"><u>[New] 2024 Approved Watching Wonders Amazon Prime's Top Series on Twitter</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-charming-chic-explore-the-hottest-discothemes-by-curators/"><u>[Updated] 2024 Approved Charming Chic Explore the Hottest DiscoThemes by Curators</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bugcode-ndis-error-corrected-step-by-step-solution-guide/"><u>Bugcode NDIS Error Corrected: Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/chromatic-soundscapes-selecting-the-right-tune/"><u>Chromatic Soundscapes Selecting the Right Tune</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-fixing-windows-11-page-fault-in-nonpaged-area-errors/"><u>Expert Tips for Fixing Windows 11 'Page Fault in Nonpaged Area' Errors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-b550-xt-capabilities-in-vocal-technology/"><u>Exploring B550-XT Capabilities in Vocal Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-understanding-the-read-status-of-your-emails-in-gmail/"><u>Guide: Understanding the 'Read' Status of Your Emails in Gmail</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-nvidia-drivers-on-windows-computers-1178/"><u>Install Updated Nvidia Drivers on Windows Computers: 11/7/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-updates-decode-error-0xc1900101/"><u>Mastering Windows 11 Updates: Decode Error 0xC1900101</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-critical-system-malfunctions-during-event-tracking-on-windows-11-success-stories-and-solutions/"><u>Overcoming Critical System Malfunctions During Event Tracking on Windows 11 – Success Stories & Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-hal-initialization-failed-error-in-windows-11-step-by-step-solutions/"><u>Resolving the 'HAL Initialization Failed' Error in Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-and-articulating-ru-alphabets/"><u>Understanding and Articulating RU Alphabets</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32ksys-bluescreen-fixes-comprehensive-troubleshooting-steps/"><u>Win32k.sys Bluescreen Fixes: Comprehensive Troubleshooting Steps</u></a></li>
+</ul></div>
 

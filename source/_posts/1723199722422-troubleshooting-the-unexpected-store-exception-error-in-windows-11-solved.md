@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved
-date: 2024-09-22T03:31:48.045Z
-updated: 2024-09-26T04:36:40.782Z
+date: 2024-09-27T21:16:15.692Z
+updated: 2024-09-30T21:32:05.600Z
 tags:
   - win11
   - win10
@@ -64,29 +64,22 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -111,10 +104,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
@@ -128,15 +121,22 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,18 +162,16 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-echo-reapers-in-colleges/"><u>[New] Ideal Echo Reapers in Colleges</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[New] In 2024, Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/addressing-bsod-errors-related-to-faulty-memory-handling-on-windows-operating-systems/"><u>Addressing BSOD Errors Related to Faulty Memory Handling on Windows Operating Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortlessly-resolve-device-driver-error-causing-windows-10-freeze/"><u>Effortlessly Resolve 'Device Driver Error' Causing Windows 10 Freeze</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-streams-save-as-mp3-beat-for-easy-playback-for-2024/"><u>FB Streams Save as MP3 Beat for Easy Playback for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-hardware-related-page-corruption-in-windows-11-and-10-systems-solutions-unveiled/"><u>Fixing Hardware-Related Page Corruption in Windows 11 and 10 Systems – Solutions Unveiled</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-effectively-use-siri-speech-features-in-tiktok-videos-for-2024/"><u>How to Effectively Use Siri Speech Features in TikTok Videos for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-note-50-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme Note 50 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-animations-best-android-and-iphone-apps-free/"><u>New Create Stunning Animations Best Android and iPhone Apps (Free)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-issue-bsod-related-rtwlanesys-system-failure-fix/"><u>Resolved Issue: BSOD Related 'rtwlane.sys' System Failure Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-nt-fs-service-failure-leading-to-bsod-on-windows-11/"><u>Step-by-Step Guide: Correcting NT FS Service Failure Leading to BSOD on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons-for-2024/"><u>The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unmuted-success-11-ways-to-restore-ringtones-on-incoming-iphone-calls/"><u>Unmuted Success: 11 Ways to Restore Ringtones on Incoming iPhone Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-memories-in-high-quality-a-comprehensive-guide-to-logitech-webcam-use/"><u>[Updated] In 2024, Capture Memories in High Quality A Comprehensive Guide to Logitech Webcam Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-melodic-mastery-top-15-educational-musician-oriented-vids-on-the-web/"><u>[Updated] Melodic Mastery Top 15 Educational Musician-Oriented Vids on the Web</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-joy-of-journeys-end-innovative-box-revelations/"><u>2024 Approved The Joy of Journey's End Innovative Box Revelations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-repairing-the-broken-pfn-list-issue-in-windows-11-systems/"><u>Blue Screen Error - Repairing the Broken PFN List Issue in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-kernel-memory-corruption-issues-a-step-by-step-guide/"><u>Diagnosing and Repairing Kernel Memory Corruption Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/melodic-merge-the-journey-through-crossfading/"><u>Melodic Merge The Journey Through Crossfading</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-challenge-of-unresolved-kmodeexception-in-your-windows-11-or-10-system/"><u>Overcoming the Challenge of Unresolved KMODE_Exception in Your Windows 11 or 10 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/server-snafus-no-more-the-definitive-handbook-to-overcoming-internal-error-codes-500/"><u>Server Snafus No More: The Definitive Handbook to Overcoming Internal Error Codes 500</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-internal-bsod-problems-related-to-graphics-card-and-ram-management/"><u>Solving Internal BSOD Problems Related to Graphics Card and RAM Management</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-video-schedulers-internal-error-problem/"><u>Troubleshooting and Solving Windows 11 Video Scheduler's Internal Error Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-correcting-sync-issues-by-restarting-your-microsoft-onedrive-in-windows-10/"><u>Troubleshooting Guide: Correcting Sync Issues by Restarting Your Microsoft OneDrive in Windows 10</u></a></li>
 </ul></div>
 

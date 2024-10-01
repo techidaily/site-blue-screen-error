@@ -1,7 +1,7 @@
 ---
 title: Windows Ease Your 'DRIVER CORRUPTED_EXPOOL' Error Headache with This Proven Fix
-date: 2024-09-19T21:17:35.661Z
-updated: 2024-09-25T18:24:21.435Z
+date: 2024-09-29T23:14:16.181Z
+updated: 2024-10-01T00:00:06.657Z
 tags:
   - win11
   - win10
@@ -69,36 +69,29 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -124,6 +124,19 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -136,19 +149,6 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -174,20 +174,15 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-prime-android-image-editing-software/"><u>[New] Prime Android Image Editing Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-10/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-ntkrnlmpexe-blue-screen-error/"><u>[SOLVED] ntkrnlmp.exe Blue Screen Error</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reinstating-focus-in-photos-a-comprehensive-guide-to-top-10-online-enhancers/"><u>[Updated] Reinstating Focus in Photos A Comprehensive Guide to Top 10 Online Enhancers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-pinnacle-of-bike-gaming-adventures/"><u>[Updated] The Pinnacle of Bike Gaming Adventures</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-cannot-access-boot-drive-error-displayed-as-a-blue-screen-on-windows-10-tutorial-with-screenshots/"><u>Fixing the Cannot Access Boot Drive Error Displayed as a Blue Screen on Windows 10 - Tutorial with Screenshots</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-error-ntoskrnlexe-stopped-unexpectedly-0xc00002e-on-windows-nx/"><u>Fixing the Critical Error: NTOSKRNL.EXE STOPPED Unexpectedly (0Xc00002e) on Windows nX</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722972540671-get-your-behringer-driver-software-now-free-download-available/"><u>Get Your Behringer Driver Software Now – Free Download Available!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-budget-friendly-ball-games-watch-and-edit-on-the-go/"><u>In 2024, Budget-Friendly Ball Games Watch & Edit on the Go</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-download-youtube-responsibly-legal-mp4-conversion-methods/"><u>In 2024, Download YouTube Responsibly Legal MP4 Conversion Methods</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-errors-in-windows-11-a-comprehensive-guide/"><u>Resolving System Service Errors in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-brilliance-behind-the-ring-video-doorbell-pro-a-detailed-review-unveiled/"><u>The Brilliance Behind the Ring Video Doorbell Pro: A Detailed Review Unveiled</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10s-pnp-detected-fatal-malfunction-a-step-by-step-guide/"><u>Winning Against Windows 10'S 'PNP Detected' Fatal Malfunction – A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-easy-photo-fixes-an-introduction-to-snapseed-for-2024/"><u>[New] Easy Photo Fixes An Introduction to Snapseed for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-driver-corrupted-expool-error-on-windows-11/"><u>[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transform-your-virtual-space-with-google-meet-tools/"><u>[Updated] In 2024, Transform Your Virtual Space with Google Meet Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-youtube-playlists-without-hassle-our-guide-for-2024/"><u>Download YouTube Playlists Without Hassle - Our Guide for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-fixing-system-pte-misuse-causing-blue-screens/"><u>Expert Advice on Fixing SYSTEM PTE MISUSE Causing Blue Screens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-blue-screen-of-death-in-windows-10-after-a-system-update/"><u>How to Overcome Blue Screen of Death in Windows 10 After a System Update</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mobile-marvels-the-leading-arvr-app-picks/"><u>Mobile Marvels The Leading AR/VR App Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/premier-asmr-software-for-iphone-and-android-for-2024/"><u>Premier ASMR Software for iPhone & Android for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-yuva-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Yuva 2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-addressing-the-critical-pnpdetectedfatalerror-on-windows-11/"><u>Step-by-Step Solution: Addressing the Critical PNP_Detected_Fatal_Error on Windows 11</u></a></li>
 </ul></div>
 

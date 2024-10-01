@@ -1,7 +1,7 @@
 ---
 title: Bertelsmann
-date: 2024-08-20T08:53:03.614Z
-updated: 2024-08-21T08:53:03.614Z
+date: 2024-09-24T21:55:19.308Z
+updated: 2024-09-30T17:38:10.140Z
 tags:
   - win11
   - win10
@@ -53,28 +53,16 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -85,16 +73,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,27 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-gaming-and-video-content-showdown-twitch-and-youtube-compared-for-2024/"><u>[New] Gaming and Video Content Showdown Twitch & YouTube Compared for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-antiquated-visuals-for-modern-audienciplines-for-2024/"><u>[New] The Art of Antiquated Visuals for Modern Audienciplines for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-common-youtube-short-glitches/"><u>[Updated] Navigating Common YouTube Short Glitches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-transforming-self-doubt-into-youtube-dominance-for-2024/"><u>[Updated] Transforming Self-Doubt Into YouTube Dominance for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028252690-windows/"><u>「Windowsフォト」ビデオ編集：動画トリミングのステップバイステップ方法</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-smart-8-hd-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Smart 8 HD FRP</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/advanced-techniques-for-handling-stack-buffer-overflow-error-messages-in-microsoft-operating-systems/"><u>Advanced Techniques for Handling Stack Buffer Overflow Error Messages in Microsoft Operating Systems</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/buy-the-advanced-macx-video-converter-professional-edition/"><u>Buy the Advanced MacX Video Converter Professional Edition</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-netwtw04sys-blue-screen-windows-10/"><u>Fix Netwtw04.sys Blue Screen Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-driververifierdetectedviolation-blue-screen-on-windows-nx-fixes/"><u>Guide to Correcting 'DRIVER_VERIFIER_DETECTED_VIOLATION' Blue Screen on Windows nX [FIXES]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nubia-red-magic-9-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nubia Red Magic 9 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-picks-procuring-start-up-youtube-channel-monetization-platforms-for-2024/"><u>Top Picks Procuring Start-Up YouTube Channel Monetization Platforms for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747053-troubleshooting-the-storportsys-error-and-preventing-windows-1-cuffles/"><u>Troubleshooting the StorPort.sys Error and Preventing Windows 1 Cuffles.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

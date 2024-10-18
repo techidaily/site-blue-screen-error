@@ -1,7 +1,7 @@
 ---
 title: Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors
-date: 2024-08-30T12:22:48.268Z
-updated: 2024-08-31T12:22:48.268Z
+date: 2024-10-15T00:24:44.443Z
+updated: 2024-10-17T16:29:19.505Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ## Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_585395abcc09a-600x326.png)
 
 [Driver Easy](https://tools.techidaily.com/drivereasy/download/) fixes 0xC000021A blue screen of death error in no time!
@@ -46,9 +43,6 @@ You can follow the instruction below to remove certain applications:
 
  2) Then right-click the newly installed application and choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
  If you have recently installed more than one application, just repeat the above procedure.
@@ -59,18 +53,12 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -79,9 +67,6 @@ You can follow the instruction below to remove certain applications:
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-restore.jpg)
 
  Still, if you have recently updated more than one device driver, you need to uninstall them one by one. If you are not sure which applications or which device drivers installed could be the culprit, you can check the System Log in**Event Viewer** for additional error messages:
@@ -100,9 +85,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,31 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-zipping-outcomes-turning-into-subrip-text-files/"><u>[Updated] 2024 Approved Zipping Outcomes Turning Into SubRip Text Files</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beyond-indexation-understanding-youtubes-unlisted-mechanism/"><u>[Updated] In 2024, Beyond Indexation Understanding YouTube's Unlisted Mechanism</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>[Updated] In 2024, Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>[Updated] In 2024, Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-shaky-to-steady-selecting-an-ideal-camera-gimbals-for-uavs/"><u>2024 Approved From Shaky to Steady Selecting an Ideal Camera Gimbals for UAVs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-nvpcfsys-crashing-problem-on-windows/"><u>Effective Solutions for nvpcf.sys Crashing Problem on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-facebook-live-via-zoom-techniques/"><u>Enhancing Facebook Live via Zoom Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-diagnosing-and-fixing-badpoolheader-errors-in-windows-10-for-smooth-operation/"><u>Expert Advice: Diagnosing and Fixing BAD_POOL_HEADER Errors in Windows 10 for Smooth Operation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-understanding-and-solving-the-volsnapsys-blue-screen-of-death-in-windows/"><u>Guide: Understanding and Solving the Volsnap.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark 10 5G Phone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-error-code-0xc000021a-in-windows-11-and-8-solutions-inside/"><u>How to Fix the BSOD Error Code 0xC000021A in Windows 11 and 8 - Solutions Inside!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-c55-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco C55</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picart-tips-effortless-face-blurring-trick/"><u>PicArt Tips Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-how-to-fix-windows-blue-screen-error-with-code-0x0000001a/"><u>Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-service-control-manager-bugs-in-windows-10-system-services/"><u>Understanding and Fixing 'Service Control Manager' Bugs in Windows 10 System Services</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unraveling-windows-woes-solutions-to-resolve-stop-error-0x00000-groggy-f4-screen-freeze/"><u>Unraveling Windows Woes: Solutions to Resolve STOP Error 0X00000 Groggy F4 Screen Freeze</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-bsod-bluescreen-solving-unmountable-boot-volume-problems-successfully/"><u>Windows 10 BSOD Bluescreen - Solving Unmountable Boot Volume Problems Successfully</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

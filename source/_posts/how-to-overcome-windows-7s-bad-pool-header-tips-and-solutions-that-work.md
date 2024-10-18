@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Windows 7'S Bad Pool Header: Tips & Solutions That Work!"
-date: 2024-09-03T23:48:27.877Z
-updated: 2024-09-04T23:48:27.877Z
+date: 2024-10-11T23:57:04.579Z
+updated: 2024-10-17T17:37:07.178Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,11 +65,12 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Windows Memory Diagnostic
 
  If you’ve recently made any changes to your computer, say upgrading memory etc., then we might have to run the built-in Windows tool called **Windows Memory Diagnostic**   to help check  our system for memory problems and see if it fixes this **Bad Pool Header** blue screen problem.
@@ -74,12 +82,14 @@ To do so:
 1. On your keyboard, press **the Windows logo key**  and type memory. Then click on **Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
 
@@ -95,16 +105,26 @@ To do so:
 1. FOn your keyboard, press the   **Windows logo key**  and **R**  at the same time. Then copy & paste **services.msc**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c0ed1f89.jpg)
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
 ---
@@ -115,18 +135,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check disk errors
 
  Disk check is a useful in-built  Windows tool that scans our hard disk and external drives for errors and fix them.
@@ -138,26 +146,8 @@ To do so:
 1. On your keyboard, press **the Windows logo key**   and **E**   at the same time. Then right-click on**Local Disk (C:)** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
@@ -175,8 +165,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +172,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>[New] 2024 Approved Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-speed-snapshot-and-voice-commentary-assistant-device-for-2024/"><u>[New] High-Speed Snapshot & Voice Commentary Assistant Device for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>[New] In 2024, Elevate Your Instagram Game Scouting the 8 Top Post Schedulers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-insights-for-importer-mastery-on-windows-10/"><u>2024 Approved Hidden Insights for Importer Mastery on Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/first-timers-and-children-choose-these-drone-models-for-2024/"><u>First-Timers & Children Choose These Drone Models for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-overcoming-0x00000116-bsod-issues-with-simple-steps/"><u>Guide: Overcoming 0X00000116 BSOD Issues with Simple Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-finest-tools-for-digital-snapping/"><u>In 2024, The Finest Tools for Digital Snapping</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>In 2024, Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/pnp-detected-fatal-error-on-windows-10-solved/"><u>PNP Detected Fatal Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-window-11s-atikmpagsys-error-during-video-playback-tdr/"><u>Resolved: Fixing Window 11'S 'atikmpag.sys' Error During Video Playback (TDR)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-troubleshooting-critical-system-failures-in-windows-11/"><u>Resolved: Troubleshooting Critical System Failures in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-phantom-taps-how-to-fix-unexplained-interactions-on-your-apple-watch-expert-advice-techwise/"><u>Solving 'Phantom Taps': How To Fix Unexplained Interactions on Your Apple Watch - Expert Advice | TechWise</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-to-fix-blue-screen-of-death-in-your-windows-7-system/"><u>Step-by-Step Solutions to Fix 'Blue Screen of Death' In Your Windows 7 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-errors-with-acpisys-on-windows-10/"><u>Troubleshooting and Resolving Errors with acpi.sys on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-clock-watchdog-timed-out-issue-to-prevent-bsods-in-windows-11/"><u>Understanding and Repairing the Clock Watchdog Timed Out Issue to Prevent BSODs in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/verwenden-sie-vlc-zum-erfolgreichen-ausschneiden-von-dvds-beheben-sie-haufig-auftretende-probleme-beim-vlc-rippen/"><u>Verwenden Sie VLC Zum Erfolgreichen Ausschneiden Von DVDs - Beheben Sie Häufig Auftretende Probleme Beim VLC-Rippen</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-event-tracing-identifying-and-solving-critical-failures-successfully/"><u>Windows 10 Event Tracing: Identifying & Solving Critical Failures Successfully</u></a></li>
+</ul></div>
 

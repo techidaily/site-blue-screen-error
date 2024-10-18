@@ -1,7 +1,7 @@
 ---
 title: "How to Combat Blue Screen of Death Caused by IaStora.sys: Fixes for a Smooth Operating System"
-date: 2024-10-06T21:27:43.391Z
-updated: 2024-10-11T21:25:11.735Z
+date: 2024-10-10T17:03:01.979Z
+updated: 2024-10-17T22:05:34.205Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  Note: Performing these methods requires getting into Windows GUI. If you can’t log into Windows at all, you should boot into **[Safe Mode with Networking](https://tools.techidaily.com/drivereasy/download/)**  at first, then perform these methods.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check SATA controller settings in BIOS
 
  When Driver PNP Watchdog error appears with a blue screen, it may relate to the BIOS settings. So you can check your BIOS settings in this way:
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  4) Find an option like**Storage Configuration** ,**IDE Configuration** , or**Drive Configuration** . Then press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-138.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Find an option like**Configure SATA** ,**SATA Mode** or**SATA Configuration** .
 
@@ -75,6 +75,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-555.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Copy and paste the following command into Command Prompt, and press**Enter** .
 
 sfc /scannow
@@ -85,15 +92,22 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-559.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type**exit** in Command Prompt and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-560.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your computer.
@@ -117,23 +131,9 @@ To utilize Fortect, all you have to do is:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -146,13 +146,6 @@ Here’s how to do it:
  1) Type**cmd** in the search box on your desktop, right-click**Command Prompt** (or**CMD** if you’re using Windows 7), and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-555.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Yes** to accept UAC if prompted.
 
@@ -222,16 +215,16 @@ If your Driver PNP Watchdog error persists, try the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-147.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish the process.
 
@@ -247,16 +240,16 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When you see the**Startup Repair** screen, click**Advanced Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-150.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Troubleshoot** .
 
@@ -291,15 +284,22 @@ You should make sure the Volume Shadow Copy service is running properly:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-152.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Make sure the**Startup type** is set to**Automatic** , and the**Service status** is**Running** . Then click**Apply** and**OK** to save your changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-153.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer.
 
@@ -327,18 +327,22 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-interactive-index-for-ig-and-tiktok-connection/"><u>[New] 2024 Approved The Interactive Index for IG & TikTok Connection</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-excellence-the-top-5-editing-strategies/"><u>[New] OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-kernel-mode-heap-corruption-error/"><u>[Solved] Kernel Mode Heap Corruption Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios/"><u>[Updated] In 2024, Unmasked Story Watching A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-live-broadcasting-uncovered-master-platform-selection/"><u>[Updated] Live Broadcasting Uncovered Master Platform Selection</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone X with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-persistent-bsod-from-ntkrnlmpexe-expert-strategies-and-solutions/"><u>Eliminating Persistent BSOD From 'ntkrnlmp.exe': Expert Strategies & Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-inshot-outshining-others-in-editing-features-in-2024/"><u>Is InShot Outshining Others in Editing Features, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-recording-mastery-with-lenovo-gear/"><u>Screen Recording Mastery with Lenovo Gear</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-free-virtual-reality-vr-players-for-all-devices-pc-mac-iphone-and-android/"><u>Top Free Virtual Reality (VR) Players for All Devices: PC, Mac, iPhone & Android</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-hardware-abstraction-layer-problems-during-windows-11-boot/"><u>Troubleshooting and Fixing Hardware Abstraction Layer Problems During Windows 11 Boot</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-classpnpsys-problems-in-windows-117-with-step-by-step-solutions/"><u>Troubleshooting Classpnp.sys Problems in Windows 11/7 with Step-by-Step Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-overcoming-internal-errors-in-video-planning-tools-on-windows-11/"><u>Ultimate Solution for Overcoming Internal Errors in Video Planning Tools on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-using-zoom-for-youtube-live-streams/"><u>[New] Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-networks-generating-social-media-sensations-for-2024/"><u>[New] Navigating Networks Generating Social Media Sensations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elite-file-sender-mp4-to-social/"><u>[Updated] Elite File Sender MP4 to Social</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-financial-fortune-with-facebook-video-marketing-key-strategies-explored-for-2024/"><u>[Updated] Financial Fortune with Facebook Video Marketing Key Strategies Explored for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-language-gurus-selection-of-top-30-tools-to-translate-videos/"><u>2024 Approved The Language Guru’s Selection of Top 30 Tools to Translate Videos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-overcome-the-notorious-blue-screen-error-from-nvpcnfsys/"><u>Comprehensive Strategies to Overcome the Notorious Blue Screen Error From nvpcnf.sys</u></a></li>
+<li><a href="https://article-helps.techidaily.com/drawdeck-master-review-and-teaching-companion-2024/"><u>DrawDeck Master Review & Teaching Companion 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-critical-process-died-error-stop-0x0000007b/"><u>Effective Solutions for Fixing the Critical Process Died Error (STOP: 0X0000007B)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-bad-system-configuration-bsod-fast-simple-steps-to-resolve/"><u>Fix 'Bad System Configuration' BSOD Fast: Simple Steps to Resolve</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x00000124-bsod-issue-in-windows-10-and-7-complete-guide/"><u>Fixing the 0X00000124 BSOD Issue in Windows 10 and 7 - Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-common-problems-of-counter-strike-2-not-opening-properly/"><u>Fixing the Common Problems of Counter-Strike 2 Not Opening Properly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/making-avatar-creation-a-breeze-in-the-digital-realm/"><u>Making Avatar Creation a Breeze in the Digital Realm</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-critical-error-solutions-for-windows-10-users/"><u>Netwtw04.sys Critical Error Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fltrmgrsys-bsod-error-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving the Fltrmgr.sys BSOD Error on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-d3dx924dll-file-missing-errors-on-your-computer/"><u>Solutions for Resolving d3dx9_24.dll File Missing Errors on Your Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-fixing-the-dreaded-machine-check-exception-and-preventing-bsod-on-your-windows-10-system/"><u>Step-by-Step Solutions for Fixing the Dreaded Machine Check Exception and Preventing BSoD on Your Windows 10 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-to-your-storahcisys-bsod-problem-in-windows-computers/"><u>Ultimate Solution to Your Storahci.sys BSOD Problem in Windows Computers</u></a></li>
 </ul></div>
 

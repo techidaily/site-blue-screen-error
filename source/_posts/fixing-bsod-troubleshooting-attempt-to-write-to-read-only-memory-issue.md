@@ -1,7 +1,7 @@
 ---
 title: "Fixing BSOD: Troubleshooting 'Attempt to Write to Read-Only Memory' Issue"
-date: 2024-08-30T12:22:35.924Z
-updated: 2024-08-31T12:22:35.924Z
+date: 2024-10-13T21:27:01.185Z
+updated: 2024-10-17T18:58:01.305Z
 tags:
   - win11
   - win10
@@ -39,16 +39,10 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a73679e06.png)
 
  If you have recently installed more than one application, just repeat the above procedure.
@@ -65,16 +59,10 @@ You can follow the instruction below to remove certain applications:
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/roll-back-driver.jpg)
 
  4) If the**Roll Back Driver** option here is**grey** , you will not be able to use this function. You could choose to do a[**System Restore**](https://tools.techidaily.com/drivereasy/download/) instead.
@@ -85,9 +73,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Type**event viewer** in the search box in the Start panel, then choose**Event Viewer** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b1f4d3bf9.jpg)
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
@@ -100,9 +85,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
@@ -135,8 +117,6 @@ You can follow the instruction below to remove certain applications:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +124,28 @@ You can follow the instruction below to remove certain applications:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-page-fault-in-nonpaged-area-error-in-windows-10/"><u>[Fixed] Page Fault In Nonpaged Area Error in Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-embrace-innovation-the-art-of-photo-video-making-with-pixiz-for-2024/"><u>[New] Embrace Innovation The Art of Photo-Video Making with Pixiz for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-pinnacle-of-bike-gaming-adventures/"><u>[New] The Pinnacle of Bike Gaming Adventures</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-list-of-top-10-tiktok-analytic-software/"><u>[Updated] 2024 Approved The Ultimate List of Top 10 TikTok Analytic Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-ultimate-selection-premium-wireless-computer-mice-reviewed/"><u>2024'S Ultimate Selection: Premium Wireless Computer Mice Reviewed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeated-error-0xc0000017-proven-repair-strategies-for-a-healthy-computer-system/"><u>DEFEATED: Error 0xC0000017 - Proven Repair Strategies for a Healthy Computer System</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-qbittorrent-performance-after-a-halt/"><u>Enhancing qBittorrent Performance After a Halt</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199723510-epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-to-installing-microsoft-sound-drivers-on-windows/"><u>Free Download: Ultimate Guide to Installing Microsoft Sound Drivers on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-correct-system-services-failure-on-your-windows-11-pc/"><u>How to Troubleshoot and Correct System Services Failure on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/lensbisection-inspection-for-2024/"><u>LensBisection Inspection for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-internal-energy-disruptions-on-your-pc-running-windows-11/"><u>Overcoming Internal Energy Disruptions on Your PC Running Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-storport-syscrash-errors-a-step-by-step-guide-for-windows-11-users/"><u>Resolve StorPort SysCrash Errors: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mystery-of-sleepless-nights-with-a-fellow-metaverse-enthusiast-insights-from-zdnet/"><u>Unveiling the Mystery of Sleepless Nights with a Fellow Metaverse Enthusiast - Insights From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

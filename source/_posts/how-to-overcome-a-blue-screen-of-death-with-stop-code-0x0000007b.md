@@ -1,7 +1,7 @@
 ---
 title: How to Overcome a Blue Screen of Death with STOP Code 0X0000007B
-date: 2024-10-05T19:58:26.991Z
-updated: 2024-10-12T01:53:58.107Z
+date: 2024-10-12T23:07:05.045Z
+updated: 2024-10-17T17:50:50.591Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
@@ -51,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
@@ -79,22 +79,15 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
@@ -121,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -138,21 +138,18 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mi-drone-4k-flight-insights-and-features/"><u>[New] 2024 Approved Mi Drone 4K Flight Insights & Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc-for-2024/"><u>[New] Building Blocks to Brilliance Crafting Circles and Spheres in MC for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-joyful-jokes-on-pixels-35-best-mobile-apps/"><u>[Updated] Joyful Jokes on Pixels 35 Best Mobile Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-global-linguists-guide-to-top-28-applications-for-seamless-translation/"><u>2024 Approved The Global Linguist's Guide to Top 28 Applications for Seamless Translation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/basf-se/"><u>BASF SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-apcindexmismatch-blue-screen-error/"><u>Fix: APC_INDEX_MISMATCH Blue Screen Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199741078-how-to-correct-the-bad-pool-caller-bug-on-your-windows-10-system-today/"><u>How to Correct the 'Bad Pool Caller' Bug on Your Windows 10 System Today!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-error-on-windows-11-8-and-7/"><u>How to Fix the 'Bad Pool Header' Error on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199748241-how-to-repair-a-fatal-unmountablebootvolume-bug-in-windows-10-easily/"><u>How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-steam-display-fixes-on-microsoft-os/"><u>Mastering Steam Display Fixes on Microsoft OS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ct-your-yt-profile-expert-tips-for-channel-descriptors/"><u>Perfect Your YT Profile Expert Tips for Channel Descriptors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/rolls-royce-group-plc/"><u>Rolls-Royce Group Plc</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/stream-like-a-pro-fb-live-tips-2023-for-2024/"><u>Stream Like a Pro FB Live Tips 2023 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-10-roguelike-or-roguelite-games-for-2024/"><u>Top 10 Roguelike or Roguelite Games for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-melding-music-and-media-the-reel-rhythm-guide-for-2024/"><u>[Updated] Melding Music and Media The Reel Rhythm Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/an-introduction-to-effective-image-previews/"><u>An Introduction to Effective Image Previews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975778174-enhance-performance-now-get-the-latest-rtx-2080-super-drivers-for-windows-users/"><u>Enhance Performance Now: Get the Latest RTX 2080 Super Drivers for Windows Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-storportsys-bsod-in-windows-10/"><u>How to Fix storport.sys BSOD in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-resolving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>In 2024, Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-receiving-a-new-paradigm-in-openings/"><u>In 2024, Revolutionizing Receiving A New Paradigm in Openings</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaverse-vs-virtual-reality-insights-6-key-distinctions-explored/"><u>Metaverse Vs. Virtual Reality Insights: 6 Key Distinctions Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-for-troubleshooting-and-repairing-a-corrupted-pfn-list-in-windows-10/"><u>Tips for Troubleshooting and Repairing a Corrupted PFN List in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracking-chatgpts-health-today/"><u>Tracking ChatGPT's Health Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hypervisor-errors-leading-to-bsod-crashes-on-windows-11-systems/"><u>Troubleshooting Hypervisor Errors Leading to BSoD Crashes on Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
 </ul></div>
 

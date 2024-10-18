@@ -1,7 +1,7 @@
 ---
 title: Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors
-date: 2024-10-07T17:44:18.890Z
-updated: 2024-10-11T16:44:10.225Z
+date: 2024-10-12T01:00:24.220Z
+updated: 2024-10-17T21:40:06.357Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **First Thing First**
 
  Before we go any further, please make sure that you’ve done the following things:
@@ -57,24 +50,18 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
 
@@ -113,19 +100,19 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
@@ -149,22 +136,15 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
@@ -175,10 +155,23 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Other options**
@@ -192,6 +185,13 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -219,15 +219,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-free-mindset-audio-selection/"><u>[New] Free Mindset Audio Selection</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-share-vimeo-video-online/"><u>[New] How to Share Vimeo Video Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ace-bgm-selection-perfect-backdrops-for-video-calling-for-2024/"><u>[Updated] Ace BGM Selection Perfect Backdrops for Video Calling for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-toms-in-depth-hardware-analysis/"><u>Navigate the World of Tech with Tom's In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/"><u>New Trim VLC Videos on Mac with Ease No Quality Loss Guaranteed for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-bsod-errors-caused-by-system-configuration-quick-remedies-inside/"><u>Stop BSOD Errors Caused by System Configuration - Quick Remedies Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-correcting-fat-file-system-problems-in-windows-10/"><u>Troubleshooting Guide: Correcting FAT File System Problems in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199750884-troubleshooting-the-poor-connection-quality-message-in-windows-11-resolved/"><u>Troubleshooting the 'Poor Connection Quality' Message in Windows 11 – Resolved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unexpected-store-exception-error-in-windows-11-solved/"><u>Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>[Updated] In 2024, Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>[Updated] In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-dji-phantom-3-pros-innovations/"><u>2024 Approved Navigating the DJI Phantom 3 Pro's Innovations</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/best-techniques-for-moving-images-from-pc-to-ios-device/"><u>Best Techniques for Moving Images From PC to iOS Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dpc-violation-alert-overcome-the-challenge-in-a-matter-of-minutes-tutorial/"><u>DPC Violation Alert? Overcome the Challenge in a Matter of Minutes! (Tutorial)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-eradicating-blue-screen-of-death-error-code-0xc000021a-in-windows-108/"><u>Expert Advice: Eradicating 'Blue Screen of Death' Error Code 0xC000021A in Windows 10/8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-windows-11-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 11 Thread Stuck in Device Driver Error. Easily</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-restore-classpnpsys-for-optimal-performance-in-windows-10-and-7-environments-final/"><u>How to Restore CLASSPNP.SYS for Optimal Performance in Windows 10 & 7 Environments [FINAL]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/nmi-hardware-failure-blue-screen-of-death-bsod-issue-resolved/"><u>NMI Hardware Failure Blue Screen of Death (BSoD) Issue Resolved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-page-fault-errors-in-paging-areas/"><u>Resolving Windows 10 Page Fault Errors in Paging Areas</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-voice-mail-issues-a-guide-to-nine-effective-fixes/"><u>Solve iPhone Voice Mail Issues: A Guide to Nine Effective Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-critical-kernel-errores-triggering-bsod-on-your-windows-11-machine/"><u>Step-by-Step Fix for Critical Kernel Errores Triggering BSOD on Your Windows 11 Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/swapped-my-expensive-tech-for-affordable-xr-alternatives-find-out-why/"><u>Swapped My Expensive Tech for Affordable XR Alternatives - Find Out Why!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-mod-files-into-avi-format-free-of-charge-with-onlinemovavi-tool/"><u>Transform Your MOD Files Into AVI Format Free of Charge with OnlineMovavi Tool</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-caused-by-pfn-list-corruption-on-windows-11-solutions-and-tips/"><u>Troubleshooting BSOD Caused by PFN List Corruption on Windows 11: Solutions and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-issues-when-your-mac-app-wont-launch/"><u>Ultimate Guide: Resolving Issues When Your Mac App Won't Launch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A59 5G | Dr.fone</u></a></li>
 </ul></div>
 

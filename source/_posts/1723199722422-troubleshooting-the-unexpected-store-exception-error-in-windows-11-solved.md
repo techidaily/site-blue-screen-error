@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved
-date: 2024-10-04T18:41:07.764Z
-updated: 2024-10-11T18:46:19.223Z
+date: 2024-10-11T19:18:59.464Z
+updated: 2024-10-17T18:25:07.295Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -80,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
@@ -111,19 +104,19 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -137,6 +130,13 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,21 +162,17 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-picks-excellent-mac-based-video-snatchers/"><u>[New] 2024 Approved Prime Picks Excellent Mac-Based Video Snatchers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones/"><u>[New] 2024 Approved Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-30-pro-windows-10-secrets-revealed/"><u>[New] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-win32kbasesys-blue-screen-error-on-windows-1110/"><u>[Solved] Win32kbase.sys Blue Screen Error on Windows 11/10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>[Updated] Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199742941-comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/conquering-the-top-5-common-instagram-video-issues-for-2024/"><u>Conquering the Top 5 Common Instagram Video Issues for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199733618-critical-service-crash-to-blue-screen-of-death-solving-windows-11-issues-with-ease/"><u>Critical Service Crash to Blue Screen of Death? Solving Windows 11 Issues with Ease!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-navigating-and-correcting-bsod-glitches-in-windows-11/"><u>Expert Advice: Navigating and Correcting BSOD Glitches in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-chatgpt-strategies-for-composing-an-entire-poetry-book/"><u>Harnessing the Power of ChatGPT: Strategies for Composing an Entire Poetry Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s23-fe-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S23 FE to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-realme-gt-5-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Realme GT 5</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-kernel-mode-memory-management-bug-a-step-by-step-guide/"><u>Resolving the 'Kernel Mode Memory Management' Bug: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-bluscreen-issues-the-dxgkrnl-error-explained-and-fixed/"><u>Resolving Windows 10 BluScreen Issues: The Dxgkrnl Error Explained and Fixed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-driver-verifier-error-solutions-for-bsod-in-windows-11/"><u>Troubleshooting the Driver Verifier Error: Solutions for BSOD in Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-yuva-3-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Yuva 3 FRP Bypass</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-a-compreited-chronological-catalog-of-your-image-collection-for-2024/"><u>[New] A Compreited Chronological Catalog of Your Image Collection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-voice-over-advantage-elevating-video-quality/"><u>2024 Approved The Voice-Over Advantage Elevating Video Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-lens-on-innovation-how-hdri-redefines-video-production-standards/"><u>A Lens on Innovation How HDRI Redefines Video Production Standards</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressing-key-component-deterioration-on-your-windows-11-machine-solution-found/"><u>Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beat-the-blues-10-entertaining-games-that-tackle-boredom-head-on/"><u>Beat the Blues: 10 Entertaining Games That Tackle Boredom Head-On</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-system-failures-stop-the-criticalservice-failed-bluescreen-on-windows-11/"><u>How To Recover From System Failures: Stop the 'CRITICAL_SERVICE Failed' Bluescreen on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-rise-of-domestic-chinese-cpu-technology-in-lenovo-computers-and-beyond-five-more-brands/"><u>The Rise of Domestic Chinese CPU Technology in Lenovo Computers and Beyond Five More Brands</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-on-windows-versions-tutorials-available/"><u>Troubleshooting and Repairing 'Bad Pool Header' On Windows Versions - Tutorials Available</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-error-on-your-windows-11-pc/"><u>Troubleshooting and Repairing NTFS Error on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11s-malfunctioning-screen-brightness-feature/"><u>Troubleshooting Windows 11'S Malfunctioning Screen Brightness Feature</u></a></li>
 </ul></div>
 

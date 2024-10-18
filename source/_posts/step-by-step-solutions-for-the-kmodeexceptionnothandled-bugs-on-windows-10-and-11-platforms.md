@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms
-date: 2024-10-06T17:23:20.477Z
-updated: 2024-10-11T19:22:54.639Z
+date: 2024-10-16T00:49:39.600Z
+updated: 2024-10-17T20:53:34.590Z
 tags:
   - win11
   - win10
@@ -27,33 +27,20 @@ Driver Verifier is built in every version of Windows operating system. It monito
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Reinstall your graphic card driver
 
  Mostly, the graphic card driver like NVIDIA, Intel or AMD is the culprit behind this BSOD error. Reinstall graphic card driver helped many users fix the issue. Thus you can give it a shot.
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
@@ -81,10 +68,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -99,11 +93,25 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
 
@@ -120,23 +128,9 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -170,14 +164,16 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-online-marketplaces-for-partnering-with-youtube-content-makers/"><u>[Updated] In 2024, Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-refined-lineup-of-conversation-starters-for-podcasting/"><u>[Updated] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-11-keys-to-unlock-the-power-of-grading-precision/"><u>2024 Approved 11 Keys to Unlock the Power of Grading Precision</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-solving-youtube-pixel-monotony-a-quick-guide/"><u>2024 Approved Solving YouTube Pixel Monotony A Quick Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-a-blue-screen-when-playing-videos-with-dxgkrnl-driver-on-windows-11-solutions/"><u>How to Resolve a Blue Screen When Playing Videos with Dxgkrnl Driver on Windows 11 [Solutions]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fix-deadly-system-issues-on-your-windows-10-computer/"><u>Step-by-Step Guide to Fix Deadly System Issues on Your Windows 10 Computer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-the-blue-screen-nightmare-overcoming-error-0xc000021a-in-windows-11-and-8-your-complete-fixer/"><u>Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-substitute-options-for-openais-sora-offering-no-cost-access-to-state-of-the-art-ai/"><u>Top 5 Substitute Options for OpenAI's Sora, Offering No Cost Access to State-of-the-Art AI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-kmodeexceptionnothandled-mistake-in-windows-11-and-windows-10/"><u>Troubleshooting the KMODE_Exception_Not_Handled Mistake in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-secret-art-of-crafting-podcast-narratives/"><u>[New] Discover the Secret Art of Crafting Podcast Narratives</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-crossing-over-attending-tiktok-live-gigs-easily/"><u>[New] In 2024, Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-steps-to-build-a-hidden-snapstory-collection-for-2024/"><u>[New] Steps to Build a Hidden Snapstory Collection for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-grasping-the-advantages-of-av1-in-video-coding-for-2024/"><u>[Updated] Grasping the Advantages of AV1 in Video Coding for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-extracting-srt-from-a-zip-archive/"><u>[Updated] Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bayer-ag/"><u>Bayer AG</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-netiosys-blue-screen-of-death-in-windows-systems/"><u>Effective Solutions for the NETIO.SYS Blue Screen of Death in Windows Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ex-netflix-subscribers-rejoice-get-your-first-redbox-discs-free-of-charge/"><u>Ex-Netflix Subscribers Rejoice! Get Your First Redbox Discs Free of Charge.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-overcome-whea-unrecoverable-bsod-mistakes/"><u>How to Successfully Overcome WHEA Unrecoverable BSOD Mistakes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-pcs-disk-space-with-a-simple-guide-to-trimming-windows-11s-prefetch-folders/"><u>Optimize Your PC's Disk Space with a Simple Guide to Trimming Windows 11'S Prefetch Folders</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-win32kfullsys-bsod-a-comprehensive-guide/"><u>Resolving Win32kFull.sys BSOD: A Comprehensive Guide</u></a></li>
 </ul></div>
 

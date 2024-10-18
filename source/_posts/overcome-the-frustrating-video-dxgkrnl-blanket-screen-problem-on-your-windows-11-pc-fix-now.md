@@ -1,7 +1,7 @@
 ---
 title: Overcome the Frustrating Video Dxgkrnl Blanket Screen Problem on Your Windows 11 PC [Fix Now]
-date: 2024-10-09T00:32:37.578Z
-updated: 2024-10-11T18:19:54.092Z
+date: 2024-10-10T21:45:05.416Z
+updated: 2024-10-18T00:24:01.109Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -51,10 +44,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -65,18 +58,34 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 2. Type**mdsched.exe** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-25.jpg)
 3. Click**Restart now and check for problems(recommended)** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
-4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
+4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
+
 After the testing, Windows will restart automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -90,10 +99,16 @@ After the testing, Windows will restart automatically.
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
@@ -110,20 +125,13 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go on to follow the on-screen instructions to install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -199,18 +207,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-slomo-app-assessment-insights/"><u>2024 Approved Ultimate SloMo App Assessment - Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-kinemaster-meme-wizard/"><u>Become a KineMaster Meme Wizard</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/event-tracing-fatal-error-windows-10-solved/"><u>Event Tracing Fatal Error Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-meizu-21-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Meizu 21 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-10-system-service-failure-issue-step-by-step-guide/"><u>How to Fix 'Windows 10 System Service Failure' Issue – Step by Step Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>In 2024, Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-hot-30i-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Hot 30i Phones</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-windows-10-bsod-error-caused-by-machine-check-exception-with-proven-fixes/"><u>Resolve Windows 10 BSoD Error Caused by Machine Check Exception with Proven Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-0x0000007e-issue-windows-7-solutions/"><u>Resolving the BSOD 0X0000007E Issue - Windows 7 Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-getting-started-with-pokemon-go/"><u>The Ultimate How-To: Getting Started with Pokémon GO</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-resolving-stop-error-code-0x0000001a/"><u>Troubleshooting Guide - Resolving Stop Error Code 0X0000001A</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-the-netgear-nighthawk-x4-a-revolutionary-mesh-wi-fi-extender-compared/"><u>Unveiling the Power of the Netgear Nighthawk X4: A Revolutionary Mesh Wi-Fi Extender Compared</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199692124-windows-amines-and-how-to-solve-them/"><u>Windows Amines and How to Solve Them.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-unmatched-picture-quality-on-zoom-platforms/"><u>[New] Achieving Unmatched Picture Quality on Zoom Platforms</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-fixing-critical-failure-with-dxgmms2sys-error-message-on-windows-11/"><u>Comprehensive Guide: Fixing Critical Failure with dxgmms2.sys Error Message on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-critical-unmountable-boot-volume-error-in-windows-10-for-smooth-operation/"><u>Expert Tips to Overcome the Critical Unmountable Boot Volume Error in Windows 10 for Smooth Operation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-behringer-usb-interface-drivers-for-premium-sound/"><u>Free Download: Behringer USB Interface Drivers for Premium Sound</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c12-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C12 Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-post-with-a-podcast-highlight-moment/"><u>In 2024, Post with a Podcast Highlight Moment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-vs-iphone-14-assessing-value-and-performance-for-your-next-smartphone-update-techinsight/"><u>IPhone 16 Vs. IPhone 14: Assessing Value & Performance for Your Next Smartphone Update | TechInsight</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-initialization-errors-on-windows-11-a-complete-solution-guide/"><u>Troubleshooting HAL Initialization Errors on Windows 11: A Complete Solution Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/violating-copyrights-in-video-posting-what-are-the-consequences/"><u>Violating Copyrights in Video Posting What Are the Consequences?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-blue-screens-master-tips-for-resolving-error-0x0000001a/"><u>Winning Against Blue Screens: Master Tips for Resolving Error 0X0000001A</u></a></li>
 </ul></div>
 

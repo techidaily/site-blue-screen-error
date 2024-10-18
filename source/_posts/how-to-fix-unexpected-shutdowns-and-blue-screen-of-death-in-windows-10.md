@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unexpected Shutdowns and Blue Screen of Death in Windows 10
-date: 2024-08-30T12:23:53.270Z
-updated: 2024-08-31T12:23:53.270Z
+date: 2024-10-14T18:44:27.221Z
+updated: 2024-10-17T16:34:51.973Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ You can follow the instruction below to remove certain applications:
 
  1) Press the Start button, then choose Control Panel. Then choose Uninstall a program option under the**Programs** category in the view of**Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853a6fc3b5aa-600x349.jpg)
 
  2) Then right-click the newly installed application and choose**Uninstall** .
@@ -56,19 +53,12 @@ You can follow the instruction below to remove certain applications:
 
  1) Go to**Safe Mode** first. For more information as to how to get to Safe Mode, please refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) Press the Windows logo![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bda07f0c7.png) and**R** keys at the same time. Then type**devmgmt.msc** in the run box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/devmgmt-msc.png)
 
  2) In**Device Manager** , locate the device that you would like to roll back the driver to. Right-click the device name and choose**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816bdbabd864.jpg)
 
  3) Go to**Driver** tab, and choose**Roll Back Driver** .
@@ -87,10 +77,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) On the left pane, expand the Windows Logs option and then choose System. Then you will be able to see the event log of your system. Check to see if you can spot any unusual events happening at the same time as the blue screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853b260e5d11-600x416.jpg)
   
  Or, you can[**perform a refresh**](https://tools.techidaily.com/drivereasy/download/) .
@@ -99,16 +85,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** from the list of choices.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5853af56c2ced.png)
 
  2) Type in the following command:**chkdsk /f /r** , then hit the**Enter** button. Then press**Y** to agree with the check-up next time you start your computer. System file checker will help you identify, repair and fix bad sectors if it finds any of them on your hard disk.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/chkdsk-f-r-y.jpg)
 
  Or you can use[**Fortect**](https://tools.techidaily.com/drivereasy/download/) to repair any corrupted system files that may be the culprit of the blue screen of death.
@@ -137,8 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +124,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quick-guide-to-free-youtube-closure-creation/"><u>[New] 2024 Approved Quick Guide to Free YouTube Closure Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premiers-top-12-gps-enhanced-surveillance-cameras/"><u>[Updated] 2024 Approved Premier's Top 12 GPS-Enhanced Surveillance Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>[Updated] In 2024, Cinema Chronicles The Quintessential Cinematographic Tips for '24</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-master-the-art-of-instagram-looped-footage/"><u>[Updated] Master the Art of Instagram Looped Footage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/automating-your-viewing-on-facebook-a-step-by-step-guide-for-2024/"><u>Automating Your Viewing on Facebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-explained-step-by-step-solution-for-asmthcisys-blue-screen-issue/"><u>BSOD Explained - Step-by-Step Solution for 'asmthci.sys' Blue Screen Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-thrustmaster-t300-racing-wheel-software-compatible-with-windows-11-and-10/"><u>Download Thrustmaster T300 Racing Wheel Software Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-steps-to-access-windows-10-advanced-startup-settings/"><u>Easy Steps to Access Windows 10 Advanced Startup Settings</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-the-fixed-unexpected-store-exception-error-in-windows-10-systems/"><u>How to Correctly Address the Fixed 'Unexpected Store Exception' Error in Windows 10 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-itel-p55plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel P55+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-windows-tdr-troubleshooting-fixes-and-explanations-for-atikmpagsys-failures/"><u>Mastering Windows # TDR Troubleshooting: Fixes and Explanations for Atikmpag.sys Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/trouble-with-rtkvhd64sys-heres-how-you-can-resolve-the-bsod-problem/"><u>Trouble with rtkvhd64.sys? Here's How You Can Resolve the BSOD Problem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-correcting-windows-7s-notorious-blue-screen-issue/"><u>Troubleshooting and Correcting Windows 7'S Notorious Blue Screen Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successful-how-to-fix-blue-screen-caused-by-kernel-memory-issues-within-pages/"><u>Troubleshooting Successful: How to Fix 'Blue Screen' Caused by Kernel Memory Issues Within Pages</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-to-do-when-your-nvidia-output-is-disconnected-top-fix-strategies-revealed/"><u>What to Do When Your NVIDIA Output Is Disconnected? Top Fix Strategies Revealed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

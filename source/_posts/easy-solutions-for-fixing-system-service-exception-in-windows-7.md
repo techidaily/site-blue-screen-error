@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions for Fixing 'System Service Exception' In Windows 7
-date: 2024-10-10T17:23:16.452Z
-updated: 2024-10-11T18:09:32.968Z
+date: 2024-10-10T23:40:37.069Z
+updated: 2024-10-17T16:39:44.329Z
 tags:
   - win11
   - win10
@@ -33,17 +33,37 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
@@ -67,6 +87,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update your device drivers
 
  The error can often be also caused by outdated or incompatible drivers. If reinstall your graphic card driver didn’t help you fix it, please update other device drivers.
@@ -86,10 +113,10 @@ Then Windows will search the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
@@ -103,34 +130,13 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -164,24 +170,14 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-discover-retro-your-path-to-facebook-archives/"><u>[New] 2024 Approved Discover Retro Your Path to Facebook Archives</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-your-soundtrack-anytime-anywhere-6-top-ranked-free-apps-to-download-youtube-music/"><u>[New] 2024 Approved Your Soundtrack, Anytime, Anywhere 6 Top-Ranked Free Apps to Download Youtube Music</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-harvest-happiness-best-agricultural-titles-to-play-with-friends/"><u>[Updated] Harvest Happiness Best Agricultural Titles to Play With Friends</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-techniques-for-recording-your-youtube-events/"><u>[Updated] In 2024, Optimal Techniques for Recording Your YouTube Events</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-must-have-luts-to-transform-your-lightroom-images-for-2024/"><u>10 Must-Have LUTs to Transform Your LightRoom Images for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199729012-blue-screen-blues-heres-how-to-fix-stop-error-0x00000050-on-your-winodws-7-pc/"><u>Blue Screen Blues? Here's How to Fix Stop Error 0X00000050 on Your Winodws 7 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-correctly-address-and-repair-storportsys-bsod-errors-on-a-windows-10-machine/"><u>Comprehensive Strategies to Correctly Address and Repair Storport.sys BSOD Errors on a Windows 10 Machine</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-bad-system-config-info-blue-screen-troubleshooting/"><u>Easy Fix Guide: Bad System Config Info Blue Screen Troubleshooting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-stop-bsod-error-caused-by-asmtxhci-driver-failure/"><u>Effective Strategies to Stop BSOD Error Caused by ASMTXHCI Driver Failure</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-resolved-windows-10-blue-screen-with-dxgmms2-error/"><u>Fixing the [RESOLVED] Windows 10 Blue Screen with DxGmmS2 Error</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/gopro202-user-what-is-the-name-of-the-structure-that-contains-a-spinal-nerve-as-it-leaves-the-intervertebral-foramen/"><u>GoPro動画編集ソフトウェアのランキング：202 [User]: What Is the Name of the Structure that Contains a Spinal Nerve as It Leaves the Intervertebral Foramen?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-an-internal-power-failure-problem-in-windows-11-easily-and-quickly/"><u>How to Fix an Internal Power Failure Problem in Windows 11 Easily and Quickly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-10/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-6-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Magic 6 Lock Screen Password?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-asus-rog-phone-8-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Asus ROG Phone 8 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-your-edits-with-top-15-affordable-web-based-editors-2023-for-2024/"><u>Master Your Edits with Top 15 Affordable Web-Based Editors, 2023 for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-dxgkrnl-bluescreen-obstacle-in-windows-10-a-comprehensive-fix/"><u>Overcoming the 'Dxgkrnl' Bluescreen Obstacle in Windows 10: A Comprehensive Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/section-2a-understanding-pituitamo-secreting-tumors/"><u>Section 2A: Understanding Pituitamo-Secreting Tumors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-windows-11-boot-failure-due-to-unreadable-drive-see-pictures/"><u>Step-by-Step Fix for Windows 11 Boot Failure Due to Unreadable Drive – See Pictures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-eyes-on-the-digital-winners-top-channels/"><u>[New] 2024 Approved Eyes on the Digital Winners Top Channels</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-volsnapsys-bsod-issues-and-prevent-blue-screen-crashes-on-your-windows-pc/"><u>Fix Volsnap.sys BSOD Issues & Prevent Blue Screen Crashes on Your Windows PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-driver-overran-stack-buffer-blue-screen-error/"><u>How to Fix DRIVER OVERRAN STACK BUFFER Blue Screen Error</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y77t-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y77t FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-yuva-3-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Lava Yuva 3</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-network-servers-stacks-and-cases-expert-reviews/"><u>Leading Network Servers Stacks & Cases - Expert Reviews</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11-bsod-the-clock-watchdog-timout-dilemma/"><u>Resolving Windows 11 BSoD: The 'Clock Watchdog Timout' Dilemma</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-error-on-windows-10-blue-screen-troubleshooting-steps-and-solutions/"><u>UNMOUNTABLE_BOOT_VOLUME Error on Windows 10 Blue Screen: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/utilizing-open-source-for-broadcasting-workshops/"><u>Utilizing Open-Source for Broadcasting Workshops</u></a></li>
 </ul></div>
 

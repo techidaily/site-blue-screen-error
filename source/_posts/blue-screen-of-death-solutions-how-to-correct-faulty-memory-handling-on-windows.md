@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows"
-date: 2024-10-13T18:08:07.084Z
-updated: 2024-10-18T00:46:12.190Z
+date: 2024-10-21T19:36:42.944Z
+updated: 2024-10-23T17:30:09.082Z
 tags:
   - win11
   - win10
@@ -69,8 +69,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
@@ -86,21 +100,20 @@ To do so:
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
@@ -115,13 +128,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Check disk errors
 
  Disk check is a useful in-built  Windows tool that scans our hard disk and external drives for errors and fix them.
@@ -134,25 +140,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
 
@@ -178,19 +184,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[Updated] 2024 Approved Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-ultimate-guide-to-downloading-films-from-sockshare-in-multiple-formats-mp4-mov-avi/"><u>1. Ultimate Guide to Downloading Films From Sockshare in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-getting-started-with-pro-level-youtube-tech/"><u>2024 Approved Getting Started with Pro-Level YouTube Tech</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-kernal-security-check-errors-in-windows-10-a-step-by-step-fix/"><u>Effective Solutions for Kernal Security Check Errors in Windows 10 - A Step-by-Step Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-guide-overcoming-windows-10-bsod-how-to-address-critical-process-died-mishaps-effectively/"><u>Expert Guide: Overcoming Windows 10 BSOD – How to Address Critical Process Died Mishaps Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-clock-watchdog-timeout-bluescreen-issue-on-windows-10/"><u>Fixing the Clock Watchdog Timeout Bluescreen Issue on Windows 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/golden-age-gains-through-new-languages/"><u>Golden Age Gains Through New Languages</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-and-troubleshooted-dxgmms2sys-error-leading-to-blue-screens-in-windows-e/"><u>How to Correctly Address and [TROUBLESHOOTED] DxGmmS2.sys Error Leading to Blue Screens in Windows E</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pixel-fold-2-sneak-peek-expected-price-tag-launch-date-and-features-what-to-know-now/"><u>Pixel Fold 2 Sneak Peek: Expected Price Tag, Launch Date & Features - What to Know Now</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-nopexec-memory-errors-for-smooth-windows-operations/"><u>Solving 'Nopexec' Memory Errors for Smooth Windows Operations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-comprehensive-tutorial-on-separating-soundtracks-from-moving-images/"><u>The Comprehensive Tutorial on Separating Soundtracks From Moving Images</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/toms-tech-review-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-troubleshooting-fixing-the-stop-code-0x0000007e-bsod/"><u>Windows 7 Troubleshooting: Fixing the STOP Code 0X0000007E BSOD</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-fraud-busters-efficient-and-economical-methods/"><u>[Updated] 2024 Approved Instagram Fraud Busters Efficient & Economical Methods</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1726223593518-aiffm4a-movavi/"><u>免費線上AIFF至M4A音效轉換 - Movavi音效變更工具</u></a></li>
+<li><a href="https://fox-within.techidaily.com/windows-11samsung/"><u>如何在Windows 11下成功迁移SAMSUNG设备的信息：步骤指南及其他有效方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eads-eadsbpa/"><u>EADS EADSB.PA</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-boosting-videos-the-best-5-tech-aids/"><u>In 2024, Boosting Videos The Best 5 Tech Aids</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/master-the-troubleshooting-of-device-driver-problems-halting-windows-10-performance/"><u>Master the Troubleshooting of 'Device Driver' Problems Halting Windows 10 Performance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/metro-ag/"><u>Metro AG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-ways-for-a-boom-in-youtube-viewership-top-12-methods/"><u>Proven Ways for a Boom in YouTube Viewership (Top 12 Methods)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Moto G14</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-pc-crisis-with-error-0x000000ea-in-depth-analysis-and-solutions/"><u>Resolve Your PC Crisis with Error 0X000000EA - In-Depth Analysis & Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-to-deal-with-stop-code-0x0000009f-on-your-pc/"><u>Step-by-Step Solutions to Deal with STOP Code 0X0000009F on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-techniques-for-fixing-bsod-bad-pool-header-problems-on-microsofts-latest-os/"><u>Step-by-Step Techniques for Fixing BSOD: Bad Pool Header Problems on Microsoft's Latest OS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-blue-screens-expert-tips-for-fixing-0x000ptr00000124-on-windows-pcs-win10win7/"><u>Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/streamline-your-content-upload-instagram-videos-from-desktop-for-2024/"><u>Streamline Your Content Upload Instagram Videos From Desktop for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-mohu-leaf-30-antenna-high-performance-at-great-price/"><u>The Ultimate Guide to the Mohu Leaf 30 Antenna: High-Performance at Great Price</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-driver-corruptedexpool-errors-in-windows-10-systems/"><u>Ultimate Solution for 'DRIVER CORRUPTED_EXPOOL' Errors in Windows 10 Systems</u></a></li>
 </ul></div>
 

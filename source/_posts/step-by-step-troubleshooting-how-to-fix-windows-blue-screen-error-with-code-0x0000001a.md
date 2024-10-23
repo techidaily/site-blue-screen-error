@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2024-10-14T23:29:21.335Z
-updated: 2024-10-17T22:16:40.151Z
+date: 2024-10-18T19:56:31.892Z
+updated: 2024-10-23T17:26:30.861Z
 tags:
   - win11
   - win10
@@ -43,17 +43,31 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
@@ -69,22 +83,15 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -138,18 +138,22 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-pnp-watchdog-bsod-error/"><u>[Fixed] Driver PNP Watchdog BSoD Error</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>2024 Approved Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-review-of-movavi-video-editor-plus-users/"><u>2024 Approved The Complete Review of Movavi Video Editor Plus Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/addressed-core-structural-flaws-within-microsofts-newest-os-version/"><u>Addressed Core Structural Flaws Within Microsoft's Newest OS Version</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/boost-engagement-syncing-youtube-and-facebook/"><u>Boost Engagement Syncing YouTube and Facebook</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dpc-watchguard-compliance-issue-steps-to-resolve-quickly-and-effectively/"><u>Fixing the DPC Watchguard Compliance Issue: Steps to Resolve Quickly and Effectively</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-tools-for-transforming-and-uploading-home-videos-to-youtube-effortlessly/"><u>Free Tools for Transforming and Uploading Home Videos to YouTube Effortlessly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-driver-caused-system-crash-bug-a-step-by-step-solution/"><u>How to Eliminate Driver-Caused System Crash Bug: A Step by Step Solution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y27-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y27 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solve-windows-7-instability-issues-expert-fixes-and-tips-for-a-smoother-experience/"><u>Solve Windows 7 Instability Issues - Expert Fixes and Tips for a Smoother Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722873296752-wearing-sterile-gloves-is-essential-for-maintaining-asepsis-during-the-procedure-but-it-doesnt-specify-how-much-sterile-solution-should-be-obtained/"><u>Wearing Sterile Gloves Is Essential for Maintaining Asepsis During the Procedure, but It Doesn't Specify How Much Sterile Solution Should Be Obtained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breakthrough-strategies-for-effective-fb-health-promotion/"><u>[New] 2024 Approved Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-building-engagement-with-professional-fb-video-techniques/"><u>[New] 2024 Approved Building Engagement with Professional FB Video Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-decoding-the-secrets-of-masterful-windows-10-use-for-2024/"><u>[New] Decoding the Secrets of Masterful WINDOWS 10 Use for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-pfn-list-corrupt-bsod-in-windows-11/"><u>[SOLVED] PFN LIST CORRUPT BSOD in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-embarking-on-a-youtube-venture-user-setup-essentials-for-2024/"><u>[Updated] Embarking on a YouTube Venture User Setup Essentials for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-green-screen-techniques-in-kinemaster-a-step-by-step-guide/"><u>[Updated] Mastering Green Screen Techniques in Kinemaster - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>2024 Approved Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-storportsys-bsod-in-windows-11-machines/"><u>Comprehensive Troubleshooting for Storport.sys BSOD in Windows 11 Machines</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-bluish-menace-a-complete-guide-to-solving-asmthchisys-bsod-errors/"><u>Defeating the Bluish Menace: A Complete Guide to Solving 'asmthchi.sys' BSOD Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-bad-system-configuration-bsod-fast-simple-steps-to-resolve/"><u>Fix 'Bad System Configuration' BSOD Fast: Simple Steps to Resolve</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-component-failures-on-windows-10-solutions-explored/"><u>Fixing Essential Component Failures on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x00000124-bsod-issue-in-windows-10-and-7-complete-guide/"><u>Fixing the 0X00000124 BSOD Issue in Windows 10 and 7 - Complete Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 14 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-fuss-streaming-technique-for-podcasts/"><u>In 2024, No-Fuss Streaming Technique for Podcasts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fltrmgrsys-bsod-error-on-your-windows-pc-a-step-by-step-guide/"><u>Resolving the Fltrmgr.sys BSOD Error on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-troubleshooting-tips-for-bsod-errors-on-windows-11-systems/"><u>Ultimate Troubleshooting Tips for BSOD Errors on Windows 11 Systems</u></a></li>
 </ul></div>
 

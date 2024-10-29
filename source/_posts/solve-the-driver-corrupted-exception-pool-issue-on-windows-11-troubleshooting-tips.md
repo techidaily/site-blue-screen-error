@@ -1,7 +1,7 @@
 ---
 title: "Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips"
-date: 2024-10-19T17:56:48.801Z
-updated: 2024-10-23T19:24:05.026Z
+date: 2024-10-28T08:48:48.872Z
+updated: 2024-10-28T21:46:12.601Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
@@ -79,14 +79,14 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -110,7 +110,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -120,23 +134,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,22 +162,24 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unlocking-the-potential-in-depth-skype-call-recordings/"><u>[New] 2024 Approved Unlocking the Potential In-Depth Skype Call Recordings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-machine-check-exception-bsod-in-windows-11/"><u>[SOLVED] MACHINE CHECK EXCEPTION BSOD in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-10-best-offline-android-games-you-can-find/"><u>2024 Approved Top 10 Best Offline Android Games You Can Find</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c12-plus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C12 Plus FRP Bypass Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-win11-efficiency-smart-wmi-host-management/"><u>Boost Win11 Efficiency: Smart WMI Host Management</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-why-igdkmd64sys-causes-blue-screens-and-how-to-fix-it-in-win10/"><u>Expert Tips: Why IgdkmD64.sys Causes Blue Screens and How to Fix It in WIN10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/extensive-review-the-gecata-gamersoft-toolkit-for-2024/"><u>Extensive Review The Gecata Gamersoft Toolkit for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-camera-to-computer-editing-sony-camcorder-videos-with-ease-for-2024/"><u>From Camera to Computer Editing Sony Camcorder Videos with Ease for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-fixing-and-preventing-the-fat-file-system-failure-in-windows-11-systems/"><u>Guide: Fixing and Preventing the 'FAT File System Failure' In Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-damaged-fat-file-structure-in-windows-11-a-step-by-step-guide/"><u>How to Repair a Damaged Fat File Structure in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pivoting-careers-from-novice-to-industry-veteran/"><u>In 2024, Pivoting Careers From Novice to Industry Veteran</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfectly-funny-meme-creator-app/"><u>Perfectly Funny Meme Creator App</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-windows-failed-to-initialize-hardware-abstraction-layer-problem-tips-for-windows-10-users/"><u>Solving the 'Windows Failed to Initialize Hardware Abstraction Layer' Problem: Tips for Windows 10 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199703592-the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-badpoolheader-blue-screen-issue-on-windows-10-pcs/"><u>Troubleshooting and Repairing BAD_POOL_HEADER Blue Screen Issue on Windows 10 PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/win-over-windows-woes-tackling-and-troubleshooting-bsod-error-0xc000021a-in-wndows-10-and-8-fixed/"><u>Win Over Windows' Woes: Tackling and Troubleshooting BSoD (Error 0xC000021A) in Wndows 10 & 8 [Fixed]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[New] In 2024, The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-screen-changers-for-vivid-virtual-imagery/"><u>[Updated] 2024 Approved Top Screen Changers for Vivid Virtual Imagery</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-circulating-content-the-art-of-playlist-sharing/"><u>[Updated] Circulating Content The Art of Playlist Sharing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-high-performance-liquid-cools-showdown-thermalright-vs-deepcool-aio-reviews-for-gamers/"><u>Affordable High-Performance Liquid Cools Showdown: Thermalright Vs. Deepcool AIO Reviews for Gamers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-0x00000019-memory-conflict-in-windows-solutions-for-win11win8win7/"><u>Bypassing the 0X00000019 Memory Conflict in Windows: Solutions for Win11/Win8/Win7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chuckles-churner-visual-composer-for-2024/"><u>Chuckles Churner Visual Composer for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199720194-control-charts-are-central-tools-in-spc-helping-to-distinguish-between-common-cause-and-special-cause-variations/"><u>Control Charts Are Central Tools in SPC, Helping to Distinguish Between Common Cause and Special Cause Variations.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/crafting-atmospheres-with-cinematic-hues-for-2024/"><u>Crafting Atmospheres with Cinematic Hues for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-blue-screen-problem-linked-to-tcpipsys-in-microsoft-operating-systems/"><u>Diagnose and Repair 'Blue Screen' Problem Linked to tcpip.sys in Microsoft Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-storportsys-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Fixing StorPort.sys Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/discover-microsofts-solution-attracting-top-tier-software-engineers-with-maximum-efficiency-insights-from-zdnet/"><u>Discover Microsoft's Solution: Attracting Top-Tier Software Engineers with Maximum Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-the-notorious-syntpsys-blue-screen-of-death-in-windows-os/"><u>Expert Tips to Fix the Notorious SYNTP.SYS Blue Screen of Death in Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-elevating-images-premier-frame-apps-in-2e-24-for-2024/"><u>Expertly Elevating Images Premier Frame Apps in 2E '24 for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-mode-memory-leak-understanding-and-resolving-heap-corruptions/"><u>Fixing the 'Kernel Mode Memory Leak' – Understanding and Resolving Heap Corruptions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-blue-screen-error-caused-by-tcpipsys-in-windows-11-7-and-8/"><u>How to Fix the Blue Screen Error Caused by TCP/IP.sys in Windows 11, 7 & 8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-nows-vr-tech-landscape/"><u>In 2024, Now’s VR Tech Landscape</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/trouble-free-gaming-mastering-the-art-of-resolving-xbox-one-signal-issues/"><u>Trouble-Free Gaming: Mastering the Art of Resolving Xbox One Signal Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-overcome-device-driver-lock-ups-on-your-windows-10-system-with-ease/"><u>Troubleshoot and Overcome Device Driver Lock-Ups on Your Windows 10 System with Ease</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-fixes-for-netwtw04sys-blue-screen-of-death-in-windows-11-computers/"><u>Ultimate Fixes for Netwtw04.sys Blue Screen of Death in Windows 11 Computers</u></a></li>
 </ul></div>
 

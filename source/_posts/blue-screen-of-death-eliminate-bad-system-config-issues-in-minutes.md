@@ -1,7 +1,7 @@
 ---
 title: Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes
-date: 2024-10-13T18:16:12.304Z
-updated: 2024-10-17T23:39:34.816Z
+date: 2024-10-30T08:25:05.950Z
+updated: 2024-11-03T19:32:21.173Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
@@ -49,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
@@ -63,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 4. Reboot your Windows 10 to see if it works.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Fix your BCD file
 
@@ -75,34 +81,30 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-43-48.jpg)
 3. Click **Repair your computer** .  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **bootrec /repairbcd**  
  **bootrec /osscan**  
  **bootrec /repairmbr**
@@ -160,17 +162,20 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-complete-overview-of-polarr-photo-editor/"><u>[New] 2024 Approved A Complete Overview of Polarr Photo Editor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-maximizing-auditory-experience-on-windows-10/"><u>[Updated] In 2024, Maximizing Auditory Experience on Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-up-your-game-free-software-for-professional-thumbnails/"><u>[Updated] In 2024, Step Up Your Game Free Software for Professional Thumbnails</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-video-capture-without-extras-for-2024/"><u>[Updated] Premium Video Capture Without Extras for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fresenius-medical-care-ag-and-co-kgaa/"><u>Fresenius Medical Care AG & Co. KGaA</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-dxgkrnl-critical-failure-causing-a-blue-screen-in-windows-10/"><u>How to Fix the 'Dxgkrnl' Critical Failure Causing a Blue Screen in Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peering-into-pixels-with-polaroids-camplus-action-device-for-2024/"><u>Peering Into Pixels with Polaroid's Cam+ Action Device for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-windows-11-fat32-system-corruption-issue/"><u>Resolved: Fixing the Windows 11 FAT32 System Corruption Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-escaping-the-frustrating-minecraft-load-loop/"><u>Step-by-Step Guide: Escaping the Frustrating Minecraft Load Loop</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netwtw04sys-bsod-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting 'Netwtw04.sys' BSOD on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-tdr-failures-the-nvlddmkmsys-crash-explained-windows/"><u>Understanding and Resolving TDR Failures: The nvlddmkm.sys Crash Explained (Windows)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-anonymize-your-footage-best-software-for-face-blur-effects/"><u>Updated In 2024, Anonymize Your Footage Best Software for Face Blur Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-the-future-of-action-recording-with-intova-for-2024/"><u>[New] Unleashing the Future of Action Recording With Intova for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>[Updated] 2024 Approved Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exploring-the-nuances-in-physical-gesture-detection/"><u>[Updated] 2024 Approved Exploring the Nuances in Physical Gesture Detection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-clear-distraction-free-viewing-of-old-youtube-content/"><u>[Updated] In 2024, Clear, Distraction-Free Viewing of Old YouTube Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-for-educators-maximizing-its-classroom-potential/"><u>[Updated] YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-ipad-speech-recording-tools-3/"><u>2024 Approved Elite iPad Speech Recording Tools #3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excellence-in-virtual-presentations-discover-our-8-essential-strategies-for-success-on-zoom-with-insights-from-zdnet/"><u>Excellence in Virtual Presentations: Discover Our 8 Essential Strategies for Success on Zoom with Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-insight-vs-ai-algorithms-in-copywriting/"><u>Human Insight vs AI Algorithms in Copywriting</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-of-death-error-bsod-stop-code-0x0000003b-explained/"><u>Solving Blue Screen of Death Error (BSOD) - Stop Code 0X0000003B Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailored-ending-scenes-get-em-for-free-for-2024/"><u>Tailored Ending Scenes - Get 'Em for Free for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-overcoming-bsod-blue-screen-of-death-in-windows-7/"><u>Troubleshooting Tips: Overcoming BSOD (Blue Screen of Death) in Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshoot-and-solve-nvpcfsys-bsod-issues-on-pc/"><u>Ultimate Guide to Troubleshoot and Solve nvpcf.sys BSoD Issues on PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bad-pool-header-problem-on-your-windows-7-pc/"><u>Understanding and Resolving 'Bad Pool Header' Problem on Your Windows 7 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-nmihardwarefailure-bsod-issues-on-your-pc/"><u>Understanding and Solving NMI_HARDWARE_FAILURE BSOD Issues on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Solving Windows 11'S Critical System Failure (Machine Check Exception)
-date: 2024-09-27T20:35:31.077Z
-updated: 2024-09-30T21:20:52.598Z
+date: 2024-10-29T06:31:08.910Z
+updated: 2024-11-04T01:01:57.281Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -80,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -111,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -122,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
@@ -143,6 +130,13 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -168,14 +162,20 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[Updated] The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-watchlist-the-best-unboxers-of-the-new-era/"><u>2024 Approved Ultimate Watchlist The Best Unboxers of the New Era</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-solutions-how-to-stop-volsnapsys-from-causing-system-failures-in-windows/"><u>Blue Screen Error Solutions: How to Stop Volsnap.sys From Causing System Failures in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/handling-the-fatal-bios-message-overcoming-a-whea-uncorrectable-error/"><u>Handling the Fatal BIOS Message: Overcoming a WHEA Uncorrectable Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/pci-missing-hardware-issue-windows-fix/"><u>PCI Missing Hardware Issue: Windows Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-pnp-watchdog-blue-screen-issue-in-drivers/"><u>Resolved: Critical PNP Watchdog Blue Screen Issue in Drivers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-16-best-free-video-players-for-windowsmac-pc/"><u>Top 16 Best Free Video Players for Windows/Mac PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-setup-errors-on-windows-10-a-comprehensive-guide/"><u>Troubleshooting HAL Setup Errors on Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/understanding-instagrams-max-video-length-guide/"><u>Understanding Instagram's Max Video Length Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snappy-secrets-learn-screen-recording-with-ease-on-smartphones/"><u>[New] 2024 Approved Snappy Secrets Learn Screen Recording with Ease on Smartphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-steps-capturing-breathtaking-time-lapses-on-black-hero5/"><u>[Updated] Simplified Steps Capturing Breathtaking Time-Lapses on Black Hero5</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-youtube-beauty-guides-you-cant-miss/"><u>2024 Approved The Essential YouTube Beauty Guides You Can't Miss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/discerning-true-value-from-recordcasts-promises/"><u>Discerning True Value From RecordCast’s Promises</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-handling-kernel-level-heap-damage-for-optimal-performance/"><u>Expert Advice on Handling Kernel Level Heap Damage for Optimal Performance</u></a></li>
+<li><a href="https://win-tips.techidaily.com/free-online-converter-easily-change-png-images-into-jpeg-format-with-movavi/"><u>Free Online Converter: Easily Change PNG Images Into JPEG Format with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-storportsys-bsod-in-windows-10/"><u>How to Fix storport.sys BSOD in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 5G online without jailbreak</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-escaping-the-clutches-of-a-false-google-chrome-crisis/"><u>Step-by-Step Guide: Escaping the Clutches of a False Google Chrome Crisis</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-for-troubleshooting-and-repairing-a-corrupted-pfn-list-in-windows-10/"><u>Tips for Troubleshooting and Repairing a Corrupted PFN List in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-the-driververifierdetectedviolation-blue-screen-error-in-windows/"><u>Troubleshooting and Solving the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen Error in Windows #</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hypervisor-errors-leading-to-bsod-crashes-on-windows-11-systems/"><u>Troubleshooting Hypervisor Errors Leading to BSoD Crashes on Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
 </ul></div>
 

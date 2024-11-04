@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)"
-date: 2024-10-12T00:39:30.333Z
-updated: 2024-10-17T22:09:05.964Z
+date: 2024-11-02T22:45:46.169Z
+updated: 2024-11-03T16:05:20.505Z
 tags:
   - win11
   - win10
@@ -27,37 +27,31 @@ Driver Verifier is built in every version of Windows operating system. It monito
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Reinstall your graphic card driver
 
  Mostly, the graphic card driver like NVIDIA, Intel or AMD is the culprit behind this BSOD error. Reinstall graphic card driver helped many users fix the issue. Thus you can give it a shot.
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -80,13 +74,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update your device drivers
 
  The error can often be also caused by outdated or incompatible drivers. If reinstall your graphic card driver didn’t help you fix it, please update other device drivers.
@@ -106,10 +93,10 @@ Then Windows will search the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
@@ -127,9 +114,29 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -138,13 +145,6 @@ You need to do these:
  Then type**Verifier /reset** in the window and press**Enter** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
 
@@ -170,16 +170,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-android-deluxe-playtime-top-gb-games-on-your-phone/"><u>[New] 2024 Approved Android Deluxe Playtime Top GB Games on Your Phone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-embrace-laughter-and-sorrow-with-these-top-10-meme-igs-for-2024/"><u>[Updated] Embrace Laughter and Sorrow with These Top 10 Meme IGs for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-collection-of-online-video-grabbers-and-savers/"><u>[Updated] In 2024, Elite Collection of Online Video Grabbers & Savers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-instagram-a-comprehensive-overview-for-beginners/"><u>Demystifying Instagram: A Comprehensive Overview for Beginners</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-verifier-problem-solved-for-io-manager-errors/"><u>Driver Verifier Problem Solved for IO Manager Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-unexpected-shutdowns-and-blue-screen-of-death-in-windows-10/"><u>How to Fix Unexpected Shutdowns and Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-tackle-the-persistent-usb-driver-error-causing-blue-screen-on-windows-10-devices/"><u>How to Successfully Tackle the Persistent USB Driver Error Causing Blue Screen on Windows 10 Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-a2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo A2 Phone Hassle-Free</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/orange-alert-resolved-expert-fixes-for-the-vibrant-display-issue/"><u>Orange Alert Resolved: Expert Fixes for the Vibrant Display Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-diskspace-tools-for-windows-context-menu/"><u>Quick Access DiskSpace: Tools for Window's Context Menu</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-youtube-video-quality-minimize-distractions-for-2024/"><u>[New] Elevate YouTube Video Quality, Minimize Distractions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-a-hit-list-youtubes-way-for-fans/"><u>[New] In 2024, Crafting a Hit-List Youtube's Way for Fans</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streaming-success-enter-the-500-sub-club-for-profit/"><u>[Updated] 2024 Approved Streaming Success Enter the 500-Sub Club for Profit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/3-metodos-faciles-para-rescatar-perfiles-de-administrador-borrados-en-windows-11/"><u>3 Métodos Fáciles Para Rescatar Perfiles De Administrador Borrados en Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-ntoskrnlexe-crashes-and-netiosys-blue-screens-in-windows/"><u>Comprehensive Fixes to Address ntoskrnl.exe Crashes and NETIO.SYS Blue Screens in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-snapchats-emoji-language-an-essential-how-to-guide/"><u>Deciphering Snapchat's Emoji Language: An Essential How-To Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-storahcisys-and-windows-blue-screen-of-death-bsod/"><u>Effective Fixes for Storahci.sys and Windows Blue Screen of Death (BSOD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-guide-fix-the-kernel-mode-violation-error-from-inadequate-memory-handling-in-windows-11/"><u>Expert Guide: Fix the Kernel-Mode Violation Error From Inadequate Memory Handling in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fixing-bsod-defeating-the-0x00000050-error-on-windows-operating-system/"><u>Step-by-Step Guide to Fixing BSOD - Defeating the 0X00000050 Error on Windows Operating System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-selection-of-sample-size-and-frequency-in-spc-should-balance-representativeness-with-resource-efficiency/"><u>The Selection of Sample Size and Frequency in SPC Should Balance Representativeness with Resource Efficiency.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-win32kfullsys-error-for-a-smooth-computing-experience/"><u>Troubleshooting the win32kFull.sys Error for a Smooth Computing Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-the-win32kfullsys-crash-on-windows-pcs/"><u>Understanding and Solving the win32kfull.sys Crash on Windows PCs</u></a></li>
 </ul></div>
 

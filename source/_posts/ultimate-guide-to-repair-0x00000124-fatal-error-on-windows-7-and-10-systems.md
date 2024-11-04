@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repair 0X00000124 Fatal Error on Windows 7 & 10 Systems
-date: 2024-10-26T20:59:37.768Z
-updated: 2024-10-29T03:24:17.504Z
+date: 2024-10-29T23:02:58.784Z
+updated: 2024-11-04T02:05:47.749Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
@@ -68,13 +68,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -95,10 +88,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -107,18 +100,31 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
@@ -127,10 +133,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
@@ -138,10 +144,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
@@ -160,13 +166,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
@@ -174,6 +173,13 @@ If the problem persists, move on to the next step.
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -213,16 +219,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-end-horizons-the-elite-8k-camera-selection/"><u>[New] High-End Horizons The Elite 8K Camera Selection</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-boost-your-tiktok-presence-advanced-mac-video-techniques/"><u>[New] In 2024, Boost Your TikTok Presence Advanced Mac Video Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>[New] In 2024, Earn on YouTube Beginner's Path to Profitability</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-banish-buffering-repair-facebook-videos-on-phonestablets/"><u>[Updated] Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-stepwise-guide-integrating-subtitles-into-your-vimeo-content/"><u>[Updated] In 2024, Stepwise Guide Integrating Subtitles Into Your Vimeo Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unleash-the-power-of-engaging-headline-crafting/"><u>2024 Approved Unleash the Power of Engaging Headline Crafting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-the-multiple-irp-complete-bug-that-triggers-a-blue-screen-on-your-pc/"><u>Effective Solutions to the 'Multiple IRP Complete' Bug That Triggers a Blue Screen on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199749355-guide-to-correct-video-schedulers-internal-error-on-your-windows-10-device-solved/"><u>Guide to Correct Video Scheduler’s Internal Error on Your Windows 10 Device - Solved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insider-reveals-apples-development-of-affordable-ar-spectacles-and-visual-aid-devices-latest-news-from-zdnet/"><u>Insider Reveals: Apple's Development of Affordable AR Spectacles and Visual Aid Devices - Latest News From ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-the-persistent-netwtw04sys-blue-screen-error-on-win10/"><u>Solution Steps for the Persistent Netwtw04.sys Blue Screen Error on Win10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tackle-your-pcs-nvpcfsys-blue-screen-error-with-these-simple-fixes/"><u>Tackle Your PC's nvpcf.sys Blue Screen Error with These Simple Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-pnp-watchdog-bsod-error/"><u>[Fixed] Driver PNP Watchdog BSoD Error</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-techniques-for-simplifying-screen-capture-in-os-x/"><u>[New] In 2024, Advanced Techniques for Simplifying Screen Capture in OS X</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-in-depth-examination-of-xcreative-vision-studio-a-complete-guide/"><u>[New] In 2024, In-Depth Examination of XCreative Vision Studio - A Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressed-core-structural-flaws-within-microsofts-newest-os-version/"><u>Addressed Core Structural Flaws Within Microsoft's Newest OS Version</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/environmental-factors-can-affect-tool-accuracy-requiring-adjustments-to-maintenance-schedules/"><u>Environmental Factors Can Affect Tool Accuracy, Requiring Adjustments to Maintenance Schedules.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bad-pool-header-error-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing the 'Bad Pool Header' Error on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dpc-watchguard-compliance-issue-steps-to-resolve-quickly-and-effectively/"><u>Fixing the DPC Watchguard Compliance Issue: Steps to Resolve Quickly and Effectively</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-dvd-player-apps-for-pc-windows-1011-the-ultimate-list-to-watch-dvds-at-no-charge/"><u>Free DVD Player Apps for PC (Windows 10/11): The Ultimate List to Watch DVDs at NO CHARGE!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-driver-caused-system-crash-bug-a-step-by-step-solution/"><u>How to Eliminate Driver-Caused System Crash Bug: A Step by Step Solution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dji-phantom-3-an-overview-review/"><u>In 2024, DJI Phantom 3 - An Overview Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-iphone-photography-in-the-dark/"><u>In 2024, The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-transform-your-thought-processes-mematic-app/"><u>In 2024, Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/laptop-audio-issues-resolved-how-to-fix-sound-malfunctions/"><u>Laptop Audio Issues Resolved: How to Fix Sound Malfunctions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-windows-7-instability-issues-expert-fixes-and-tips-for-a-smoother-experience/"><u>Solve Windows 7 Instability Issues - Expert Fixes and Tips for a Smoother Experience</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-images-from-your-sd-card-on-a-pc/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Images From Your SD Card on a PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/vanquish-your-devices-vexing-orangish-malady-expert-tips-for-restoring-normalcy/"><u>Vanquish Your Device's Vexing Orangish Malady: Expert Tips for Restoring Normalcy</u></a></li>
 </ul></div>
 

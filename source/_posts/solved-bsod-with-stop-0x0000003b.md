@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-10-28T04:13:42.030Z
-updated: 2024-10-29T00:55:02.721Z
+date: 2024-10-29T21:05:44.022Z
+updated: 2024-11-03T20:41:24.007Z
 tags:
   - win11
   - win10
@@ -43,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
  2) Click**Yes** .
@@ -75,26 +62,32 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -115,16 +108,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -132,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -150,19 +150,20 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-screencaptureapps-recording-your-next-google-meet/"><u>[New] 2024 Approved ScreenCaptureApps Recording Your Next Google Meet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/xpert-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>[New] Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-propel-your-world-with-freshly-launched-wins11-games/"><u>[New] Propel Your World with Freshly-Launched Wins11 Games</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>[New] Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-protect-your-inbox-by-adding-senders-to-the-safe-list-on-gmail/"><u>How to Protect Your Inbox by Adding Senders to the Safe List on Gmail</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-unexpected-store-error-message-in-windows-11-easily/"><u>How to Resolve the Unexpected Store Error Message in Windows 11 Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ios-17-worth-upgrading-for-enhanced-features/"><u>IOS 17: Worth Upgrading for Enhanced Features?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leverage-fb-for-extensive-reach-and-impact-for-2024/"><u>Leverage FB for Extensive Reach and Impact for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/masterclass-terminating-drivers-without-disrupting-pending-activities-issue-resolved/"><u>Masterclass: Terminating Drivers Without Disrupting Pending Activities [Issue Resolved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcome-the-inaccessible-boot-device-crash-on-win-10-with-easy-picture-tutorials/"><u>Overcome the 'Inaccessible Boot Device' Crash on Win 10 with Easy Picture Tutorials</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-guide-for-windows-7/"><u>Solution Guide for Windows 지정 7의 '시스템 서비스 예외'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-pinterest-gameplan-using-our-top-e-tools-for-scheduling/"><u>Streamline Your Pinterest Gameplan Using Our Top E-Tools for Scheduling</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-rated-usb-duplication-software-for-effortless-file-and-operating-system-backup/"><u>Top Rated USB Duplication Software for Effortless File & Operating System Backup</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/wheauncorrectableissue-eliminated-a-step-by-step-troubleshooting-methodology/"><u>WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-looms-lens-sharpen-your-recording-skills-for-2024/"><u>[New] Loom's Lens Sharpen Your Recording Skills for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-thorough-examination-of-gecata-recorder/"><u>[Updated] In 2024, Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-error-caused-by-nvlddmkmsys-in-windows-diagnosis-and-repair-guide/"><u>BSOD Error Caused by nvlddmkm.sys in Windows - Diagnosis & Repair Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/driver-unloaded-without-cancelling-pending-operations-solved/"><u>Driver Unloaded without Cancelling Pending Operations [Solved]</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficiently-erase-filesfolders-on-mac-using-stellars-standard-edition-of-scheduled-cleanup-tool/"><u>Efficiently Erase Files/Folders on Mac Using Stellar's Standard Edition of Scheduled Cleanup Tool</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effizientes-backup-and-recovery-fur-windows-10-sichere-systemeinstellungen-schutzen/"><u>Effizientes Backup & Recovery Für Windows 10: Sichere Systemeinstellungen Schützen</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-nvlddmkmsys-blue-screen-of-death-on-windows-troubleshooting-steps/"><u>How to Fix the nvlddmkm.sys Blue Screen of Death on Windows - Troubleshooting Steps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-netwtw04sys-stop-code-on-your-pc-running-windows-10/"><u>How to Resolve the 'netwtw04.sys' Stop Code on Your PC Running Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/master-the-conversion-process-how-to-change-mp4-files-to-xvid-codec/"><u>Master the Conversion Process: How to Change MP4 Files to XviD Codec</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-amv-mpg/"><u>Movavi 서비스로 AMV MPG 간 자연스러운 전환 - 무료 바이너리 검정</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seamless-integration-of-snap-camera-for-enhanced-online-participation-for-2024/"><u>Seamless Integration of Snap Camera for Enhanced Online Participation for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-puzzle-of-device-driver-errors-on-windows-11-fast-effective-strategies/"><u>Solving the Puzzle of Device Driver Errors on Windows 11 – Fast, Effective Strategies!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-fixing-page-not-loading-errors-on-manycam-platform/"><u>Troubleshooting Guide: Fixing 'Page Not Loading' Errors on ManyCam Platform</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tutorial-overcoming-volsnapsys-errors-the-ultimate-solution-for-windows-users/"><u>Tutorial: Overcoming Volsnap.sys Errors - The Ultimate Solution for Windows Users</u></a></li>
 </ul></div>
 

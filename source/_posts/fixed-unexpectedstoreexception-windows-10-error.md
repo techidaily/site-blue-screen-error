@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] UNEXPECTED_STORE_EXCEPTION Windows 10 Error"
-date: 2024-10-10T19:58:58.238Z
-updated: 2024-10-17T22:16:20.398Z
+date: 2024-11-01T18:11:16.358Z
+updated: 2024-11-04T06:54:36.852Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **First Thing First**
@@ -69,6 +69,19 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 If the problem persists, move on to the next step.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 2: Update Available Device Drivers**
 
  Another possible causes of this problem is faulty or outdated device drivers, such as the drivers for your sound card, graphics card, chipset, network adapters, processors and many more.
@@ -87,13 +100,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -101,10 +107,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -113,31 +119,18 @@ If the problem persists, move on to the next step.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
-
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
@@ -155,31 +148,31 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -192,6 +185,13 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -219,16 +219,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ideal-high-res-displays-the-best-5-for-ps5/"><u>[New] In 2024, Ideal High-Res Displays The Best 5 For PS5</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comment-changer-le-ssd-dune-laptop-hp-sans-perte-de-donnees/"><u>Comment Changer Le SSD D'une Laptop HP Sans Perte De Données</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/creating-impactful-podcast-titles-with-ease-and-comprehensively-sampled-ideas/"><u>Creating Impactful Podcast Titles with Ease & Comprehensively Sampled Ideas</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-remedies-for-kernel-errors-in-windows-11-a-comprehensive-fixed-approach/"><u>Effective Remedies for Kernel Errors in Windows 11: A Comprehensive Fixed Approach</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0xc000000e-error/"><u>How to Fix 0Xc000000e Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-fltmgrsys-blue-screen-of-death-in-windows/"><u>How to Fix fltmgr.sys Blue Screen of Death in Windows</u></a></li>
-<li><a href="https://win-web.techidaily.com/microsofts-latest-security-scare-reaction-warranted-zdnet-insights/"><u>Microsoft's Latest Security Scare? Reaction Warranted! | ZDNet Insights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-ntfssys-blue-screen-of-death-on-windows-10-a-step-by-step-guide/"><u>Resolving the ntfs.sys Blue Screen of Death on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seek-out-all-shared-media-on-messenger-platform/"><u>Seek Out All Shared Media on Messenger Platform</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-0x0000009f-blue-screen-error/"><u>Solved: 0X0000009F Blue-Screen Error</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-16-from-motorola-moto-g14-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Motorola Moto G14 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-efficient-hashtag-use-for-skyrocketing-youtube-audience/"><u>[New] In 2024, Efficient Hashtag Use for Skyrocketing YouTube Audience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>[New] In 2024, NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>[Updated] Accelerating Learning on TikTok Changing Your Profile Number</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-vimeo-playback-velocity-guide/"><u>[Updated] Enhancing Vimeo Playback Velocity Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/driver-update-fixes-persistent-watchdog-bsod-problems/"><u>Driver Update Fixes Persistent Watchdog BSOD Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-sites-for-fetching-video-intro-files/"><u>Essential Sites for Fetching Video Intro Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-steam-cloud-syncs-in-win-10/"><u>Fixing Steam Cloud Syncs in Win 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-win32k-bug-tips-to-combat-windows-boot-crashes/"><u>Fixing the Win32K Bug: Tips to Combat Windows Boot Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-resolving-netwtw04sys-system-bluescreen-on-windows-11/"><u>Guide to Resolving 'Netwtw04.sys' System Bluescreen on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-your-pc-from-freezing-fixing-windows-10-and-eboots-bsod-error-0xc000021a/"><u>How to Stop Your PC From Freezing: Fixing Windows 10 & Eboot's BSoD (Error 0xC000021A)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-blue-screen-of-death-with-rtkvhd64sys-error-on-windows-machines/"><u>Overcoming the Blue Screen of Death with RTKVHD64.sys Error on Windows Machines</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v30-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo V30 Pro</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-ntfs-file-system-issues-on-windows-10-fix-guide/"><u>Solving NTFS File System Issues on Windows 10 - Fix Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-the-dreaded-blue-screen-how-to-fix-storahcisys-issues/"><u>Troubleshoot the Dreaded Blue Screen: How to Fix Storahci.sys Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-the-lockout-threshold-post-failed-access-on-w10w11/"><u>Tweaking the Lockout Threshold Post-Failed Access on W10/W11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-the-vgk-system-crash-that-leads-to-a-bsod-interruption/"><u>Understanding and Fixing the VGK System Crash That Leads to a BSoD Interruption</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zooming-in-on-sound-excellence-techniques-for-top-tier-quality-for-2024/"><u>Zooming In on Sound Excellence Techniques for Top-Tier Quality for 2024</u></a></li>
 </ul></div>
 

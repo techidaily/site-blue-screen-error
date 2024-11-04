@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide
-date: 2024-10-15T16:44:38.607Z
-updated: 2024-10-17T23:28:30.698Z
+date: 2024-10-29T07:29:59.834Z
+updated: 2024-11-03T17:05:21.226Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update all your available drivers
@@ -51,10 +51,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -65,13 +65,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 2. Type**mdsched.exe** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-25.jpg)
 3. Click**Restart now and check for problems(recommended)** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
@@ -89,10 +82,10 @@ After the testing, Windows will restart automatically.
 3. Click**Yes** when prompted by User Account Control.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
@@ -101,10 +94,10 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
@@ -117,22 +110,16 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -177,6 +164,13 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -208,16 +202,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensively-conquering-hp-notebook-screen-recording-techniques/"><u>[New] 2024 Approved Comprehensively Conquering HP Notebook Screen Recording Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-decoding-your-home-theater-setup-projection-or-television-for-4k/"><u>[Updated] Decoding Your Home Theater Setup Projection or Television for 4K?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-creation-to-apple-your-podcasts-journey/"><u>2024 Approved From Creation to Apple Your Podcast's Journey</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-for-solving-the-blue-screen-problem-on-windows-10/"><u>Comprehensive Strategies for Solving the Blue Screen Problem on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-system-service-malfunctions-in-windows-11-for-smooth-operation/"><u>Diagnosing and Correcting System Service Malfunctions in Windows 11 for Smooth Operation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-error-ntoskrnlexe-stopped-unexpectedly-0xc00002e-on-windows-nx/"><u>Fixing the Critical Error: NTOSKRNL.EXE STOPPED Unexpectedly (0Xc00002e) on Windows nX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-page-fault-errors-in-windows-10-step-by-step-guide/"><u>How to Fix 'Page Fault' Errors in Windows 10 – Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-decoding-effective-tiktok-campaign-techniques-for-viral-reach/"><u>In 2024, Decoding Effective TikTok Campaign Techniques for Viral Reach</u></a></li>
-<li><a href="https://article-files.techidaily.com/moviegenius-for-windows-8/"><u>MovieGenius for Windows 8</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-intel-graphics-card-software-with-these-quick-tips/"><u>Upgrade Intel Graphics Card Software with These Quick Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-videosnatch-quality-inspector-for-2024/"><u>[New] VideoSnatch Quality Inspector for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-direct-data-delivery-fast-file-pathways-to-desktop/"><u>[Updated] 2024 Approved Direct Data Delivery Fast File Pathways to Desktop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>[Updated] 2024 Approved Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>[Updated] In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-camon-30-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Camon 30 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypass-device-driver-glitches-and-unstick-your-windows-11-threads-easily/"><u>Bypass Device Driver Glitches and Unstick Your Windows 11 Threads Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-surprising-insights-can-your-children-identify-these-top-10-obsolete-devices/"><u>Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/extend-your-iphones-lifespan-effective-solutions-for-boosting-battery-performance/"><u>Extend Your iPhone's Lifespan: Effective Solutions for Boosting Battery Performance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-page-fault-error-for-a-smooth-windows-11-experience/"><u>Fixing the 'Page Fault' Error for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-identify-and-correct-deadly-errors-in-windows-11-systems-easily-solved/"><u>How To Identify and Correct Deadly Errors in Windows 11 Systems Easily [SOLVED]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-reinstall-qualcomm-atheros-wireless-network-adapter-driver/"><u>How to Reinstall Qualcomm Atheros Wireless Network Adapter Driver</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-the-deadly-critical-process-bsod-mishap-on-windows-11-computers/"><u>Solution Steps for the Deadly Critical Process BSOD Mishap on Windows 11 Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-notorious-bad-pool-header-problem-in-windows-tutorial/"><u>Step-by-Step Fix for the Notorious Bad Pool Header Problem in Windows [TUTORIAL]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-of-permanent-bsod-mastery-over-corrective-whea-mishaps/"><u>Unraveling the Mystery of Permanent BSOD: Mastery over Corrective WHEA Mishaps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-troubleshooting-guide-overcoming-critical-service-bsod-errors-successfully/"><u>Windows 11 Troubleshooting Guide: Overcoming CRITICAL SERVICE BSOD Errors Successfully</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Internal Power Failure on Your PC Running Windows 10
-date: 2024-10-27T17:51:26.448Z
-updated: 2024-10-29T12:36:34.937Z
+date: 2024-10-31T01:52:23.101Z
+updated: 2024-11-03T18:35:32.206Z
 tags:
   - win11
   - win10
@@ -38,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** to continue.
 
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
@@ -72,39 +72,19 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2: Update device drivers**
@@ -130,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -147,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf648ccb5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) See if the **Video Scheduler Internal Error** is fixed now.
 
@@ -162,16 +149,16 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
@@ -181,6 +168,13 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
@@ -188,10 +182,10 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Other Work-arounds**
@@ -221,20 +215,19 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-error-bad-pool-caller-easy-solutions-for-a-persistent-problem/"><u>'Windows 10 Error - Bad Pool Caller': Easy Solutions for a Persistent Problem</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aster-the-art-of-cutting-the-ultimate-list-of-youtube-short-editors/"><u>[New] Master the Art of Cutting The Ultimate List of YouTube Short Editors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ace-the-first-hour-in-dayz-with-expert-fast-track-looting-tactics/"><u>Ace the First Hour in DayZ with Expert Fast-Track Looting Tactics</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/dive-into-the-world-of-youtuber-shorts/"><u>Dive Into the World of Youtuber Shorts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-flat-to-form-the-journey-of-a-text-into-3d/"><u>From Flat to Form The Journey of a Text Into 3D</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/google-hangout-techniques-4-ways-to-shine/"><u>Google Hangout Techniques, #4 Ways to Shine</u></a></li>
-<li><a href="https://win-dash.techidaily.com/google-nest-hub-2nd-gen-review-how-much-does-it-matter-without-a-camera/"><u>Google Nest Hub (2Nd Gen) Review - How Much Does It Matter Without a Camera?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-driver-corruptedexpool-error-in-windows-10-a-step-by-step-guide/"><u>How to Fix 'DRIVER CORRUPTED_EXPOOL' Error in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-video-call-scheduler-crash-bug-in-windows-10-a-comprehensive-guide/"><u>How to Fix the Video Call Scheduler Crash Bug in Windows 10 – A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-videotdrfailure-bsod-error-in-windows/"><u>How to Stop the 'Video_TDR_Failure' BSOD Error in Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/konica-minolta-drivers-download-and-update-easy-guide/"><u>Konica Minolta Drivers Download and Update [Easy Guide]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-3-and-gpt-4-face-off-determining-the-superior-ai/"><u>Llama 3 and GPT-4 Face-Off: Determining the Superior AI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-bad-configurations-fast-end-that-blue-screen-error-today/"><u>Resolve Bad Configurations Fast: End That Blue Screen Error Today</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-f04-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy F04 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-error-code-0xc000021a-that-causes-bsod-on-windows-11-and-8/"><u>Understanding and Fixing Error Code 0xC000021A that Causes BSOD on Windows 11 & 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effortless-google-podcast-upload/"><u>[Updated] Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-boost-your-like-ratio-tips-for-squaring-up-videos/"><u>[Updated] In 2024, Boost Your Like Ratio Tips for Squaring Up Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-your-digital-identity-start-a-youtube-channel-today/"><u>[Updated] In 2024, Building Your Digital Identity Start a YouTube Channel Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-shorts-a-comprehensive-marketing-tool/"><u>[Updated] YouTube Shorts A Comprehensive Marketing Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cut-costs-with-a-pair-of-mini-monitors-for-your-pc-teamgee-discount-inside/"><u>Cut Costs with a Pair of Mini Monitors for Your PC: TeamGee Discount Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-notorious-blue-screen-error-0x00000050-in-windows-7/"><u>How to Resolve the Notorious Blue Screen Error (0X00000050) in Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-rtwlanesys-blue-screen-of-death-issue/"><u>How To Resolve the RTWLane.SYS Blue Screen of Death Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-security-how-ring-video-doorbell-2-outshines-all-competitors/"><u>Mastering Security: How Ring Video Doorbell ^2 Outshines All Competitors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-bad-pool-header-error-on-windows-11-8-and-7-a-step-by-step-guide/"><u>Solving the 'Bad Pool Header' Error on Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-overcoming-blue-screen-0x0000007e-error-on-windows-7/"><u>Step-by-Step Tutorial: Overcoming Blue Screen 0X0000007E Error on Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-fixing-the-life-threatening-pnp-fatal-error-on-win10/"><u>Troubleshooting Tips: Fixing the Life-Threatening PNP Fatal Error on Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-secure-your-windows-10-system-with-these-10-essential-steps/"><u>Ultimate Guide: Secure Your Windows 10 System with These 10 Essential Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workaround-for-not-being-ready-to-switch-to-win11/"><u>Workaround for Not Being Ready to Switch To Win11</u></a></li>
 </ul></div>
 

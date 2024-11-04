@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Stop: 0X00000124 Blue Screen Error on Windows 11 & 7"
-date: 2024-09-23T16:07:48.367Z
-updated: 2024-10-01T00:42:21.231Z
+date: 2024-10-30T17:43:28.197Z
+updated: 2024-11-04T07:20:10.346Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
  IMPORTANT: You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, restart it in Safe Mode, then try these solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
@@ -44,27 +44,20 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a5be1336da.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer to see if the blue screen disappear. If it shows again, you know your drivers weren’t to blame, and you should try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 2: Uninstall your antivirus software temporarily
 
  This problem could also be caused by your antivirus software. Try to uninstall your antivirus software, then restart your computer to see if the blue screen is gone.
 
 **Important:**  Please reinstall your antivirus software whether Method 2 helps you fix this problem. It’s important to keep an antivirus software to protect your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Check your disk
 
@@ -75,10 +68,10 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db475dd7b40.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Yes**  when prompted by User Account Control.
@@ -86,6 +79,13 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
  3) Type **chkdsk /f**  and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db47077b1d2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Follow the instructions to finish the checking task.
 
@@ -109,22 +109,15 @@ Follow the instructions to finish the checking task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-quickcapture-miniapp-windows-10-version-for-2024/"><u>[New] QuickCapture MiniApp - Windows 10 Version for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>[New] The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-assessment-of-vidmas-impact-on-modern-screen-recorders-for-2024/"><u>[Updated] Assessment of Vidma's Impact on Modern Screen Recorders for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pro-video-cinematography-choosing-the-right-lenses/"><u>2024 Approved Pro Video Cinematography Choosing the Right Lenses</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beat-bsod-blues-with-these-pro-tips-for-handling-error-0xc00-on-win11-and-8-solved/"><u>Beat BSOD Blues with These Pro Tips for Handling Error 0xC0[^0] on Win11 & 8 [SOLVED]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/belgian-babel-how-many-tongues-does-it-wield/"><u>Belgian Babel: How Many Tongues Does It Wield?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-the-persistent-bsod-caused-by-nvpcfsys-file/"><u>Diagnose and Repair the Persistent BSoD Caused by nvpcf.sys File</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-internal-error-in-video-scheduling-apps-on-windows-10-solutions/"><u>Fixing 'Internal Error' In Video Scheduling Apps on Windows 10: Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guide-to-fade-out-music-in-premiere-pro/"><u>Guide To Fade Out Music In Premiere Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-network-error-code-0x800704cf/"><u>How to Resolve Windows Network Error Code 0X800704CF</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y200-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y200 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-fat-file-system-errors-in-windows-10-with-easy-fixes/"><u>Overcoming FAT File System Errors in Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-netwtw10sys-bsod-blue-screen-windows-issue/"><u>Resolved: Fixing the Netwtw10.sys BSoD (Blue Screen) Windows Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-on-windows-10-a-comprehensive-guide/"><u>Resolving Critical System Crashes on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-post-update-bluescreen-issue-on-windows-10/"><u>Solving the Post-Update Bluescreen Issue on Windows 10</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-15-cloud-storage-plans-2024-edition-analysis/"><u>Top 15 Cloud Storage Plans 2024 Edition Analysis</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-kernel-security-check-violation-on-your-windows-10-system/"><u>Troubleshooting and Fixing the 'Kernel Security Check Violation' On Your Windows 10 System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-becoming-an-expert-in-igtv-a-complete-overview/"><u>[New] 2024 Approved Becoming an Expert in IGTV A Complete Overview</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-action-footage-clarity-the-top-10-camera-mics-for-2024/"><u>[Updated] Action Footage Clarity The Top 10 Camera Mics for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-boost-engagement-innovative-templates-for-your-video-closings-for-2024/"><u>[Updated] Boost Engagement Innovative Templates for Your Video Closings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/anonymous-streaming-on-instagram-your-ultimate-guide-to-go-incognito/"><u>Anonymous Streaming on Instagram Your Ultimate Guide to Go Incognito</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-and-fixes-for-overcoming-fatal-pnp-detected-error-messages-in-windows-11/"><u>Expert Tips and Fixes for Overcoming Fatal 'PNP Detected' Error Messages in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-bluescreen-fix-effective-techniques-for-windows-10-users/"><u>Netwtw04.sys Bluescreen Fix - Effective Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-impact-of-quality-sound-on-esports-success/"><u>The Impact of Quality Sound on Esports Success</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-iastorasys-bsod-problems-expert-tips-and-tricks/"><u>Troubleshooting and Resolving IaStora.sys BSOD Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unsuccessful-dpc-shift-glitch-on-windows-systems-solution-provided/"><u>Troubleshooting the Unsuccessful DPC Shift Glitch on Windows Systems [Solution Provided]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/virtual-webcams-revolutionized-discover-the-best-live-video-solutions-with-manycam-technology/"><u>Virtual Webcams Revolutionized: Discover the Best Live-Video Solutions with ManyCam Technology</u></a></li>
 </ul></div>
 

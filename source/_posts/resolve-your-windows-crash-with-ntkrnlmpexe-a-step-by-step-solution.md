@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution
-date: 2024-10-24T19:34:02.044Z
-updated: 2024-10-29T04:13:25.393Z
+date: 2024-10-30T18:06:50.727Z
+updated: 2024-11-04T04:18:46.741Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -64,29 +71,22 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -127,16 +127,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,19 +162,18 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-draw-attention-with-smoothly-animated-text-on-ig-stories/"><u>[Updated] In 2024, Draw Attention With Smoothly Animated Text on IG Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-restore-natural-tones-reviving-overexposed-iphone-hdr-videos-in-premiere-pro/"><u>[Updated] Restore Natural Tones Reviving Overexposed iPhone HDR Videos in Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-time-lapses-with-final-cut-pro-a-beginners-guide/"><u>Create Stunning Time Lapses with Final Cut Pro A Beginners Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-to-address-critical-system-info-issue-causing-your-pc-to-crash/"><u>Easy Fixes to Address Critical System Info Issue Causing Your PC to Crash</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-a23-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy A23 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-10-unexpected-store-exception-error/"><u>How to Fix the Windows 10 Unexpected Store Exception Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-ntoskrnlexe-crashes-and-stop-bsod-from-ruining-your-day/"><u>How to Resolve Windows NTOSKRNL.EXE Crashes and Stop BSoD From Ruining Your Day</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>In 2024, Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-in-overcoming-non-initialized-drives-on-windows-pc/"><u>Masterclass in Overcoming Non-Initialized Drives on Windows PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-netflix-and-youtubers-how-jake-paul-succeeded-for-2024/"><u>Navigating Netflix & YouTubers How Jake Paul Succeeded for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-ntfssys-bsod-issues-effective-solutions-for-windows-10-users/"><u>Overcoming NTFS.sys BSOD Issues: Effective Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199736422-step-by-step-fix-for-driver-verifier-causing-bsod-on-windows-10-problem-solved/"><u>Step-by-Step Fix for Driver Verifier Causing BSOD on Windows 10 – Problem Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-correcting-internal-power-malfunction-on-windows-11-computers/"><u>Troubleshooting Steps for Correcting Internal Power Malfunction on Windows 11 Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlining-the-recording-process-in-virtual-gatherings/"><u>[New] 2024 Approved Streamlining the Recording Process in Virtual Gatherings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-get-it-right-three-pro-tips-for-lol-gameplay-captures/"><u>[New] Get It Right Three Pro Tips for LOL Gameplay Captures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-discovering-top-video-cameras/"><u>[Updated] 2024 Approved Discovering Top Video Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-captivate-crowds-social-media-growth-hacks-for-youtube-for-2024/"><u>[Updated] Captivate Crowds Social Media Growth Hacks for YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-images-on-windows-11-six-proven-scaling-strategies/"><u>Enhance Images on Windows 11: Six Proven Scaling Strategies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-solutions-for-correcting-drivercorruptedexpool-errors-on-windows-11/"><u>Expert Solutions for Correcting 'DRIVER_CORRUPTED_EXPOOL' Errors on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-deal-with-storahcisys-blue-screen-of-death-bsod/"><u>Expert Tips to Deal with Storahci.sys Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-boot-into-advanced-startup-options-in-windows-10-easily/"><u>How to Boot Into Advanced Startup Options in Windows 10 Easily?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-micro-influencer-approach-to-live-youtube-streams-from-mobile/"><u>In 2024, Micro-Influencer Approach to Live Youtube Streams From Mobile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-t2-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo T2 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/in-depth-solutions-for-the-persistent-pnpdetected-error-encountered-on-windows-11-devices/"><u>In-Depth Solutions for the Persistent PNP_Detected Error Encountered on Windows 11 Devices</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/resolving-disneyplus-error-code-39-a-comprehensive-guide/"><u>Resolving Disney+ Error Code 39: A Comprehensive Guide</u></a></li>
 </ul></div>
 

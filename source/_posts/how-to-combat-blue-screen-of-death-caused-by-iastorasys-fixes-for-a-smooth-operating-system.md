@@ -1,7 +1,7 @@
 ---
 title: "How to Combat Blue Screen of Death Caused by IaStora.sys: Fixes for a Smooth Operating System"
-date: 2024-10-28T03:52:56.762Z
-updated: 2024-10-28T16:17:48.662Z
+date: 2024-10-31T18:51:45.878Z
+updated: 2024-11-04T03:43:31.386Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  Note: Performing these methods requires getting into Windows GUI. If you can’t log into Windows at all, you should boot into **[Safe Mode with Networking](https://tools.techidaily.com/drivereasy/download/)**  at first, then perform these methods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check SATA controller settings in BIOS
 
  When Driver PNP Watchdog error appears with a blue screen, it may relate to the BIOS settings. So you can check your BIOS settings in this way:
@@ -48,31 +55,11 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-138.png)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Find an option like**Configure SATA** ,**SATA Mode** or**SATA Configuration** .
 
  6) Change that option to**IDE** ,**ATA** , or**Compatible** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-139.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Save and exit BIOS.
 
@@ -97,6 +84,13 @@ sfc /scannow
 3) Wait for the process to be 100% complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-559.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Type**exit** in Command Prompt and press**Enter** .
 
@@ -126,6 +120,13 @@ To utilize Fortect, all you have to do is:
  3) Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -161,6 +162,13 @@ chkdsk.exe /f /r
 
  If so, then congrats. If not, don’t worry. There are other solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your device drivers
 
  A missing or outdated device driver can cause Driver PNP Watchdog in your computer. In these circumstances, you should update your device drivers to the latest version.
@@ -178,10 +186,10 @@ chkdsk.exe /f /r
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-143.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the**FREE** version).
@@ -190,23 +198,9 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-144.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer as normal and see if the error disappears.
 
 If your Driver PNP Watchdog error persists, try the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Try Automatic Repair
 
@@ -246,20 +240,27 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When you see the**Startup Repair** screen, click**Advanced Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-150.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-146.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Advanced Options** .
 
@@ -269,16 +270,16 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Follow the on-screen instructions to finish it.
 
 Hopefully, Windows repair will scan and fix your error automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check Volume Shadow Copy service
 
@@ -291,13 +292,6 @@ You should make sure the Volume Shadow Copy service is running properly:
  2) Type**services.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-151.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and double-click**Volume Shadow Copy** .
 
@@ -333,20 +327,22 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>[New] Obsudio Screen Recorder Analysis Your Best Choices Explored</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-srt-breakdown-core-concepts-and-applications/"><u>[New] SRT Breakdown Core Concepts and Applications</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-evaluating-adobes-anti-shake-functionality-for-creatives/"><u>[Updated] 2024 Approved Evaluating Adobe's Anti-Shake Functionality for Creatives</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extreme-quality-top-5-for-slow-motion-precision/"><u>[Updated] Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-curing-bsod-handling-the-0x00000050-error-in-windows-7/"><u>Comprehensive Guide to Curing BSOD: Handling the 0X00000050 Error in Windows 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord/"><u>[New] 2024 Approved A Step-by-Step Approach to Documenting Every Exciting Moment on Discord</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-explore-movies-for-free-simple-video-player-software-for-2024/"><u>[New] Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leveraging-keywords-and-metadata-in-podcast-seo-for-2024/"><u>[Updated] Leveraging Keywords and Metadata in Podcast SEO for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-your-youtube-dollars-with-short-video-monetization/"><u>[Updated] Skyrocket Your YouTube Dollars with Short Video Monetization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/accelerating-your-videos-in-5-simple-steps-a-guide-to-creating-quicker-clips/"><u>Accelerating Your Videos in 5 Simple Steps: A Guide to Creating Quicker Clips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/compliant-driver-management-after-resolving-iomgr-non-conformity/"><u>Compliant Driver Management After Resolving Iomgr Non-Conformity</u></a></li>
 <li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-diagnose-and-resolve-fat-drive-issues-on-your-windows-10-pc/"><u>Comprehensive Guide to Diagnose and Resolve FAT Drive Issues on Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/error-code-0x00000019-explained-effective-remedies-for-bad-pool-headers-on-windows-systems-resolved/"><u>Error Code 0X00000019 Explained: Effective Remedies for Bad Pool Headers on Windows Systems [RESOLVED]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-crashed-pc-with-bugcodeusbdriver-error-on-windows-10-system/"><u>How to Repair a Crashed PC with 'BUGCODE_USB_DRIVER' Error on Windows 10 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-inaccessible-boot-device-blue-screen-error-on-windows-11-with-illustrative-images/"><u>How to Resolve 'Inaccessible Boot Device' Blue Screen Error on Windows 11 with Illustrative Images</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-blade-a73-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Blade A73 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-crashes-resolving-stop-code-0x0000009f/"><u>Troubleshooting Windows Crashes: Resolving Stop Code 0X0000009F</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-solutions-for-smooth-video-streams/"><u>Ultimate Solutions for Smooth Video Streams</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-web-based-online-vertical-video-editors/"><u>Updated 2024 Approved Best Web-Based Online Vertical Video Editors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10-crashes-solve-your-critical-process-died-bsod-errors-permanently/"><u>Winning Against Windows 10 Crashes: Solve Your 'Critical Process Died' BSOD Errors Permanently!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-jackery-powerbar-unit-evaluation-with-integrated-ac-port/"><u>Comprehensive Jackery PowerBar Unit Evaluation with Integrated AC Port</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-the-nightmare-comprehensive-troubleshooting-of-rtkvhd64sys-blue-screen-errors/"><u>End the Nightmare: Comprehensive Troubleshooting of RTKVHD64.sys Blue Screen Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V29 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/no-more-freezes-a-step-by-step-guide-to-stabilize-your-windows-7-system/"><u>No More Freezes: A Step-by-Step Guide to Stabilize Your Windows 7 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-driver-verifier-errors-bsod-fixes-for-windows-10-users-complete-guide/"><u>Overcoming Driver Verifier Errors: BSOD Fixes for Windows 10 Users [COMPLETE GUIDE]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-remedies-for-exception-in-thread-issues/"><u>Quick Remedies for 'Exception in Thread' Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-death-read-only-memory-write-error-fixes/"><u>Resolving the Blue Screen of Death: Read-Only Memory Write Error Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-0x0000000a-bsod-dilemma-a-step-by-step-guide/"><u>Solving the 0X0000000A BSOD Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-reverting-from-itunes-121-back-to-previous-versions/"><u>Step-by-Step Guide: Reverting From iTunes 12.1 Back to Previous Versions</u></a></li>
 </ul></div>
 

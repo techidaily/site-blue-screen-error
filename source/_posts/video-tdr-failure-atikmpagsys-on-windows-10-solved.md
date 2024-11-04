@@ -1,7 +1,7 @@
 ---
 title: Video TDR Failure (atikmpag.sys) on Windows 10 [Solved]
-date: 2024-09-29T18:21:16.219Z
-updated: 2024-09-30T18:35:37.789Z
+date: 2024-11-02T08:48:57.203Z
+updated: 2024-11-03T22:03:47.138Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -65,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
@@ -76,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -121,22 +134,15 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,24 +168,17 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>[New] Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-simple-steps-to-master-no-cost-time-tracking/"><u>[New] Simple Steps to Master No-Cost Time Tracking</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x00000124-blue-screen-error-on-windows-11-and-7/"><u>[Solved] Stop: 0X00000124 Blue Screen Error on Windows 11 & 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-win32kfullsys-blue-screen-error/"><u>[SOLVED] win32kfull.sys Blue Screen Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-ppt-presentation-in-google-meet-mobile-and-laptop/"><u>[Updated] In 2024, Mastering PPT Presentation in Google Meet (Mobile & Laptop)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-correct-the-bad-pool-header-blue-screen-error-in-windows-11/"><u>Comprehensive Guide to Correct the 'Bad Pool Header' Blue Screen Error in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-blue-screen-bugs-linked-to-cmusbdacsys-driver-in-windows/"><u>Diagnosing and Repairing Blue Screen Bugs Linked to CMUSBDAC.sys Driver in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-error-code-0xc0000017-how-to-repair-your-computer-and-restore-functionality/"><u>FIXED: Error Code 0xC0000017 - How to Repair Your Computer and Restore Functionality</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A05 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a1x-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A1x 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exploring-legal-restrictions-for-broadcasting-content-online/"><u>In 2024, Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y56-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y56 5G? Try These Fixes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nba-2k24-error-guide-solving-issue-727e66ac-with-easy-troubleshooting-steps/"><u>NBA 2K24 Error Guide: Solving Issue 727E66ac with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-system-issues-correcting-corrupted-data-from-hardware-faults-in-windows-1110/"><u>Solving System Issues: Correcting Corrupted Data From Hardware Faults in Windows 11/10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-unwanted-bluescreen-errors-post-windows-10-update/"><u>Troubleshooting Unwanted Bluescreen Errors Post-Windows 10 Update</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/victory-against-the-bluescreen-a-fixers-journey-through-ntkrnlmpexe-errors/"><u>Victory Against the Bluescreen: A Fixer's Journey Through ntkrnlmp.exe Errors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-choice-of-childhood-flying-fun-toys/"><u>[New] The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-0x0000007e-blue-screen-of-death-error-on-windows-7/"><u>[Solved] 0X0000007E Blue Screen of Death Error on Windows 7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>[Updated] 2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-premier-editing-suites-for-device-app-development/"><u>[Updated] Premier Editing Suites for Device App Development</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-pc-file-examination-guide/"><u>[Updated] Speedy PC File Examination Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/conquer-the-bsod-menace-a-detailed-tutorial-for-solving-0x00000050-in-windows-7-fixed/"><u>Conquer the BSoD Menace: A Detailed Tutorial for Solving 0X00000050 in Windows 7 [Fixed]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/face-off-review-how-does-the-nintendo-switch-lite-stack-up-against-the-oled-model/"><u>Face-Off Review: How Does the Nintendo Switch Lite Stack Up Against the OLED Model?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-internal-error-in-video-scheduling-apps-on-windows-11/"><u>How to Fix 'Internal Error' In Video Scheduling Apps on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-nmihardwarefailure-bsod-error/"><u>Solved: NMI_HARDWARE_FAILURE BSOD Error</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211359638-9798869397874-the-ultimate-guide-to-runes/"><u>The Ultimate Guide to Runes | Free Book</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transfer-your-favorite-films-three-techniques-to-move-movies-from-computer-to-iphone/"><u>Transfer Your Favorite Films: Three Techniques to Move Movies From Computer to iPhone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-of-death-bsod-caused-by-clock-watchdog-in-windows-11/"><u>Troubleshooting Blue Screen of Death (BSOD) Caused by Clock Watchdog in Windows 11</u></a></li>
 </ul></div>
 

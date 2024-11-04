@@ -1,7 +1,7 @@
 ---
 title: Error Code Decoded - Understanding and Fixing Stop 0X00000am A
-date: 2024-10-12T21:11:30.798Z
-updated: 2024-10-18T01:06:31.546Z
+date: 2024-11-01T03:59:04.191Z
+updated: 2024-11-04T05:05:11.548Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
@@ -75,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -108,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -138,20 +138,22 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/treamline-your-soundtracks-the-best-free-youtube-to-wav-tools/"><u>[New] Streamline Your Soundtracks The Best Free YouTube to WAV Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-machine-check-exception-bsod-in-windows-10/"><u>[SOLVED] MACHINE CHECK EXCEPTION BSOD in Windows 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-countdown-of-content-youtubes-1-videos-by-minutes-for-2024/"><u>[Updated] The Countdown of Content YouTube's #1 Videos by Minutes for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beyond-bsod-correcting-unexpected-kernel-mode-interruptions-in-windows-10-environments/"><u>Beyond BSOD: Correcting Unexpected Kernel Mode Interruptions in Windows 10 Environments</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-blue-screen-resolving-windows-dxgkrnlsys-issues/"><u>Bypassing the Blue Screen: Resolving Windows 'dxgkrnl.sys' Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/comparative-study-of-software-package-file-types-exe-vs-msi/"><u>Comparative Study of Software Package File Types: Exe vs Msi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decode-and-debug-eliminating-blue-screen-error-code-0x00000/"><u>Decode & Debug: Eliminating Blue Screen Error Code 0X00000</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-how-to-correctly-tackle-storportsys-bsod-issues-on-win11-computers/"><u>Expert Advice: How to Correctly Tackle Storport.sys BSoD Issues on Win11 Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntoskrnlexe-blue-screen-of-death-step-by-step-guide/"><u>Fixing the Notorious NTOSKRNL.EXE Blue Screen of Death: Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/freescape-extraction-revisited-a-look-at-the-latest-update-for-2024/"><u>Freescape Extraction Revisited A Look at the Latest Update for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/harnessing-the-power-of-multilingual-potential-in-english/"><u>Harnessing the Power of Multilingual Potential in English</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-address-critical-services-failure-and-avoid-bsod-errors-in-your-windows-10-device/"><u>How to Address Critical Services Failure and Avoid BSOD Errors in Your Windows 10 Device</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mettiti-al-set-di-conversione-ppm-tiff-online-sicuro-e-gratuitamente-con-movavi/"><u>Mettiti Al Set Di Conversione PPM-TIFF OnLine Sicuro E Gratuitamente Con Movavi!</u></a></li>
-<li><a href="https://win-info.techidaily.com/unavailable-iphone-software-update-fixes-what-you-need-to-know/"><u>Unavailable iPhone Software Update Fixes: What You Need to Know</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>[Updated] 2024 Approved Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>2024 Approved Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-6-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 6</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fix-for-the-igdkmd64sys-system-crash-on-windows-11-a-user-friendly-guide/"><u>Comprehensive Fix for the 'IGDKMD64.sys' System Crash on Windows 11: A User-Friendly Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-dealing-with-the-apc-index-mismatch-that-triggers-blue-screens/"><u>Comprehensive Fixes: Dealing with the 'APC Index Mismatch' That Triggers Blue Screens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-overcome-the-notorious-blue-screen-error-from-nvpcnfsys/"><u>Comprehensive Strategies to Overcome the Notorious Blue Screen Error From nvpcnf.sys</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-critical-process-died-error-stop-0x0000007b/"><u>Effective Solutions for Fixing the Critical Process Died Error (STOP: 0X0000007B)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-performance-in-the-ascent-by-boosting-frame-rates-and-fixing-stutter-issues/"><u>Elevate Your Performance in The Ascent by Boosting Frame Rates & Fixing Stutter Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-performance-boosters-6-proven-tips-to-stop-stuttering/"><u>Hogwarts Legacy Performance Boosters: 6 Proven Tips to Stop Stuttering !</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-resolve-machine-check-exception-blue-screen-errors-in-windows-11/"><u>How to Troubleshoot and Resolve 'Machine Check Exception' Blue Screen Errors in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-cures-for-m-audio-track-errors/"><u>Lightning-Fast Cures for M-Audio Track Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-errors-storahcisys-troubleshooting-guide/"><u>Solving Blue Screen Errors: Storahci.sys Troubleshooting Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-fixing-the-dreaded-machine-check-exception-and-preventing-bsod-on-your-windows-10-system/"><u>Step-by-Step Solutions for Fixing the Dreaded Machine Check Exception and Preventing BSoD on Your Windows 10 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-error-code-0x00000amazing-for-pc-restarts/"><u>Understanding and Resolving Error Code 0X00000amazing for PC Restarts</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-7-freezes-hangs-or-locks-up-randomly-solved/"><u>Windows 7 Freezes, Hangs or Locks Up Randomly [Solved]</u></a></li>
 </ul></div>
 

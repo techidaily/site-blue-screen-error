@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies for Windows 7'S 0X0000007E Blue Screen of Death Error
-date: 2024-10-28T00:08:04.098Z
-updated: 2024-10-29T00:26:38.910Z
+date: 2024-11-01T01:15:10.506Z
+updated: 2024-11-04T03:11:38.969Z
 tags:
   - win11
   - win10
@@ -43,22 +43,29 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
@@ -82,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -102,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -113,19 +120,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -144,21 +138,22 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-10/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-ntkrnlmpexe-blue-screen-error/"><u>[SOLVED] ntkrnlmp.exe Blue Screen Error</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-peaceful-beats-best-20-tranquil-country-songs-and-dancing-on-tiktok/"><u>[Updated] In 2024, Peaceful Beats Best 20 Tranquil Country Songs & Dancing on TikTok</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-creativity-with-youtube-studio-editor/"><u>[Updated] In 2024, Unleash Creativity with YouTube Studio Editor</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-streamlining-media-formats-from-srt-to-advanced-standards-for-2024/"><u>[Updated] Streamlining Media Formats From SRT to Advanced Standards for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfecting-your-fisheye-lens-techniques-stepwise/"><u>2024 Approved Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apples-m1-battle-is-the-air-or-pro-more-efficient/"><u>Apple's M1 Battle Is the Air or Pro More Efficient?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expert-tips-on-producing-high-quality-facebook-video-for-2024/"><u>Expert Tips on Producing High-Quality Facebook Video for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-cannot-access-boot-drive-error-displayed-as-a-blue-screen-on-windows-10-tutorial-with-screenshots/"><u>Fixing the Cannot Access Boot Drive Error Displayed as a Blue Screen on Windows 10 - Tutorial with Screenshots</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-error-ntoskrnlexe-stopped-unexpectedly-0xc00002e-on-windows-nx/"><u>Fixing the Critical Error: NTOSKRNL.EXE STOPPED Unexpectedly (0Xc00002e) on Windows nX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/handling-windows-blue-screen-errors-from-numerous-interrupt-request-handles-successfully-closed/"><u>Handling Windows Blue Screen Errors From Numerous Interrupt Request Handles Successfully Closed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-t2-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo T2 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-errors-in-windows-11-a-comprehensive-guide/"><u>Resolving System Service Errors in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/troubleshooting-when-youtube-shorts-images-fail-to-display/"><u>Troubleshooting When YouTube Shorts Images Fail To Display</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10s-pnp-detected-fatal-malfunction-a-step-by-step-guide/"><u>Winning Against Windows 10'S 'PNP Detected' Fatal Malfunction – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>[New] Disappear and Reappear Avoiding Shadowbans on TikTok</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial/"><u>2024 Approved Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-recmeisters-high-quality-screen-recording-capabilities/"><u>2024 Approved Unveiling Recmeister's High-Quality Screen Recording Capabilities</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-nord-3-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus Nord 3 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-blue-screen-problem-linked-to-tcpipsys-in-microsoft-operating-systems/"><u>Diagnose and Repair 'Blue Screen' Problem Linked to tcpip.sys in Microsoft Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-storportsys-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Fixing StorPort.sys Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhanced-performance-top-free-alternatives-to-ytd-downloader/"><u>Enhanced Performance: Top Free Alternatives to YTD Downloader</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-atikmpagsys-error-video-tdr-issues-on-windows-10-solutions-inside/"><u>Fixing Atikmpag.sys Error: Video TDR Issues on Windows 10 - Solutions Inside</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fixing-the-issue-when-system-restore-is-disabled-on-windows-10/"><u>Fixing the Issue When 'System Restore' Is Disabled on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-blue-screen-error-caused-by-tcpipsys-in-windows-11-7-and-8/"><u>How to Fix the Blue Screen Error Caused by TCP/IP.sys in Windows 11, 7 & 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-non-operational-wsreset-process-in-windows/"><u>How to Reactivate a Non-Operational WSReset Process in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-v30-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo V30 FRP Bypass Instantly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-blue-screen-of-death-caused-by-faulty-video-memory-configuration/"><u>Overcoming Blue Screen of Death Caused by Faulty Video Memory Configuration</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-errors-in-windows-10-a-comprehensive-guide/"><u>Resolving System Service Errors in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-and-fixes-for-blue-screen-of-death-tcpipsys-issue-across-various-windows-versions/"><u>Tips and Fixes for 'Blue Screen of Death: tcpip.sys' Issue Across Various Windows Versions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-for-repairing-the-dxgmms2sys-bsod-error-in-your-windows-10-pc/"><u>Tips for Repairing the 'dxgmms2.sys' BSOD Error in Your Windows 10 PC</u></a></li>
 </ul></div>
 

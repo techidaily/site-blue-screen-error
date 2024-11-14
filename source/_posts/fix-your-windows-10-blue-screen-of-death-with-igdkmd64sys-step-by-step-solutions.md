@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows 10 Blue Screen of Death with Igdkmd64.sys - Step by Step Solutions
-date: 2024-11-01T01:06:34.612Z
-updated: 2024-11-04T03:48:56.703Z
+date: 2024-11-11T18:43:28.584Z
+updated: 2024-11-13T10:39:36.327Z
 tags:
   - win11
   - win10
@@ -65,22 +65,15 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
 4. Restart your computer afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then see if the blue screen of death HYPERVISOR ERROR still happens. If so, please move on to the other fixes below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update Windows
@@ -91,6 +84,13 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
@@ -113,6 +113,20 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -122,13 +136,6 @@ HYPERVISOR ERROR blue screen of death on Windows
  Use your computer like how you normally would to see if the HYPERVISOR ERROR is fixed by updated device drivers. If the blue screen error remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Hyper-V settings
 
@@ -187,6 +194,13 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
 
@@ -200,10 +214,10 @@ HYPERVISOR ERROR blue screen of death on Windows
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM checks
@@ -211,13 +225,6 @@ HYPERVISOR ERROR blue screen of death on Windows
  Corrupted system files may cause blue screen of death errors as well. But luckily, there are two built-in tools that can help to identify and repair such bad system files. The whole process could take some time, and we suggest you don’t run any other programs when doing the test (If you’re not confident enough to run these commands, you can[**try this automatic tool**](https://tools.techidaily.com/drivereasy/download/) instead).
 
 To run these tools:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6.1 Scan corrupt files with System File Checker
 
@@ -235,6 +242,19 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After the scan, run your computer like how you normally would to see if the blue screen error HYPERVISOR ERROR still remains. If so, move on to the next test:
 
 ### 6.2 Run dism.exe
@@ -242,13 +262,6 @@ sfc /scannow
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -271,13 +284,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  When these tests are done, see if your computer still has the HYPERVISOR ERROR. If the problem still persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Repair damaged and corrupted system files
 
@@ -326,16 +332,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-blissful-bites-best-stress-busting-gaming/"><u>[New] In 2024, Blissful Bites Best Stress-Busting Gaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-speech-analysis-and-conversion-its-free/"><u>[Updated] In 2024, Speech Analysis and Conversion - It's Free</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/asmtxhci-system-malfunction-how-to-correctly-address-the-blue-screen-error-in-windows-os/"><u>ASMTXHCI System Malfunction: How to Correctly Address the Blue Screen Error in Windows OS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-gt-10-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your GT 10 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 8 to iPod | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-win32kfullsys-causing-system-crashes/"><u>How to Troubleshoot and Fix 'Win32kfull.sys' Causing System Crashes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers in Windows 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 VIP Phone without Google Account?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pushing-the-limits-of-solid-state-drives-on-windows-with-ssdfresh/"><u>Pushing the Limits of Solid State Drives on Windows with SSDFresh</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-driver-verifier-detected-violation-bsod-crashes-on-windows-10-solution/"><u>Step-by-Step Guide: Fixing Driver Verifier Detected Violation BSOD Crashes on Windows 10 [SOLUTION]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-cmusbdacsys-blue-screen-of-death-in-windows/"><u>[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-simple-steps-to-great-videos-crafting-10-basic-concepts-easily/"><u>[New] 2024 Approved Simple Steps to Great Videos Crafting 10 Basic Concepts Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-swift-guide-to-starting-conversations-on-instagram-for-2024/"><u>[New] A Swift Guide to Starting Conversations on Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-canva-10-best-practices-unveiled/"><u>[New] Mastering Canva 10 Best Practices Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-copyright-compliance-in-instagrams-musical-world-for-2024/"><u>[New] Mastering Copyright Compliance in Instagram's Musical World for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-preeminent-visionaries-of-av-artistry-online/"><u>[Updated] 2024 Approved The Preeminent Visionaries of AV Artistry Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boost-your-brand-with-snapchats-business-features/"><u>2024 Approved Boost Your Brand with Snapchat's Business Features</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-overcome-error-code-0x00000116-in-a-flash/"><u>Blue Screen of Death: Overcome Error Code 0X00000116 in a Flash</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-the-multiple-irp-complete-bug-that-triggers-a-blue-screen-on-your-pc/"><u>Effective Solutions to the 'Multiple IRP Complete' Bug That Triggers a Blue Screen on Your PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/excessive-blank-sheets-on-new-epson-multifunction-product/"><u>Excessive Blank Sheets on New Epson Multifunction Product</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199749355-guide-to-correct-video-schedulers-internal-error-on-your-windows-10-device-solved/"><u>Guide to Correct Video Scheduler’s Internal Error on Your Windows 10 Device - Solved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>In 2024, The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-sleep-inducing-series-analyzing-video-bedtime-stories/"><u>In 2024, The Sleep-Inducing Series Analyzing Video Bedtime Stories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-the-persistent-netwtw04sys-blue-screen-error-on-win10/"><u>Solution Steps for the Persistent Netwtw04.sys Blue Screen Error on Win10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackle-your-pcs-nvpcfsys-blue-screen-error-with-these-simple-fixes/"><u>Tackle Your PC's nvpcf.sys Blue Screen Error with These Simple Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-bsod-issues-due-to-tcpipsys-on-windows-os/"><u>Troubleshooting and Fixing BSOD Issues Due to TCP/IP.sys on Windows OS</u></a></li>
 </ul></div>
 

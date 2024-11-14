@@ -1,7 +1,7 @@
 ---
 title: "How to Combat Blue Screen of Death Caused by IaStora.sys: Fixes for a Smooth Operating System"
-date: 2024-10-31T18:51:45.878Z
-updated: 2024-11-04T03:43:31.386Z
+date: 2024-11-08T04:26:01.503Z
+updated: 2024-11-13T09:12:43.720Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 6. [Check Volume Shadow Copy service](https://tools.techidaily.com/drivereasy/download/)
 
  Note: Performing these methods requires getting into Windows GUI. If you can’t log into Windows at all, you should boot into **[Safe Mode with Networking](https://tools.techidaily.com/drivereasy/download/)**  at first, then perform these methods.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check SATA controller settings in BIOS
 
@@ -81,15 +74,22 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-556.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait for the process to be 100% complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-559.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Type**exit** in Command Prompt and press**Enter** .
@@ -121,13 +121,6 @@ To utilize Fortect, all you have to do is:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ### Fix 3: Perform a disk check
@@ -140,6 +133,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-555.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** to accept UAC if prompted.
 
  3) Type (or copy and paste) the following command in Command Prompt. Then press**Enter** on your keyboard.
@@ -148,9 +148,23 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-142.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Type**Y** in the Command Prompt to confirm that you’d like to perform the disk check next time you restart your computer. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-141.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Make sure you’ve closed all the applications and saved your work. Then restart Windows.
 
@@ -161,13 +175,6 @@ chkdsk.exe /f /r
  6) Once the disk check has been completed, check your computer or run Windows Update again to see if the Driver PNP Watchdog error has been removed.
 
  If so, then congrats. If not, don’t worry. There are other solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
 
@@ -184,13 +191,6 @@ chkdsk.exe /f /r
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-143.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the**FREE** version).
 
@@ -240,22 +240,15 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When you see the**Startup Repair** screen, click**Advanced Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-150.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Troubleshoot** .
@@ -266,6 +259,13 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-147.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
@@ -273,13 +273,6 @@ Now boot into Windows and see if it fixes your problem.
 7) Follow the on-screen instructions to finish it.
 
 Hopefully, Windows repair will scan and fix your error automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check Volume Shadow Copy service
 
@@ -292,6 +285,13 @@ You should make sure the Volume Shadow Copy service is running properly:
  2) Type**services.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-151.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and double-click**Volume Shadow Copy** .
 
@@ -327,22 +327,24 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord/"><u>[New] 2024 Approved A Step-by-Step Approach to Documenting Every Exciting Moment on Discord</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-explore-movies-for-free-simple-video-player-software-for-2024/"><u>[New] Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-leveraging-keywords-and-metadata-in-podcast-seo-for-2024/"><u>[Updated] Leveraging Keywords and Metadata in Podcast SEO for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-your-youtube-dollars-with-short-video-monetization/"><u>[Updated] Skyrocket Your YouTube Dollars with Short Video Monetization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/accelerating-your-videos-in-5-simple-steps-a-guide-to-creating-quicker-clips/"><u>Accelerating Your Videos in 5 Simple Steps: A Guide to Creating Quicker Clips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/compliant-driver-management-after-resolving-iomgr-non-conformity/"><u>Compliant Driver Management After Resolving Iomgr Non-Conformity</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-diagnose-and-resolve-fat-drive-issues-on-your-windows-10-pc/"><u>Comprehensive Guide to Diagnose and Resolve FAT Drive Issues on Your Windows 10 PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-jackery-powerbar-unit-evaluation-with-integrated-ac-port/"><u>Comprehensive Jackery PowerBar Unit Evaluation with Integrated AC Port</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/end-the-nightmare-comprehensive-troubleshooting-of-rtkvhd64sys-blue-screen-errors/"><u>End the Nightmare: Comprehensive Troubleshooting of RTKVHD64.sys Blue Screen Errors</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V29 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/no-more-freezes-a-step-by-step-guide-to-stabilize-your-windows-7-system/"><u>No More Freezes: A Step-by-Step Guide to Stabilize Your Windows 7 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-driver-verifier-errors-bsod-fixes-for-windows-10-users-complete-guide/"><u>Overcoming Driver Verifier Errors: BSOD Fixes for Windows 10 Users [COMPLETE GUIDE]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-remedies-for-exception-in-thread-issues/"><u>Quick Remedies for 'Exception in Thread' Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-death-read-only-memory-write-error-fixes/"><u>Resolving the Blue Screen of Death: Read-Only Memory Write Error Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-0x0000000a-bsod-dilemma-a-step-by-step-guide/"><u>Solving the 0X0000000A BSOD Dilemma: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-reverting-from-itunes-121-back-to-previous-versions/"><u>Step-by-Step Guide: Reverting From iTunes 12.1 Back to Previous Versions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rtwlanesys-troubleshooting-fixes-for-the-blue-screen-baffler/"><u>'rtwlane.sys' Troubleshooting: Fixes for the Blue Screen Baffler</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-achieve-and-share-your-most-lengthy-instagram-videos-for-2024/"><u>[New] How to Achieve and Share Your Most Lengthy Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-harvest-haven-top-10-sims-like-stardew-valley/"><u>[Updated] Harvest Haven Top 10 Sims Like Stardew Valley</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-mp4-video-editors-2023-edition/"><u>Best Zero-Cost MP4 Video Editors 2023 Edition</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-fixes-involving-tcpipsys-on-windows-versions-10-8-and-7/"><u>Blue Screen Error Fixes Involving TCPip.sys on Windows Versions 10, 8 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-solutions-for-fixing-system-service-exception-in-windows-7/"><u>Easy Solutions for Fixing 'System Service Exception' In Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-the-blue-screen-chaos-expert-solutions-to-troubleshoot-error-0xc000021a-in-windows-11-and-8/"><u>End the Blue Screen Chaos: Expert Solutions to Troubleshoot Error 0xC000021A in Windows 11 and 8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-strategies-for-fixing-serious-hardware-recognition-issues-pnp-errors-on-windows-11-pcs/"><u>Expert Strategies for Fixing Serious Hardware Recognition Issues (PNP Errors) on Windows 11 PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcome-write-failed-in-boot-directory-a-guide-to-solving-blue-screen-errors/"><u>Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-loss-of-connection-with-overwatch-server/"><u>Resolved: Loss of Connection with Overwatch Server</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10s-hal-setup-failure-expert-tips-and-solutions/"><u>Resolving Windows 10'S HAL Setup Failure: Expert Tips and Solutions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-and-rectify-video-malfunctions/"><u>Revive & Rectify Video Malfunctions</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/revolutionize-your-digital-publishing-with-flipbuilder-explore-new-directions/"><u>Revolutionize Your Digital Publishing with FlipBuilder – Explore New Directions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-eradicating-error-code-0xc000000e-on-windows/"><u>Step-by-Step Tutorial: Eradicating Error Code 0xC000000E on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-best-free-video-editing-software-of-2024-top-picks-and-reviews/"><u>The Best Free Video Editing Software of 2024 - Top Picks and Reviews</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-tier-80s-visual-tricks-for-elevated-editing-for-2024/"><u>Top-Tier 80S Visual Tricks for Elevated Editing for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-minecraft-launch-issues/"><u>Troubleshooting Tips: Resolving Minecraft Launch Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-secrets-to-overwatch-video-capture-for-2024/"><u>Unlocking the Secrets to Overwatch Video Capture for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-amines-and-how-to-solve-them/"><u>Windows Amines and How to Solve Them</u></a></li>
 </ul></div>
 

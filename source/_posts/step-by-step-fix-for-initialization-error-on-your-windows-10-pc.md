@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for 'Initialization Error' On Your Windows 10 PC
-date: 2024-10-28T20:23:20.800Z
-updated: 2024-11-03T18:51:34.272Z
+date: 2024-11-11T21:37:34.907Z
+updated: 2024-11-12T21:10:12.109Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click **Yes** when you’re prompted to confirm.
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
@@ -52,6 +59,13 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your computer for the change to take effect.
 
  Check to see if the event tracing fatal error still occurs. If it doesn’t occur, then great – you’ve fixed the issue! If it still happens, please move on to**Fix 2** , below.
@@ -59,10 +73,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -76,19 +90,26 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -107,16 +128,10 @@ Here are the steps on how to disable secure boot:
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
@@ -124,6 +139,13 @@ Here are the steps on how to disable secure boot:
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
 7. Use**the arrow keys** to navigate to**Secure Boot** (could be found on the**Security** , the**Boot** or the**Authentication** tab). Then select its value to **Disable** .
@@ -135,39 +157,12 @@ Here are the steps on how to disable driver integrity checks:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -204,14 +199,15 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/adjusting-screen-horizon-alignment/"><u>Adjusting Screen Horizon Alignment</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-0x00000019-memory-conflict-in-windows-solutions-for-win11win8win7/"><u>Bypassing the 0X00000019 Memory Conflict in Windows: Solutions for Win11/Win8/Win7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199720194-control-charts-are-central-tools-in-spc-helping-to-distinguish-between-common-cause-and-special-cause-variations/"><u>Control Charts Are Central Tools in SPC, Helping to Distinguish Between Common Cause and Special Cause Variations.</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-anticheat-connection-failed-issue-in-escape-from-tarkov-a-comprehensive-guide/"><u>Fixing the 'Anticheat Connection Failed' Issue in Escape From Tarkov - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-and-online-video-converter-solutions-convert-your-avi-videos-to-mp4-on-pc-or-mac-seamlessly/"><u>Free & Online Video Converter Solutions: Convert Your AVI Videos to MP4 on PC or Mac Seamlessly</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-overcome-device-driver-lock-ups-on-your-windows-10-system-with-ease/"><u>Troubleshoot and Overcome Device Driver Lock-Ups on Your Windows 10 System with Ease</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/twitter-vids-to-mp3-easy-extraction-techniques/"><u>Twitter Vids to MP3 Easy Extraction Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-fixes-for-netwtw04sys-blue-screen-of-death-in-windows-11-computers/"><u>Ultimate Fixes for Netwtw04.sys Blue Screen of Death in Windows 11 Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199713730-addressing-key-component-deterioration-on-your-windows-11-machine-solution-found/"><u>Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1638137-9781780282251-before-the-pyramids/"><u>Before the Pyramids | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-silent-pc-issues-fast-a-simple-guide-to-restoring-audio/"><u>Fix Silent PC Issues Fast: A Simple Guide to Restoring Audio</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728491058617-gmail/"><u>Gmail電子郵件連接恢複技巧：最直接的解決方法</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-look-at-fraps-screen-capture-for-2024/"><u>In-Depth Look at Fraps Screen Capture for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-pova-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-fatal-error-pnp-detected-on-windows-10-explained/"><u>Resolved: Critical Fatal Error 'PNP Detected' On Windows 10 Explained</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-igdkmd64sys-crash-on-windows-11-step-by-step-solutions/"><u>Resolving the 'IGDKMD64.sys' Crash on Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-critical-error-code-41-during-windows-10-boot-up-process/"><u>Resolving the Critical Error Code 41 During Windows 10 Boot Up Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlining-the-process-of-ppt-recording-for-2024/"><u>Streamlining the Process of PPT Recording for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the kMODE_Exception_Not_Handled Message in Windows 11 and Windows 10
-date: 2024-10-29T06:37:42.369Z
-updated: 2024-11-03T23:44:50.128Z
+date: 2024-11-05T16:10:05.430Z
+updated: 2024-11-13T03:45:08.176Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Enter Safe Mode with Networking**
 
  Fix 1 is a step to allow you to log into Windows if you cannot boot into Windows normally.
@@ -56,19 +49,41 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 6. Click **Advanced options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 7. Click **Startup settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 8. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 9. On your keyboard, press **5**  to enable **Safe Mode with Networking** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
@@ -77,10 +92,10 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -108,6 +123,19 @@ This problem may occur if you’re using the wrong or outdated device drivers. S
 5) Check to see if the**storport.sys** blue screen issue is resolved. If yes, then congrats! If the problem remains, please move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupt system files
 
@@ -152,6 +180,13 @@ Here’s how to use Fortect to run a Windows repair:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -159,19 +194,6 @@ Here’s how to use Fortect to run a Windows repair:
 5) Check your computer to see if the **storport.sys** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
 
@@ -181,16 +203,16 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 Wait a while for the whole process to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Type**sfc /scannow**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c125e481c9.jpg)
@@ -199,13 +221,6 @@ Wait a while for the whole process to finish.
  Blue screen issue still not resolved yet? Please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your SSD
 
@@ -242,23 +257,9 @@ To do so:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Right-click on **Local Disk** and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9771a3dcf2c.jpg)
 4. Click **Scan drive** .  
@@ -289,20 +290,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-smartphone-photographers-handbook-for-2024/"><u>[New] The Smartphone Photographer's Handbook for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-hidclasssys-quickly-and-easily/"><u>[Solved] HIDCLASS.SYS. Quickly & Easily</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ultimate-mp3-clips-top-10-online-transformers/"><u>[Updated] 2024 Approved Ultimate MP3 Clips Top 10 Online Transformers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-essential-low-cost-footage-source-directory/"><u>[Updated] Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[Updated] In 2024, Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-effortless-vrecorder-setup/"><u>2024 Approved The Ultimate Guide to Effortless VRecorder Setup</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beat-the-bluescreen-bug-expert-techniques-for-in-page-kernel-data-fix-and-optimization-strategies/"><u>Beat the Bluescreen Bug: Expert Techniques for In-Page Kernel Data Fix and Optimization Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bertelsmann/"><u>Bertelsmann</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-6-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 6 Plus or iPad?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>In 2024, The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/navigating-through-windows-11s-quickboot-to-advanced-options/"><u>Navigating Through Windows 11’S QuickBoot to Advanced Options</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-unfixable-whea-uncorrectable-error-a-step-by-step-guide/"><u>Resolving the Unfixable 'WHEA Uncorrectable Error': A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-fat-drive-issues-on-windows-10/"><u>Troubleshooting and Repairing FAT Drive Issues on Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-moba-games-on-android-top-10-edition/"><u>[New] 2024 Approved Premier MOBA Games on Android - TOP 10 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>[Updated] 2024 Approved The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unlocking-potential-your-guide-to-obs-android-broadcasts/"><u>[Updated] 2024 Approved Unlocking Potential Your Guide to OBS Android Broadcasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>[Updated] Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-view-bots-and-other-easy-hacks-to-increase-views/"><u>[Updated] YouTube View Bots and Other Easy Hacks to Increase Views</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-success-infusing-personality-into-templates/"><u>Channel Success Infusing Personality Into Templates</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-stop-error-stop-0x0cuu0000003b-on-pc-systems/"><u>Comprehensive Guide to Fixing Stop Error (STOP) 0X0cuu0000003b on PC Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-fixing-pnp-watchguard-bsod-glitch-in-device-drivers/"><u>Comprehensive Solutions for Fixing PNP Watchguard BSOD Glitch in Device Drivers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-clock-watchdog-timed-out-error-to-stop-windows-10-bluescreen-crashes/"><u>Eliminating the Clock Watchdog Timed-Out Error to Stop Windows 10 Bluescreen Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-missing-or-corrupt-classpnpsym-file-in-windows-10windows-7-operating-systems/"><u>Fixing the Missing or Corrupt CLASSPNP.SYM File in Windows 10/Windows 7 Operating Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssing-imovies-capabilities-for-youtube-video-perfection/"><u>Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-blue-screen-of-death-with-code-0x0000009f/"><u>How to Fix the BSOD (Blue Screen of Death) with Code 0X0000009F</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-bsod-caused-by-machine-check-exceptions-in-win10/"><u>How to Troubleshoot and Solve BSOD Caused by Machine Check Exceptions in Win10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on A2</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-internal-power-issue-in-windows-11/"><u>Resolving the Internal Power Issue in Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-adding-movie-maker-videos-to-vimeo-stream-for-2024/"><u>Step-by-Step Adding Movie Maker Videos to Vimeo Stream for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-win32kdcom-object-failure-error-0x0000009f/"><u>Troubleshooting Guide for Win32_KDCOM Object Failure (Error 0X0000009F)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-x100-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo X100</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-igdkmd64sys-bsod-on-windows-10-effective-troubleshooting-and-repair-techniques/"><u>Winning Against iGDKMD64.sys BSOD on Windows 10: Effective Troubleshooting and Repair Techniques</u></a></li>
 </ul></div>
 

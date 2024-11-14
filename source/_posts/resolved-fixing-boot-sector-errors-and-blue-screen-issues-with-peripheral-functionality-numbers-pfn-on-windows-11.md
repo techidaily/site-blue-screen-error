@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Boot Sector Errors & Blue Screen Issues with Peripheral Functionality Numbers (PFN) on Windows 11"
-date: 2024-11-09T07:57:55.327Z
-updated: 2024-11-13T04:38:42.937Z
+date: 2024-11-07T04:21:20.918Z
+updated: 2024-11-13T20:10:34.814Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
@@ -63,6 +63,13 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
@@ -70,10 +77,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 If the problem persists, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
@@ -100,13 +107,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
@@ -114,19 +114,19 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
@@ -137,14 +137,14 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
- 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -164,13 +164,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
@@ -186,6 +179,19 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -213,24 +219,20 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-securing-group-discussions-on-hangouts/"><u>[New] 2024 Approved Securing Group Discussions on Hangouts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[New] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-crafting-compelling-compositions-effects-on-text/"><u>[New] In 2024, Crafting Compelling Compositions Effects on Text</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-resource-for-instagram-livestreams-via-obs-software-for-2024/"><u>[Updated] The Ultimate Resource for Instagram Livestreams via OBS Software for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-future-of-quick-text-conversion-from-srt/"><u>2024 Approved The Future of Quick Text Conversion From SRT</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bsod-troubleshooting-overcoming-clock-watchdog-timeout-in-windows-11/"><u>BSOD Troubleshooting: Overcoming 'Clock Watchdog Timeout' In Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-pfn-list-errors-that-trigger-bsod-in-windows-10-systems/"><u>Diagnosing and Correcting PFN List Errors that Trigger BSOD in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/earn-extra-cash-by-hunting-software-glitches-with-openai/"><u>Earn Extra Cash by Hunting Software Glitches with OpenAI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-critical-services-malfunction-and-bsod-errors-in-windows-10-a-step-by-step-guide-for-users/"><u>Eliminating Critical Services Malfunction and BSOD Errors in Windows 10 - A Step-by-Step Guide for Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ntfs-problems-on-windows-10-solved-expert-strategies-for-system-recovery-and-repair/"><u>NTFS Problems on Windows 10 Solved: Expert Strategies for System Recovery and Repair</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ntoskrnlexe-bsod-mystery-unraveled-expert-solutions-for-system-stability-on-windows-pcs/"><u>NTOSKRNL.EXE BSoD Mystery Unraveled – Expert Solutions for System Stability on Windows PCs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-note-30-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Note 30 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-your-contents-view-count-title-and-tag-mastery-for-2024/"><u>Skyrocketing Your Content's View Count Title & Tag Mastery for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210084402-9781913768089-the-zodiac-experience/"><u>The Zodiac Experience | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-windows-11-easy-fixes-for-stuck-device-driver-errors-and-system-threads/"><u>Troubleshoot Windows 11: Easy Fixes for Stuck Device Driver Errors and System Threads</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-file-structure-glitches-on-windows-11-tips-and-tricks/"><u>Troubleshooting and Repairing NTFS File Structure Glitches on Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ultivate-community-interest-with-collaborative-lists/"><u>[New] Cultivate Community Interest With Collaborative Lists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unparalleled-vr-game-setups-top-8-edition/"><u>[New] In 2024, Unparalleled VR Game Setups Top 8 Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-creating-compelling-thumbnails-that-stand-out/"><u>[Updated] In 2024, Creating Compelling Thumbnails that Stand Out</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-your-podcasts-rss-feed-a-step-by-step-guide/"><u>2024 Approved Crafting Your Podcast's RSS Feed A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-ios-emergency-and-amber-notifications-a-step-by-step-guide/"><u>Disabling iOS Emergency & Amber Notifications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-asmtxhcisystem-error-resolving-microsofts-blue-screen-of-death-issues/"><u>Fixing the ASMTXHCISystem Error: Resolving Microsoft's Blue Screen of Death Issues</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/get-crystal-clear-flipbook-views-on-flipbuildercom-discover-easy-tips-to-browse-better/"><u>Get Crystal-Clear Flipbook Views on FlipBuilder.com - Discover Easy Tips to Browse Better</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-unmountable-boot-volume-error-in-windows-11-expert-tips-and-solutions/"><u>How to Resolve the Unmountable Boot Volume Error in Windows 11 - Expert Tips and Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-for-the-notorious-ndis-driver-error-message/"><u>Mastering the Fix for the Notorious NDIS Driver Error Message</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/regular-documentation-of-calibration-checks-is-essential-for-audits-and-maintaining-traceability/"><u>Regular Documentation of Calibration Checks Is Essential for Audits and Maintaining Traceability</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-bluescreen-issue-a-detailed-guide-on-fixing-iastorasys-errors/"><u>Solving the 'BlueScreen' Issue: A Detailed Guide on Fixing IaStora.sys Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-blue-screens-solutions-to-error-code-0x0000001e/"><u>Troubleshooting Windows Blue Screens - Solutions to Error Code 0X0000001E</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969211396-ultimate-guide-to-hp-dock-g2-thunderbolt-setup-obtain-the-essential-120w230w-device-drivers-today/"><u>Ultimate Guide to HP Dock G2 Thunderbolt Setup: Obtain the Essential 120W/230W Device Drivers Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-how-to-easily-fix-a-bad-pool-caller-problem/"><u>Windows 11: How to Easily Fix a Bad Pool Caller Problem</u></a></li>
 </ul></div>
 

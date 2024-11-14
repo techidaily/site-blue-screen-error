@@ -1,7 +1,7 @@
 ---
 title: CLASSPNP.SYS in Windows 10/7 [SOLVED]
-date: 2024-11-08T01:40:35.669Z
-updated: 2024-11-12T20:33:54.275Z
+date: 2024-11-08T23:58:59.198Z
+updated: 2024-11-13T23:50:39.867Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 1. Turn on your computer, and then when your Windows starts loading, turn it off immediately. Do this until you see a message that says “_Preparing Automatic Repair_ “. ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 2. Click**Advanced Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t have the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 3. Click **Troubleshoot** .  
@@ -60,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c46f57bdfe43.jpg)
 6. Choose your account name and enter your password.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Wait for the process to be complete.
 
  Hopefully this fixed your blue screen error. But if not, then move on to Fix 2, below…
@@ -79,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 2. Click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 3. Click **Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 4. Select**Advanced options** .  
@@ -96,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 5. Select**Startup Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-86.png)
@@ -108,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 7. Press the**7** or**F7** key on your keyboard.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should help you get through this error. But it may occur again after restarting your computer. To fix it permanently, you should try the fixes below…
 
@@ -122,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 2. Click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
@@ -141,15 +134,15 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-86.png)
 6. Click the**Restart** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-87.png)
 7. Press the**5** or**F5** key on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
 
@@ -195,6 +188,13 @@ Now you should be able to update your drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-87.png)
 7. Press the**4** or**F4** key on your keyboard.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
 
 Now you should reset your Windows Update components.
@@ -209,13 +209,6 @@ Now you should reset your Windows Update components.
 
  If the blue screen error is gone, great! But if not, then you may need to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run System Restore
 
  If none of the fixes above worked for you, then you should try running System Restore to revert your system to a previous state.
@@ -225,13 +218,6 @@ Now you should reset your Windows Update components.
 1. Turn on your computer, and then when your Windows starts loading, turn it off immediately. Do this until you see a message that says “_Preparing Automatic Repair_ “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 2. Click**Advanced Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
@@ -243,8 +229,22 @@ Now you should reset your Windows Update components.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b2305b11c9.jpg)
 5. Select**System Restore** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c47db2727166.jpg)
 6. Follow the on-screen instructions to restore your Windows 10 system to a restore point.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, one of the fixes above helped you get rid of your CRITICAL SERVICE FAILED blue screen error. If you have any questions or suggestions, feel free to leave us a comment below.
 
@@ -265,17 +265,20 @@ Now you should reset your Windows Update components.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-six-simplest-strategies-to-craft-your-mc-dwelling/"><u>[Updated] In 2024, Six Simplest Strategies to Craft Your MC Dwelling</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-massive-subscriber-jump-for-a-sensible-5-investment/"><u>[Updated] Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-overcoming-the-stop-0x0000007b-hurdle/"><u>Blue Screen of Death: Overcoming the STOP 0X0000007B Hurdle</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/failure-to-adhere-to-recommended-calibration-frequencies-can-result-in-product-quality-issues-and-non-compliance-with-industry-standards/"><u>Failure to Adhere to Recommended Calibration Frequencies Can Result in Product Quality Issues and Non-Compliance with Industry Standards.</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-web-based-mpg-to-mp3-conversion-with-movavis-easy-solution/"><u>Free Web-Based MPG to MP3 Conversion with Movavi's Easy Solution</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50 GT Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-challenge-of-switching-from-direct-process-context-dpc-errors-in-windows-expert-solutions-revealed/"><u>Overcoming the Challenge of Switching From Direct Process Context (DPC) Errors in Windows: Expert Solutions Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-solutions-to-resolve-your-dvd-players-pink-screen-issue/"><u>Quick Solutions to Resolve Your DVD Player's Pink Screen Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrect-corrupted-files-win-11s-zip-fix-guide/"><u>Resurrect Corrupted Files: Win 11'S ZIP Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199745283-troubleshoot-and-fix-windows-ten-bad-pool-caller-issue-once-and-for-all/"><u>Troubleshoot and Fix Windows ˈTen Bad Pool Caller Issue Once & For All!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-resource-list-open-source-imagery-sanctuary-for-2024/"><u>Ultimate Resource List Open-Source Imagery Sanctuary for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimative-schritt-fur-schritt-anleitung-zum-hochfahren-von-dell-geraten-uber-einen-usb-stick-im-uefi-betrieb/"><u>Ultimative Schritt-Für-Schritt-Anleitung Zum Hochfahren Von Dell-Geräten Über Einen USB-Stick Im UEFI-Betrieb</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-win32kbasesys-blue-screen-error-on-windows-1110/"><u>[Solved] Win32kbase.sys Blue Screen Error on Windows 11/10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-story-mastery-adjusting-focus-like-a-pro/"><u>[Updated] In 2024, Insta Story Mastery Adjusting Focus Like a Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamline-your-windows-pc-to-record-live-tv-with-ease/"><u>[Updated] In 2024, Streamline Your Windows PC to Record Live TV with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spotify-turning-off-automatic-podcast-recommendations/"><u>[Updated] Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-n3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find N3 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199742941-comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-technology-boosting-website-efficiency-and-tracking-success/"><u>Cookiebot-Driven Technology: Boosting Website Efficiency and Tracking Success</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199733618-critical-service-crash-to-blue-screen-of-death-solving-windows-11-issues-with-ease/"><u>Critical Service Crash to Blue Screen of Death? Solving Windows 11 Issues with Ease!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-gear-picking-the-very-best-among-top-9-free-logomakers-for-2024/"><u>Essential Gear Picking the Very Best Among Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-navigating-and-correcting-bsod-glitches-in-windows-11/"><u>Expert Advice: Navigating and Correcting BSOD Glitches in Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-red-magic-9-proplus-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-kernel-mode-memory-management-bug-a-step-by-step-guide/"><u>Resolving the 'Kernel Mode Memory Management' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-bluscreen-issues-the-dxgkrnl-error-explained-and-fixed/"><u>Resolving Windows 10 BluScreen Issues: The Dxgkrnl Error Explained and Fixed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-driver-verifier-error-solutions-for-bsod-in-windows-11/"><u>Troubleshooting the Driver Verifier Error: Solutions for BSOD in Windows 11</u></a></li>
 </ul></div>
 

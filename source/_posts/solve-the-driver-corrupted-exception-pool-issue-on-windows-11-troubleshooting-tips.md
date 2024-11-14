@@ -1,7 +1,7 @@
 ---
 title: "Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips"
-date: 2024-11-07T07:24:18.665Z
-updated: 2024-11-12T17:48:20.490Z
+date: 2024-11-09T00:30:07.054Z
+updated: 2024-11-14T00:12:38.245Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
@@ -76,24 +76,30 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -119,13 +125,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 4\. Check for Windows Updates
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can  address security flaws and bugs related to both hardware and software. Thus make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.
@@ -137,6 +136,13 @@ Or click **Update All**  to automatically download and install the correct versi
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,24 +168,20 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-link-youtube-to-tiktok-complete-guide/"><u>[New] 2024 Approved How to Link YouTube to TikTok? [Complete Guide]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-seamless-integration-combining-b-roll-and-main-scenes/"><u>[New] 2024 Approved Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-speaker-breakdown-latest-models/"><u>[New] 2024 Approved Speaker Breakdown Latest Models</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-instagram-stories-your-complete-tune-up-guide/"><u>[New] In 2024, Mastering Instagram Stories Your Complete Tune-Up Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[Updated] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/apc-index-mismatch-bluescreen-woes-heres-how-you-can-resolve-it/"><u>APC Index Mismatch Bluescreen Woes? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/breaking-boundaries-custom-font-use-in-after-effects-for-2024/"><u>Breaking Boundaries Custom Font Use in After Effects for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-windows-10-bad-pool-headers-that-trigger-blue-screen-of-death-errors-expert-tips/"><u>Diagnosing & Repairing Windows 10 'Bad Pool Headers' That Trigger Blue Screen of Death Errors: Expert Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-address-video-schedulers-internal-error-in-windows-10-systems/"><u>Effective Strategies to Address Video Scheduler's Internal Error in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/end-the-bsod-headache-fixing-stop-error-0x00000amazing-for-smooth-operation/"><u>End the BSOD Headache: Fixing Stop Error 0X00000amazing for Smooth Operation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-in-windows-explained-fixes-to-get-you-back-on-track/"><u>Error Code 31 in Windows Explained: Fixes to Get You Back on Track</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-bluescreen-errors-on-windows-11-a-comprehensive-guide/"><u>Fixing USB Driver Bluescreen Errors on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-issue-in-windows-7-solution-guide/"><u>How to Fix the 'Bad Pool Header' Issue in Windows 7 - Solution Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-initiating-film-narratives/"><u>In 2024, Initiating Film Narratives</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-unexpected-kernel-mode-trap-kmodeexceptionnothandled-blue-screen-of-death-on-windows-10/"><u>Resolved: Fixing the Unexpected Kernel Mode Trap (KMODE_EXCEPTION_NOT_HANDLED) Blue Screen of Death on Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-the-top-4-video-game-emulators-for-idevices/"><u>The Ultimate Guide to the Top 4 Video Game Emulators for iDevices</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inside-polarr-the-powerhouse-photo-toolkit-for-2024/"><u>[New] Inside Polarr The Powerhouse Photo Toolkit for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/breeze-through-fixing-hidclasssys-glitches-with-our-step-by-step-tips/"><u>Breeze Through Fixing HIDCLASS.SYS Glitches with Our Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-missing-location-services-on-ios-devices-a-detailed-approach/"><u>Diagnosing and Repairing Missing Location Services on iOS Devices – A Detailed Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-critique-on-the-corsair-one-pro-blending-design-with-gaming-power/"><u>Expert Critique on the Corsair One Pro: Blending Design with Gaming Power</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199697149-guide-to-overcome-unforeseen-kernel-errors-causing-bsod-in-windows-10-fixed/"><u>Guide to Overcome Unforeseen Kernel Errors Causing BSOD in Windows 10 – Fixed!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-crashing-heres-how-to-stop-the-bsod-on-your-windows-11-pc/"><u>IGDKMD64.sys Crashing? Here's How to Stop the BSOD on Your Windows 11 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199691235-immediate-solutions-to-tackle-dpc-watchdog-non-compliance-error-easily-and-fast/"><u>Immediate Solutions to Tackle DPC Watchdog Non-Compliance Error Easily and Fast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-speeding-up-your-periscope-streams-effortlessly/"><u>In 2024, Speeding Up Your Periscope Streams Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/messenger-made-accessible-joining-conversations-even-if-you-dont-use-facebook/"><u>Messenger Made Accessible: Joining Conversations Even if You Don't Use Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/precision-in-motion-choose-from-top-6-macos-big-sur-editing-apps-for-2024/"><u>Precision in Motion Choose From Top 6 macOS Big Sur Editing Apps for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-windows-10-when-it-gets-frozen-by-device-driver-issues/"><u>Quick Fixes for Windows 10 When It Gets Frozen by Device Driver Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-memory-issue-on-windows-11-platforms/"><u>Troubleshooting BSOD: Memory Issue on Windows 11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-your-potential-top-7-efficiency-enhancing-widgets-for-win-11/"><u>Unleashing Your Potential: Top 7 Efficiency Enhancing Widgets for Win 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-vrecorder-download-and-install-made-simple/"><u>Unveiling VRecorder Download & Install Made Simple</u></a></li>
 </ul></div>
 

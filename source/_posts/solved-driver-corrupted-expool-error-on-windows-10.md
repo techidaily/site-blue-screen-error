@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2024-11-10T02:51:57.165Z
-updated: 2024-11-13T10:07:02.268Z
+date: 2024-11-07T04:00:43.290Z
+updated: 2024-11-13T23:32:18.650Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Driver Verifier is built in every version of Windows operating system. It monito
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Reinstall your graphic card driver
 
  Mostly, the graphic card driver like NVIDIA, Intel or AMD is the culprit behind this BSOD error. Reinstall graphic card driver helped many users fix the issue. Thus you can give it a shot.
@@ -34,10 +41,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
@@ -45,13 +52,6 @@ Driver Verifier is built in every version of Windows operating system. It monito
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -74,6 +74,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update your device drivers
 
  The error can often be also caused by outdated or incompatible drivers. If reinstall your graphic card driver didn’t help you fix it, please update other device drivers.
@@ -86,18 +93,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
 
@@ -111,10 +118,10 @@ You need to do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the open black window, type**verifier** and press Enter.
@@ -124,13 +131,6 @@ You need to do these:
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -164,16 +164,21 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-audience-favourite-debate-which-is-better-black-gopro-or-sony-fdr-x1000v-for-2024/"><u>[New] Audience Favourite Debate Which Is Better, Black GoPro or Sony FDR-X1000V for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-download-vimeo-to-mp4-files-for-2024/"><u>[New] Step-by-Step Download Vimeo to MP4 Files for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>2024 Approved The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/in-depth-solution-for-handling-unequal-interrupt-request-levels-irql-in-windows-ebitron-how-to-correctly-resolve-irql-errors-on-your-pc-tips-and-techniques-3/"><u>In-Depth Solution for Handling Unequal Interrupt Request Levels (IRQL) in Windows Ebitron: How to Correctly Resolve IRQL Errors on Your PC - Tips and Techniques for Windows 7 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-your-pcs-apc-index-mismatch-critical-stop-error/"><u>Resolve Your PC's 'APC Index Mismatch' Critical Stop Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-repair-addressing-recurrerence-of-bsod-linked-with-multiple-irp-completion-tasks/"><u>Step-by-Step Repair: Addressing Recurrerence of BSOD Linked with Multiple IRP Completion Tasks</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-titles-need-top-tech-for-optimal-play/"><u>Top Titles Need Top Tech for Optimal Play</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-fixing-kernel-security-check-failure-in-windows-11-systems/"><u>Troubleshooting Guide for Fixing 'Kernel Security Check Failure' In Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-techniques-for-overcoming-the-0xc000000e-blue-screen/"><u>Troubleshooting Techniques for Overcoming the 0XC000000E Blue Screen</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/whats-captivating-twitter-users-the-most-for-2024/"><u>What's Captivating Twitter Users the Most for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-choice-easy-online-video-text-conversion/"><u>[New] 1 Choice Easy Online Video Text Conversion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-10-visionary-beauticians-poised-success/"><u>[Updated] In 2024, 10 Visionary Beauticians Poised Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four-for-2024/"><u>[Updated] The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-quiet-play-managing-xbox-alerts/"><u>Achieving Quiet Play: Managing Xbox Alerts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-troubleshooting-correcting-the-bad-pool-header-problem-on-your-windows-10-system/"><u>BSOD Troubleshooting: Correcting the 'Bad Pool Header' Problem on Your Windows 10 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-video-tdr-error-fixes-for-atikmpagsys-glitches-on-windows-11/"><u>Defeating the Video TDR Error: Fixes for atikmpag.sys Glitches on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-titans-unveiled-a-comprehensive-look-at-facebook-twitter-instagram-and-youtube/"><u>Digital Titans Unveiled: A Comprehensive Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-solution-to-the-blue-screen-error-code-0x00000124-in-windows-10-and-7/"><u>Mastering the Solution to the Blue Screen Error Code 0X00000124 in Windows 10 & 7</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>New In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionizing-data-retrieval-stellars-new-simplified-software-for-everyday-users/"><u>Revolutionizing Data Retrieval: Stellar's New, Simplified Software for Everyday Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-to-crucial-building-block-compromise-in-windows-11-platforms/"><u>Solution to Crucial Building Block Compromise in Windows 11 Platforms</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-blue-screen-dxgmms2sys-errors-on-your-windows-11-pc/"><u>Step-by-Step Fixes for Blue Screen 'dxgmms2.sys' Errors on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tips-and-tricks-recording-conversations-on-whatsapp-for-2024/"><u>Tips and Tricks Recording Conversations on WhatsApp for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bsod-errors-related-to-pfn-list-corruption-on-microsofts-latest-os-windows-11/"><u>Understanding and Resolving BSOD Errors Related to PFN List Corruption on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-strategies-for-addressing-window-10s-power-error-internally/"><u>Winning Strategies for Addressing Window 10'S Power Error Internally</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2024-11-10T18:59:58.743Z
-updated: 2024-11-13T01:11:03.890Z
+date: 2024-11-12T01:22:50.977Z
+updated: 2024-11-13T18:42:52.408Z
 tags:
   - win11
   - win10
@@ -43,24 +43,18 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
@@ -70,44 +64,31 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -126,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -150,21 +138,21 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>[New] 2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-avoiding-common-pitfalls-in-rl-gameplay-recordings/"><u>[New] Avoiding Common Pitfalls in RL Gameplay Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices/"><u>[Updated] 2024 Approved Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>2024 Approved Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterlist-of-top-17-apps-to-purge-photos-edges/"><u>2024 Approved Masterlist of Top 17 Apps to Purge Photos' Edges</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bsod-troubleshooting-correcting-the-bad-pool-header-problem-on-your-windows-10-system/"><u>BSOD Troubleshooting: Correcting the 'Bad Pool Header' Problem on Your Windows 10 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199752249-certain-gene-mutations-can-lead-to-higher-cholesterol-levels-and-hypertension-which-are-risk-factors-for-plaque-formation-in-the-arteries/"><u>Certain Gene Mutations Can Lead to Higher Cholesterol Levels and Hypertension, Which Are Risk Factors for Plaque Formation in the Arteries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-what-to-do-within-the-first-hours-of-unboxing-your-new-windows-machine/"><u>Essential Tips: What to Do Within the First Hours of Unboxing Your New Windows Machine</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/navigating-through-ntfssys-blue-screen-issues-fixes-for-windows-1ve-users/"><u>Navigating Through ntfs.sys Blue Screen Issues: Fixes for Windows 1Ve Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-blue-screen-dxgmms2sys-errors-on-your-windows-11-pc/"><u>Step-by-Step Fixes for Blue Screen 'dxgmms2.sys' Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-secrets-of-selecting-best-fb-imagery/"><u>The Secrets of Selecting Best FB Imagery</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-solving-the-ntfssys-blue-screen-of-death-on-windows-11/"><u>Ultimate Guide: Solving the ntfs.sys Blue Screen of Death on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bsod-errors-related-to-pfn-list-corruption-on-microsofts-latest-os-windows-11/"><u>Understanding and Resolving BSOD Errors Related to PFN List Corruption on Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-strategies-for-addressing-window-10s-power-error-internally/"><u>Winning Strategies for Addressing Window 10'S Power Error Internally</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[Updated] 2024 Approved The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-guide-to-vlc-for-networked-webcasting/"><u>[Updated] In 2024, Expert Guide to VLC for Networked Webcasting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-closer-video-in-google-meet-sessions/"><u>[Updated] In 2024, Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-irql-discrepancy-issues-in-windows-7-systems-fixed/"><u>Expert Tips to Overcome IRQL Discrepancy Issues in Windows 7 Systems [FIXED]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-system-failures-bsod-caused-by-services-crashing-in-win10/"><u>How to Overcome System Failures: BSOD Caused by Services Crashing in Win10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-jumpstart-to-understanding-av1-codecs/"><u>In 2024, Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-tips-addressing-thread-exception-not-handled-errors-effortlessly/"><u>Quick Tips: Addressing 'Thread Exception Not Handled' Errors Effortlessly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-issue-disabling-noexecute-feature-vulnerability-on-windows-systems/"><u>Resolved Issue: Disabling NoExecute Feature Vulnerability on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-creating-a-linear-calibration-curve-using-microsoft-excel/"><u>Step-by-Step Guide: Creating a Linear Calibration Curve Using Microsoft Excel</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackling-blue-screen-errors-related-to-ndissys-on-your-pc/"><u>Tackling Blue Screen Errors Related to Ndis.sys on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-internal-errors-with-the-video-conferencing-app-in-windows-10/"><u>Troubleshooting and Solving Internal Errors with the Video Conferencing App in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-critical-process-died-blue-screen-error-a-guide-to-stop-code-0x0n0000003b-solutions/"><u>Troubleshooting the 'Critical Process Died' Blue Screen Error - A Guide to Stop Code 0X0n0000003b Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/why-asus-vg2e3h-is-the-ultimate-choice-for-hardcore-gamers/"><u>Why Asus VG2e3H Is the Ultimate Choice for Hardcore Gamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Edge+ (2023) | Dr.fone</u></a></li>
 </ul></div>
 

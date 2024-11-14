@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Correct System Services Failure on Your Windows 11 PC
-date: 2024-11-08T06:59:34.285Z
-updated: 2024-11-13T01:26:12.038Z
+date: 2024-11-06T23:33:23.967Z
+updated: 2024-11-14T02:46:23.357Z
 tags:
   - win11
   - win10
@@ -39,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
@@ -52,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
@@ -64,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
@@ -95,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -109,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
  1) On your keyboard, press the**Windows logo key** and**I** at the same time. Click**Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Check for updates** .
 
@@ -144,42 +144,42 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When prompted with the confirmation, click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
@@ -214,19 +214,18 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-crafting-a-compelling-narrative-with-voiceover-and-visuals/"><u>[New] In 2024, Crafting a Compelling Narrative with Voiceover and Visuals</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-28-days-to-becoming-an-instagram-reel-sensation-for-2024/"><u>[Updated] 28 Days to Becoming an Instagram Reel Sensation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ballot-bonanza-prime-election-strategy-games/"><u>[Updated] Ballot Bonanza Prime Election Strategy Games</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-secure-extraction-converting-youtube-to-trusted-mp4/"><u>[Updated] In 2024, Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/aldi-sud-hofmann-group/"><u>Aldi Süd (Hofmann) Group</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-i-trust-independent-chatgpt-extensions-for-browsers-find-out-here/"><u>Can I Trust Independent ChatGPT Extensions for Browsers? Find Out Here</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-to-correctly-address-internal-errors-within-the-video-scheduler-of-windows-11/"><u>Comprehensive Solutions to Correctly Address Internal Errors Within the Video Scheduler of Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-sony-xperia-10-v-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Sony Xperia 10 V</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-home-automation-with-home-assistant-how-does-it-compare-to-other-systems-and-what-holds-it-back-from-universal-usage/"><u>Exploring Home Automation with Home Assistant - How Does It Compare to Other Systems and What Holds It Back From Universal Usage?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199697149-guide-to-overcome-unforeseen-kernel-errors-causing-bsod-in-windows-10-fixed/"><u>Guide to Overcome Unforeseen Kernel Errors Causing BSOD in Windows 10 – Fixed!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-control-your-iphone-image-orientation-for-2024/"><u>How to Control Your iPhone Image Orientation for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-crashing-heres-how-to-stop-the-bsod-on-your-windows-11-pc/"><u>IGDKMD64.sys Crashing? Here's How to Stop the BSOD on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199691235-immediate-solutions-to-tackle-dpc-watchdog-non-compliance-error-easily-and-fast/"><u>Immediate Solutions to Tackle DPC Watchdog Non-Compliance Error Easily and Fast</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-memory-issue-on-windows-11-platforms/"><u>Troubleshooting BSOD: Memory Issue on Windows 11 Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>[Updated] 2024 Approved Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-rules-of-youtube-video-documentation-for-2024/"><u>[Updated] Navigating the Rules of YouTube Video Documentation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photovisionharmony-synchronize-ios-plus-sierra-photos/"><u>[Updated] PhotovisionHarmony Synchronize iOS + Sierra Photos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-due-to-rtkvhd64sys-error-solutions-and-fixes/"><u>Blue Screen of Death Due to rtkvhd64.sys Error: Solutions and Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/csgo-communication-breakdown-heres-how-you-can-repair-your-microphone-issues/"><u>CS:GO Communication Breakdown? Here's How You Can Repair Your Microphone Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/efficient-selections-top-picks-for-6-fb-lite-vids-for-2024/"><u>Efficient Selections Top Picks for 6 FB Lite Vids for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortlessly-tackle-hidclasssys-problems-expert-guidance-inside/"><u>Effortlessly Tackle HIDCLASS.SYS Problems – Expert Guidance Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-system-service-problem-in-windows-11-effective-strategies-revealed/"><u>Eliminating the ‘System Service’ Problem in Windows 11: Effective Strategies Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-latest-frozn-a62n-air-cooler-from-id-cooling-premium-performance-at-an-unbeatable-price/"><u>Expert Insights on the Latest Frozn A62n Air Cooler From ID-Cooling – Premium Performance at an Unbeatable Price</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/lost-your-snaps-master-the-art-of-windows-10-screenshot-restoration/"><u>Lost Your Snaps? Master the Art of Windows 10 Screenshot Restoration</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-issue-in-windows-11-a-complete-guide/"><u>Resolving the 'Bad Pool Caller' Issue in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-of-death-bsod-code-0xc00-fixes-for-windows-users/"><u>Troubleshooting Blue Screen of Death (BSoD) Code 0xC00# Fixes for Windows Users</u></a></li>
 </ul></div>
 

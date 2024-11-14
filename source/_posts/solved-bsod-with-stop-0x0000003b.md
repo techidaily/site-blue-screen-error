@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-11-07T08:59:01.713Z
-updated: 2024-11-13T06:43:38.609Z
+date: 2024-11-12T00:24:24.352Z
+updated: 2024-11-13T20:30:00.758Z
 tags:
   - win11
   - win10
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
@@ -71,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -138,21 +138,18 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-bugcodendisdriver-error/"><u>[FIXED] BUGCODE_NDIS_DRIVER Error</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-scrutinizing-the-latest-in-screen-recording-tech-by-tunefab/"><u>[New] Scrutinizing the Latest in Screen Recording Tech by Tunefab</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>[New] The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-gif-to-video-transition-tools-listed/"><u>2024 Approved Quick & Easy GIF-to-Video Transition Tools Listed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-screen-spectrum-your-gateway-to-gameplay/"><u>2024 Approved Screen Spectrum Your Gateway to Gameplay</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-superior-sound-10-top-mic-recommendations/"><u>2024 Approved Selecting Superior Sound 10 Top Mic Recommendations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-solutions-how-to-stop-volsnapsys-from-causing-system-failures-in-windows/"><u>Blue Screen Error Solutions: How to Stop Volsnap.sys From Causing System Failures in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-kernel-data-inpage-error-solved/"><u>Blue Screen of Death: Kernel Data Inpage Error Solved</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/yourself-from-fringe-a-youtube-video-fix-guide-for-2024/"><u>Free Yourself From Fringe A YouTube Video Fix Guide for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/handling-the-fatal-bios-message-overcoming-a-whea-uncorrectable-error/"><u>Handling the Fatal BIOS Message: Overcoming a WHEA Uncorrectable Error</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-revolutionize-your-social-media-strategy-essential-instagram-analytics-platforms/"><u>In 2024, Revolutionize Your Social Media Strategy Essential Instagram Analytics Platforms</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-pnp-watchdog-blue-screen-issue-in-drivers/"><u>Resolved: Critical PNP Watchdog Blue Screen Issue in Drivers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-service-failure-alert-in-windows-11-step-by-step-fix-guide/"><u>Resolving the 'Service Failure' Alert in Windows 11 - Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-setup-errors-on-windows-10-a-comprehensive-guide/"><u>Troubleshooting HAL Setup Errors on Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/who-manages-my-digital-imagery/"><u>Who Manages My Digital Imagery?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-playful-pedal-powered-pastimes/"><u>[New] 2024 Approved Playful Pedal-Powered Pastimes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-tutorial-engaging-in-a-call-on-snapchat/"><u>[New] 2024 Approved Step-By-Step Tutorial Engaging in a Call on Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-targeting-optimizing-ad-reach-on-snap/"><u>[New] 2024 Approved The Art of Targeting Optimizing Ad Reach on Snap</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sony-s6700-latest-features-reviewed/"><u>[New] Sony S6700 Latest Features Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-for-new-gopro-users-here-are-essential-accessories/"><u>[Updated] 2024 Approved For New GoPro Users, Here Are Essential Accessories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-stop-code-for-ndis-errors-on-pcs/"><u>Comprehensive Guide: Eliminating 'Stop Code' For NDIS Errors on PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enabling-screenshots-and-recordings-of-snaps/"><u>Enabling Screenshots and Recordings of Snaps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notoriously-persistent-ntfs-filesystem-glitch-in-windows-11/"><u>Fixing the Notoriously Persistent NTFS Filesystem Glitch in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-connectivity-issues-solving-the-network-performance-problem-in-windows-11/"><u>Overcoming Connectivity Issues: Solving the 'Network Performance' Problem in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-illusion-of-unfailing-ai-controls/"><u>The Illusion of Unfailing AI Controls</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-the-blue-screen-of-death-code-0x0000003b/"><u>Understanding and Solving the Blue Screen of Death: Code 0X0000003B</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-windows-11-internal-power-error-fixes/"><u>Winning the Battle Against Windows 11: Internal Power Error Fixes</u></a></li>
 </ul></div>
 

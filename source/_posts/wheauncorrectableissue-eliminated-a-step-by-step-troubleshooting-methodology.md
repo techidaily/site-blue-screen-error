@@ -1,7 +1,7 @@
 ---
 title: WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology
-date: 2024-11-05T22:56:29.702Z
-updated: 2024-11-12T16:35:59.922Z
+date: 2024-11-12T20:18:46.752Z
+updated: 2024-11-13T19:55:42.275Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ According to Microsoft,
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How do I fix it?**
@@ -100,17 +94,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -120,34 +107,34 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
@@ -166,6 +153,13 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
@@ -175,10 +169,10 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Other options**
@@ -219,22 +213,17 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ltimate-gear-for-youtube-content-makers/"><u>[New] Ultimate Gear for YouTube Content Makers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-empowering-users-to-tackle-instagram-video-snags/"><u>[Updated] 2024 Approved Empowering Users to Tackle Instagram Video Snags</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-conceal-dont-reveal-how-to-blur-faces-online/"><u>[Updated] Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-social-presence-proven-methods-for-fb-fan-expansion-for-2024/"><u>[Updated] Elevate Your Social Presence Proven Methods for FB Fan Expansion for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[Updated] The Ultimate Resource for Mac Users Unlocking Preview Capabilities</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unlock-video-potential-with-expert-chroma-techniques/"><u>2024 Approved Unlock Video Potential with Expert Chroma Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-clearing-up-error-0x0000001e-on-your-computer/"><u>Blue Screen Blues: Clearing Up Error 0X0000001E on Your Computer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-for-correcting-error-message-0x00000cd-the-blue-screen-of-death/"><u>Complete Guide for Correcting Error Message 0X00000CD - The Blue Screen of Death</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-badpoolheader-crashes-on-windows-11/"><u>Effective Solutions to Tackle 'BAD_POOL_HEADER' Crashes on Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-still-shots-to-movies-mastering-logitech-webcam-videos/"><u>From Still Shots to Movies Mastering Logitech Webcam Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fuchs-petrolub-se/"><u>Fuchs Petrolub SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-windows-11-igdkmd64sys-bsod-error-permanently/"><u>Resolve Windows 11 IGDKMD64.sys BSOD Error Permanently</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-inescapable-blue-screen-error-wheauncorrectable/"><u>Resolved: Fixing the Inescapable Blue Screen Error (WHEA_UNCORRECTABLE)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-common-blue-screen-errors-due-to-pte-mishaps/"><u>Step-by-Step Fixes for Common Blue Screen Errors Due to PTE Mishaps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-watchers-whispers-essential-websites-for-got-sound-files/"><u>The Watchers' Whispers Essential Websites for GoT Sound Files</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-windows-blue-screen-with-dxgkrnlsys/"><u>Understanding and Resolving Windows Blue Screen with 'dxgkrnl.sys'</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cost-breakdown-for-youtube-ads/"><u>[New] 2024 Approved Cost Breakdown for YouTube Ads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes/"><u>[New] Echoes of Antiquity Tracing the Footsteps of Ancient Scribes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-harness-analytics-for-live-event-success/"><u>2024 Approved How to Harness Analytics for Live Event Success</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-post-ag/"><u>Deutsche Post AG</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-unexpected-store-exception-bug-in-windows-10-a-step-by-step-guide/"><u>Fixing 'Unexpected Store Exception' Bug in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-storage-device-failure-storportsys-bsod-in-windows-10-expert-advice/"><u>Fixing Critical Storage Device Failure (Storport.sys BSOD) in Windows 10 - Expert Advice</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guida-passo-passo-a-usare-il-programma-di-avvio-aomei-pxe-con-efficienza/"><u>Guida Passo-Passo a Usare Il Programma Di Avvio AOMEI PXE Con Efficienza</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-v27-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on V27</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-a05s-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel A05s FRP</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/irql-not-less-or-equal-windows-7-solved/"><u>IRQL NOT LESS OR EQUAL Windows 7 [SOLVED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/usb-driver-fixes-say-goodbye-to-blue-screens-on-your-windows-11-machine/"><u>USB Driver Fixes: Say Goodbye to Blue Screens on Your Windows 11 Machine</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-narzo-n55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Narzo N55? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

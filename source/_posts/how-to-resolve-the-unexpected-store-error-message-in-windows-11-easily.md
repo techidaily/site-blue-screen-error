@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Unexpected Store Error Message in Windows 11 Easily
-date: 2024-11-07T02:49:04.251Z
-updated: 2024-11-13T03:13:46.140Z
+date: 2024-11-09T18:56:40.501Z
+updated: 2024-11-13T22:19:01.621Z
 tags:
   - win11
   - win10
@@ -42,60 +42,47 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 3. Repeat **1)** and **2)** until the screen says **Preparing Automatic Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 4. Wait for Windows to finish diagnosing your PC, and click **Advanced options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 5. Click **Troubleshoot** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 6. Click **Advanced options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 7. Click **Startup settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 8. Click **Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 9. On your keyboard, press **5**  to enable **Safe Mode with Networking** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 10. Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Step 2** to troubleshoot the blue screen problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **I’m using Windows 7:**
 
@@ -105,14 +92,14 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
 4. Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Step 2** to troubleshoot the**CLASSPNP.SYS**  blue screen problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair corrupt system files
 
@@ -137,6 +124,13 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
 
 4) Restart your computer for the changes to take effect.
@@ -151,25 +145,11 @@ Here’s how to use Fortect to run a Windows repair:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -199,6 +179,13 @@ Here’s how to use Fortect to run a Windows repair:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your BIOS
 
 **BIOS**   (**Basic Input/Output System** ) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. So we can try updating our **BIOS**   to see if it sorts out our CLASSPNP.SYS blue screen issue.
@@ -215,6 +202,13 @@ Here’s how to use Fortect to run a Windows repair:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Check for hardware corruption
 
  Your **CLASSPNP.SYS** blue screen problem can also happen because of a damaged hard drive. So we might have to run the built-in tool to scan our system for disk error and fix them if finds any.
@@ -227,13 +221,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
 
@@ -242,6 +229,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your computer and see if the CLASSPNP.SYS error has been fixed.
 
@@ -269,20 +263,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-zero-to-hero-the-metaverse-avatar-blueprint/"><u>[Updated] From Zero to Hero The Metaverse Avatar Blueprint</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gopro-hero5-black-showdown-with-hero4-silver/"><u>[Updated] GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement/"><u>2024 Approved From Sideways to Symmetry Mastering the Art of Rotating Visual Content for Maximum Engagement</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>2024 Approved The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-10-slow-motion-video-software-top-picks-for-capturing-time-lapsed-footage/"><u>Best 10 Slow-Motion Video Software: Top Picks for Capturing Time-Lapsed Footage</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-blackout-no-more-expert-tips-to-eliminate-display-issues/"><u>Cyberpunk 2077 Blackout No More: Expert Tips to Eliminate Display Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-bugcodeusbdriver-bluescreen-problems-solutions-for-windows-eosystem/"><u>Dealing with BUGCODE_USB_Driver Bluescreen Problems - Solutions for Windows Eosystem</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/defeating-the-radiant-reddit-a-step-by-step-guide-to-fixing-orange-screens/"><u>Defeating the Radiant Reddit: A Step-by-Step Guide to Fixing Orange Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-fe-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 FE is off? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11-video-scheduler-internal-errors-effective-solutions-and-tips/"><u>Resolving Windows 11 Video Scheduler Internal Errors: Effective Solutions and Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-troubleshoot-blue-screen-0x00000116-issue/"><u>Step-by-Step Guide to Troubleshoot Blue Screen 0X00000116 Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-eliminating-the-ntkernelminexe-crash-error-for-good/"><u>Ultimate Guide: Eliminating the Ntkernelmin.exe Crash Error for Good</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-netiosys-critical-failures-in-windows/"><u>Ultimate Guide: Resolving NETIO.SYS Critical Failures in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top-in-2024/"><u>Unpacking Video Editing Excellence Is InShot at the Top, In 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/winx-dvd-ripper-platinum-rapidly-convert-your-dvds-to-high-quality-mp4-in-just-5-minutes/"><u>WinX DVD Ripper Platinum - Rapidly Convert Your DVDs to High-Quality MP4 in Just 5 Minutes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-windows-11-blue-screen-error-after-update/"><u>[Fixed] Windows 11 Blue Screen Error After Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-digital-media-xmlttml-conversion-guide-for-srt/"><u>[New] Mastering Digital Media XML/TTML Conversion Guide for SRT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-streamlining-your-site-facebook-live-integration-guide/"><u>[New] Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hos-at-the-apex-youtube-subscribers-ranking-for-2024/"><u>[New] Who's at the Apex? YouTube Subscribers Ranking for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-disrupt-unbidden-youtube-content-feeds/"><u>[Updated] Disrupt Unbidden YouTube Content Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-content-migration-from-android-to-apple-devices/"><u>Effortless Content Migration From Android to Apple Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-rtkvhd64sys-crashes-leading-to-blue-screen-issues/"><u>How to Stop the Rtkvhd64.sys Crashes Leading to Blue Screen Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-axon-40-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Axon 40 Lite to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-fat-file-system-error-in-windows-11-with-easy-troubleshooting-tips/"><u>Overcoming the 'FAT File System Error' In Windows 11 with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-k70-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi K70 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-10-computers-crash-overcoming-machine-check-error-bluescreens/"><u>Resolve Your Windows 10 Computer’s Crash: Overcoming Machine Check Error Bluescreens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-found-resolve-rtkvhd64sys-bsod-issues-in-windows-computers/"><u>Solution Found: Resolve RTKVHD64.sys BSOD Issues in Windows Computers</u></a></li>
 </ul></div>
 

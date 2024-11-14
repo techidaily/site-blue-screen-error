@@ -1,7 +1,7 @@
 ---
 title: "DEFEATED: Error 0xC0000017 - Proven Repair Strategies for a Healthy Computer System"
-date: 2024-11-05T17:53:09.149Z
-updated: 2024-11-13T09:13:23.099Z
+date: 2024-11-10T02:54:29.783Z
+updated: 2024-11-13T21:45:59.949Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
@@ -46,26 +53,26 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
@@ -75,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
@@ -82,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -138,17 +138,22 @@ thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks-for-2024/"><u>[New] Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[New] WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-should-itop-top-your-list-for-screen-recorders-in-2024/"><u>[Updated] Should ITop Top Your List for Screen Recorders, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-12-proplus-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 12 Pro+ 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/breeze-through-fixing-hidclasssys-glitches-with-our-step-by-step-tips/"><u>Breeze Through Fixing HIDCLASS.SYS Glitches with Our Step-by-Step Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-rtwlanesys-blue-screen-error/"><u>Fixed: rtwlane.sys Blue Screen Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-pop-7-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Pop 7 Pro Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/lidl-gmbh/"><u>Lidl GmbH</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/master-the-art-of-film-creation-using-shafin-techs-movavi-software/"><u>Master the Art of Film Creation Using Shafin Tech's Movavi Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-windows-10-when-it-gets-frozen-by-device-driver-issues/"><u>Quick Fixes for Windows 10 When It Gets Frozen by Device Driver Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-users-guide-troubleshooting-and-fixing-video-dxgkrnl-fatal-error-bsod/"><u>Windows 11 User's Guide: Troubleshooting and Fixing Video Dxgkrnl Fatal Error BSOD</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-emotional-journey-awaits-best-memes-for-chuckles-and-sighs-on-ig-for-2024/"><u>[New] Emotional Journey Awaits Best Memes for Chuckles and Sighs on IG for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>[Updated] In 2024, Easier Than Ever 2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-youtube-snippets-for-captivating-ig-stories/"><u>[Updated] YouTube Snippets for Captivating IG Stories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-the-lag-ultimate-guide-to-fixing-halo-infinites-pc-freezes-in-just-7-steps/"><u>Battle the Lag: Ultimate Guide to Fixing Halo Infinite's PC Freezes in Just 7 Steps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-master-these-techniques-to-fix-windows-10s-bugcodeusb-driver-woes/"><u>Blue Screen Blues? Master These Techniques to Fix Windows 10'S BUGCODE_USB Driver Woes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-no-more-correcting-netwtw10sys-system-failures-for-smooth-computing/"><u>Blue Screen No More: Correcting Netwtw10.sys System Failures for Smooth Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199722911-comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211161115-9780975864944-dang-it-was-me-all-along/"><u>Dang! It Was Me All Along? | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-vgksys-bsod-error-a-step-by-step-guide/"><u>Fixing the 'vgk.sys' BSoD Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-blue-screen-problem-on-your-windows-asterisk-7-device/"><u>Fixing the Notorious Blue Screen Problem on Your Windows Asterisk 7 Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-the-blue-screen-error-from-your-windows-11-system/"><u>How To Eliminate the Blue Screen Error From Your Windows 11 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-quickly-resolve-windows-0x000000d1-bsod-errors-step-by-step/"><u>How to Quickly Resolve Windows 0X000000D1 BSOD Errors Step by Step</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-20-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Spark 20 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultra-hd-advantage-in-samsungs-galaxy-s8/"><u>The Ultra HD Advantage in Samsung’s Galaxy S8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-windows-ten-bad-pool-caller-issue-once-and-for-all/"><u>Troubleshoot and Fix Windows ˈTen Bad Pool Caller Issue Once & For All</u></a></li>
 </ul></div>
 

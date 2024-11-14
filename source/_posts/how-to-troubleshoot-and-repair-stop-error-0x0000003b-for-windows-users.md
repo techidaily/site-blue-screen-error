@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair STOP Error 0X0000003B for Windows Users
-date: 2024-11-10T05:21:54.679Z
-updated: 2024-11-13T06:43:24.333Z
+date: 2024-11-09T17:19:07.775Z
+updated: 2024-11-13T23:03:34.005Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 1. On your keyboard, press **the Windows logo key**  **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **powercfg.cpl**   into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
@@ -79,17 +86,17 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before**Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Restart your computer and hopefully the**0x00000019** blue screen issue ceases.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows search
 
@@ -99,17 +106,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a13144cf25.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Scroll down to**Windows Search** . Then right click on**Windows Search** and click**Stop** .  
@@ -117,26 +117,19 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a137e81417.jpg)
 3. Double-click on **Windows Search** . Then in**Startup type:** , choose**Disabled** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a145884937.jpg)
 4. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and check if this **0x00000019 Bad\_Pool\_Header** ever happens again.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Memory Diagnostic
 
@@ -150,15 +143,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e83b8a93a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Be sure to**save your work** &**close all apps** on your PC before clicking **Restart now and check for problems (Recommended)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e87a6d482.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failing/failed memory on your RAM. You might have to move to**Fix 5** to get this **0x00000019** (**Bad\_Pool\_Header** ) fixed.
@@ -182,6 +188,13 @@ To do so:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the **Tools** tab > **Check** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
@@ -189,13 +202,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart your computer and see if it fixes the **0x00000019** (**Bad\_Pool\_Header** ) blue screen error.
 
@@ -221,22 +227,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-sync-your-sound-instagrams-musical-world/"><u>[New] 2024 Approved Sync Your Sound Instagram's Musical World</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-mastery-perfecting-edits-on-published-videos-for-2024/"><u>[New] YouTube Mastery Perfecting Edits on Published Videos for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199742332-solved-bsod-error-video-memory-management-internal/"><u>[SOLVED] BSOD Error “Video Memory Management Internal”</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-dxgkrnlsys-blue-screen-of-death-on-windows/"><u>[Solved] dxgkrnl.sys Blue Screen of Death on Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-what-is-a-parody-and-how-to-make-a-parody-video/"><u>2024 Approved What Is a Parody and How to Make a Parody Video</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-redmi-note-12r-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Redmi Note 12R</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-to-address-critical-system-info-issue-causing-your-pc-to-crash/"><u>Easy Fixes to Address Critical System Info Issue Causing Your PC to Crash</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-10-unexpected-store-exception-error/"><u>How to Fix the Windows 10 Unexpected Store Exception Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-ntoskrnlexe-crashes-and-stop-bsod-from-ruining-your-day/"><u>How to Resolve Windows NTOSKRNL.EXE Crashes and Stop BSoD From Ruining Your Day</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>In 2024, Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-no-hypervisor-detection-on-windows-sandbox/"><u>Overcoming No Hypervisor Detection on Windows Sandbox</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-ntfssys-bsod-issues-effective-solutions-for-windows-10-users/"><u>Overcoming NTFS.sys BSOD Issues: Effective Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-zte-axon-40-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My ZTE Axon 40 Lite Black and White | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199736422-step-by-step-fix-for-driver-verifier-causing-bsod-on-windows-10-problem-solved/"><u>Step-by-Step Fix for Driver Verifier Causing BSOD on Windows 10 – Problem Solved!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egies-for-youtube-music-fusions-for-2024/"><u>Strategies for YouTube Music Fusions for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-correcting-internal-power-malfunction-on-windows-11-computers/"><u>Troubleshooting Steps for Correcting Internal Power Malfunction on Windows 11 Computers</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-why-you-may-not-want-link-tracking-on-facebook/"><u>Understanding Why You May Not Want Link Tracking on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhance-virtual-presence-mastering-zooms-snaps/"><u>[Updated] 2024 Approved Enhance Virtual Presence Mastering Zoom’s Snaps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-soundscapes-synergy-ideal-dj-videos-to-download/"><u>[Updated] 2024 Approved Soundscapes Synergy Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast-for-2024/"><u>[Updated] Innovative Approaches to Live Broadcasting on Youtube with WireCast for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-all-app-analysis-comprehensible-by-az-capture/"><u>2024 Approved All-App Analysis Comprehensible by AZ Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>2024 Approved Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-2023-a-social-media-userayers-handbook-for-fb-videos/"><u>2024 Approved Navigating 2023 A Social Media User’ayer's Handbook for FB Videos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-steps-to-access-windows-10-advanced-startup-settings/"><u>Easy Steps to Access Windows 10 Advanced Startup Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools-for-2024/"><u>Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-windows-tdr-troubleshooting-fixes-and-explanations-for-atikmpagsys-failures/"><u>Mastering Windows # TDR Troubleshooting: Fixes and Explanations for Atikmpag.sys Failures</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/trouble-with-rtkvhd64sys-heres-how-you-can-resolve-the-bsod-problem/"><u>Trouble with rtkvhd64.sys? Here's How You Can Resolve the BSOD Problem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-correcting-windows-7s-notorious-blue-screen-issue/"><u>Troubleshooting and Correcting Windows 7'S Notorious Blue Screen Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successful-how-to-fix-blue-screen-caused-by-kernel-memory-issues-within-pages/"><u>Troubleshooting Successful: How to Fix 'Blue Screen' Caused by Kernel Memory Issues Within Pages</u></a></li>
 </ul></div>
 

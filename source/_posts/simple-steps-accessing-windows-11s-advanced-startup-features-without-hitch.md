@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Accessing Windows 11'S Advanced Startup Features Without Hitch"
-date: 2024-11-07T04:09:24.505Z
-updated: 2024-11-14T01:43:07.569Z
+date: 2024-11-20T20:07:16.782Z
+updated: 2024-11-23T20:02:42.167Z
 tags:
   - win11
   - win10
@@ -37,30 +37,14 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click **Yes** when you’re prompted to confirm.
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -68,6 +52,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
@@ -91,31 +79,23 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -136,13 +116,6 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
@@ -159,16 +132,13 @@ Here are the steps on how to disable driver integrity checks:
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -205,20 +175,24 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-soundscape-strategies-making-tamil-tracks-your-phones-chime/"><u>[New] SoundScape Strategies Making Tamil Tracks Your Phone's Chime</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-bsod-with-stop-0x0000003b/"><u>[SOLVED] BSOD with STOP 0X0000003b</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement/"><u>[Updated] 2024 Approved The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enjoy-games-not-glitches-use-nvidia/"><u>[Updated] Enjoy Games, Not Glitches - Use NVIDIA</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-free-sound-card-driver-packs-for-windows-systems-start-here/"><u>Best Free Sound Card Driver Packs for Windows Systems - Start Here!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-to-overcome-hypervisor-related-blue-screen-of-death-errors-on-windows-11-machines/"><u>Complete Guide to Overcome Hypervisor-Related Blue Screen of Death Errors on Windows 11 Machines</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-video-marketing-strategies-top-8-verified-services/"><u>Essential Video Marketing Strategies Top 8 Verified Services</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-pop-7-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pop 7 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-guide-correcting-the-hypervisor-error-induced-blue-screen-of-death-on-your-windows-11-pc/"><u>Master Guide: Correcting the HYPERVISOR ERROR Induced Blue Screen of Death on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/masterclass-terminating-drivers-without-disrupting-pending-activities-issue-resolved/"><u>Masterclass: Terminating Drivers Without Disrupting Pending Activities [Issue Resolved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcome-the-inaccessible-boot-device-crash-on-win-10-with-easy-picture-tutorials/"><u>Overcome the 'Inaccessible Boot Device' Crash on Win 10 with Easy Picture Tutorials</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-guide-for-windows-7/"><u>Solution Guide for Windows 지정 7의 '시스템 서비스 예외'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/warehouse-in-the-sky-top-pricing-on-demand/"><u>Warehouse in the Sky Top Pricing on Demand</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/wheauncorrectableissue-eliminated-a-step-by-step-troubleshooting-methodology/"><u>WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screencast-essentials-from-basics-to-advanced-tactics/"><u>[New] Screencast Essentials From Basics to Advanced Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-tv-screen-scenes-with-ease-your-ultimate-guide-for-2024/"><u>[Updated] Capturing TV Screen Scenes with Ease - Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[Updated] In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-song-synchronizer-app-android/"><u>2024 Approved Supreme Song Synchronizer App (Android)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-resolved-troubleshooting-guide-for-video-memory-configuration-problems/"><u>BSOD Resolved? Troubleshooting Guide for Video Memory Configuration Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-windows-10-bad-pool-headers-that-trigger-blue-screen-of-death-errors-expert-tips/"><u>Diagnosing & Repairing Windows 10 'Bad Pool Headers' That Trigger Blue Screen of Death Errors: Expert Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-resolving-the-acpisys-error-in-windows-11-systems/"><u>Expert Advice on Resolving the Acpi.sys Error in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-bluescreen-errors-on-windows-11-a-comprehensive-guide/"><u>Fixing USB Driver Bluescreen Errors on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>Fun Flicks Online Must-See Comedy Streaming Stations for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-i-uninstall-preloaded-apps-on-an-iphone-device/"><u>How Can I Uninstall Preloaded Apps on an iPhone Device?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-syntpsys-blue-screen-of-death-error-in-windows/"><u>How to Fix SYNTP.SYS Blue Screen of Death Error in Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/jovial-media-grabber-critique-for-2024/"><u>Jovial Media Grabber Critique for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/master-the-technique-correcting-bsod-errors-due-to-system-pte-misuse/"><u>Master the Technique: Correcting BSOD Errors Due to SYSTEM PTE Misuse</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-multiple-irp-completed-requests-causes-blue-screen-of-death-bsod/"><u>Resolved: Fixing Multiple IRP Completed Requests Causes Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-resolving-boot-device-not-found-bsod-issues-in-windows-10-visual-aids-included/"><u>Step-by-Step Guide: Resolving 'Boot Device Not Found' BSOD Issues in Windows 10 (Visual Aids Included)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-resolve-an-unresponsive-iphone-displaying-the-apple-icon/"><u>Troubleshooting Tips: How to Resolve an Unresponsive iPhone Displaying the Apple Icon</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>Updated In 2024, The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Driver Protection Oversight Rectified – No More Blue Screens of Death
-date: 2024-11-12T22:42:22.900Z
-updated: 2024-11-13T20:03:27.787Z
+date: 2024-11-17T00:19:36.294Z
+updated: 2024-11-23T16:10:29.242Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  Many Windows users see a**DRIVER PNP WATCHDOG** error when booting up Windows or running Windows Update, and usually Driver PNP Watchdog happens with a blue screen. The complete error message is: **You PC ran into a problem and needs to restart. We’re just collecting some error info, and then we’ll restart for you. … Stop code: Driver PNP WATCHDOG.**
 
  If you’re one of them, don’t worry. This post puts together the workarounds to fix Driver PNP Watchdog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-138.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Find an option like**Configure SATA** ,**SATA Mode** or**SATA Configuration** .
 
  6) Change that option to**IDE** ,**ATA** , or**Compatible** .
@@ -68,18 +76,15 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Copy and paste the following command into Command Prompt, and press**Enter** .
 
 sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-556.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the process to be 100% complete.
 
@@ -88,19 +93,6 @@ sfc /scannow
  4) Type**exit** in Command Prompt and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-560.png)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer.
 
@@ -129,13 +121,6 @@ To utilize Fortect, all you have to do is:
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Perform a disk check
 
  CHKDSK is a Windows tool that checks the file system metadata of a volume for errors. So if you see the Driver PNP Watchdog error in your computer, running the CHKDSK tool may help scan that issue and fix it.
@@ -158,13 +143,6 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Make sure you’ve closed all the applications and saved your work. Then restart Windows.
 
  5) Disk check will start after restarting your computer. It might take some time to complete (could be a day for some).
@@ -176,10 +154,7 @@ chkdsk.exe /f /r
  If so, then congrats. If not, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
@@ -198,6 +173,10 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-143.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -205,16 +184,7 @@ chkdsk.exe /f /r
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-144.png)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer as normal and see if the error disappears.
@@ -237,6 +207,10 @@ If your Driver PNP Watchdog error persists, try the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-146.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Advanced options** under the**Troubleshoot** screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-147.png)
@@ -244,6 +218,10 @@ If your Driver PNP Watchdog error persists, try the next method below.
  5) Click**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish the process.
 
@@ -259,22 +237,13 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When you see the**Startup Repair** screen, click**Advanced Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-150.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Troubleshoot** .
 
@@ -304,6 +273,10 @@ You should make sure the Volume Shadow Copy service is running properly:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-151.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and double-click**Volume Shadow Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-152.png)
@@ -311,13 +284,6 @@ You should make sure the Volume Shadow Copy service is running properly:
  4) Make sure the**Startup type** is set to**Automatic** , and the**Service status** is**Running** . Then click**Apply** and**OK** to save your changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-153.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer.
 
@@ -345,18 +311,17 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-quintessential-scores-in-8-distinct-movie-spheres/"><u>[New] In 2024, Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/echniques-in-motivating-viewers-with-lifestyle-vlogs-for-2024/"><u>[New] Techniques in Motivating Viewers with Lifestyle Vlogs for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/op-15-online-and-desktop-platforms-to-create-gifs/"><u>[New] Top 15 Online & Desktop Platforms to Create GIFs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>[Updated] The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210503034-9781633412644-blackthorns-botanical-wellness/"><u>Blackthorn's Botanical Wellness | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-0x00000019-bad-pool-header-issue-in-windows-operating-systems-guides/"><u>How to Resolve the 0X00000019 Bad Pool Header Issue in Windows Operating Systems [GUIDES]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-auditory-ambition-realized-selecting-the-ultimate-interface/"><u>In 2024, Auditory Ambition Realized Selecting the Ultimate Interface</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/key-specifications-for-the-ideal-gamers-pc-what-you-need-to-know/"><u>Key Specifications for the Ideal Gamer's PC: What You Need To Know</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/optimal-windows-11-conversion-utility/"><u>Optimal Windows 11 Conversion Utility</u></a></li>
-<li><a href="https://win-best.techidaily.com/pcwindows-10112/"><u>PCリストア：Windows 10/11におけるバックアップからの2種類のフル復元方法</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-ntfs-file-system-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving NTFS File System Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-stack-buffer-overflow-errors-a-step-by-step-guide/"><u>Resolving Stack Buffer Overflow Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-of-0x00000050-blue-screen-troubleshooting-tips-for-windows-7-users/"><u>Unraveling the Mystery of 0X00000050 Blue Screen: Troubleshooting Tips for Windows 7 Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-building-brand-identity-with-instagram-video-content-for-2024/"><u>[New] Building Brand Identity with Instagram Video Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-guide-to-the-best-free-image-overlay-tools-for-mobile/"><u>[Updated] 2024 Approved Ultimate Guide to the Best Free Image Overlay Tools for Mobile</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-12-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-guide-for-correcting-error-message-0x00000cd-the-blue-screen-of-death/"><u>Complete Guide for Correcting Error Message 0X00000CD - The Blue Screen of Death</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-badpoolheader-crashes-on-windows-11/"><u>Effective Solutions to Tackle 'BAD_POOL_HEADER' Crashes on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-inescapable-blue-screen-error-wheauncorrectable/"><u>Resolved: Fixing the Inescapable Blue Screen Error (WHEA_UNCORRECTABLE)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/solucion-al-problema-tu-ordenador-no-es-compatible-con-windows-11-pasos-para-resolver-o-prevenir/"><u>Solución Al Problema: Tu Ordenador No Es Compatible Con Windows 11 - Pasos Para Resolver O Prevenir</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-vsco-editors-handbook-for-2024/"><u>The Ultimate VSCO Editor's Handbook for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/top-11-highest-ranking-free-image-format-changers-discover-movavi/"><u>Top 11 Highest-Ranking Free Image Format Changers - Discover Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-dvds-into-wmv-format-with-superior-quality-using-windows/"><u>Ultimate Guide: Converting DVDs Into WMV Format with Superior Quality Using Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-windows-blue-screen-with-dxgkrnlsys/"><u>Understanding and Resolving Windows Blue Screen with 'dxgkrnl.sys'</u></a></li>
 </ul></div>
 

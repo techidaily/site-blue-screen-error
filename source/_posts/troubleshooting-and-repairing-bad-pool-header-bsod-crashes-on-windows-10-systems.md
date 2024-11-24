@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing 'Bad Pool Header' BSOD Crashes on Windows 10 Systems
-date: 2024-11-11T04:11:26.861Z
-updated: 2024-11-13T22:04:50.614Z
+date: 2024-11-21T19:21:52.828Z
+updated: 2024-11-23T19:06:24.775Z
 tags:
   - win11
   - win10
@@ -48,38 +48,19 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Advanced options** .
@@ -94,18 +75,19 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I’m using Windows 7
 
@@ -141,13 +123,6 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Repair corrupt system files
 
  The fltmgr.sys blue screen error could be caused by missing, corrupt or damaged system files on your computer. To see if this is the case, you should run a Windows repair.
@@ -156,6 +131,10 @@ There are two ways you can repair possible issues with your system files:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -167,13 +146,6 @@ Here’s how to use Fortect to run a Windows repair:
 2. Wait for Fortect to run a scan on your PC. The process might take a couple of minutes.
 3. Once the scan finishes, you will get a summary of the issues found on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 4. Restart your computer for the changes to take effect.
@@ -189,6 +161,10 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the **Windows logo key**  and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click **Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
@@ -210,23 +186,21 @@ Here’s how to use Fortect to run a Windows repair:
 2. Right-click on **Local Disk**   and click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools**   tab >**Check** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click**Scan drive** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
@@ -261,20 +235,17 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-step-by-step-recorder-for-discord-enthusiasts/"><u>[New] In 2024, A Step-by-Step Recorder for Discord Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-instagram-video-streams-speedily/"><u>[New] In 2024, Enhance Instagram Video Streams Speedily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-streamers-playbook-broadcasting-to-facebook-network/"><u>[New] Streamer's Playbook Broadcasting to Facebook Network</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-for-images-discover-8-unique-ways-to-enhance-visual-communication/"><u>ChatGPT for Images: Discover 8 Unique Ways to Enhance Visual Communication</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conhecer-gritos-de-ola-em-portugues-guia-completo/"><u>Conhecer Gritos De Olá Em Português - Guia Completo</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-acpisys-problems-in-windows-10-systems/"><u>Effective Solutions for Fixing ACPI.sys Problems in Windows 10 Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-top-5-computer-screen-capture-tools-on-windows/"><u>Effortless Top 5 Computer Screen Capture Tools on Windows</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/elevate-your-multimedia-projects-with-winxvideo-ai-professional-videoimage-boosting-software-for-seamless-upgrades/"><u>Elevate Your Multimedia Projects with WinxVideo AI - Professional Video/Image Boosting Software for Seamless Upgrades</u></a></li>
-<li><a href="https://media-tips.techidaily.com/handling-inbound-calls-on-your-screen-how-google-tv-supports-compatible-applications/"><u>Handling Inbound Calls on Your Screen: How Google TV Supports Compatible Applications</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-2/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-pfn-list-corruption-and-blue-screen-errors-on-windows-10/"><u>Resolving PFN List Corruption & Blue Screen Errors on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-fatal-system-error-bsod-code-0x00000133-in-windows-10-systems/"><u>Step-by-Step Fix for the Fatal System Error (BSoD) Code 0X00000133 in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-the-win32kfullsys-blue-screen-of-death-problem/"><u>Understanding and Correcting the Win32KFull.sys Blue Screen of Death Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-obs-masterclass-for-beginners-stream-to-youtube-flawlessly/"><u>[Updated] OBS Masterclass for Beginners Stream to YouTube Flawlessly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-maximizing-fb-video-area/"><u>2024 Approved Step by Step Maximizing Fb Video Area</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-errors-at-event-tracing-in-windows-11-a-comprehensive-guide/"><u>Diagnosing and Repairing Fatal Errors at Event Tracing in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dz-bank/"><u>DZ Bank</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-faults-navigate-through-kmodeexception-error-handling-on-win-11-and-10/"><u>Fixing Critical Faults: Navigate Through KMODE_Exception Error Handling on Win 11 and 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-m14-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy M14 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-8-plus-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 8 Plus is off? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199736776-resolve-bad-configurations-fast-end-that-blue-screen-error-today/"><u>Resolve Bad Configurations Fast: End That Blue Screen Error Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-hidden-benefits-in-maintaining-your-win-11-notification-signals/"><u>The Hidden Benefits in Maintaining Your Win 11 Notification Signals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-secret-language-of-snapchat-behind-every-emoji/"><u>The Secret Language of Snapchat Behind Every Emoji</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-10t-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme 10T 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/untangling-the-solved-bluescreen-of-death-dealing-with-machine-check-exceptions-on-windows-11/"><u>Untangling the [Solved] BlueScreen of Death: Dealing with Machine Check Exceptions on Windows 11</u></a></li>
 </ul></div>
 

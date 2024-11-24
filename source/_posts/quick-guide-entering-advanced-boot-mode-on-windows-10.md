@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Entering Advanced Boot Mode on Windows 10"
-date: 2024-11-09T05:06:51.544Z
-updated: 2024-11-13T19:39:38.585Z
+date: 2024-11-20T20:22:02.622Z
+updated: 2024-11-23T17:04:38.457Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
@@ -52,26 +45,20 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Press **Y**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
 
@@ -79,19 +66,24 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Update device drivers**
@@ -110,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -117,17 +113,7 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -164,35 +150,19 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When prompted with the confirmation, click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Work-arounds**
 
@@ -221,19 +191,21 @@ thumbnail: https://thmb.techidaily.com/95b8f9c2962817f4c1d111a9c4869e31921442b0a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-troubleshooting-excessive-obs-bitrate/"><u>[New] Troubleshooting Excessive OBS Bitrate</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-the-maze-of-audio-capturing-a-complete-minecraft-guide-on-mac/"><u>[Updated] 2024 Approved Navigating the Maze of Audio Capturing A Complete Minecraft Guide on Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/"><u>Crafting Authenticity in Client Testimonial Videos for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-overcome-atikmpagsys-interruptions-during-video-playback-on-win10/"><u>Effective Solutions to Overcome 'Atikmpag.sys' Interruptions During Video Playback on Win10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-overcoming-blue-screen-errors-caused-by-bugcodeusbdriver-in-windows-11/"><u>Guide: Overcoming Blue Screen Errors Caused by BUGCODE_USB_Driver in Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-nova-y91-by-drfone-android/"><u>How to Bypass FRP from Huawei Nova Y91?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-machine-check-exception-that-leads-to-bsod-in-windows-10/"><u>How to Troubleshoot and Repair the 'Machine Check Exception' That Leads to BSoD in Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-intro-to-graphic-motion-artistry-and-usage/"><u>In 2024, Intro to Graphic Motion Artistry and Usage</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solve-your-window-10-kernel-security-check-mistake-a-comprehensive-guide-to-repair/"><u>Solve Your Window 10 Kernel Security Check Mistake - A Comprehensive Guide to Repair</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-for-when-counter-strike-global-offensive-wont-start/"><u>Step-by-Step Fixes for When Counter Strike Global Offensive Won't Start</u></a></li>
-<li><a href="https://facebook.techidaily.com/system-shutdown-fb-wa-ig-services-offline/"><u>System Shutdown: FB, WA, IG Services Offline</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/techniques-to-showcase-and-cite-your-own-gpt-variants-during-chatgpt-conversations/"><u>Techniques to Showcase and Cite Your Own GPT Variants During ChatGPT Conversations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-errors-from-igdkmd64sys-in-windows-11-solution-provided/"><u>Troubleshooting Blue Screen Errors From IGDKMD64.sys in Windows 11 [Solution Provided]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-rescuing-a-halted-obs-video-input-stream-for-2024/"><u>[New] Rescuing a Halted OBS Video Input Stream for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-a-closer-look-at-vlc-critiques-and-options/"><u>[Updated] 2024 Approved A Closer Look at VLC Critiques and Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>[Updated] In 2024, Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-standout-instagram-unboxings-a-comprehensive-checklist/"><u>2024 Approved Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-stop-error-stop-0x0cuu0000003b-on-pc-systems/"><u>Comprehensive Guide to Fixing Stop Error (STOP) 0X0cuu0000003b on PC Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-a-cash-flow-career-with-content-creation-like-ajey-nagar-for-2024/"><u>Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-clock-watchdog-timed-out-error-to-stop-windows-10-bluescreen-crashes/"><u>Eliminating the Clock Watchdog Timed-Out Error to Stop Windows 10 Bluescreen Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fandango-at-home-the-ultimate-guide-to-streaming-3d-movies/"><u>Fandango at Home: The Ultimate Guide to Streaming 3D Movies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-missing-or-corrupt-classpnpsym-file-in-windows-10windows-7-operating-systems/"><u>Fixing the Missing or Corrupt CLASSPNP.SYM File in Windows 10/Windows 7 Operating Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-guide-unpacking-rar-archives-on-both-windows-and-macos/"><u>Free Guide: Unpacking RAR Archives on Both Windows & macOS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-blue-screen-of-death-with-code-0x0000009f/"><u>How to Fix the BSOD (Blue Screen of Death) with Code 0X0000009F</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-bsod-caused-by-machine-check-exceptions-in-win10/"><u>How to Troubleshoot and Solve BSOD Caused by Machine Check Exceptions in Win10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-internal-power-issue-in-windows-11/"><u>Resolving the Internal Power Issue in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-safe-online-why-you-should-think-twice-before-downloading-google-bard/"><u>Stay Safe Online – Why You Should Think Twice Before Downloading Google Bard</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-win32kdcom-object-failure-error-0x0000009f/"><u>Troubleshooting Guide for Win32_KDCOM Object Failure (Error 0X0000009F)</u></a></li>
 </ul></div>
 

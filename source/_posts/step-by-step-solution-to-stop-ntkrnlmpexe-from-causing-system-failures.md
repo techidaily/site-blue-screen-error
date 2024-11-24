@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Stop NTKRNLMP.EXE From Causing System Failures
-date: 2024-11-09T23:42:43.159Z
-updated: 2024-11-14T04:48:17.916Z
+date: 2024-11-17T17:37:11.643Z
+updated: 2024-11-24T00:01:58.743Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
 **BAD\_SYSTEM\_CONFIG\_INFO**  is one of the common Blue Screen of Death (BSOD) error on Windows system. If you’re experiencing this error, rest assured, you’re not alone. Many Windows users have this problem. More importantly, you can fix it through the methods below quickly & easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 effective methods to fix BAD\_SYSYTEM\_CONFIG\_INFO
 
  The Bad System Config Info blue screen error could be caused by different reasons. This guide is covering 3 different effective and easy methods for your to try. You may not have to try them all; just start from the top and work your way down, till you solve your problem.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 1. **[Update all your available drivers](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
 
@@ -48,21 +56,7 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-update-drivers.jpg)
 4. Reboot your Windows 10 to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Fix your BCD file
 
@@ -76,23 +70,21 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 3. Click **Repair your computer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
@@ -156,20 +148,20 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-rekindling-relics-of-facebook-tales-step-by-device-step/"><u>[New] Rekindling Relics of Facebook Tales Step by Device Step</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-secure-continuous-streaming-in-obs-for-2024/"><u>[Updated] How To Secure Continuous Streaming In OBS for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>[Updated] In 2024, Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>[Updated] Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199726568-diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-latest-epson-wf-7710-driver-software-for-compatibility-with-multiple-windows-versions/"><u>Get Latest Epson WF-7710 Driver Software for Compatibility with Multiple Windows Versions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-initialize-hardware-abstraction-layer-in-windows-10-and-fix-boot-failures/"><u>How to Correctly Initialize Hardware Abstraction Layer in Windows 10 and Fix Boot Failures</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-infamous-ntoskrnlexe-causes-pc-crash-and-blue-screen-of-death/"><u>How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-internal-power-failure-on-your-pc-running-windows-10/"><u>How to Resolve the Internal Power Failure on Your PC Running Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-collective-evaluation-of-vllo/"><u>In 2024, The Collective Evaluation of VLLO</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Premiere Pro or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-problem-with-tcpipsys-in-windows-operating-systems-11-7-and-eight-edition/"><u>Resolving the BSOD Problem with tcpip.sys in Windows Operating Systems: 11, 7 and Eight Edition</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-asmtxhcisystem-blue-screen-of-death-step-by-step-guide/"><u>Troubleshooting and Repairing ASMTXHCISystem Blue Screen of Death - Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-driver-corrupted-expool-bugs-in-your-windows-10-system/"><u>Understanding and Resolving 'DRIVER CORRUPTED EXPOOL' Bugs in Your Windows 10 System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-standout-nintendo-switch-fighting-games-index-max-156/"><u>[New] In 2024, Standout Nintendo Switch Fighting Games Index (Max 156)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-editors-treasure-trove-curated-list-of-iconic-80s-vhs-hacks-for-editing/"><u>2024 Approved The Editor's Treasure Trove Curated List of Iconic 80S VHS Hacks for Editing</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-messages-whatsapps-audio-update/"><u>Harmonizing Messages WhatsApp's Audio Update</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>In 2024, Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-morning-routine-with-heimvisions-sunrise-alarm-clock-a80-a-comprehensive-review/"><u>Innovative Morning Routine with HeimVision's Sunrise Alarm Clock A80: A Comprehensive Review</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-stop-bsod-errors-with-tcpipsys-fixes-on-windows-10-7-and-8/"><u>Resolved: Stop BSoD Errors with TCP/IP.sys Fixes on Windows 10, 7 & 8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-eradicating-the-purged-blue-screen-caused-by-dxgmms2-on-windows-10-systems/"><u>Step-by-Step Solution: Eradicating the '[PURGED]' Blue Screen Caused by DxGmms2 on Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-resolve-failing-ntfs-filesystem-error-in-windows-11-bsods/"><u>Step-by-Step Troubleshooting: Resolve Failing NTFS Filesystem Error in Windows 11 BSODs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-game-changer-a-comprehensive-review-of-corsair-one-pro-for-gamers/"><u>The Game Changer: A Comprehensive Review of Corsair ONE Pro for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-family-organization-tools-best-shared-calendars-for-keeping-busy-schedules-in-check/"><u>Top 7 Family Organization Tools: Best Shared Calendars for Keeping Busy Schedules in Check</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-resolving-multiple-irp-completion-requests-causing-blue-screen-of-death-bsod/"><u>Troubleshooting Guide: Resolving Multiple IRP Completion Requests Causing Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-troubleshooting-for-driververifierdetectedviolation-blue-screen-issue-in-windows-10-fixed/"><u>Ultimate Troubleshooting for DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen Issue in Windows 10 (FIXED)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-and-blue-screen-dilemma-dealing-with-the-dxgmms2sys-malfunction-successfully/"><u>Windows 11 and Blue Screen Dilemma - Dealing with the dxgmms2.sys Malfunction Successfully</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/zero-hitches-in-fixing-windows-blue-screen-error-0x00000116/"><u>Zero Hitches in Fixing Windows Blue Screen Error 0X00000116</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Internal Energy Disruptions on Your PC Running Windows 11
-date: 2024-11-06T22:08:55.724Z
-updated: 2024-11-14T00:01:00.480Z
+date: 2024-11-17T21:05:09.660Z
+updated: 2024-11-23T22:56:41.222Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf76266cb012.jpg)
 
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,10 +48,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -62,23 +63,9 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 After the testing, Windows will restart automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -89,17 +76,18 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 ### Fix 4: Check for Windows Update
 
@@ -110,13 +98,6 @@ Here’s how you can check for Windows Update
 1. Type**Windows Update** in the box. Click**Check for updates** on the top result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
@@ -160,10 +141,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
@@ -171,6 +149,10 @@ Here’s how to use Fortect to repair system files on your PC:
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -203,21 +185,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>[New] In 2024, Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-definitive-guide-to-professional-level-youtube-video-edits/"><u>[New] In 2024, The Definitive Guide to Professional-Level YouTube Video Edits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-approved-tempo-transformation-software-index/"><u>[Updated] Expert-Approved Tempo Transformation Software Index</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-woes-correct-system-pte-mismanagement-easily/"><u>Blue Screen Woes? Correct SYSTEM PTE Mismanagement Easily!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/can-you-use-airpods-on-an-android-smartphone-or-tablet/"><u>Can You Use AirPods on an Android Smartphone or Tablet?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-fixing-critical-failure-with-dxgmms2sys-error-message-on-windows-11/"><u>Comprehensive Guide: Fixing Critical Failure with dxgmms2.sys Error Message on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-critical-unmountable-boot-volume-error-in-windows-10-for-smooth-operation/"><u>Expert Tips to Overcome the Critical Unmountable Boot Volume Error in Windows 10 for Smooth Operation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>In 2024, Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>In 2024, Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-grading-for-emotion-altering-footage-to-evoke-feelings/"><u>In 2024, Grading for Emotion Altering Footage to Evoke Feelings</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-12-pro-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 12 Pro Max and Android Phones</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/time-travel-for-video-views-youtube-upside-down-guide-for-2024/"><u>Time Travel for Video Views YouTube Upside-Down Guide for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-initialization-errors-on-windows-11-a-complete-solution-guide/"><u>Troubleshooting HAL Initialization Errors on Windows 11: A Complete Solution Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-video-driver-issues-solving-the-tdr-failure-with-atikmpagsys-on-windows-11/"><u>Troubleshooting Video Driver Issues: Solving the TDR Failure with atikmpag.sys on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-blue-screens-master-tips-for-resolving-error-0x0000001a/"><u>Winning Against Blue Screens: Master Tips for Resolving Error 0X0000001A</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-digital-art-with-free-versatile-lut-tools/"><u>2024 Approved Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/banish-blurry-footage-keeping-your-gopro-crisp/"><u>Banish Blurry Footage Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-mobile-hd-video-playback-androids-top-picks/"><u>In 2024, Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-pnpdetectedfatalerror-glitch-on-windows-11-systems/"><u>Resolving the 'PNP_Detected_Fatal_Error' Glitch on Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solutions-for-ndis-driver-bug-fix-troubleshooting-guide/"><u>Solutions for NDIS Driver Bug Fix: Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-vacuums-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated 2024 Robot Mop Vacuums: Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-blue-screen-errors-related-to-read-only-memory-attempts/"><u>Understanding and Resolving Blue Screen Errors Related to Read-Only Memory Attempts</u></a></li>
 </ul></div>
 

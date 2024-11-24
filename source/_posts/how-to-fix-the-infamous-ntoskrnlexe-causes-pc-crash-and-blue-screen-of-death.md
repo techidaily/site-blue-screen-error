@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death
-date: 2024-11-11T04:55:03.498Z
-updated: 2024-11-13T21:30:58.412Z
+date: 2024-11-19T17:17:58.317Z
+updated: 2024-11-23T17:02:38.841Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -44,17 +48,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -83,35 +77,16 @@ After the testing, Windows will restart automatically.
 3. Click**Yes** when prompted by User Account Control.  
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
@@ -127,13 +102,6 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -172,11 +140,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -209,16 +185,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-expert-picks-the-finest-photo-frame-software-for-2024/"><u>[New] Expert Picks The Finest Photo Frame Software for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-system-failures-in-depth-solutions-for-the-infamous-blue-screen-and-kernel-data-errors-in-webpages/"><u>Fixing Critical System Failures: In-Depth Solutions for the Infamous Blue Screen and Kernel Data Errors in Webpages</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dxgmms2sys-bsod-issue-solutions-for-windows-11-users/"><u>Fixing the 'dxgmms2.sys' BSOD Issue: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hal-initialization-failed-in-windows-11-solved/"><u>HAL INITIALIZATION FAILED in Windows 11 [Solved]</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-moto-g13-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Moto G13 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-comprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>In 2024, Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-transition-from-mobile-screen-to-big-tv-with-fb-videos/"><u>In 2024, Transition From Mobile Screen to Big TV with FB Videos</u></a></li>
-<li><a href="https://fox-making.techidaily.com/techniques-pour-synchroniser-automatiquement-vos-donnees-entre-pc-et-cle-usb-avec-un-logiciel-libre/"><u>Techniques Pour Synchroniser Automatiquement Vos Données Entre PC Et Clé USB Avec Un Logiciel Libre</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hardware-glitches-causing-display-problems-on-windows-1110-effective-fixes-inside/"><u>Troubleshooting Hardware Glitches Causing Display Problems on Windows 11/10: Effective Fixes Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successfully-completed-understanding-your-systems-need-for-restart/"><u>Troubleshooting Successfully Completed: Understanding Your System's Need for Restart</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/afrikaans-unlocked-discover-7-learning-benefits-via-mondly/"><u>Afrikaans Unlocked: Discover 7 Learning Benefits via Mondly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-stop-code-for-ndis-errors-on-pcs/"><u>Comprehensive Guide: Eliminating 'Stop Code' For NDIS Errors on PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-effektivsten-videokonverter-software-losungen-fur-windows-1011-schnell-and-sicher-ihre-top-liste-der-zehn-besten/"><u>Die Effektivsten Videokonverter-Software Lösungen Für Windows 10/11: Schnell & Sicher – Ihre Top-Liste Der Zehn Besten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-add-a-new-mail-sound-for-gmail/"><u>How to Add a New Mail Sound for Gmail</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-12-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-symbolizing-success-affordable-and-flexible-logo-crafting-from-templates/"><u>In 2024, Symbolizing Success Affordable & Flexible Logo Crafting From Templates</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fun-overcoming-lag-and-fps-drops-in-forza-horizon-5-on-pc-setup/"><u>Maximizing Fun: Overcoming Lag and FPS Drops in Forza Horizon 5 on PC Setup</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-connectivity-issues-solving-the-network-performance-problem-in-windows-11/"><u>Overcoming Connectivity Issues: Solving the 'Network Performance' Problem in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-fat-file-system-error-in-windows-11-with-easy-troubleshooting-tips/"><u>Overcoming the 'FAT File System Error' In Windows 11 with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-windows-11-internal-power-error-fixes/"><u>Winning the Battle Against Windows 11: Internal Power Error Fixes</u></a></li>
 </ul></div>
 

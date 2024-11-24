@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions
-date: 2024-11-11T02:34:36.726Z
-updated: 2024-11-13T20:33:10.135Z
+date: 2024-11-19T23:38:22.783Z
+updated: 2024-11-23T20:36:39.022Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
@@ -64,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -80,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -113,10 +115,7 @@ Or click **Update All**  to automatically download and install the correct versi
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -127,16 +126,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -162,18 +158,24 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-views-with-premium-youtube-rank-watchers/"><u>[New] 2024 Approved Boost Your Views with Premium YouTube Rank Watchers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>[New] 2024 Approved Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[New] In 2024, Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-master-your-live-video-setting-up-dslr-on-laptop-or-desktop/"><u>2024 Approved Master Your Live Video Setting Up DSLR on Laptop or Desktop</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-addressing-classpnpsys-problems-in-windows-107/"><u>Comprehensive Guide to Addressing Classpnp.sys Problems in Windows 10/7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solution-to-overcome-bsod-d1-issue-on-your-computer/"><u>Comprehensive Solution to Overcome BSOD D1 Issue on Your Computer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diy-troubleshooting-for-system-pte-blunders-causing-blue-screens/"><u>DIY Troubleshooting for System PTE Blunders Causing Blue Screens</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-installation-error-fix-oculus-for-winxc-and-winxi/"><u>Eliminate Installation Error: Fix Oculus for WinXC and WinXI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/handling-system-crashes-from-memory-mismanagement-a-guide-for-windows-1011-users/"><u>Handling System Crashes From Memory Mismanagement - A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-pop-8-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Pop 8 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/synching-sounds-with-visual-stories-on-ig/"><u>Synching Sounds with Visual Stories on IG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-the-root-causes-behind-repeated-blue-screen-errors-from-concluded-interrupt-requests/"><u>Understanding and Fixing the Root Causes Behind Repeated Blue Screen Errors From Concluded Interrupt Requests</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-free-video-editors-for-32-bit-windows-computers-for-2024/"><u>Updated Top Free Video Editors for 32-Bit Windows Computers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-video-visibility-settings-on-youtube/"><u>[New] 2024 Approved Mastering Video Visibility Settings on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-upgrade-your-experience-10-high-performance-drives-for-2024/"><u>[New] Upgrade Your Experience #10 High-Performance Drives for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-steps-to-correct-bad-pool-caller-bug-in-windows-11-environments/"><u>Comprehensive Steps to Correct 'Bad Pool Caller' Bug in Windows 11 Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-storage-management-on-win-1011/"><u>Enhancing Storage Management on Win 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-benefits-of-minecraft-realms-a-must-read/"><u>Evaluating the Benefits of Minecraft Realms - A Must-Read!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guffaw-glory-top-downloads-of-jingles-for-2024/"><u>Guffaw Glory Top Downloads of Jingles for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-bad-pool-caller-bug-on-your-windows-10-system-today/"><u>How to Correct the 'Bad Pool Caller' Bug on Your Windows 10 System Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-netwtw04sys-crash-causing-bluescreen-in-windows-10/"><u>How to Fix 'Netwtw04.sys' Crash Causing Bluescreen in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-non-starting-windows-10-machine-detailed-image-guide/"><u>How to Repair a Non-Starting Windows 10 Machine: Detailed Image Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-10s-clock-watchdog-timed-out-bluescreen-issue/"><u>How to Resolve Windows 10'S Clock Watchdog Timed-Out Bluescreen Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserving-clarity-in-editing-guide-to-non-interlaced-video-processing/"><u>Preserving Clarity in Editing: Guide to Non-Interlaced Video Processing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-solutions-for-system-configuration-error-avoid-pc-crashes-now/"><u>Quick Solutions for 'System Configuration Error' - Avoid PC Crashes Now</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-issue-bsod-related-rtwlanesys-system-failure-fix/"><u>Resolved Issue: BSOD Related 'rtwlane.sys' System Failure Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-fixing-the-issue-when-your-igfx-modules-fail/"><u>Solution Found! Fixing the Issue When Your iGFX Modules Fail</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-bad-pool-caller-issue-in-windows-10/"><u>Troubleshooting and Fixing the 'Bad Pool Caller' Issue in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-bsod-error-due-to-several-irp-completion-requests-in-windows-os/"><u>Troubleshooting Tips for BSOD Error Due to Several IRP Completion Requests in Windows OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766396585-18/"><u>デジアーティー18周年記念プロモーション - 魅惑の特設展示</u></a></li>
 </ul></div>
 

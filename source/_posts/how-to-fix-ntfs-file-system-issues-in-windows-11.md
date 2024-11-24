@@ -1,7 +1,7 @@
 ---
 title: How to Fix NTFS File System Issues in Windows 11
-date: 2024-11-09T00:11:13.043Z
-updated: 2024-11-13T16:03:23.089Z
+date: 2024-11-20T21:54:23.632Z
+updated: 2024-11-23T16:19:24.899Z
 tags:
   - win11
   - win10
@@ -30,16 +30,13 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
  Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **What is VIDEO TDR FAILURE blue screen of death?**
 
 **TDR** stands for **Timeout** , **Detection** , and **Recovery** components in Windows. If you’re seeing this notification, the most likely reason is that your graphics card driver stops responding. Windows might stop and restart the driver to fix the problem. You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and[restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **1: Run System File Checker**
 
@@ -48,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de41231e7e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **sfc/ scannow** and press **Enter** .
@@ -59,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de476b0552.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) **System File Checker** will help you scan for the corruptions in your system files and restore the corrupted or missing files.
@@ -72,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
  If this problem happens after you updated your graphics card driver, roll it back to previous stage: 1) On your keyboard, press the **Windows logo key** and **R** at the same time. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a90fde1afee.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Properties** .
 
@@ -92,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578ded4881db6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Uninstall or disable graphics card driver**
 
  If you have more than one graphics cards, there could be conflict among them. You can try uninstall or disable some with only one left: 1) On your keyboard, press the **Windows logo key** and **R** at the same time. Click **Device Manager** .
@@ -102,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91255c707f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If the problem persists, go back to **step 2)** and click **Uninstall device** this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9120f950a7.png)
@@ -111,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9127db1094.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
@@ -133,34 +122,12 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged Intel graphics card driver to automatically download and install the correct version of that driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-intel-xe-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Repair corrupted system files with Fortect
@@ -199,24 +166,21 @@ thumbnail: https://thmb.techidaily.com/c54c6148123e508341809a9f8c11fb6ca2958cb78
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-screen-changes-made-simple/"><u>[New] Effortless Screen Changes Made Simple</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-echo-chambers-hits-that-amplify-on-fb-for-2024/"><u>[New] The Art of Echo Chambers Hits that Amplify on FB for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-guide-overcoming-windows-10-bsod-how-to-address-critical-process-died-mishaps-effectively/"><u>Expert Guide: Overcoming Windows 10 BSOD – How to Address Critical Process Died Mishaps Effectively</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/fehlerbehebung-fur-windows-migrationshilfe-losungsansatze-fur-haufig-auftretende-probleme/"><u>Fehlerbehebung Für Windows-Migrationshilfe: Lösungsansätze Für Häufig Auftretende Probleme</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-the-balance-adding-videos-to-text-on-a-budget/"><u>Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/finnish-innovation-challenges-apple-with-cutting-edge-vr-headset-for-professionals-discover-the-surprise/"><u>Finnish Innovation Challenges Apple with Cutting-Edge VR Headset for Professionals - Discover the Surprise</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-and-troubleshooted-dxgmms2sys-error-leading-to-blue-screens-in-windows-e/"><u>How to Correctly Address and [TROUBLESHOOTED] DxGmmS2.sys Error Leading to Blue Screens in Windows E</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-and-prevent-kernel-pages-readwrite-problems-leading-to-blue-screens/"><u>How to Resolve and Prevent Kernel Pages Read/Write Problems Leading to Blue Screens</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-complete-blueprint-for-tracking-yt-viewsrevenue/"><u>In 2024, Complete Blueprint for Tracking YT Views/Revenue</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-crafting-vivid-visuals-for-spotify-video-ads/"><u>In 2024, Crafting Vivid Visuals for Spotify Video Ads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone without PIN</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-blue-screen-correct-ntfssys-system-error-and-stop-dtr-on-windows-11/"><u>Master the Blue Screen: Correct ntfs.sys System Error and Stop DTR on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-fixing-stop-error-code-0x00000124-on-windows-11-and-7-systems/"><u>Solution Steps for Fixing Stop Error (Code 0X00000124) on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-nopexec-memory-errors-for-smooth-windows-operations/"><u>Solving 'Nopexec' Memory Errors for Smooth Windows Operations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-efficiency-boost-editing-on-magix-video-pro-x-for-2024/"><u>The Efficiency Boost Editing on Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-solving-system-pte-misuse-and-bsod-issues/"><u>Ultimate Guide: Solving System PTE Misuse & BSOD Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-bluestack-fix-guide-resolving-unmountablebootvolume-issues-successfully/"><u>Windows 10 Bluestack Fix Guide: Resolving UNMOUNTABLE_BOOT_VOLUME Issues Successfully!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-bad-pool-header-solved/"><u>Windows 7 Bad Pool Header [SOLVED]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-vloggers-selection-premium-camera-lenses-compared/"><u>[New] The Vlogger's Selection Premium Camera Lenses Compared</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtubers-unleashed-a-guide-to-creating-memorable-music-reaction-vids/"><u>[Updated] 2024 Approved Youtubers Unleashed A Guide to Creating Memorable Music Reaction Vids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximize-your-marketing-metrics-top-8-apps-for-facebook-like-boost/"><u>[Updated] In 2024, Maximize Your Marketing Metrics Top 8 Apps for Facebook Like Boost</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>2024 Approved Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/calibration-frequency-is-influenced-by-usage-rate-precision-importance-manufacturers-guidelebackground-and-industry-regulations/"><u>Calibration Frequency Is Influenced by Usage Rate, Precision Importance, Manufacturer's Guidelebackground, and Industry Regulations.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-wheauncorrectable-issues-in-your-system/"><u>Diagnosing and Fixing 'WHEA_UNCORRECTABLE' Issues in Your System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-the-0x00000050-error-on-windows/"><u>Fixing the Blue Screen of Death: Solutions for the 0X00000050 Error on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bluescreen-of-death-resolving-0x00000124-bsod-in-windows-10-and-windows-7/"><u>Fixing the Bluescreen of Death: Resolving 0X00000124 BSOD in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-unexpected-kernel-mode-trapping-blue-screen-of-death-on-windows-11/"><u>Fixing the Unexpected Kernel Mode Trapping Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-cmusbdacsys-crashes-and-stop-blue-screens-in-windows/"><u>How to Fix 'CMUSBDAC.sys' Crashes and Stop Blue Screens in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-address-the-kernel-security-check-failed-error-in-windows-10-detailed-tutorial/"><u>How to Successfully Address the Kernel Security Check Failed Error in Windows 10 [Detailed Tutorial]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/instagram-story-width-height-run-time-for-2024/"><u>Instagram Story Width, Height, Run Time for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-all-in-one-workstation-showdown-evaluating-the-microsoft-surface-studio-evolution/"><u>The All-in-One Workstation Showdown: Evaluating the Microsoft Surface Studio Evolution</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-17-light-and-gear-perfect-for-vloggers/"><u>Top 17 Light & Gear Perfect for Vloggers</u></a></li>
+<li><a href="https://techidaily.com/vivo-y02t-video-recovery-recover-deleted-videos-from-vivo-y02t-by-fonelab-android-recover-video/"><u>Vivo Y02T Video Recovery - Recover Deleted Videos from Vivo Y02T</u></a></li>
 </ul></div>
 

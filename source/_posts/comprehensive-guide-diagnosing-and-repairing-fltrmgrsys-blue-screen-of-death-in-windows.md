@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Diagnosing and Repairing Fltrmgr.sys Blue Screen of Death in Windows"
-date: 2024-11-12T03:10:26.636Z
-updated: 2024-11-14T00:32:02.114Z
+date: 2024-11-21T00:51:28.801Z
+updated: 2024-11-23T23:55:54.258Z
 tags:
   - win11
   - win10
@@ -42,15 +42,12 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 3. Repeat **1)** and **2)** until the screen says **Preparing Automatic Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 4. Wait for Windows to finish diagnosing your PC, and click **Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 5. Click **Troubleshoot** .  
@@ -61,14 +58,15 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 7. Click **Startup settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 8. Click **Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
@@ -85,21 +83,7 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
 4. Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Step 2** to troubleshoot the**CLASSPNP.SYS**  blue screen problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair corrupt system files
 
@@ -125,10 +109,7 @@ Here’s how to use Fortect to run a Windows repair:
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
@@ -151,6 +132,10 @@ Here’s how to use Fortect to run a Windows repair:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -158,6 +143,10 @@ Here’s how to use Fortect to run a Windows repair:
 5) Check your computer to see if the **CLASSPNP.SYS** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -171,6 +160,10 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -207,40 +200,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click **Scan drive** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Restart your computer and see if the CLASSPNP.SYS error has been fixed.
@@ -269,17 +243,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>[New] In 2024, Converting ZIP to SubRip (SRT) Format A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-youtube-equipment-for-starting-your-channel/"><u>[Updated] In 2024, Essential YouTube Equipment For Starting Your Channel</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[Updated] In 2024, Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-nvpcfsys-blue-screen-of-death-error/"><u>How to Fix nvpcf.sys Blue Screen of Death Error</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/"><u>In 2024, Expert Picks 11 Easy, Waterproof Kids' Camcorders For Vlogging</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y36i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y36i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-clear-devdriver-hang-ups-in-windows-10-without-a-sweat/"><u>Mastering the Fix: Clear DevDriver Hang-Ups in Windows 10 Without a Sweat</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-malaise-cured-logitech-back-online/"><u>Mouse Malaise Cured: Logitech Back Online</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-correcting-acpisys-errors-on-your-windows-11-pc/"><u>Step-by-Step Solution: Correcting acpi.sys Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restore-volume-control-functionality-on-windows-nx/"><u>Step-by-Step Solution: Restore Volume Control Functionality on Windows nX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshooting-the-infamous-netiosys-bsod-issue/"><u>Step-by-Step Tutorial: Troubleshooting the Infamous NETIO.SYS BSOD Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-6-android-video-capture-apps-for-screen-recording/"><u>[New] 2024 Approved Best 6 Android Video Capture Apps for Screen Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-studio-study-xvideo-studio-insights/"><u>[New] Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-visual-experience-pondering-ultrawide-vs-uhd-4k-monitors/"><u>[New] Optimal Visual Experience Pondering UltraWide vs UHD 4K Monitors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways/"><u>[Updated] 2024 Approved Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simplifying-tasks-with-ez-grabber-techniques/"><u>[Updated] Simplifying Tasks with EZ Grabber Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressing-bsod-errors-related-to-faulty-memory-handling-on-windows-operating-systems/"><u>Addressing BSOD Errors Related to Faulty Memory Handling on Windows Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortlessly-resolve-device-driver-error-causing-windows-10-freeze/"><u>Effortlessly Resolve 'Device Driver Error' Causing Windows 10 Freeze</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-hardware-related-page-corruption-in-windows-11-and-10-systems-solutions-unveiled/"><u>Fixing Hardware-Related Page Corruption in Windows 11 and 10 Systems – Solutions Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/global-market-access-for-singapore-smbs-through-amazons-new-e-commerce-collaboration-as-covered-by-zdnet/"><u>Global Market Access for Singapore SMBs Through Amazon's New E-Commerce Collaboration, as Covered by ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-windows-7s-bad-pool-header-tips-and-solutions-that-work/"><u>How to Overcome Windows 7'S Bad Pool Header: Tips & Solutions That Work!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Phone Hassle-Free</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-nt-fs-service-failure-leading-to-bsod-on-windows-11/"><u>Step-by-Step Guide: Correcting NT FS Service Failure Leading to BSOD on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-video-potential-nine-superior-stream-filters-for-2024/"><u>Unlock Your Video Potential Nine Superior Stream Filters for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors
-date: 2024-11-12T00:58:16.546Z
-updated: 2024-11-14T01:40:39.522Z
+date: 2024-11-20T20:02:19.725Z
+updated: 2024-11-23T21:40:31.814Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ According to Microsoft,
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You don’t need to try them all, just work your way down until you find the one works for you.
@@ -43,10 +47,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **First Thing First**
@@ -62,6 +63,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
 
@@ -94,10 +99,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -106,19 +108,6 @@ If the problem persists, move on to the next step.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
@@ -126,10 +115,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
@@ -139,10 +125,7 @@ If the problem persists, move on to the next step.
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
@@ -155,19 +138,6 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
@@ -175,13 +145,6 @@ If the problem persists, move on to the next step.
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
 
@@ -198,6 +161,10 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -225,19 +192,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-deciphering-dji-phantom-3s-flight-instruments-and-controls/"><u>[New] 2024 Approved Deciphering DJI Phantom 3'S Flight Instruments and Controls</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-a-unique-channel-look-for-free/"><u>[New] In 2024, Craft a Unique Channel Look for Free</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[New] Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[New] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-solutions-for-correcting-drivercorruptedexpool-errors-on-windows-11/"><u>Expert Solutions for Correcting 'DRIVER_CORRUPTED_EXPOOL' Errors on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-deal-with-storahcisys-blue-screen-of-death-bsod/"><u>Expert Tips to Deal with Storahci.sys Blue Screen of Death (BSoD)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-blue-screen-ea-error-on-windows-computers-easily/"><u>Fixing The Notorious Blue Screen 'EA' Error on Windows Computers Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-ace-2v-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Ace 2V Phone | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-boot-into-advanced-startup-options-in-windows-10-easily/"><u>How to Boot Into Advanced Startup Options in Windows 10 Easily?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-corrupted-pfn-lists-leading-to-blue-screen-of-death-on-windows-10/"><u>How to Fix Corrupted PFN Lists Leading to Blue Screen of Death on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g14-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G14 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-f5-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco F5 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-vgk-system-crashes-and-blue-screen-issues-on-your-pc/"><u>Troubleshooting VGK System Crashes and Blue Screen Issues on Your PC</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unseen-yet-seen-how-to-conceal-faces-and-objects-digitally-for-2024/"><u>Unseen Yet Seen How to Conceal Faces and Objects Digitally for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-engaging-audienranz-with-solo-visual-content/"><u>[New] In 2024, Engaging Audienranz with Solo Visual Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-missing-normalizdll-effective-fixes-and-solutions-revealed/"><u>Dealing with Missing Normaliz.dll: Effective Fixes and Solutions Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/efficient-methods-to-launch-advanced-boot-options-on-windows-10-systems/"><u>Efficient Methods to Launch Advanced Boot Options on Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-cannot-switch-from-dpc-error-in-windows-step-by-step-guide/"><u>How to Fix 'Cannot Switch From DPC' Error in Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2003-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2003?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-manage-acpi-system-driver-problems-in-windows-10/"><u>How To Successfully Manage ACPI System Driver Problems in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-itel-a70-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Itel A70 online without jailbreak</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-choosing-from-manycams-finding-optimal-options/"><u>In 2024, Choosing From ManyCams Finding Optimal Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-review-for-hero4-black/"><u>In 2024, Full Review for Hero4 Black</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-slow-mo-video-and-photography-apps-iosandroid-devices/"><u>In 2024, Premier Slow Mo Video & Photography Apps iOS/Android Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-clear-devdriver-hang-ups-in-windows-10-without-a-sweat/"><u>Mastering the Fix: Clear DevDriver Hang-Ups in Windows 10 Without a Sweat</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-critical-dxgkrnl-bsod-issue-in-windows-11/"><u>Resolved: Fixing the Critical 'Dxgkrnl' BSOD Issue in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-doom-a-guide-to-fixing-apc-index-mismatch/"><u>Resolving the Blue Screen of Doom: A Guide to Fixing APC Index Mismatch</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-to-your-pnp-detected-critical-fatal-error-on-windows-10-pc/"><u>Ultimate Solution to Your 'PNP Detected' Critical Fatal Error on Windows 10 PC</u></a></li>
 </ul></div>
 

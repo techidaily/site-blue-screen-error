@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Driver Verifier Checksum Violation Bluescreen on Your PC Running Windows #
-date: 2024-11-09T17:54:51.516Z
-updated: 2024-11-14T05:04:50.870Z
+date: 2024-11-21T19:29:01.296Z
+updated: 2024-11-23T16:53:50.208Z
 tags:
   - win11
   - win10
@@ -48,8 +48,16 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your computer for the change to take effect.
 
@@ -58,10 +66,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -76,15 +81,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
@@ -106,31 +108,14 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/settings-1.jpg)
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
@@ -151,10 +136,7 @@ Here are the steps on how to disable driver integrity checks:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
@@ -192,16 +174,20 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>[Updated] In 2024, Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-personalize-and-protect-youtube-channel-url-made-simple/"><u>2024 Approved Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-address-video-schedulers-internal-error-in-windows-10-systems/"><u>Effective Strategies to Address Video Scheduler's Internal Error in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/end-the-bsod-headache-fixing-stop-error-0x00000amazing-for-smooth-operation/"><u>End the BSOD Headache: Fixing Stop Error 0X00000amazing for Smooth Operation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-issue-in-windows-7-solution-guide/"><u>How to Fix the 'Bad Pool Header' Issue in Windows 7 - Solution Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-secrets-when-to-share-content-for-youtube-success/"><u>In 2024, Secrets When to Share Content for YouTube Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-transform-your-instagram-experience-with-obs-livestreaming-techniques/"><u>In 2024, Transform Your Instagram Experience with OBS Livestreaming Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-14-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-unexpected-kernel-mode-trap-kmodeexceptionnothandled-blue-screen-of-death-on-windows-10/"><u>Resolved: Fixing the Unexpected Kernel Mode Trap (KMODE_EXCEPTION_NOT_HANDLED) Blue Screen of Death on Windows 10</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-x-tutorial-cropping-images-for-video-editing/"><u>Updated In 2024, Final Cut Pro X Tutorial Cropping Images for Video Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-rhythmcapture-toolkit-a-critical-walkthrough/"><u>[Updated] In 2024, RhythmCapture Toolkit A Critical Walkthrough</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-drowsy-documentaries-film-reviews/"><u>2024 Approved Drowsy Documentaries Film Reviews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-zte-blade-a73-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset ZTE Blade A73 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
+<li><a href="https://win-help.techidaily.com/guia-definitiva-optimizar-la-sincronizacion-de-archivos-en-diferentes-ediciones-de-windows-windows-11-10-8-n7/"><u>Guía Definitiva: Optimizar La Sincronización De Archivos en Diferentes Ediciones De Windows (Windows 11, 10, 8, N°7)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-unhandled-exceptions-fixing-kmode-errors-on-win10win11-systems/"><u>How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-irql-not-less-or-equal-error-on-windows-7-solutions-and-explanations/"><u>How to Fix 'IRQL Not Less or Equal' Error on Windows 7 - Solutions and Explanations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-internal-power-malfunction-in-windows-10/"><u>How to Overcome the Internal Power Malfunction in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-drivercorruptedexceptionpool-bugs-in-windows-11-expert-solutions/"><u>How to Resolve DRIVER_CORRUPTED_EXCEPTION_POOL Bugs in Windows 11 - Expert Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-spark-20-proplus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Spark 20 Pro+ FRP Without Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-instagram-video-cropping-three-effective-strategies/"><u>Mastering Instagram Video Cropping: Three Effective Strategies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-exceptions-on-windows-7-comprehensive-guide/"><u>Resolving System Service Exceptions on Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-0xc000000e-bsod-a-step-by-step-guide/"><u>Resolving the 0xC000000E BSOD: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/scopri-il-confronto-tra-i-diversi-releases-di-aomei-backupper-sul-web/"><u>Scopri Il Confronto Tra I Diversi Releases Di AOMEI Backupper Sul Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-tier-hd-screen-recording-technology-for-2024/"><u>Top-Tier HD Screen Recording Technology for 2024</u></a></li>
 </ul></div>
 

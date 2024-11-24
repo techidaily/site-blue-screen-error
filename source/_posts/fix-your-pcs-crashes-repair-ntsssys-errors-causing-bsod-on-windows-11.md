@@ -1,7 +1,7 @@
 ---
 title: "Fix Your PC's Crashes: Repair NTSS.sys Errors Causing BSOD on Windows 11"
-date: 2024-11-06T18:52:48.176Z
-updated: 2024-11-13T22:05:50.399Z
+date: 2024-11-17T00:28:54.743Z
+updated: 2024-11-23T22:44:30.002Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b85123f710b0.jpg)
 
 **THREAD STUCK IN DEVICE DRIVER** blue screen error probably was**caused by faulty video card driver or damaged video card** . If you got this error, don’t worry. You’re not alone. Many Windows 10 users have reported this issue. You can fix this error with one of the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -45,20 +49,21 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adea458f38e8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
  In the screenshot shown below, take NVIDIA GeForce GT 640 for example. You’ll see a different graphics model depending on the graphics card installing on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adea4836812e.jpg)
 
- 4) After updating the graphics card driver, check to see if the Thread Stuck in Device Driver error resolves.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) After updating the graphics card driver, check to see if the Thread Stuck in Device Driver error resolves.
 
 ## **Solution 2:** **Update sound card drivers**
 
@@ -69,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 3: Keep computer and video card adequately cool**
@@ -81,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
  When you get this error, check to see if the computer is overheating. If it’s overheating, turn of the computer and turn it on later until the computer cools down (about 30 minutes). If you’d like to troubleshoot what’s causing computer overheating, you can refer to[6 Top Tips to Cool Down an Overheating Laptop](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 4:**
 
 **Upgrade the power supply**
@@ -95,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
  If you’are sing a desktop PC, try upgrading your computer’s power supply. If the power supply is in poor quality, it will be unable to provide adequate power to all your computer’s components. In this case, it may result in a “brown out” of sorts in your system. Remove the old power supply and replace it with a more appropriate one. If you’re not sure how to do this, go to the near computer repair shop to have a further check.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 5:**
@@ -127,24 +119,21 @@ thumbnail: https://thmb.techidaily.com/7dd749384e650dd30b462267307e8e4df40b220cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-verifier-iomanager-violation/"><u>[Fixed] DRIVER VERIFIER IOMANAGER VIOLATION</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-audiophiles-recorder-review/"><u>[New] 2024 Approved Audiophile's Recorder Review</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-converting-live-images-to-continuous-recordings/"><u>[New] 2024 Approved Converting Live Images to Continuous Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-power-of-video-endorsements-in-advertising/"><u>2024 Approved The Power of Video Endorsements in Advertising</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-5/"><u>2024년 제공하는 상위 5개의 무인징 비디오 녹화 소프트웨어를 찾아보세요!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-peripheral-functionality-numbers-pfn-problems-and-system-crashes-in-windows-11-solutions-and-fixes/"><u>Dealing with Peripheral Functionality Numbers (PFN) Problems & System Crashes in Windows 11: Solutions and Fixes</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/discover-the-future-of-music-programming-musicians-can-now-own-a-micropython-tulip-computer-for-under-60/"><u>Discover the Future of Music Programming: Musicians Can Now Own a MicroPython Tulip Computer for Under $60</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-internal-power-malfunction-in-windows-10-devices/"><u>Effective Solutions for Internal Power Malfunction in Windows 10 Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/experience-ultimate-control-with-revo-uninstaller-professional-5/"><u>Experience Ultimate Control with Revo Uninstaller Professional 5</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-hal-initialization-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing HAL Initialization Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-overcome-hdmi-usage-issues-with-multiple-running-applications/"><u>How to Overcome HDMI Usage Issues with Multiple Running Applications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-emotional-intelligence-through-chatgpt-interaction-strategies/"><u>Mastering Emotional Intelligence Through ChatGPT Interaction Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-fatal-error-pnp-detected-in-windows-10-devices/"><u>Resolved: Critical Fatal Error 'PNP Detected' In Windows 10 Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-kernal-protection-error-on-windows-10-operating-system/"><u>Resolved: Critical Kernal Protection Error on Windows 10 Operating System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-driver-released-despite-ongoing-tasks/"><u>Resolved: Driver Released Despite Ongoing Tasks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fat32-file-system-glitch-in-windows-10/"><u>Resolving the FAT32 File System Glitch in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/securely-deleting-all-personal-information-from-your-windows-pc-a-step-by-step-guide-no-cost-involved/"><u>Securely Deleting All Personal Information From Your Windows PC: A Step-by-Step Guide - No Cost Involved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-driver-corrupted-exception-pool-failures-in-windows-11-effective-remedies-and-advice/"><u>Troubleshoot DRIVER CORRUPTED EXCEPTION POOL Failures in Windows 11 - Effective Remedies and Advice</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-flamboyant-snaps-techniques-for-lasting-snapstreaks-for-2024/"><u>[New] Flamboyant Snaps Techniques for Lasting Snapstreaks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-survive-and-thrive-on-the-streak-frontier/"><u>[Updated] How to Survive and Thrive on the Streak Frontier</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/break-free-from-teardown-crash-woes-an-extensive-problem-solving-guide/"><u>Break Free From Teardown Crash Woes: An Extensive Problem-Solving Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-techniques-for-stack-buffer-overflow-in-drivers/"><u>Comprehensive Troubleshooting Techniques for Stack Buffer Overflow in Drivers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/definitive-guide-eradicating-perpetual-blue-screens-tackling-whea-errors/"><u>Definitive Guide: Eradicating Perpetual Blue Screens - Tackling WHEA Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-page-fault-errors-in-windows-11-operating-system/"><u>Diagnosing and Fixing 'Page Fault' Errors in Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-artificial-intelligence-for-flawless-talks/"><u>Harnessing Artificial Intelligence for Flawless Talks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199683221-how-to-properly-shutdown-driver-process-with-outstanding-jobs-intact-solution-found/"><u>How to Properly Shutdown Driver Process with Outstanding Jobs Intact - Solution Found</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo T2 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-wealth-route-in-periscope-streaming/"><u>In 2024, Unveiling the Wealth Route in Periscope Streaming</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/post-update-bug-correcting-the-infamous-blue-screen-of-death-on-windows-11-systems/"><u>Post-Update Bug: Correcting the Infamous Blue Screen of Death on Windows 11 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-windows-11-crash-how-to-overcome-a-critical-process-failed-and-caused-bsod/"><u>Resolve Windows 11 Crash: How to Overcome a Critical Process Failed & Caused BSoD</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-hal-startup-failures-on-windows-11-systems/"><u>Understanding and Resolving HAL Startup Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-gpt-bot-understanding-the-reasons-behind-website-restrictions/"><u>Unveiling GPT Bot: Understanding the Reasons Behind Website Restrictions</u></a></li>
 </ul></div>
 

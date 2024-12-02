@@ -1,7 +1,7 @@
 ---
 title: Error Code Decoded - Understanding and Fixing Stop 0X00000am A
-date: 2024-11-01T03:59:04.191Z
-updated: 2024-11-04T05:05:11.548Z
+date: 2024-11-26T03:50:09.027Z
+updated: 2024-12-01T18:40:58.855Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
@@ -44,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
@@ -56,31 +57,25 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
@@ -108,18 +103,15 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -138,22 +130,18 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>[Updated] 2024 Approved Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>2024 Approved Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-6-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 6</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fix-for-the-igdkmd64sys-system-crash-on-windows-11-a-user-friendly-guide/"><u>Comprehensive Fix for the 'IGDKMD64.sys' System Crash on Windows 11: A User-Friendly Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-dealing-with-the-apc-index-mismatch-that-triggers-blue-screens/"><u>Comprehensive Fixes: Dealing with the 'APC Index Mismatch' That Triggers Blue Screens</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-overcome-the-notorious-blue-screen-error-from-nvpcnfsys/"><u>Comprehensive Strategies to Overcome the Notorious Blue Screen Error From nvpcnf.sys</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-critical-process-died-error-stop-0x0000007b/"><u>Effective Solutions for Fixing the Critical Process Died Error (STOP: 0X0000007B)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-performance-in-the-ascent-by-boosting-frame-rates-and-fixing-stutter-issues/"><u>Elevate Your Performance in The Ascent by Boosting Frame Rates & Fixing Stutter Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-performance-boosters-6-proven-tips-to-stop-stuttering/"><u>Hogwarts Legacy Performance Boosters: 6 Proven Tips to Stop Stuttering !</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-resolve-machine-check-exception-blue-screen-errors-in-windows-11/"><u>How to Troubleshoot and Resolve 'Machine Check Exception' Blue Screen Errors in Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lightning-fast-cures-for-m-audio-track-errors/"><u>Lightning-Fast Cures for M-Audio Track Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-errors-storahcisys-troubleshooting-guide/"><u>Solving Blue Screen Errors: Storahci.sys Troubleshooting Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-fixing-the-dreaded-machine-check-exception-and-preventing-bsod-on-your-windows-10-system/"><u>Step-by-Step Solutions for Fixing the Dreaded Machine Check Exception and Preventing BSoD on Your Windows 10 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-error-code-0x00000amazing-for-pc-restarts/"><u>Understanding and Resolving Error Code 0X00000amazing for PC Restarts</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-7-freezes-hangs-or-locks-up-randomly-solved/"><u>Windows 7 Freezes, Hangs or Locks Up Randomly [Solved]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite/"><u>[New] Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>[Updated] Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-six-most-effective-solutions-to-recover-from-terrarias-loss-of-connectivity/"><u>Busting the Six Most Effective Solutions to Recover From Terraria's Loss of Connectivity</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-remedies-for-windows-7s-0x0000007e-blue-screen-of-death-error/"><u>Effective Remedies for Windows 7'S 0X0000007E Blue Screen of Death Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/iastorasys-blue-screen-of-death-solved/"><u>iaStorA.sys Blue Screen of Death [SOLVED]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic5-ultimate-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic5 Ultimate Phone without Any Data Loss</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-time-lapse-tiktoks-capturing-anime-elements-and-styles/"><u>In 2024, Time-Lapse TikToks Capturing Anime Elements and Styles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-avi-to-ogv-kansbare-omzetting-gratis-door-movavi/"><u>Online AVI-to-OGV Kansbare Omzetting Gratis Door Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-the-driver-corrupted-exception-pool-issue-on-windows-11-troubleshooting-tips/"><u>Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-a-step-by-step-guide-to-resolving-stop-code-0x0000000a/"><u>Tackling the Blue Screen: A Step-by-Step Guide to Resolving Stop Code 0X0000000A</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-video-edits-easy-techniques-on-your-windows-pc-for-2024/"><u>The Art of Video Edits Easy Techniques on Your Windows PC for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-free-screen-recording-programs-best-picks-reviewed/"><u>Top 5 Free Screen Recording Programs : Best Picks Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved
-date: 2024-10-29T07:22:45.803Z
-updated: 2024-11-04T03:10:07.191Z
+date: 2024-11-30T02:24:20.865Z
+updated: 2024-12-01T21:28:20.215Z
 tags:
   - win11
   - win10
@@ -34,13 +34,25 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
@@ -53,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -71,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
@@ -96,26 +116,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -126,23 +130,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -168,14 +158,16 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edu-favorites-best-learning-yt-channels/"><u>[New] 2024 Approved Edu-Favorites Best Learning YT Channels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quick-and-easy-instructions-for-launching-skype-group-conversations-on-both-windows-and-macos/"><u>[New] 2024 Approved Quick and Easy Instructions for Launching Skype Group Conversations on Both Windows & MacOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-drone-efficiency-with-premium-lipo-units/"><u>2024 Approved Maximizing Drone Efficiency with Premium LiPo Units</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-any-video-to-high-quality-mp4-format-for-mac-with-the-best-free-tool-macx-video-converter/"><u>Convert Any Video to High-Quality MP4 Format for Mac with the Best Free Tool - MacX Video Converter</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-blue-screen-errors-caused-by-win32ksys-in-windows-systems/"><u>Dealing with Blue Screen Errors Caused by Win32k.sys in Windows Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-narzo-60-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme Narzo 60 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-critical-pnp-detected-issues-on-windows-11-systems/"><u>Troubleshooting and Fixing Critical 'PNP Detected' Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-windows-10-blue-screen-error-solved/"><u>UNMOUNTABLE_BOOT_VOLUME Windows 10 Blue Screen Error [Solved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199734457-windows-10-bluestack-fix-guide-resolving-unmountablebootvolume-issues-successfully/"><u>Windows 10 Bluestack Fix Guide: Resolving UNMOUNTABLE_BOOT_VOLUME Issues Successfully</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategy-revealed-a-box-opening-narrative-for-2024/"><u>[New] Strategy Revealed A Box-Opening Narrative for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-advanced-mp4-encoder-for-social-sharing/"><u>[Updated] 2024 Approved Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fastest-8-capture-tools-unveiled/"><u>[Updated] In 2024, Fastest 8 Capture Tools Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-thumbnail-artistry-for-engaging-youtube-channels/"><u>[Updated] Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-due-to-tcpipsys-glitches-solutions-for-windows-11-7-and-8-users/"><u>Blue Screen of Death Due to TCP/IP.sys Glitches – Solutions for Windows 11, 7 & 8 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-excavation-unearthing-best-deals-in-the-steam-realm/"><u>Efficient Excavation: Unearthing Best Deals in the Steam Realm</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-blue-screen-frustrations-expert-tips-for-restoring-stability-to-windows-eight-systems/"><u>Eliminating Blue Screen Frustrations: Expert Tips for Restoring Stability to Windows Eight Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-blue-screen-of-death-from-driver-overrun-errors/"><u>Expert Tips to Fix Blue Screen of Death From Driver Overrun Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-error-code-0xc000021a-in-windows-10-and-8-complete-guide/"><u>Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-netwtw04sys-error-and-stop-bluescreen-in-windows-11/"><u>How to Resolve the 'Netwtw04.sys' Error and Stop Bluescreen in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-a-fresh-take-on-viewing-the-new-lg-bp550-review/"><u>In 2024, A Fresh Take on Viewing The New LG BP550 Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Addressing and Correcting Bad Pool Header Issues Leading to BSOD on Windows 10
-date: 2024-11-02T18:21:25.234Z
-updated: 2024-11-04T07:29:12.000Z
+date: 2024-11-28T21:00:08.417Z
+updated: 2024-12-02T04:30:00.916Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
  If you keep getting random blue screens with **STOP CODE** **0x00000019**  (i.e. **Bad\_Pool\_Header**  error)  o n your computer lately, don’t panic. Below are 6 fixes that have helped other users resolve this problem. So read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Just work your way down until this nasty **0x00000019 Bad Pool Header** problem goes away.
@@ -31,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 6. [**Check disk errors**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -73,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click **Choose what the power buttons do** .  
@@ -84,27 +78,17 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before**Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Restart your computer and hopefully the**0x00000019** blue screen issue ceases.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Disable Windows search
 
@@ -113,27 +97,17 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then copy & paste **services.msc**   into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a13144cf25.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Scroll down to**Windows Search** . Then right click on**Windows Search** and click**Stop** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a137e81417.jpg)
 3. Double-click on **Windows Search** . Then in**Startup type:** , choose**Disabled** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a145884937.jpg)
 4. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and check if this **0x00000019 Bad\_Pool\_Header** ever happens again.
 
@@ -150,29 +124,23 @@ To do so:
 1. On your keyboard, press    **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type memory. Then click on**Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e83b8a93a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Be sure to**save your work** &**close all apps** on your PC before clicking **Restart now and check for problems (Recommended)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e87a6d482.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failing/failed memory on your RAM. You might have to move to**Fix 5** to get this **0x00000019** (**Bad\_Pool\_Header** ) fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
 
@@ -191,12 +159,24 @@ To do so:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the **Tools** tab > **Check** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click **Scan drive** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer and see if it fixes the **0x00000019** (**Bad\_Pool\_Header** ) blue screen error.
 
@@ -222,20 +202,15 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-cinematography-essential-gear-for-yi-4k/"><u>[New] Elevate Your Cinematography - Essential Gear for YI 4K</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-service-failed-bsod-on-windows-11/"><u>[SOLVED] CRITICAL SERVICE FAILED BSOD on Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>[Updated] Achieve Peak Performance Prime Methods for Zoom Conversion Mastery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-deciphering-the-language-of-youtube-commenters/"><u>2024 Approved Deciphering the Language of YouTube Commenters</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-optimize-video-quality-turning-on-av1-in-youtube-settings/"><u>2024 Approved Optimize Video Quality Turning ON AV1 in YouTube Settings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-network-service-issues-causing-blue-screen-in-win11/"><u>Diagnosing & Correcting 'NETWORK SERVICE' Issues Causing Blue Screen in Win11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-bluescreen-error-due-to-cmusbdacsys-malfunction-in-windows-os/"><u>How to Stop the Bluescreen Error Due to 'CMUSBDAC.sys' Malfunction in Windows OS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-approaches-to-scholarly-investigation-using-chatgpt-for-essay-development/"><u>Innovative Approaches to Scholarly Investigation Using ChatGPT for Essay Development</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-challenges-in-driver-unloading-with-incomplete-operations-a-successful-fix/"><u>Overcoming Challenges in Driver Unloading with Incomplete Operations – A Successful Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-atikmpagsys-errors-a-step-by-step-guide-for-smooth-video-on-windows-10/"><u>Resolving 'Atikmpag.sys' Errors: A Step-by-Step Guide for Smooth Video on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-the-blue-screen-nightmare-overcoming-error-0xc000021a-in-windows-11-and-8-your-complete-fixer/"><u>Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>The Easy-to-Learn Art of Earning Wealth Reddit's Ultimate Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/transforming-your-video-content-making-square-format-footage-for-instagram/"><u>Transforming Your Video Content Making Square-Format Footage for Instagram</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-fat-file-system-errors-expert-tips-and-techniques/"><u>Troubleshooting and Solving Windows 11 FAT File System Errors: Expert Tips & Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-use-the-background-eraser-tool-in-photoshop-detailed-guide-for-2024/"><u>[New] How To Use The Background Eraser Tool In Photoshop Detailed Guide for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] 2024 Approved Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-dealing-with-windows-11s-persistent-fat-file-system-problem/"><u>Effective Solutions for Dealing With Windows 11'S Persistent FAT File System Problem</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-system-boot-problems-with-hal-failure-in-windows-n-expert-solutions-revealed/"><u>Overcoming System Boot Problems with HAL Failure in Windows N – Expert Solutions Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-driver-verifier-detected-violation-bsod-issues-on-windows-10-complete-guide/"><u>Resolve 'Driver Verifier Detected Violation' BSOD Issues on Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-editing-software-virtualdub-review-and-top-competitors/"><u>Updated The Best Free Video Editing Software Virtualdub Review and Top Competitors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-ease-your-driver-corruptedexpool-error-headache-with-this-proven-fix/"><u>Windows Ease Your 'DRIVER CORRUPTED_EXPOOL' Error Headache with This Proven Fix</u></a></li>
 </ul></div>
 

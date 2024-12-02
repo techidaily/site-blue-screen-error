@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Accessing Windows 11'S Advanced Startup Features Without Hitch"
-date: 2024-11-20T20:07:16.782Z
-updated: 2024-11-23T20:02:42.167Z
+date: 2024-11-28T02:23:29.912Z
+updated: 2024-12-01T19:20:47.161Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
 
 If you run into the**Event Tracing Fatal Error** blue screen of death, don’t worry. It’s usually not very hard to resolve at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix event tracing fatal error
 
  Here are four fixes that have helped other users resolve the**event tracing fatal error.** You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 4. **[Hard reset your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run SFC and DISM
 
@@ -42,20 +50,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 **Here is how to run DISM** :
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
@@ -65,6 +65,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
  Check to see if the event tracing fatal error still occurs. If it doesn’t occur, then great – you’ve fixed the issue! If it still happens, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -78,24 +82,16 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -116,8 +112,16 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
 7. Use**the arrow keys** to navigate to**Secure Boot** (could be found on the**Security** , the**Boot** or the**Authentication** tab). Then select its value to **Disable** .
@@ -131,10 +135,6 @@ Here are the steps on how to disable driver integrity checks:
 
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
@@ -175,24 +175,17 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screencast-essentials-from-basics-to-advanced-tactics/"><u>[New] Screencast Essentials From Basics to Advanced Tactics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capturing-tv-screen-scenes-with-ease-your-ultimate-guide-for-2024/"><u>[Updated] Capturing TV Screen Scenes with Ease - Your Ultimate Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[Updated] In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-song-synchronizer-app-android/"><u>2024 Approved Supreme Song Synchronizer App (Android)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bsod-resolved-troubleshooting-guide-for-video-memory-configuration-problems/"><u>BSOD Resolved? Troubleshooting Guide for Video Memory Configuration Problems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-windows-10-bad-pool-headers-that-trigger-blue-screen-of-death-errors-expert-tips/"><u>Diagnosing & Repairing Windows 10 'Bad Pool Headers' That Trigger Blue Screen of Death Errors: Expert Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-resolving-the-acpisys-error-in-windows-11-systems/"><u>Expert Advice on Resolving the Acpi.sys Error in Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-bluescreen-errors-on-windows-11-a-comprehensive-guide/"><u>Fixing USB Driver Bluescreen Errors on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fun-flicks-online-must-see-comedy-streaming-stations-for-2024/"><u>Fun Flicks Online Must-See Comedy Streaming Stations for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-i-uninstall-preloaded-apps-on-an-iphone-device/"><u>How Can I Uninstall Preloaded Apps on an iPhone Device?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-syntpsys-blue-screen-of-death-error-in-windows/"><u>How to Fix SYNTP.SYS Blue Screen of Death Error in Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/jovial-media-grabber-critique-for-2024/"><u>Jovial Media Grabber Critique for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-technique-correcting-bsod-errors-due-to-system-pte-misuse/"><u>Master the Technique: Correcting BSOD Errors Due to SYSTEM PTE Misuse</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-multiple-irp-completed-requests-causes-blue-screen-of-death-bsod/"><u>Resolved: Fixing Multiple IRP Completed Requests Causes Blue Screen of Death (BSoD)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-resolving-boot-device-not-found-bsod-issues-in-windows-10-visual-aids-included/"><u>Step-by-Step Guide: Resolving 'Boot Device Not Found' BSOD Issues in Windows 10 (Visual Aids Included)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-resolve-an-unresponsive-iphone-displaying-the-apple-icon/"><u>Troubleshooting Tips: How to Resolve an Unresponsive iPhone Displaying the Apple Icon</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>Updated In 2024, The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastery-in-motion-a-guide-for-expert-color-balancing-for-2024/"><u>[New] Mastery in Motion A Guide for Expert Color Balancing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-prominent-comment-spotlights/"><u>[Updated] 2024 Approved Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimal-video-kick-offs-selecting-the-top-16-for-more-viewers-for-2024/"><u>[Updated] Optimal Video Kick-Offs Selecting the Top 16 for More Viewers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoupeuse-de-videos-mkv-premium-slicing-mkv-fichiers-rapidement-sans-correction-audiovideo/"><u>Découpeuse De Vidéos MKV Premium : Slicing .mkv Fichiers Rapidement Sans Correction Audio/Video</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-inaccessible-boot-device-bsod-in-windows-11-with-pictures/"><u>Fix Inaccessible Boot Device BSOD in Windows 11 [with Pictures]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-life-threatening-bugs-encountered-during-events-on-windows-11-solutions-revealed/"><u>How to Fix Life-Threatening Bugs Encountered During Events on Windows 11 – Solutions Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-system-service-exception-error-on-windows-7/"><u>Resolved: Fixing the 'System Service Exception' Error on Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-volsnapsys-bsod-issues-on-your-windows-pc/"><u>Resolved: How to Fix Volsnap.sys BSOD Issues on Your Windows PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-fix-the-deadly-critical-process-died-blue-screen-on-windows-10/"><u>Troubleshooting Steps to Fix the Deadly 'Critical Process Died' Blue Screen on Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-the-potential-of-webex-exploring-its-merits-and-defects-in-digital-gatherings/"><u>Unlocking the Potential of WebEx: Exploring Its Merits and Defects in Digital Gatherings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728508876442-outlook/"><u>うまくいかないOutlookのバックアップ方法：最善の代替手段とその実践</u></a></li>
 </ul></div>
 

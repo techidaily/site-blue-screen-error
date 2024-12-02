@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Blue Screen: A Step-by-Step Guide to Resolving Stop Code 0X0000000A"
-date: 2024-11-23T00:40:42.281Z
-updated: 2024-11-23T21:52:54.699Z
+date: 2024-12-01T02:21:32.228Z
+updated: 2024-12-01T22:47:02.426Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
@@ -42,29 +50,25 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -117,7 +113,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
@@ -129,6 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -158,18 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-unexpectedstoreexception-windows-11-error/"><u>[Fixed] UNEXPECTED_STORE_EXCEPTION Windows 11 Error</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expand-your-reach-effective-youtube-campaigns/"><u>[New] 2024 Approved Expand Your Reach Effective YouTube Campaigns</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-composing-a-price-plan-for-audio-visual-song-clips/"><u>[Updated] In 2024, Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-simple-snippets-for-iphone-sound-capture/"><u>[Updated] Simple Snippets for iPhone Sound Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-the-mystery-of-ad-driven-content-creation-cpm/"><u>[Updated] Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-the-0xc000000e-system-failure-in-windows-computers/"><u>Diagnose and Repair the 0xC000000E System Failure in Windows Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-rtwlanesys-system-crash-problems/"><u>Diagnosing and Repairing RTWLane.SYS System Crash Problems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elevating-edit-quality-the-ultimate-guide-for-obs-studios-for-2024/"><u>Elevating Edit Quality The Ultimate Guide for OBS Studios for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-repair-strategies-for-the-blue-screen-errors-in-windows-7/"><u>Expert Advice: Repair Strategies for the Blue Screen Errors in Windows 7</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-audiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>In 2024, Audiovisual Power Evaluating Mirrorless vs DSLR Cameras</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1716777274953-in-2024-how-to-reverse-videos-on-android/"><u>In 2024, How to Reverse Videos on Android?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-kernel-memory-errors-behind-blue-screen-failures/"><u>Step-by-Step Guide: Correcting Kernel Memory Errors Behind Blue Screen Failures</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-critical-service-errors-leading-to-bsod-in-windows-10/"><u>Troubleshooting and Solving Critical Service Errors Leading to BSOD in Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-cutting-edge-video-editing-on-ios-and-android-devices-for-2024/"><u>[New] Cutting-Edge Video Editing on iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-iconic-80s-aesthetic-techniques-for-cutting-videos-for-2024/"><u>[New] Iconic 80S Aesthetic Techniques for Cutting Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlocking-creativity-free-animation-techniques/"><u>[Updated] Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-tutorial-on-integrating-bots-into-discord-servers/"><u>A Beginner's Tutorial on Integrating Bots Into Discord Servers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722979006874-a-clear-and-concise-description-of-the-customers-problem-along-with-any-troubleshooting-steps-already-taken/"><u>A Clear and Concise Description of the Customer's Problem Along with Any Troubleshooting Steps Already Taken</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-up-cloud-calls-resolving-zoom-audio-glitches-for-2024/"><u>Clear Up Cloud Calls Resolving Zoom Audio Glitches for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-dealing-with-the-unusual-unexpected-store-exception-in-windows-10/"><u>Comprehensive Solutions for Dealing with the Unusual 'Unexpected Store Exception' In Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-infamous-0x0000001e-bsod-issue/"><u>Effective Solutions for the Infamous 0X0000001E BSOD Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-stop-error-stop-0x0000003b-on-your-computer/"><u>Fixing the Critical Stop Error (STOP) 0X0000003B on Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-airplay-to-download-apple-podcasts-simplified/"><u>From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-storportsys-bsod-in-windows-10/"><u>How to Fix storport.sys BSOD in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/repairing-a-stand-alone-headphone/"><u>Repairing a Stand-Alone Headphone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tips-for-troubleshooting-and-repairing-a-corrupted-pfn-list-in-windows-10/"><u>Tips for Troubleshooting and Repairing a Corrupted PFN List in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hypervisor-errors-leading-to-bsod-crashes-on-windows-11-systems/"><u>Troubleshooting Hypervisor Errors Leading to BSoD Crashes on Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
 </ul></div>
 

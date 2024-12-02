@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms
-date: 2024-10-31T00:47:07.000Z
-updated: 2024-11-04T00:52:22.378Z
+date: 2024-11-28T00:12:20.758Z
+updated: 2024-12-01T18:50:46.376Z
 tags:
   - win11
   - win10
@@ -28,10 +28,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Reinstall your graphic card driver
@@ -47,10 +44,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
@@ -75,10 +69,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -93,24 +84,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
 
@@ -122,6 +104,10 @@ You need to do these:
  Note: Click **Yes**  when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the open black window, type**verifier** and press Enter.
 
@@ -138,13 +124,6 @@ You need to do these:
  Then type**Verifier /reset** in the window and press**Enter** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
 
@@ -170,21 +149,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-first-choice-top-15-videography-power-tools/"><u>[New] 2024 Approved First Choice Top 15 Videography Power Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-kid-proof-camcorders-the-top-11-beginner-friendly-choices/"><u>2024 Approved Kid-Proof Camcorders The Top 11 Beginner-Friendly Choices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-z50-ultra-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia Z50 Ultra</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-exception-error-code-0x00000133-in-windows-10-operating-system/"><u>Diagnosing and Repairing Fatal Exception Error Code 0X00000133 in Windows 10 Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970897350-drivers-for-epson-download-and-update-for-windows-easily/"><u>Drivers for Epson Download & Update for Windows EASILY</u></a></li>
-<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-playlist-embedding-on-sites-using-youtube/"><u>In 2024, Playlist Embedding on Sites Using YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mirrorless-innovation-taking-over-dslr-in-videos-for-2024/"><u>Mirrorless Innovation Taking Over DSLR in Videos for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199717073-netwtw04sys-error-blanking-your-screen-on-windows-annoy-you-no-more/"><u>Netwtw04.sys Error Blanking Your Screen on Windows Annoy You No More!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcame-ink-depletion-problem-in-hp-officejet/"><u>Overcame Ink Depletion Problem in HP Officejet</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ess-audio-transfer-youtube-videos-)-mp3-macos-2023-for-2024/"><u>Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023 for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fix-service-related-blue-screens-on-your-windows-10-pc/"><u>Step-by-Step Guide to Fix Service-Related Blue Screens on Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tips-to-fix-the-persistent-fltrmgrsys-bsod-error-on-your-windows-device/"><u>Step-by-Step Tips to Fix the Persistent Fltrmgr.sys BSOD Error on Your Windows Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-unresolved-system-thread-faults/"><u>Troubleshooting Steps for Unresolved System Thread Faults</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-7-bsod-error-0x0000007e-solutions-for-a-smoother-pc-experience/"><u>Troubleshooting Windows 7 BSOD Error 0X0000007E: Solutions for a Smoother PC Experience</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tutorial-fixing-the-criticalservice-failed-and-blue-screen-of-death-in-your-windows-11-machine/"><u>Tutorial: Fixing the 'CRITICAL_SERVICE Failed' And Blue Screen of Death in Your Windows 11 Machine</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-rtkvhd64sys-blue-screen-of-death-error/"><u>[Fixed] rtkvhd64.sys Blue Screen of Death Error</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-music-sticker-how-to-get-the-music-sticker-on-instagram/"><u>[New] 2024 Approved Instagram Music Sticker How to Get the Music Sticker on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-groundbreaking-strategies-30-innovative-facebook-moves/"><u>[Updated] Groundbreaking Strategies 30 Innovative Facebook Moves</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/class-action-lawsuit-claims-t-mobiles-promised-price-match-policy-is-deceptive/"><u>Class-Action Lawsuit Claims T-Mobile's Promised Price Match Policy Is Deceptive</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/error-free-operations-deciphering-the-causes-behind-unexpected-system-reboots/"><u>Error-Free Operations: Deciphering the Causes Behind Unexpected System Reboots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-a-jump-on-innovation-8-gpt-models-you-can-implement-without-delay/"><u>Get a Jump on Innovation: 8 GPT Models You Can Implement Without Delay</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138590171-9781462068272-gods-promotions/"><u>God's Promotions | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-transform-your-streams-adopting-these-four-recording-approaches/"><u>In 2024, Transform Your Streams Adopting These Four Recording Approaches</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-classpnpsys-error-messages-for-windows-11-and-windows-7-step-by-step-tutorial/"><u>Resolve Classpnp.sys Error Messages for Windows 11 & Windows 7: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-diagnose-and-mend-error-code-0xc0000017-on-your-pc-repair-guide/"><u>RESOLVED: Diagnose & Mend Error Code 0xC0000017 on Your PC - Repair Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smile-inducing-shots-on-iphones/"><u>Smile-Inducing Shots on IPhones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489592-9781578593507-the-vampire-book/"><u>The Vampire Book | Free Book</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-removing-unwanted-pre-installed-apps-from-your-android-device/"><u>Ultimate Guide: Removing Unwanted Pre-Installed Apps From Your Android Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-igdkmd64sys-fix-blue-screen-for-windows-11-users/"><u>Winning the Battle Against IGDKMD64.sys - Fix Blue Screen for Windows 11 Users</u></a></li>
 </ul></div>
 

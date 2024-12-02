@@ -1,7 +1,7 @@
 ---
 title: "Beating the Fltmgr.sys BSOD on Windows: A Comprehensive Repair Guide"
-date: 2024-11-02T23:05:49.999Z
-updated: 2024-11-04T01:33:57.513Z
+date: 2024-11-29T00:53:37.840Z
+updated: 2024-12-01T16:15:15.303Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run SFC and DISM
 
  Sometimes this blue screen of death error may occur if there is corrupt or missing system files on your computer. Luckily, Windows has come with it handy system tools System File Checker (SFC) and DISM (Deployment Image Servicing and Management ) to help you scan your system for errors and fix them if this is the case.
@@ -36,17 +40,15 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click **Yes** when you’re prompted to confirm.
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -54,6 +56,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
@@ -80,22 +86,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -116,19 +112,6 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
@@ -143,25 +126,19 @@ Here are the steps on how to disable driver integrity checks:
 2. Click**Yes** once prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -198,20 +175,22 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-boost-your-visibility-with-a-cutting-edge-set-of-banners-for-2024/"><u>[New] Boost Your Visibility with a Cutting-Edge Set of Banners for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-x-tape-maker-desktop-compatible/"><u>[New] X-Tape Maker Desktop Compatible</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-instagram-aesthetic-with-new-and-old-filters-for-2024/"><u>[Updated] Elevate Your Instagram Aesthetic with New and Old Filters for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>[Updated] The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-overcoming-syntpsys-blue-screens-of-death-on-windows-machines/"><u>Effective Fixes for Overcoming SYNTP.SYS Blue Screens of Death on Windows Machines</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/iently-engaging-with-numerous-youtube-lectures/"><u>Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/error-404-unable-to-locate-webpage-what-next/"><u>Error 404: Unable to Locate Webpage – What Next?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-restoring-core-functionality-in-your-windows-10-pc/"><u>Guide to Restoring Core Functionality in Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199699843-how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-a-blue-screen-of-death-with-stop-code-0x0000007b/"><u>How to Overcome a Blue Screen of Death with STOP Code 0X0000007B</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/innovative-insights-for-streaming-success-on-tiktoks-computer-interface/"><u>Innovative Insights for Streaming Success on TikTok's Computer Interface</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-of-video-tdr-failures-due-to-atikmpagsys-on-windows-10-step-by-step-solutions/"><u>Mastering the Fix of Video TDR Failures Due to atikmpag.sys on Windows 10: Step-by-Step Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-winodws-7-stop-error-0x00000050-a-comprehensive-guide/"><u>Resolving the Winodws 7 Stop Error: 0X00000050 - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-structure-and-public-accessibility-of-facebook-local-groups/"><u>The Structure and Public Accessibility of Facebook Local Groups</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-novices-to-pros-the-journey-of-picking-fpv-drone-blades/"><u>[New] In 2024, From Novices to Pros The Journey of Picking FPV Drone Blades</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-leading-photo-and-tune-recorders-for-immersive-experience-for-2024/"><u>[New] Leading Photo & Tune Recorders for Immersive Experience for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nique-day-to-day-vlog-themes-for-2024/"><u>[New] Unique Day-to-Day Vlog Themes for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-unexpected-kernel-mode-trap-bsod-error-in-windows-11/"><u>[SOLVED] UNEXPECTED KERNEL MODE TRAP BSOD Error in Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unlocking-the-code-a-guide-to-your-own-special-tiktok-hash/"><u>[Updated] 2024 Approved Unlocking the Code A Guide to Your Own Special TikTok Hash</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essentials-of-film-production-for-youtube-originals/"><u>2024 Approved The Essentials of Film Production for YouTube Originals</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-solutions-to-fix-frequent-bsod-due-to-several-interrupt-processes-finished/"><u>Expert Solutions to Fix Frequent BSoD Due to Several Interrupt Processes Finished</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dpc-watchguard-compliance-issue-steps-to-resolve-quickly-and-effectively/"><u>Fixing the DPC Watchguard Compliance Issue: Steps to Resolve Quickly and Effectively</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-driver-caused-system-crash-bug-a-step-by-step-solution/"><u>How to Eliminate Driver-Caused System Crash Bug: A Step by Step Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-clock-watchdog-timeout-blue-screen-error-on-windows-11/"><u>How to Fix the 'Clock Watchdog Timeout' Blue Screen Error on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-photo-complete-guide-how-to-use-it-on-iphone/"><u>Live Photo Complete Guide How to Use It on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-through-windows-11s-best-practices-for-imports/"><u>Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigating-data-protection-simplified-through-cookiebot-technology/"><u>Navigating Data Protection - Simplified Through Cookiebot Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/removal-tutorial-for-windows-11-users-how-to-say-goodbye-to-copilot/"><u>Removal Tutorial for Windows 11 Users: How to Say Goodbye to Copilot</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-event-tracing-in-windows-10-solutions-found/"><u>Resolving Critical System Crashes: Event Tracing in Windows 10 – Solutions Found</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-blue-screen-a-step-by-step-guide-for-error-0xc00-on-win11-and-8-fixed/"><u>Resolving Windows Blue Screen: A Step-by-Step Guide for Error 0xC0^[0] on Win11 & 8 [FIXED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-windows-7-instability-issues-expert-fixes-and-tips-for-a-smoother-experience/"><u>Solve Windows 7 Instability Issues - Expert Fixes and Tips for a Smoother Experience</u></a></li>
 </ul></div>
 

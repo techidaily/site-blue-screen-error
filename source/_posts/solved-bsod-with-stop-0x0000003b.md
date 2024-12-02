@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-11-22T20:52:21.599Z
-updated: 2024-11-23T19:30:14.438Z
+date: 2024-11-30T03:11:56.817Z
+updated: 2024-12-01T22:45:46.687Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2\. Rum Memory Diagnose and Disk Check**
@@ -47,19 +47,15 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
@@ -70,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -130,22 +130,21 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-route-to-your-latest-fb-video-viewings/"><u>[New] In 2024, Quick Route to Your Latest FB Video Viewings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-precision-leaders-best-7-shooting-adventures-for-2024/"><u>[New] Precision Leaders Best 7 Shooting Adventures for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-excellence-the-best-camera-lenses/"><u>2024 Approved Capturing Excellence The Best Camera Lenses</u></a></li>
-<li><a href="https://win-great.techidaily.com/accessing-aclands-top-notch-anatomy-visuals-download-procedures-for-apple-macintosh-and-microsoft-windows-systems/"><u>Accessing Acland's Top-Notch Anatomy Visuals: Download Procedures for Apple Macintosh and Microsoft Windows Systems</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/bringing-favorite-manga-characters-to-life-in-tiktok-for-2024/"><u>Bringing Favorite Manga Characters to Life in TikTok for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/defeating-the-netiosys-bluescreen-menace-in-windows-systems/"><u>Defeating the NETIO.SYS Bluescreen Menace in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-fatal-dxgkrnl-error-that-leads-to-a-blue-screen-in-windows-10/"><u>Diagnosing and Repairing the Fatal Dxgkrnl Error That Leads to a Blue Screen in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-your-blue-screen-woes-tackling-kmodeexplorerpluskmdextension-bsod-in-modern-windows/"><u>Fix Your Blue Screen Woes: Tackling KMode_Explorer+KMDExtension BSOD in Modern Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-classpnpsys-driver-errors-on-windows-11-and-windows-7-resolved/"><u>How to Fix CLASSPNP.SYS Driver Errors on Windows 11 and Windows 7 - Resolved</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-fix-obs-not-recording-audio/"><u>In 2024, How to Fix OBS Not Recording Audio</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/initial-cinematographers-work-scrutiny-and-replacement-ideas/"><u>Initial Cinematographer's Work Scrutiny & Replacement Ideas</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-irql-challenges-on-windows-7-solutions-and-best-practices-for-it-professionals/"><u>Mastering IRQL Challenges on Windows 7 - Solutions and Best Practices for IT Professionals</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-guide-easy-entry-into-windows-11-advanced-setup-menu/"><u>Quick Guide: Easy Entry Into Windows 11 Advanced Setup Menu</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-key-system-integrity-issues-in-windows-10/"><u>Resolved: Key System Integrity Issues in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-stop-0x0000007b-bsod-issue-on-your-windows-pc/"><u>Resolving the STOP 0X0000007B BSOD Issue on Your Windows PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-risks-of-relying-on-chatgpt-for-accurate-text-summaries/"><u>The Risks of Relying on ChatGPT for Accurate Text Summaries</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>[New] 2024 Approved Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enlarge-facebook-videos-to-full-screen-for-impact/"><u>[New] Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-drones-decoded-an-owners-primer-for-first-time-buyers/"><u>[Updated] Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movie-magic-for-editing-select-excerpts-handpicked/"><u>2024 Approved Movie Magic for Editing Select Excerpts Handpicked</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-optimizing-online-content-delivery-to-key-social-media-channels/"><u>2024 Approved Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-your-pc-when-you-see-stop-error-0x000000f4-a-step-by-step-guide/"><u>How to Fix Your PC When You See 'STOP Error 0X000000F4': A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199740704-how-to-overcome-windows-7s-bad-pool-header-tips-and-solutions-that-work/"><u>How to Overcome Windows 7'S Bad Pool Header: Tips & Solutions That Work</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-hal-initialization-errors-on-your-windows-10-machine-a-step-by-step-solution/"><u>Overcoming HAL Initialization Errors on Your Windows 10 Machine - A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/punpals-create-hilarious-memes-now-for-2024/"><u>PunPals - Create Hilarious Memes Now for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-the-blues-in-a-flash-immediate-fixes-for-bad-system-configuration-bsod/"><u>Stop the Blues in a Flash: Immediate Fixes for 'Bad System Configuration' BSOD</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-resolve-issues-with-acpitzsys-file-on-windows-10/"><u>Troubleshooting Steps to Resolve Issues with acpitz.sys File on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-notorious-bsod-for-usb-drivers-in-windows-11-solutions-unveiled/"><u>Troubleshooting the Notorious BSOD for USB Drivers in Windows 11 – Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-repair-a-non-functional-microphone-in-a-laptop/"><u>Troubleshooting: How to Repair a Non-Functional Microphone in a Laptop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/turbo-dvd-ripping-mastery-with-winx-platinum-pro-swiftly-duplicate-any-encrypted-discs-under-windows-10/"><u>Turbo DVD Ripping Mastery with WinX Platinum Pro - Swiftly Duplicate Any Encrypted Discs Under Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IO Manager Compatibility Patched to Prevent Driver Verifier Mismatches
-date: 2024-11-02T03:05:19.667Z
-updated: 2024-11-03T16:01:35.609Z
+date: 2024-11-30T16:38:09.885Z
+updated: 2024-12-02T02:14:07.365Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Bad Pool Header Windows 7
 
  Here are 5 fixes that have helped other users resolve the Bad Pool Header in Window 7 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 5. [**Check disk errors**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -56,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-331.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -63,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 5) Check to see if the bad pool header blue screen problem has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Windows Memory Diagnostic
 
@@ -79,10 +84,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows search
 
@@ -95,28 +108,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
@@ -127,13 +120,6 @@ To do so:
  Turn off and unplug your PC, then remove all of your RAM sticks. Try to power your computer back on with the sticks, ONE BY ONE. If your computer fails to boot with one specific RAM, you know which one is to blame.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check disk errors
 
@@ -147,17 +133,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
 
 ---
@@ -182,24 +166,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-must-watch-live-games-top-nine-sites/"><u>[New] 2024 Approved Must-Watch Live Games Top Nine Sites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-digital-frontiers-how-vr-transforms-leisure/"><u>[New] In 2024, Digital Frontiers How VR Transforms Leisure</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-money-no-problem-free-pinterest-video-extractors/"><u>[New] No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-public-domain-zen-soundscape/"><u>[Updated] 2024 Approved Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-camstreamers-analysis-seeking-superior-solutions/"><u>[Updated] CamStreamers Analysis Seeking Superior Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-optimize-your-teams-virtual-meetings/"><u>[Updated] In 2024, How to Optimize Your Team's Virtual Meetings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-to-overcome-hypervisor-related-blue-screen-of-death-errors-on-windows-11-machines/"><u>Complete Guide to Overcome Hypervisor-Related Blue Screen of Death Errors on Windows 11 Machines</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-offers-on-benq-screens-premier-deal-hunts-for-monitor-and-projector-enthusiasts/"><u>Exclusive Offers on BenQ Screens - Premier Deal Hunts for Monitor and Projector Enthusiasts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-resolving-machine-check-exceptions-on-windows-10/"><u>Fixing the Blue Screen of Death: Resolving Machine Check Exceptions on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-multiple-irp-complete-issues-leading-to-a-system-crash-on-windows/"><u>How to Correct the 'Multiple IRP Complete' Issues Leading to a System Crash on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-quick-window-snaps-in-winoses/"><u>In 2024, Quick Window Snaps in WinOSes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-guide-correcting-the-hypervisor-error-induced-blue-screen-of-death-on-your-windows-11-pc/"><u>Master Guide: Correcting the HYPERVISOR ERROR Induced Blue Screen of Death on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcome-the-inaccessible-boot-device-crash-on-win-10-with-easy-picture-tutorials/"><u>Overcome the 'Inaccessible Boot Device' Crash on Win 10 with Easy Picture Tutorials</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-guide-entering-advanced-boot-mode-on-windows-10/"><u>Quick Guide: Entering Advanced Boot Mode on Windows 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-and-analysis-of-sovol-sv08-the-ultimate-voron-inspired-bike/"><u>Review & Analysis of Sovol SV08 - The Ultimate Voron-Inspired Bike</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-window-11-thread-stuck-problems-with-simple-driver-updates/"><u>Solving the Window 11 'Thread Stuck' Problems with Simple Driver Updates</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-repairing-corrupted-fat-files-on-windows-10/"><u>Step-by-Step Solution for Repairing Corrupted FAT Files on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repair-guide-for-kmodeexception-not-handled-in-windows-operating-systems/"><u>Troubleshooting and Repair Guide for kMODE_Exception Not Handled in Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mastering-the-art-of-discovering-elusive-youtube-videos/"><u>2024 Approved Mastering the Art of Discovering Elusive YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-invisible-player-mastering-xbox-one-screenshots/"><u>2024 Approved The Invisible Player Mastering Xbox One Screenshots</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressing-critical-system-malfunctions-a-resolved-guide-for-windows-10-users/"><u>Addressing Critical System Malfunctions: A Resolved Guide for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-kernel-memory-corruption-issues-a-step-by-step-guide/"><u>Diagnosing and Repairing Kernel Memory Corruption Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-for-correcting-acrocefexe-malfunction-on-your-pc/"><u>Easy Solutions for Correcting AcroCEF.exe Malfunction on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/efficient-strategies-to-tackle-unresolved-thread-exception-errors/"><u>Efficient Strategies to Tackle Unresolved Thread Exception Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-steps-to-reach-windows-11s-advanced-boot-menu/"><u>Effortless Steps to Reach Windows 11'S Advanced Boot Menu</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fusing-art-and-technology-crafting-captivating-animation-videos-in-windows-movie-maker-for-2024/"><u>Fusing Art & Technology Crafting Captivating Animation Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-document-your-nintendo-switch-adventures-for-2024/"><u>How to Document Your Nintendo Switch Adventures for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a59-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A59 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-nvidia-gtx-1660-ti-driver-upgrades-to-supercharge-gaming/"><u>Optimize Your NVIDIA GTX ^1660 Ti: Driver Upgrades to Supercharge Gaming</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-challenge-of-unresolved-kmodeexception-in-your-windows-11-or-10-system/"><u>Overcoming the Challenge of Unresolved KMODE_Exception in Your Windows 11 or 10 System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-for-addressing-and-repairing-kernel-data-mishaps/"><u>Tips for Addressing and Repairing Kernel Data Mishaps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-video-schedulers-internal-error-problem/"><u>Troubleshooting and Solving Windows 11 Video Scheduler's Internal Error Problem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-catastrophic-windows-11-crashes-expert-fix-for-event-tracing-issues/"><u>Winning the Battle Against Catastrophic Windows 11 Crashes: Expert Fix for Event Tracing Issues</u></a></li>
 </ul></div>
 

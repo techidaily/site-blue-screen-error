@@ -1,7 +1,7 @@
 ---
 title: Driver Protection Oversight Rectified – No More Blue Screens of Death
-date: 2024-11-17T00:19:36.294Z
-updated: 2024-11-23T16:10:29.242Z
+date: 2024-11-27T04:23:21.044Z
+updated: 2024-12-01T18:31:26.590Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  Many Windows users see a**DRIVER PNP WATCHDOG** error when booting up Windows or running Windows Update, and usually Driver PNP Watchdog happens with a blue screen. The complete error message is: **You PC ran into a problem and needs to restart. We’re just collecting some error info, and then we’ll restart for you. … Stop code: Driver PNP WATCHDOG.**
 
  If you’re one of them, don’t worry. This post puts together the workarounds to fix Driver PNP Watchdog.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-138.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Find an option like**Configure SATA** ,**SATA Mode** or**SATA Configuration** .
 
  6) Change that option to**IDE** ,**ATA** , or**Compatible** .
@@ -76,15 +68,15 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-555.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy and paste the following command into Command Prompt, and press**Enter** .
 
 sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-556.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait for the process to be 100% complete.
 
@@ -121,6 +113,10 @@ To utilize Fortect, all you have to do is:
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Perform a disk check
 
  CHKDSK is a Windows tool that checks the file system metadata of a volume for errors. So if you see the Driver PNP Watchdog error in your computer, running the CHKDSK tool may help scan that issue and fix it.
@@ -139,9 +135,17 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-142.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**Y** in the Command Prompt to confirm that you’d like to perform the disk check next time you restart your computer. Then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-141.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Make sure you’ve closed all the applications and saved your work. Then restart Windows.
 
@@ -154,7 +158,7 @@ chkdsk.exe /f /r
  If so, then congrats. If not, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
@@ -173,19 +177,11 @@ chkdsk.exe /f /r
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-143.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of that driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-144.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer as normal and see if the error disappears.
 
@@ -207,21 +203,17 @@ If your Driver PNP Watchdog error persists, try the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-146.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Advanced options** under the**Troubleshoot** screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-147.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-148.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Follow the on-screen instructions to finish the process.
 
@@ -237,12 +229,16 @@ Now boot into Windows and see if it fixes your problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When you see the**Startup Repair** screen, click**Advanced Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-150.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Troubleshoot** .
@@ -261,6 +257,10 @@ Now boot into Windows and see if it fixes your problem.
 
 Hopefully, Windows repair will scan and fix your error automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Check Volume Shadow Copy service
 
  The Volume Shadow Copy service manages and implements Volume Shadow Copies used for backup and other purposes. If this service isn’t running properly, it can cause problems.
@@ -273,13 +273,13 @@ You should make sure the Volume Shadow Copy service is running properly:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-151.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and double-click**Volume Shadow Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-152.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Make sure the**Startup type** is set to**Automatic** , and the**Service status** is**Running** . Then click**Apply** and**OK** to save your changes.
 
@@ -311,17 +311,16 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-building-brand-identity-with-instagram-video-content-for-2024/"><u>[New] Building Brand Identity with Instagram Video Content for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-guide-to-the-best-free-image-overlay-tools-for-mobile/"><u>[Updated] 2024 Approved Ultimate Guide to the Best Free Image Overlay Tools for Mobile</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-12-proplus-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 12 Pro+ 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-for-correcting-error-message-0x00000cd-the-blue-screen-of-death/"><u>Complete Guide for Correcting Error Message 0X00000CD - The Blue Screen of Death</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-badpoolheader-crashes-on-windows-11/"><u>Effective Solutions to Tackle 'BAD_POOL_HEADER' Crashes on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-inescapable-blue-screen-error-wheauncorrectable/"><u>Resolved: Fixing the Inescapable Blue Screen Error (WHEA_UNCORRECTABLE)</u></a></li>
-<li><a href="https://win-hot.techidaily.com/solucion-al-problema-tu-ordenador-no-es-compatible-con-windows-11-pasos-para-resolver-o-prevenir/"><u>Solución Al Problema: Tu Ordenador No Es Compatible Con Windows 11 - Pasos Para Resolver O Prevenir</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-vsco-editors-handbook-for-2024/"><u>The Ultimate VSCO Editor's Handbook for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-11-highest-ranking-free-image-format-changers-discover-movavi/"><u>Top 11 Highest-Ranking Free Image Format Changers - Discover Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-converting-dvds-into-wmv-format-with-superior-quality-using-windows/"><u>Ultimate Guide: Converting DVDs Into WMV Format with Superior Quality Using Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-windows-blue-screen-with-dxgkrnlsys/"><u>Understanding and Resolving Windows Blue Screen with 'dxgkrnl.sys'</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easy-mastery-of-movie-capturing-from-pc-mac-and-mobile-devices/"><u>[Updated] 2024 Approved Easy Mastery of Movie Capturing From PC, Mac & Mobile Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] 2024 Approved Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-now-team-fortress-2-wont-quit-on-you-mid-game/"><u>Fix Implemented: Now, Team Fortress 2 Won't Quit On You Mid-Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-to-fix-the-bad-pool-header-error-causing-blue-screen-of-death-in-windows-10/"><u>Step-by-Step Solutions to Fix the 'Bad Pool Header' Error Causing Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-premier-rankings-best-general-knowledge-shows/"><u>The Premier Rankings Best General Knowledge Shows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/thyssenkrupp/"><u>ThyssenKrupp</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netwtw04sys-bsod-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting 'Netwtw04.sys' BSOD on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-tdr-failures-the-nvlddmkmsys-crash-explained-windows/"><u>Understanding and Resolving TDR Failures: The nvlddmkm.sys Crash Explained (Windows)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-the-space-race-in-windows-11-free-up-drive-efficiently/"><u>Winning the Space Race in Windows 11 - Free Up Drive Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reveals-secure-your-apples-m2-macbook-air-for-749-on-amazons-exclusive-october-prime-deals/"><u>ZDNet Reveals: Secure Your Apple's M2 MacBook Air for $749 on Amazon's Exclusive October Prime Deals!</u></a></li>
 </ul></div>
 

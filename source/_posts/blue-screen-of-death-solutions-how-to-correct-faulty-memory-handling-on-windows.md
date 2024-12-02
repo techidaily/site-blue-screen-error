@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows"
-date: 2024-11-17T18:41:24.796Z
-updated: 2024-11-23T16:37:00.127Z
+date: 2024-11-27T05:11:52.021Z
+updated: 2024-12-02T03:29:47.227Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0d0b5a268.jpg)
 
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Bad Pool Header Windows 7
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Windows Memory Diagnostic
 
  If you’ve recently made any changes to your computer, say upgrading memory etc., then we might have to run the built-in Windows tool called **Windows Memory Diagnostic**   to help check  our system for memory problems and see if it fixes this **Bad Pool Header** blue screen problem.
@@ -70,15 +78,11 @@ To do so:
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
@@ -93,16 +97,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c0ed1f89.jpg)
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
@@ -111,11 +107,19 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for hardware issues
 
  Turn off and unplug your PC, then remove all of your RAM sticks. Try to power your computer back on with the sticks, ONE BY ONE. If your computer fails to boot with one specific RAM, you know which one is to blame.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check disk errors
 
@@ -132,15 +136,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
@@ -167,22 +167,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-perfect-video-title-generators-for-youtube-for-2024/"><u>[Updated] Perfect Video Title Generators for YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-the-art-of-recording-all-your-hulu-content/"><u>[Updated] Unlock the Art of Recording All Your Hulu Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-experts-guide-to-best-terria-mods/"><u>2024 Approved Expert's Guide to Best Terria Mods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smiles-to-text-where-to-find-amusing-tones/"><u>2024 Approved Smiles to Text Where to Find Amusing Tones?</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-step-by-step-guide-to-setting-your-favorite-images-as-iphone-background-wallpapers/"><u>A Step-by-Step Guide to Setting Your Favorite Images as iPhone Background Wallpapers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-on-windows-11-correct-usb-driver-problem-for-smooth-operation/"><u>Blue Screen of Death on Windows 11? Correct USB Driver Problem for Smooth Operation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bluescreen-of-death-fixing-the-asmtxhcisys-error-on-your-pc/"><u>BlueScreen of Death: Fixing the 'asmtxhci.sys' Error on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-unmountable-boot-volume-bsod-on-windows-10-step-by-step-solutions/"><u>Fixing 'Unmountable Boot Volume' BSOD on Windows 10 - Step by Step Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-solutions-for-video-memory-handling-issues/"><u>Fixing Blue Screen of Death: Solutions for Video Memory Handling Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guaranteed-fixes-for-non-executable-memory-exploits-on-your-pc/"><u>Guaranteed Fixes for Non-Executable Memory Exploits on Your PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-14-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 14 and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-internal-error-issues-with-video-scheduler-on-windows-11-guide/"><u>Resolving Internal Error Issues with Video Scheduler on Windows 11 [Guide]</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/selecting-quality-on-a-shoe-string-10-best-free-lut-picks-for-2024/"><u>Selecting Quality on a Shoe String 10 Best Free LUT Picks for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-inaccessible-boot-device-error-on-windows-11-tips-and-images-included/"><u>Troubleshooting 'Inaccessible Boot Device' Error on Windows 11: Tips and Images Included</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-internal-errors-with-the-video-conferencing-app-in-windows-10/"><u>Troubleshooting and Solving Internal Errors with the Video Conferencing App in Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unraveling-the-mystery-of-gemini-googles-next-gen-ai-initiative/"><u>Unraveling the Mystery of Gemini – Google’s Next-Gen AI Initiative</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-clockwatchdogtimeout-bsod-in-windows-11/"><u>[Solved] CLOCK_WATCHDOG_TIMEOUT BSOD in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-resolve-stop-error-0x00000116-blue-screen/"><u>Effortless Solutions to Resolve Stop Error 0X00000116 Blue Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-hogwarts-legacy-crashes-at-launch-discover-8-effective-solutions/"><u>Fix Hogwarts Legacy Crashes at Launch: Discover 8 Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-setting-windows-11-walls/"><u>Masterclass Setting Windows 11 Walls</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-keep-fallout-4-running-smoothly-on-pc/"><u>Optimizing Performance: Keep Fallout 4 Running Smoothly on PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/successfully-unloading-drivers-while-maintaining-pending-workflow-tasks/"><u>Successfully Unloading Drivers While Maintaining Pending Workflow Tasks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tchibo-ag/"><u>Tchibo AG</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-bsod-crashes-on-windows-10-systems/"><u>Troubleshooting and Repairing 'Bad Pool Header' BSOD Crashes on Windows 10 Systems</u></a></li>
 </ul></div>
 

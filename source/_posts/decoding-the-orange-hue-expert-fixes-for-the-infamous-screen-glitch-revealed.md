@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Orange Hue: Expert Fixes for the Infamous Screen Glitch Revealed"
-date: 2024-10-30T08:26:43.090Z
-updated: 2024-11-03T22:00:39.107Z
+date: 2024-11-25T21:41:05.802Z
+updated: 2024-12-02T00:53:31.594Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -37,42 +41,29 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
@@ -82,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
@@ -89,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -121,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -138,18 +130,19 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevating-your-entertainment-game-on-roku-and-facebook-live/"><u>[New] In 2024, Elevating Your Entertainment Game on Roku and Facebook LIVE</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-deleting-facebook-stories-laptop-and-mobile-guide/"><u>[Updated] In 2024, Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/benevolent-algorithms-is-ai-truly-sensitive-to-human-feelings/"><u>Benevolent Algorithms: Is AI Truly Sensitive to Human Feelings?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bsod-error-caused-by-nvlddmkmsys-in-windows-diagnosis-and-repair-guide/"><u>BSOD Error Caused by nvlddmkm.sys in Windows - Diagnosis & Repair Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-unloaded-without-cancelling-pending-operations-solved/"><u>Driver Unloaded without Cancelling Pending Operations [Solved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-nvlddmkmsys-blue-screen-of-death-on-windows-troubleshooting-steps/"><u>How to Fix the nvlddmkm.sys Blue Screen of Death on Windows - Troubleshooting Steps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-netwtw04sys-stop-code-on-your-pc-running-windows-10/"><u>How to Resolve the 'netwtw04.sys' Stop Code on Your PC Running Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-turn-on-volume-for-anthem-while-playing-on-a-windows-10-device/"><u>How to Turn On Volume for Anthem While Playing on a Windows 10 Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-logitech-brio-webcam-driver-on-windows-7811-free-downloads/"><u>Installing Logitech BRIO Webcam Driver on Windows 7/8/11 - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prepare-for-upgrading-graphics-cards-with-interchangeable-cooling-systems/"><u>Prepare for Upgrading Graphics Cards with Interchangeable Cooling Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scan-et-convertissez-vos-fichiers-mef-facilement-grace-a-la-version-gratuit-donlinescan-par-movavi/"><u>Scan Et Convertissez Vos Fichiers MEF Facilement Grâce À La Version Gratuit D'OnlineScan Par Movavi</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tutorial-overcoming-volsnapsys-errors-the-ultimate-solution-for-windows-users/"><u>Tutorial: Overcoming Volsnap.sys Errors - The Ultimate Solution for Windows Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-apps-for-refining-dji-aerial-footage/"><u>[New] Prime Apps for Refining DJi Aerial Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formula-field-report-game-reviews/"><u>[Updated] FORMULA FIELD REPORT Game Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-following-review-innovative-outlooks/"><u>[Updated] In 2024, Following Review Innovative Outlooks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-tips-for-meme-magic-with-kinemaster/"><u>[Updated] In 2024, Top Tips for Meme Magic with KineMaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-choices-elite-android-call-alerts/"><u>2024 Approved Leading Choices Elite Android Call Alerts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-11-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 11 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/axel-springer-se/"><u>Axel Springer SE</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-transferir-informacion-entre-dos-tabletas-microsoft-surface/"><u>Guía Paso a Paso Para Transferir Información Entre Dos Tabletas Microsoft Surface</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-resolve-the-fat-file-error-on-your-windows-11-pc/"><u>How to Correctly Resolve the FAT File Error on Your Windows 11 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000000a-blue-screen-error/"><u>How to Fix 0X0000000A Blue Screen Error</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-phantom-a-guide-to-backward-video-capture-techniques/"><u>In 2024, Phantom A Guide to Backward Video Capture Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-smart-8-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Smart 8 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/krupp-ag-hoesch-krupp/"><u>Krupp AG Hoesch-Krupp</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today!</u></a></li>
 </ul></div>
 

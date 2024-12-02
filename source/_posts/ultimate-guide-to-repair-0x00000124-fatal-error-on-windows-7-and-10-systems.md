@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repair 0X00000124 Fatal Error on Windows 7 & 10 Systems
-date: 2024-11-18T18:27:11.842Z
-updated: 2024-11-23T17:34:01.812Z
+date: 2024-11-30T20:55:55.326Z
+updated: 2024-12-01T23:09:01.986Z
 tags:
   - win11
   - win10
@@ -50,15 +50,15 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
 
@@ -67,7 +67,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 If the problem persists, move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
@@ -100,29 +100,25 @@ If the problem persists, move on to the next step.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -139,7 +135,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
@@ -147,12 +143,16 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -192,21 +192,18 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-zero-dollars-free-techniques-for-desktop-snaps/"><u>[New] 2024 Approved Zero Dollars Free Techniques for Desktop Snaps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[New] In 2024, From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-efficiently-engaging-with-numerous-youtube-lectures/"><u>[Updated] In 2024, Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
-<li><a href="https://solve-info.techidaily.com/wmaflac/"><u>簡単ガイド: WMA音楽データをFLAC形式にするためのプログラムとオンラインツール</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-steps-correcting-the-notorious-nvpcfsys-blue-screen-error/"><u>Comprehensive Steps: Correcting the Notorious NVPCF.SYS Blue Screen Error</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>In 2024, Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/internal-power-issue-resolved-in-windows-10-fix-guide/"><u>Internal Power Issue Resolved in Windows 10 - Fix Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unleash-the-80s-easy-vhs-effects-for-final-cut-pro-users/"><u>New Unleash the 80S Easy VHS Effects for Final Cut Pro Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-dpc-watchguard-compliance-issue-instantly-with-our-expert-tips/"><u>Resolve DPC Watchguard Compliance Issue Instantly with Our Expert Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-the-critical-process-died-blue-screen-of-death-on-windows-11/"><u>Resolved: How to Fix the 'Critical Process Died' Blue Screen of Death on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-vgksys-system-failure-errors-on-windows-computers/"><u>Step-by-Step Solutions for VGK.SYS System Failure Errors on Windows Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199714649-troubleshooting-and-repairing-bad-pool-header-on-windows-versions-tutorials-available/"><u>Troubleshooting and Repairing 'Bad Pool Header' On Windows Versions - Tutorials Available!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-fixing-the-pfn-list-is-corrupt-problem-and-ending-blue-screen-of-death-bsod-in-windows-10/"><u>Ultimate Guide: Fixing the 'PFN List Is Corrupt' Problem and Ending Blue Screen of Death (BSOD) in Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-maximize-your-videos-the-top-10-free-4k-video-converter-software/"><u>Updated In 2024, Maximize Your Videos The Top 10 Free 4K Video Converter Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-your-spotify-to-youtube-music-library-transition/"><u>[New] In 2024, Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count/"><u>[Updated] Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/asmtxhci-system-malfunction-how-to-correctly-address-the-blue-screen-error-in-windows-os/"><u>ASMTXHCI System Malfunction: How to Correctly Address the Blue Screen Error in Windows OS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xs-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XS Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-win32kfullsys-causing-system-crashes/"><u>How to Troubleshoot and Fix 'Win32kfull.sys' Causing System Crashes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcome-thread-stuck-in-device-driver-error-on-your-windows-nx-system/"><u>Overcome Thread Stuck in Device Driver Error on Your Windows nX System!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-your-purses-expertise-in-haul-videography-for-2024/"><u>Perfecting Your Purses Expertise in Haul Videography for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-windows-7-solved/"><u>SYSTEM SERVICE EXCEPTION Windows 7 [SOLVED]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-critical-criteria-you-need-to-assess-before-relying-on-chatgpt-for-mental-health-care/"><u>The Critical Criteria You Need to Assess Before Relying on ChatGPT for Mental Health Care</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/transforming-reading-experience-the-ultimate-2018-amazon-kindle-paperwhite-review/"><u>Transforming Reading Experience: The Ultimate 2018 Amazon Kindle Paperwhite Review</u></a></li>
 </ul></div>
 

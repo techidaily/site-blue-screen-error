@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide
-date: 2024-10-29T07:29:59.834Z
-updated: 2024-11-03T17:05:21.226Z
+date: 2024-12-01T02:36:05.630Z
+updated: 2024-12-01T16:26:49.683Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -51,10 +44,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -72,6 +62,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 After the testing, Windows will restart automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run System File Checker
 
  The missing or corrupted system file can always cause blue screen error. Run System File Checker to scan and repair the missing or corrupted system files when UNEXPECTED\_KERNEL\_MODE\_TRAP appears.
@@ -81,24 +75,14 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 ### Fix 4: Check for Windows Update
 
@@ -110,16 +94,17 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go on to follow the on-screen instructions to install the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -165,10 +150,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -202,21 +184,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-videosnatch-quality-inspector-for-2024/"><u>[New] VideoSnatch Quality Inspector for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-direct-data-delivery-fast-file-pathways-to-desktop/"><u>[Updated] 2024 Approved Direct Data Delivery Fast File Pathways to Desktop</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>[Updated] 2024 Approved Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>[Updated] In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-camon-30-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Camon 30 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypass-device-driver-glitches-and-unstick-your-windows-11-threads-easily/"><u>Bypass Device Driver Glitches and Unstick Your Windows 11 Threads Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-surprising-insights-can-your-children-identify-these-top-10-obsolete-devices/"><u>Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/extend-your-iphones-lifespan-effective-solutions-for-boosting-battery-performance/"><u>Extend Your iPhone's Lifespan: Effective Solutions for Boosting Battery Performance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-page-fault-error-for-a-smooth-windows-11-experience/"><u>Fixing the 'Page Fault' Error for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-identify-and-correct-deadly-errors-in-windows-11-systems-easily-solved/"><u>How To Identify and Correct Deadly Errors in Windows 11 Systems Easily [SOLVED]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-reinstall-qualcomm-atheros-wireless-network-adapter-driver/"><u>How to Reinstall Qualcomm Atheros Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-the-deadly-critical-process-bsod-mishap-on-windows-11-computers/"><u>Solution Steps for the Deadly Critical Process BSOD Mishap on Windows 11 Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-notorious-bad-pool-header-problem-in-windows-tutorial/"><u>Step-by-Step Fix for the Notorious Bad Pool Header Problem in Windows [TUTORIAL]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-of-permanent-bsod-mastery-over-corrective-whea-mishaps/"><u>Unraveling the Mystery of Permanent BSOD: Mastery over Corrective WHEA Mishaps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-troubleshooting-guide-overcoming-critical-service-bsod-errors-successfully/"><u>Windows 11 Troubleshooting Guide: Overcoming CRITICAL SERVICE BSOD Errors Successfully</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-slim-storage-cloud-cost-insights/"><u>[Updated] Secure & Slim Storage Cloud Cost Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-win-10-free-screencast-recorders-ranked-and-updated-list/"><u>2024 Approved Win 10 Free Screencast Recorders Ranked & Updated List</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/win32/"><u>処理終了：エラー無くWin32レジストリのバックアップ専用ロックを確保する方法</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-bsod-error-related-to-netwtw10sys-on-windows-systems/"><u>Diagnosing and Solving BSoD Error Related to Netwtw10.sys on Windows Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-fix-for-dpc-watchguard-alert-resolve-the-compliance-mistake-swiftly/"><u>Effortless Fix for DPC Watchguard Alert: Resolve the Compliance Mistake Swiftly!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-next-great-read-5-cutting-edge-ai-recommendation-services-for-books/"><u>Find Your Next Great Read: 5 Cutting-Edge AI Recommendation Services for Books</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-guide-overcoming-write-to-read-only-memory-error-on-windows-blue-screens/"><u>Fix Guide: Overcoming 'Write to Read-Only Memory' Error on Windows Blue Screens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-critical-stop-error-vgksys-on-your-pc/"><u>How to Resolve the Critical Stop Error (VGK.SYS) on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-90-gt-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 90 GT Phones with/without a PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-popularity-in-stock-images-and-stories/"><u>In 2024, The Power of Popularity in Stock Images & Stories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/io-manager-compatibility-patched-to-prevent-driver-verifier-mismatches/"><u>IO Manager Compatibility Patched to Prevent Driver Verifier Mismatches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-profits-a-guide-to-gpt-in-crypto-markets/"><u>Maximizing Profits: A Guide to GPT in Crypto Markets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-x90s-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo X90S Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-windows-default-video-chipset/"><u>Removing Windows' Default Video Chipset</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-ndis-driver-bug-fix-and-troubleshooting-steps/"><u>Resolve NDIS Driver Bug: Fix and Troubleshooting Steps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-ntfssys-blue-screen-of-death-on-windows-11/"><u>Solving the ntfs.sys Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/success-story-eliminating-the-perilous-pnpdetected-error-from-my-windows-1-10-pc/"><u>Success Story: Eliminating the Perilous ‘PNP_Detected’ Error From My Windows 1지표 10 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a18-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A18 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-security-flaw-preventing-nx-data-execution-breach/"><u>Windows Security Flaw: Preventing NX Data Execution Breach</u></a></li>
 </ul></div>
 

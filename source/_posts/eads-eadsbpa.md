@@ -1,7 +1,7 @@
 ---
 title: EADS EADSB.PA
-date: 2024-10-28T07:35:47.937Z
-updated: 2024-11-03T16:37:40.167Z
+date: 2024-11-24T18:10:48.564Z
+updated: 2024-12-01T20:05:52.500Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Update all your available drivers
 
  Many blue screen errors are blamed on  outdated, corrupted or missing device drivers. BAD\_SYSTEM\_CONFIG\_INFO is no exception. Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Fix your BCD file
 
  This error could be also caused by the damaged BCD (Boot Configuration Data) file . So if your Win 10 can’t enter safe mode to fix the error, be sure to try to fix the BCD file.
@@ -75,29 +61,35 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-43-48.jpg)
 3. Click **Repair your computer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **bootrec /repairbcd**  
  **bootrec /osscan**  
@@ -156,16 +148,22 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-captivate-viewers-strategies-for-viral-video-success-for-2024/"><u>[New] Captivate Viewers Strategies for Viral Video Success for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-critique-free2x-app-for-webcam-capture-for-2024/"><u>[New] Critique Free2X App for Webcam Capture for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-playlist-conversion-5-preferred-tools-for-youtube-streams/"><u>[New] Mastering Playlist Conversion 5 Preferred Tools for YouTube Streams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-what-makes-a-viral-video-the-tiktok-twitter-link/"><u>2024 Approved What Makes a Viral Video The TikTok-Twitter Link</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/essential-tips-for-troubleshooting-and-correcting-blue-screen-kernel-mode-traps/"><u>Essential Tips for Troubleshooting and Correcting Blue Screen Kernel Mode Traps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-addressing-and-correcting-kernel-check-errors-on-windows-11-systems/"><u>Guide: Addressing and Correcting Kernel Check Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/logitechs-high-end-webcam-an-all-inclusive-review/"><u>Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revamp-your-win-11-interface-download-the-15-most-amazing-free-themes-today/"><u>Revamp Your Win 11 Interface: Download the 15 Most Amazing Free Themes Today</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-bsod-caused-by-internal-video-memory-management-errors/"><u>Understanding and Fixing BSOD Caused by Internal Video Memory Management Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-windows-11-blue-screen-error-solved/"><u>UNMOUNTABLE_BOOT_VOLUME Windows 11 Blue Screen Error [Solved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winodrs-sys-blue-screen-understanding-and-correcting-wdf01000-problems/"><u>Winodrs SYS Blue Screen - Understanding and Correcting 'WDF01000' Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastery-of-digital-recording-step-by-step-insight/"><u>[New] 2024 Approved Mastery of Digital Recording - Step-by-Step Insight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-content-creation-battleground-choosing-between-vimeo-youtube-dailymotion-for-2024/"><u>[New] Content Creation Battleground Choosing Between Vimeo, YouTube, DailyMotion for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-frugal-filmmaking-top-camera-deals/"><u>[New] Frugal Filmmaking Top Camera Deals</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>2024 Approved The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/aviary-creator-searching-for-affordable-filters-for-2024/"><u>Aviary Creator Searching for Affordable Filters for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-s17e-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo S17e</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/breeze-through-the-resolution-of-stop-code-0x00000116-on-your-pc/"><u>Breeze Through the Resolution of Stop Code 0X00000116 on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decoding-and-repairing-critical-nmihardwarefailure-bsod-windows-bug-successfully-explained/"><u>Decoding and Repairing Critical NMI_HARDWARE_FAILURE BSOD Windows Bug Successfully Explained</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-netwtw04sys-blue-screen-of-death-in-windows-10-systems/"><u>Diagnosing and Fixing Netwtw04.sys Blue Screen of Death in Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diy-solutions-for-dealing-with-system-pte-error-induced-blue-screen-problems/"><u>DIY Solutions for Dealing with System PTE Error-Induced Blue Screen Problems</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/driving-online-engagement-with-advanced-cookiebot-technology-solutions/"><u>Driving Online Engagement with Advanced Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/easy-tutorial-how-to-securely-backup-and-recover-unifi-configurations-on-pc/"><u>Easy Tutorial: How to Securely Backup & Recover UniFi Configurations on PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-crucial-system-integrity-faults-in-windows-11-now-solved/"><u>Overcoming Crucial System Integrity Faults in Windows 11 - Now Solved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-unbootable-windows-10-error-a-step-by-step-guide-with-images/"><u>Solving the Unbootable Windows 10 Error: A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-step-by-step-process-to-permanently-remove-your-yahoo-email/"><u>The Ultimate Guide: Step-by-Step Process to Permanently Remove Your Yahoo Email</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-correcting-blue-screen-error-apc-index-mismatch/"><u>Troubleshooting Steps for Correcting 'Blue Screen Error - APC Index Mismatch'</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-defense-update-eliminating-noexecute-memory-compromise-risks/"><u>Windows Defense Update: Eliminating NoExecute Memory Compromise Risks</u></a></li>
 </ul></div>
 

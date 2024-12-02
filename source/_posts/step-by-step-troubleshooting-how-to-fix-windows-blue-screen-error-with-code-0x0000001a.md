@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2024-11-22T17:06:15.480Z
-updated: 2024-11-23T18:53:17.898Z
+date: 2024-11-30T18:15:18.174Z
+updated: 2024-12-02T02:04:42.098Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1\. Undo recent changes**
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** .
@@ -69,17 +65,21 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -130,22 +130,24 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-11/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-youtube-money-calculators-calculate-youtube-money/"><u>[Updated] Free YouTube Money Calculators-Calculate YouTube Money</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-perfect-synergy-discover-5-superior-webcams-with-sound-tech/"><u>[Updated] In 2024, Perfect Synergy Discover 5 Superior Webcams with Sound Tech</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-solution-how-to-stop-windows-7-from-frequent-freezing-full-step-by-step-tutorial/"><u>Complete Solution: How to Stop Windows 7 From Frequent Freezing - Full Step-by-Step Tutorial</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-when-key-services-trigger-blue-screen-of-death-in-windows-11/"><u>Effective Solutions for When Key Services Trigger Blue Screen of Death in Windows 11</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/enhancing-process-analytics-the-strategic-alliance-of-alteryx-and-abbyy/"><u>Enhancing Process Analytics: The Strategic Alliance of Alteryx & ABBYY</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/re-the-10-most-inspiring-youtube-makeup-vloggers-ever/"><u>Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x0000001e-bsod-blue-screen-of-death-on-windows/"><u>Fixing the 0X0000001E BSOD (Blue Screen of Death) on Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntkrnlmpexe-bsod-comprehensive-troubleshooting-guide/"><u>Fixing the Notorious ntkrnlmp.exe BSOD: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>In 2024, Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts/"><u>In 2024, Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts</u></a></li>
-<li><a href="https://facebook.techidaily.com/limiting-virtual-connections-a-strategy-for-productivity-enhancement/"><u>Limiting Virtual Connections: A Strategy for Productivity Enhancement</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-windows-blue-screen-of-death-fixing-watchdogsys-crashes/"><u>Overcoming Windows Blue Screen of Death: Fixing watchdog.sys Crashes</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-making-your-white-backgrounds-invisible/"><u>Step-by-Step Guide: Making Your White Backgrounds Invisible</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-netwtw04sys-bsod-error-in-windows-10/"><u>Troubleshooting the 'Netwtw04.sys' BSOD Error in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-nonfunctioning-mic-on-your-sennheiser-game-one-tips-and-fixes/"><u>Troubleshooting the Nonfunctioning Mic on Your Sennheiser Game One - Tips and Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-system-service-exception-error-solution-step-by-step-guide-to-fix-it-now/"><u>Windows 7 'System Service Exception' Error [SOLUTION]: Step-by-Step Guide to Fix It Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[New] 2024 Approved Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-hdr-mastery-for-home-and-professional-pcs/"><u>[New] 2024 Approved HDR Mastery for Home and Professional PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banishing-your-windows-10-video-glitches-the-complete-fix-guide-for-the-pesky-atikmpagsys-errors/"><u>Banishing Your Windows 10 Video Glitches: The Complete Fix Guide for the Pesky atikmpag.sys Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-tutorial-to-repair-blue-screen-of-death-caused-by-video-dxgkrnl-driver-in-windows-11/"><u>Complete Tutorial to Repair Blue Screen of Death Caused by Video Dxgkrnl Driver in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/essential-methods-correcting-critical-system-failures-bsod-in-windows-10/"><u>Essential Methods: Correcting Critical System Failures (BSOD) in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-blue-screen-of-death-with-error-code-0x00000050-on-windows-eeprom/"><u>How to Fix the Blue Screen of Death with Error Code 0X00000050 on Windows Eeprom</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-storahcisys-crashes-on-your-pc/"><u>How to Resolve Storahci.sys Crashes on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y28 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photopony-pro-exploring-affordable-filters/"><u>In 2024, PhotoPony Pro Exploring Affordable Filters</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-windowsmac-securely-download-facebook-media/"><u>In 2024, Windows/Mac Securely Download Facebook Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/of-the-apple-watch-series-4-for-potential-buyers/"><u>Of the Apple Watch Series 4 for Potential Buyers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199736858-quick-and-easy-repairs-for-0x000000d1-error-say-goodbye-to-blue-screens/"><u>Quick and Easy Repairs for 0X000000D1 Error, Say Goodbye to Blue Screens!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-risks-of-shadowing-online-profiles/"><u>The Hidden Risks of Shadowing Online Profiles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-leading-microsoft-enterprise-apps-of-2022-for-iphone-and-ipad-expert-picks/"><u>Top 10 Leading Microsoft Enterprise Apps of 2022 for iPhone & iPad - Expert Picks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/trouble-free-tips-for-reaching-win-11s-boot-recovery-environment-and-more/"><u>Trouble-Free Tips for Reaching Win 11’S Boot Recovery Environment and More</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-system-failures-a-guide-to-fixing-watchdogsys-bluescreens/"><u>Troubleshooting Critical System Failures: A Guide to Fixing Watchdog.sys Bluescreens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-7-system-service-exception/"><u>Windows 7에서 'System Service Exception' 문제 해결 - 사용자가 될 수 있는 솔루션</u></a></li>
 </ul></div>
 

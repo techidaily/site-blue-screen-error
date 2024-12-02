@@ -1,7 +1,7 @@
 ---
 title: Eliminating BSOD Errors Caused by Inadequate Memory Management in Windows 10 & 11
-date: 2024-11-01T23:58:26.449Z
-updated: 2024-11-04T05:20:30.863Z
+date: 2024-11-28T20:52:22.053Z
+updated: 2024-12-01T20:48:41.633Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -65,35 +77,22 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
- 4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
 ## **Solution 3\. Update your drivers**
 
@@ -117,14 +116,11 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
- 4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
 
@@ -162,18 +158,20 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>[New] The Alchemy of Aesthetics Top 1 Written by an Experienced Graphic Designer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>2024 Approved Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-the-deadly-pnpdetectedfatalerror-in-windows-10-environments/"><u>Diagnosing and Resolving the Deadly 'PNP_Detected_Fatal_Error' In Windows 10 Environments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/goofy-unleashed-the-movie-an-examination/"><u>Goofy Unleashed The Movie – An Examination</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-download-3dconnexion-drivers/"><u>How to Download 3Dconnexion Drivers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-high-quality-discord-chats-for-2024/"><u>How to Record High-Quality Discord Chats for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-xpvista710-blue-screen-crash-caused-by-tcpipsys/"><u>How to Resolve Windows XP/Vista/7/10 Blue Screen Crash Caused by 'tcpip.sys'</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-igdkmd64sys-error-leading-to-blue-screen-in-windows-10-easy-fixes-revealed/"><u>How to Stop the igdkmd64.sys Error Leading to Blue Screen in Windows 10 - Easy Fixes Revealed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-multimedia-adding-apple-music-to-videos/"><u>Mastering Multimedia Adding Apple Music to Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11-video-tdr-issues-atikmpagsys-error-explained-and-solved/"><u>Resolving Windows 11 Video TDR Issues: atikmpag.sys Error Explained & Solved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/solving-playback-timing-problems-fixing-offset-sound-on-digitized-video-files/"><u>Solving Playback Timing Problems: Fixing Offset Sound on Digitized Video Files</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-s17-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channeling-wealth-through-beauty-online-platforms/"><u>[New] In 2024, Channeling Wealth Through Beauty Online Platforms</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/abc-news-clips-fetcher-easily-grab-videos-from-abcnewsgocom/"><u>ABC News Clips Fetcher - Easily Grab Videos From ABCNews.Go.Com</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-the-notorious-ntfs-file-system-complications-in-windows-11-devices/"><u>Effective Fixes for the Notorious NTFS File System Complications in Windows 11 Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/error-code-decoded-understanding-and-fixing-stop-0x00000am-a/"><u>Error Code Decoded - Understanding and Fixing Stop 0X00000am A</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/error-elimination-handling-the-infamous-blue-screen-and-apc-index-mismatch/"><u>Error Elimination: Handling the Infamous Blue Screen and APC Index Mismatch</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-solutions-to-overcome-ntfs-storage-problems-in-windows-10/"><u>Expert Solutions to Overcome NTFS Storage Problems in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-triggering-windows-11-startup-repair-effortlessly/"><u>Expert Tips for Triggering Windows 11 Startup Repair Effortlessly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-the-tdr-failure-in-windows-nk-caused-by-atikmpagsys/"><u>Guide to Correcting the TDR Failure in Windows Nk Caused by atikmpag.sys</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-micro-focusing-in-virtual-gatherings/"><u>In 2024, Master the Art of Micro-Focusing in Virtual Gatherings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trampas-comunes-y-facil-recuperacion-supera-el-error-del-99-durante-la-configuracion-de-windows-11/"><u>Trampas Comunes Y Fácil Recuperación: Supera El Error Del 99% Durante La Configuración De Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-the-windows-7-blue-screen-error/"><u>Ultimate Guide: Resolving the Windows 7 'Blue Screen' Error</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nubia Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-online-video-editing-for-free-the-top-options-compared/"><u>Updated Online Video Editing for Free The Top Options Compared</u></a></li>
 </ul></div>
 

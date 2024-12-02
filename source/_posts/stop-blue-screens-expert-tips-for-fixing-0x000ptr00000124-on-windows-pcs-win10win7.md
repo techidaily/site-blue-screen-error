@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)"
-date: 2024-11-02T22:45:46.169Z
-updated: 2024-11-03T16:05:20.505Z
+date: 2024-12-01T01:54:31.081Z
+updated: 2024-12-01T23:28:30.926Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  Don’t panic. Usually this is a driver issue, and it’s easy to solve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Reinstall your graphic card driver](https://tools.techidaily.com/drivereasy/download/)
@@ -33,25 +37,15 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -67,6 +61,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -92,13 +90,6 @@ Then Windows will search the update for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Disable & Reset Driver Verifier
 
  If unluckily after solving the driver problems, the error still occur, try to disable and reset the Driver Verifier on your Windows 10\.
@@ -115,10 +106,7 @@ You need to do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
@@ -126,16 +114,7 @@ You need to do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
@@ -170,20 +149,17 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-youtube-video-quality-minimize-distractions-for-2024/"><u>[New] Elevate YouTube Video Quality, Minimize Distractions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-a-hit-list-youtubes-way-for-fans/"><u>[New] In 2024, Crafting a Hit-List Youtube's Way for Fans</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streaming-success-enter-the-500-sub-club-for-profit/"><u>[Updated] 2024 Approved Streaming Success Enter the 500-Sub Club for Profit</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/3-metodos-faciles-para-rescatar-perfiles-de-administrador-borrados-en-windows-11/"><u>3 Métodos Fáciles Para Rescatar Perfiles De Administrador Borrados en Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-ntoskrnlexe-crashes-and-netiosys-blue-screens-in-windows/"><u>Comprehensive Fixes to Address ntoskrnl.exe Crashes and NETIO.SYS Blue Screens in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-snapchats-emoji-language-an-essential-how-to-guide/"><u>Deciphering Snapchat's Emoji Language: An Essential How-To Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-storahcisys-and-windows-blue-screen-of-death-bsod/"><u>Effective Fixes for Storahci.sys and Windows Blue Screen of Death (BSOD)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-guide-fix-the-kernel-mode-violation-error-from-inadequate-memory-handling-in-windows-11/"><u>Expert Guide: Fix the Kernel-Mode Violation Error From Inadequate Memory Handling in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fixing-bsod-defeating-the-0x00000050-error-on-windows-operating-system/"><u>Step-by-Step Guide to Fixing BSOD - Defeating the 0X00000050 Error on Windows Operating System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-selection-of-sample-size-and-frequency-in-spc-should-balance-representativeness-with-resource-efficiency/"><u>The Selection of Sample Size and Frequency in SPC Should Balance Representativeness with Resource Efficiency.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-win32kfullsys-error-for-a-smooth-computing-experience/"><u>Troubleshooting the win32kFull.sys Error for a Smooth Computing Experience</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-the-win32kfullsys-crash-on-windows-pcs/"><u>Understanding and Solving the win32kfull.sys Crash on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-are-reviews-on-merchandise-streamed-for-cash/"><u>[New] Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elite-5-non-twitter-channels-online/"><u>[New] In 2024, Elite 5 Non-Twitter Channels Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-the-top-5-youtube-link-reducers/"><u>2024 Approved The Ultimate Guide to the Top 5 YouTube Link Reducers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-for-troubleshooting-video-tdr-malfunctions-caused-by-atikmpagsys-in-windows-10/"><u>Effective Strategies for Troubleshooting Video TDR Malfunctions Caused by atikmpag.sys in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/efficient-fixes-resolve-hidclasssys-errors-in-no-time/"><u>Efficient Fixes: Resolve HIDCLASS.SYS Errors in No Time!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/expert-guide-taming-volume-levels-and-fine-tuning-audio-tracks-within-adobe-premiere-pro/"><u>Expert Guide: Taming Volume Levels and Fine-Tuning Audio Tracks Within Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/figure-skating-highlights-2022-winter-olympics/"><u>Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hideous-heroes-black-vs-gleaming-guardians-silver/"><u>Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-seamlessly-reach-advanced-boot-features-in-windows-10/"><u>How to Seamlessly Reach Advanced Boot Features in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-unexpected-shutdowns-from-watchdogsys-errors-a-step-by-step-guide/"><u>How to Stop Unexpected Shutdowns From watchdog.sys Errors - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-selection-of-best-apple-band-straps-thoroughly-tested-and-reviewed/"><u>Ultimate Selection of Best Apple Band Straps - Thoroughly Tested & Reviewed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-bsod-caused-by-usb-drivers-in-windows-11-expert-tips-and-tricks/"><u>Winning the Battle Against BSOD Caused by USB Drivers in Windows 11 – Expert Tips and Tricks</u></a></li>
 </ul></div>
 

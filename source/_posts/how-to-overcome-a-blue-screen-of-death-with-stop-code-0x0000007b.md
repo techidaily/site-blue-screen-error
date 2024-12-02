@@ -1,7 +1,7 @@
 ---
 title: How to Overcome a Blue Screen of Death with STOP Code 0X0000007B
-date: 2024-10-31T17:42:36.575Z
-updated: 2024-11-04T06:52:32.894Z
+date: 2024-11-30T03:17:34.087Z
+updated: 2024-12-01T18:53:14.535Z
 tags:
   - win11
   - win10
@@ -38,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2\. Rum Memory Diagnose and Disk Check**
@@ -50,19 +47,14 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** .
@@ -70,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
@@ -83,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
@@ -121,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -144,22 +130,20 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-winning-scenarios-prime-video-recording-software-for-windows-for-2024/"><u>[Updated] Winning Scenarios Prime Video Recording Software for Windows for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sonic-scenes-from-still-shots/"><u>2024 Approved Sonic Scenes From Still Shots</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268088292-access-free-tools-for-fixing-broken-pictures-professional-photo-repair-software-downloads/"><u>Access Free Tools for Fixing Broken Pictures: Professional Photo Repair Software Downloads.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bust-the-code-tackling-and-correcting-internal-power-failure-in-windows-10/"><u>Bust the Code: Tackling and Correcting Internal Power Failure in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-resolving-the-blue-screen-of-death-on-windows-10/"><u>Effective Solutions for Resolving the 'Blue Screen of Death' On Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hochtief-ag/"><u>Hochtief AG</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-in-film-craft-advanced-kinemaster-strategies/"><u>In 2024, Precision in Film Craft Advanced Kinemaster Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/joyful-journeys-in-cinema-summers-top-10-for-families-for-2024/"><u>Joyful Journeys in Cinema Summer's Top 10 for Families for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-kernel-security-check-exceptions-on-windows-11/"><u>Resolved: How to Fix Kernel Security Check Exceptions on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-0x00000019-bad-pool-header-issue-in-windows-operating-systems/"><u>Resolving the '0X00000019: Bad Pool Header' Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-windows-11-bsod-caused-by-netwtw04sys-steps-and-tips/"><u>Solving Windows 11 BSOD Caused by Netwtw04.sys: Steps and Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-poco-x6-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Poco X6 Phone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-nmi-hardware-malfunction-causing-system-crashes/"><u>Troubleshooting and Fixing NMI Hardware Malfunction Causing System Crashes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-critical-process-failure-error-leading-to-bsod-in-win11/"><u>Understanding and Repairing the Critical Process Failure Error Leading to BSoD in Win11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-skype-voice-changer-useful-tools-to-change-voice-for-skype/"><u>Updated In 2024, Skype Voice Changer Useful Tools to Change Voice for Skype</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] In 2024, Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earning-through-youtube-partnerships-for-2024/"><u>[Updated] Earning Through YouTube Partnerships for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-social-media-30-top-tier-tiktok-nicknames-for-2024/"><u>[Updated] Mastering Social Media 30 Top-Tier TikTok Nicknames for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-winter-olympics-2022-highlights/"><u>2024 Approved Winter Olympics 2022 Highlights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/astm-e4n9-provides-a-standardized-approach-for-calibrating-measurement-tools-in-the-us/"><u>ASTM E4n9 Provides a Standardized Approach for Calibrating Measurement Tools in the US.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banishing-the-bluish-bluescreen-comprehensive-fixes-for-your-apc-index-mismatch-issue/"><u>Banishing the Bluish Bluescreen – Comprehensive Fixes for Your APC Index Mismatch Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-lava-yuva-3-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Lava Yuva 3 Pro Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-thriving-in-the-digital-world-multiplatform-studio-strategies/"><u>In 2024, Thriving in the Digital World Multiplatform Studio Strategies</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/microsoft-security-conference-can-expert-talks-avert-a-future-worldwide-tech-crisis-insights-from-zdnet/"><u>Microsoft Security Conference: Can Expert Talks Avert a Future Worldwide Tech Crisis? Insights From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-ntoskrnlexe-blue-screen-issue-a-guide-for-windows-users/"><u>Resolving the ntoskrnl.exe Blue Screen Issue: A Guide for Windows Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secrets-to-updating-your-facebook-banner-for-2024/"><u>Secrets to Updating Your Facebook Banner for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-acpisys-issues-a-comprehensive-tutorial-for-windows-11-users/"><u>Solving acpi.sys Issues: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-persistent-blue-screen-of-death-in-windows-11-after-updates/"><u>Solving the Persistent 'Blue Screen of Death' In Windows 11 After Updates</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-system-pte-misuse-and-bsod-a-comprehensive-guide/"><u>Solving the SYSTEM PTE Misuse & BSOD: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-scheduler-internal-error-on-windows-11-solved/"><u>Video Scheduler Internal Error on Windows 11 [Solved]</u></a></li>
 </ul></div>
 

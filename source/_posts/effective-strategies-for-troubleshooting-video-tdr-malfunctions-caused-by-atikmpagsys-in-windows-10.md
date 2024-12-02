@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Troubleshooting Video TDR Malfunctions Caused by atikmpag.sys in Windows 10
-date: 2024-11-20T22:03:07.869Z
-updated: 2024-11-24T00:48:33.206Z
+date: 2024-11-29T19:13:15.325Z
+updated: 2024-12-01T18:55:22.152Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 
  If you’re seeing a blue screen of death with the error message_**Bad\_Pool\_Caller**_ popping up on your screen, stopping you from doing anything, you’re not alone.Many Windows 10 users are reporting this problem as well. But no need for you to worry sick about it, it’s possible to fix. Here are[**4 solutions**](https://tools.techidaily.com/drivereasy/download/) for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **What is Bad\_Pool\_Caller blue screen of death error?**
 
 According to Microsoft,
@@ -32,6 +28,10 @@ According to Microsoft,
 > The_**BAD\_POOL\_CALLER**_ bug check has a value of**0x000000C2** . This indicates that the current thread is making a bad pool request.
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -45,6 +45,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 [**Other options**](https://tools.techidaily.com/drivereasy/download/)
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **First Thing First**
 
@@ -60,15 +64,15 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -88,19 +92,11 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
 
@@ -109,17 +105,21 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
@@ -146,13 +146,13 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -192,24 +192,19 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-10-proven-steps-to-skyrocket-traffic-via-facebook-videos/"><u>[New] 10 Proven Steps to Skyrocket Traffic via Facebook Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-hasty-handlings-of-slideshow-documentation-for-2024/"><u>[New] Hasty Handlings of Slideshow Documentation for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-aquatic-quest-enhanced-the-best-cameras-reviewed-here/"><u>[Updated] Aquatic Quest Enhanced The Best Cameras Reviewed Here</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-social-media-shifts-yearly-data-visualization-guide/"><u>[Updated] In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quickcapture-simplified-windows-screen-record/"><u>[Updated] QuickCapture Simplified Windows Screen Record</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728463731650-windows-1110/"><u>备份及恢复Windows 11/10上重磚后的操作数据：详解方法</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199738532-choosing-the-appropriate-type-of-spc-chart-is-critical-depending-on-the-data-variables-or-attributes-being-analyzed/"><u>Choosing the Appropriate Type of SPC Chart Is Critical Depending on the Data (Variables or Attributes) Being Analyzed.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-strategies-for-recording-online-classes/"><u>Cutting-Edge Strategies for Recording Online Classes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-internal-power-error-in-windows-10-complete-guide/"><u>Fixing the 'Internal Power Error' In Windows 10 - Complete Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-service-stop-error-bsod-in-windows-10/"><u>Fixing the Critical Service Stop Error (BSOD) in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-kernel-security-check-violation-issues-in-windows-10/"><u>How to Fix Kernel Security Check Violation Issues in Windows 10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-integrating-youtube-into-your-imovie-projects/"><u>In 2024, Integrating YouTube Into Your iMovie Projects</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/kernel-security-check-failure-in-windows-11-fixed/"><u>Kernel Security Check Failure in Windows 11 [Fixed]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimizing-videos-for-mobile-viewing-and-sharing-on-platforms-like-youtube-and-via-email/"><u>Optimizing Videos for Mobile Viewing and Sharing on Platforms Like YouTube & Via Email</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-mystery-of-0x0000000a-bsod-your-ultimate-fixing-manual/"><u>Solving the Mystery of 0X0000000A BSOD – Your Ultimate Fixing Manual</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-tech-credentials-for-every-professional-phase-expert-picks-by-zdnet/"><u>Top Tech Credentials for Every Professional Phase: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-ntfssys-failure-in-windows-11-bsod/"><u>Troubleshooting and Resolving ntfs.sys Failure in Windows 11 BSOD</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-the-blue-screen-apc-index-mismatch-issue/"><u>Troubleshooting Guide: Fixing the Blue Screen 'APC Index Mismatch' Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-fixes-for-windows-10s-post-upgrade-crash-scenario/"><u>Troubleshooting the Fixes for Windows 10'S Post-Upgrade Crash Scenario</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-15-diy-music-production-tutorial-videos-for-home-studios-for-2024/"><u>[Updated] 15 DIY Music Production Tutorial Videos for Home Studios for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>2024 Approved Mastering Zoom on Windows 10 A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-manually-installing-windows-hardware-drivers-without-connectivity/"><u>Complete Guide to Manually Installing Windows Hardware Drivers Without Connectivity</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-hal-initialization-failed-error-in-windows-11-expert-tips-and-tricks/"><u>How to Overcome 'Hal Initialization Failed' Error in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-s23plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on S23+</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-collabcanvas-pro-instagram-video-mosaics-unite/"><u>In 2024, CollabCanvas Pro Instagram Video Mosaics Unite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-step-by-step-record-and-save-facebook-chats-effectively/"><u>In 2024, Step-By-Step Record and Save Facebook Chats Effectively</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-classpnpsys-error-resolution-for-a-smooth-experience-on-windows-117-systems/"><u>Mastering CLASSPNP.SYS Error Resolution for a Smooth Experience on Windows 11/7 Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-gpu-crashes-while-preserving-computer-uptime/"><u>Preventing GPU Crashes While Preserving Computer Uptime</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-choice-8-best-news-and-reviews-for-gamers/"><u>Prime Choice: 8 Best News & Reviews for Gamers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199745004-proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-glitch-in-windows-10-a-comprehensive-fix-guide/"><u>Resolving the 'Bad Pool Caller' Glitch in Windows 10: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-found-correcting-the-critical-system-error-0xc00-0000017-in-windows/"><u>SOLUTION FOUND: Correcting the Critical System Error 0Xc00지 0000017 in Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-and-youtube-the-ultimate-showdown-for-2024/"><u>Vimeo and YouTube The Ultimate Showdown for 2024</u></a></li>
 </ul></div>
 

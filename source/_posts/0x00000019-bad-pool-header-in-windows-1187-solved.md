@@ -1,7 +1,7 @@
 ---
 title: 0X00000019 Bad Pool Header in Windows 11/8/7 [SOLVED]
-date: 2024-11-01T03:39:40.889Z
-updated: 2024-11-04T06:22:34.078Z
+date: 2024-11-26T01:22:20.362Z
+updated: 2024-12-02T04:57:52.851Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
@@ -41,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
@@ -53,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -73,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -103,13 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
@@ -121,10 +123,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
@@ -132,10 +131,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
@@ -162,14 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-watchdogsys-blue-screen-errors-bsod/"><u>[Solved] Watchdog.sys Blue Screen Errors (BSOD)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[Updated] In 2024, Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance-for-2024/"><u>[Updated] Navigating Video Aspects on YouTube Perfect Size & Quality Balance for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-woes-correct-system-pte-mismanagement-easily/"><u>Blue Screen Woes? Correct SYSTEM PTE Mismanagement Easily!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-review-on-apples-newest-streaming-device-apple-tv-hd-series-3-4k/"><u>Expert Review on Apple's Newest Streaming Device - Apple TV HD Series 3 4K</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Without Password?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-thread-stuck-and-device-driver-issues-in-windows-11-with-simple-solutions/"><u>Resolve 'Thread Stuck' And Device Driver Issues in Windows 11 with Simple Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-video-driver-issues-solving-the-tdr-failure-with-atikmpagsys-on-windows-11/"><u>Troubleshooting Video Driver Issues: Solving the TDR Failure with atikmpag.sys on Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/visual-ventures-free-themes-to-elevate-your-channel/"><u>Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-seamless-video-editing-on-windows-11-platform/"><u>[New] Seamless Video Editing on Windows 11 Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>[Updated] In 2024, Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-seamless-video-editing-in-windows-10-without-expensive-software/"><u>2024 Approved Seamless Video Editing in Windows 10 Without Expensive Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-note-30-vip-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-clock-watchdog-timeout-error-and-blue-screen-on-windows-10/"><u>Fixing the Clock Watchdog Timeout Error & Blue Screen on Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-a05s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-page-fault-in-nonpaged-area-on-windows-10-systems/"><u>How to Fix 'Page Fault in Nonpaged Area' On Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-your-pc-from-freezing-with-a-memory-leak-blue-screen-in-win11/"><u>How to Stop Your PC From Freezing with a Memory Leak Blue Screen in Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-resolve-hal-setup-errors-during-startup-on-windows-11/"><u>How to Successfully Resolve HAL Setup Errors During Startup on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-14-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 14 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/nvlddmkmsys-bsod-on-windows-systems-solving-video-driver-issues-and-preventing-failures/"><u>nvlddmkm.sys BSoD on Windows Systems: Solving Video Driver Issues and Preventing Failures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-open-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Open</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolution-steps-for-blue-screen-of-death-read-only-memory-write-error/"><u>Resolution Steps for Blue Screen of Death - Read-Only Memory Write Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-resolve-syntpsys-blue-screen-errors-in-windows-systems/"><u>Troubleshoot and Resolve SYNTP.SYS 'Blue Screen' Errors in Windows Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-eliminating-the-dxgkrnlsys-blue-screen-of-death/"><u>Troubleshooting Tips: Eliminating the 'dxgkrnl.sys' Blue Screen of Death</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-asus-vg248qe-monitor-on-windows-easy-download-and-setup-instructions/"><u>Update Your Asus VG248QE Monitor on Windows: Easy Download and Setup Instructions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/visual-storytelling-through-photomosaics/"><u>Visual Storytelling Through Photomosaics</u></a></li>
 </ul></div>
 

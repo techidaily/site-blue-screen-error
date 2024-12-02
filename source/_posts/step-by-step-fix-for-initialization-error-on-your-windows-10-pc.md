@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for 'Initialization Error' On Your Windows 10 PC
-date: 2024-11-20T21:33:09.430Z
-updated: 2024-11-23T21:01:12.912Z
+date: 2024-11-25T22:57:26.599Z
+updated: 2024-12-01T17:37:53.077Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ## The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now
 
 If you run into the**Event Tracing Fatal Error** blue screen of death, don’t worry. It’s usually not very hard to resolve at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix event tracing fatal error
 
@@ -41,14 +37,14 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click **Yes** when you’re prompted to confirm.
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -60,15 +56,15 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your computer for the change to take effect.
 
  Check to see if the event tracing fatal error still occurs. If it doesn’t occur, then great – you’ve fixed the issue! If it still happens, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -85,13 +81,13 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -109,11 +105,19 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/settings-1.jpg)
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
 7. Use**the arrow keys** to navigate to**Secure Boot** (could be found on the**Security** , the**Boot** or the**Authentication** tab). Then select its value to **Disable** .
@@ -126,15 +130,11 @@ Here are the steps on how to disable driver integrity checks:
 2. Click**Yes** once prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
@@ -175,16 +175,15 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-structure-corruption-on-windows-11/"><u>[SOLVED] Critical Structure Corruption on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picdistort-a-comprehensive-guide-to-image-alteration/"><u>2024 Approved PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-transformation-innovative-approaches-to-instagram-video-editing/"><u>2024 Approved The Art of Transformation Innovative Approaches to Instagram Video Editing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/deutsche-telekom-ag/"><u>Deutsche Telekom AG</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-p60-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Huawei P60 Phone without Any Data Loss</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/immediate-solutions-to-tackle-dpc-watchdog-non-compliance-error-easily-and-fast/"><u>Immediate Solutions to Tackle DPC Watchdog Non-Compliance Error Easily and Fast!</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/is-it-possible-to-generate-a-system-restore-disk-from-a-separate-laptop-or-desktop/"><u>Is It Possible to Generate a System Restore Disk From a Separate Laptop or Desktop?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-custom-universal-remote-software/"><u>Step-by-Step Tutorial on Creating Custom Universal Remote Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-solve-system-service-failed-to-start-on-your-pc-windows-10-edition/"><u>Troubleshoot & Solve System Service Failed to Start on Your PC - Windows 10 Edition</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-post-update-blue-screen-issues-on-windows-11/"><u>Troubleshooting Post-Update Blue Screen Issues on Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-making-science-fiction-real-teleportation-effects/"><u>[Updated] 2024 Approved Making Science Fiction Real Teleportation Effects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffect-filmmaking-youtubes-guide-to-green-magic/"><u>Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-ae-text-templates-maximum-efficiency/"><u>Essential AE Text Templates (Maximum Efficiency)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-service-failures-resolve-blue-screen-of-death-bsod-in-windows-11/"><u>Fixing Critical Service Failures: Resolve Blue Screen of Death (BSoD) in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-fatal-system-error-code-0x00000133-on-your-windows-10-pc/"><u>How to Fix the Fatal System Error (Code 0X00000133) on Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-tackle-the-notorious-blue-screen-of-death-stop-code-0x00000124-on-windows-systems/"><u>How to Tackle the Notorious Blue Screen of Death (Stop Code 0X00000124) on Windows Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-premium-picks-for-the-ultimate-gopro-experience/"><u>In 2024, Premium Picks for the Ultimate Gopro Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/perfecting-the-audio-element-in-instagram-storytelling-for-2024/"><u>Perfecting the Audio Element in Instagram Storytelling for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-overcome-windows-10s-bugcodeusb-driver-issue-and-eliminate-crashes/"><u>Step-by-Step Guide to Overcome Windows 10'S BUGCODE_USB Driver Issue & Eliminate Crashes</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-successfully-overcoming-windows-troublesome-error-code-0x80-solution/"><u>Step-by-Step Guide: Successfully Overcoming Window's Troublesome Error Code 0X80 # Solution</u></a></li>
 </ul></div>
 

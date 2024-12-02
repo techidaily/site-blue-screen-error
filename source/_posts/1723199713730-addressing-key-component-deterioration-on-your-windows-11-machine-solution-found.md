@@ -1,7 +1,7 @@
 ---
 title: Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found
-date: 2024-11-03T01:19:18.939Z
-updated: 2024-11-04T03:22:55.088Z
+date: 2024-11-26T17:52:22.017Z
+updated: 2024-12-01T18:20:52.401Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  If your Windows PC is running into the blue screen of death with the error code:**CRITICAL\_STRUCTURE\_CORRUPTION** , don’t worry! You’re definitely not the only person to experience this problem. Many Windows 10 users are reporting the very same issue. More importantly, you should be able to fix it pretty easily… (skip to [the fixes](https://tools.techidaily.com/drivereasy/download/) directly).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why do I have the Critical\_Structure\_Corruption blue screen error?
 
  The causes for the Critical\_Structure\_Corruption blue screen error usually are:
@@ -27,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 2. **a driver that purposely or accidentally changed critical kernel code or data**
 
  Since we’ve got the causes cleared out, it’s not that hard for us to locate the solutions to this problem. Read on and find out how to fix the Critical\_Structure\_Corruption error on Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,16 +47,13 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uninstall potential problematic software
 
 **Alcohol 120%** , **Daemon Tools** , **MacDriver** and **Intel HAXM** (Hardware Accelerated Execution Manager) are reported to be related to the Critical\_Structure\_Corruption blue screen of death error. If you have one of them installed in your PC, upgrade them to the latest version or remove them from your PC. See if your problem is resolved after this.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -76,15 +70,12 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -103,16 +94,13 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -125,25 +113,32 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that triggers the BSOD error, you need to **uninstall** it to avoid game crashing issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Run memory diagnostic tool
 
@@ -157,19 +152,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
 
 ## Fix 6: Check the Event Viewer
@@ -180,20 +162,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-42-28.png)
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final option
@@ -221,22 +193,20 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-dynamic-speed-up-videos/"><u>[New] 2024 Approved Crafting Dynamic Speed-Up Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>[New] Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>[Updated] 2024 Approved Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-breakthroughs-in-ergonomic-office-design-for-high-efficiency-for-2024/"><u>[Updated] Breakthroughs in Ergonomic Office Design for High Efficiency for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfs-file-system-issues-in-windows-11/"><u>How to Fix NTFS File System Issues in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>In 2024, Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World</u></a></li>
-<li><a href="https://win11.techidaily.com/protective-measures-against-unauthorized-insiders/"><u>Protective Measures Against Unauthorized Insiders</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-boot-sector-errors-and-blue-screen-issues-with-peripheral-functionality-numbers-pfn-on-windows-11/"><u>Resolved: Fixing Boot Sector Errors & Blue Screen Issues with Peripheral Functionality Numbers (PFN) on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-header-blue-screen-of-death-in-windows-11/"><u>Resolving the 'Bad Pool Header' Blue Screen of Death in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-dealing-with-uncaught-system-thread-exceptions/"><u>Step-by-Step Fixes for Dealing with Uncaught System Thread Exceptions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-overcoming-the-bad-pool-header-problem-on-various-windows-versions/"><u>Step-by-Step Solution for Overcoming the 'Bad Pool Header' Problem on Various Windows Versions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-for-stop-error-0x0000007b-blue-screen-of-death-fixes/"><u>Step-by-Step Troubleshooting for STOP Error 0X0000007B - Blue Screen of Death Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/suing-big-three-trump-accuses-silencing-of-public-voices/"><u>Suing Big Three: Trump Accuses Silencing of Public Voices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-amazon-prime-day-deals-on-tech/"><u>The Best Amazon Prime Day Deals on Tech</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-storportsys-error-and-preventing-windows-1-cuffles/"><u>Troubleshooting the StorPort.sys Error and Preventing Windows 1 Cuffles</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-bsod-help-solving-the-critical-error-dxgmms2sys/"><u>Windows 11 BSOD Help: Solving the Critical Error dxgmms2.sys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-100-instagram-captions-to-show-yourself-to-the-world-filmora/"><u>[New] 2024 Approved 100 Instagram Captions to Show Yourself to the World - Filmora</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-download-windows-movie-maker-6-for-2024/"><u>[New] How to Download Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-screen-capture-devices-for-education/"><u>[Updated] 2024 Approved Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-io-scanner-insiders-handbook-for-2024/"><u>[Updated] The Ultimate IO Scanner Insider's Handbook for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-addressing-classpnpsys-problems-in-windows-107/"><u>Comprehensive Guide to Addressing Classpnp.sys Problems in Windows 10/7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-the-blues-of-blue-screen-detailed-steps-to-solve-error-0xc000021a-on-win-810/"><u>End the Blues of Blue Screen: Detailed Steps to Solve Error 0xC000021A on Win 8/10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-eradicating-the-fatal-dxgkrnl-video-bug-causing-bsod-on-windows-10-systems/"><u>Expert Advice: Eradicating the Fatal Dxgkrnl Video Bug Causing BSOD on Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/genomic-studies-have-identified-genetic-markers-that-help-predict-an-individuals-susceptibility-to-cad-aiding-in-personalized-prevention-strategies/"><u>Genomic Studies Have Identified Genetic Markers that Help Predict an Individual's Susceptibility to CAD, Aiding in Personalized Prevention Strategies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-pnpdetected-fatal-errors-in-your-windows-11-setup/"><u>How to Correctly Address PNP_Detected Fatal Errors in Your Windows 11 Setup</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inspect-font-characters-windows-11-route/"><u>Inspect Font Characters: Windows 11 Route</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/playing-dvd-films-on-the-xbox-one-yes-you-can-heres-how/"><u>Playing DVD Films on the Xbox One: Yes, You Can - Here's How!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-notorious-blue-screen-of-death-in-your-windows-10-system/"><u>Troubleshooting the Notorious Blue Screen of Death in Your Windows 10 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-scheduler-internal-error-on-windows-10-solved/"><u>Video Scheduler Internal Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winx-dvd-dvdhd/"><u>WinX DVDコピーサポートセンター: 最新フリーDVDコピーアプリとHD動画変換ツール</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Internal Energy Disruptions on Your PC Running Windows 11
-date: 2024-11-17T21:05:09.660Z
-updated: 2024-11-23T22:56:41.222Z
+date: 2024-11-25T03:39:09.558Z
+updated: 2024-12-02T03:39:15.738Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 To update your drivers with Driver Easy, just click the **Scan Now**  button, then when it lists the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
 
@@ -65,7 +65,15 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the testing, Windows will restart automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -76,18 +84,14 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
 
@@ -102,6 +106,10 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -140,19 +148,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -185,15 +185,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-digital-art-with-free-versatile-lut-tools/"><u>2024 Approved Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/banish-blurry-footage-keeping-your-gopro-crisp/"><u>Banish Blurry Footage Keeping Your GoPro Crisp</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-mobile-hd-video-playback-androids-top-picks/"><u>In 2024, Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-driver-verifier-detected-violation-bluescreen-woes-on-your-windows-10-pc-fixed/"><u>Resolving Driver Verifier Detected Violation Bluescreen Woes on Your Windows 10 PC - Fixed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-pnpdetectedfatalerror-glitch-on-windows-11-systems/"><u>Resolving the 'PNP_Detected_Fatal_Error' Glitch on Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solutions-for-ndis-driver-bug-fix-troubleshooting-guide/"><u>Solutions for NDIS Driver Bug Fix: Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-robot-mop-vacuums-comprehensive-testing-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated 2024 Robot Mop Vacuums: Comprehensive Testing & Reviews by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-blue-screen-errors-related-to-read-only-memory-attempts/"><u>Understanding and Resolving Blue Screen Errors Related to Read-Only Memory Attempts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-sound-trailing-in-premiere-pro/"><u>[New] In 2024, The Ultimate Guide to Sound Trailing in Premiere Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-initial-steps-creating-a-new-twitter-identity/"><u>2024 Approved Initial Steps Creating a New Twitter Identity</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-memory-corruption-errors-the-complete-guide/"><u>Diagnosing and Repairing Memory Corruption Errors: The Complete Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-setup-samsungs-official-usb-driver-compatible-with-windows-10/"><u>Download & Setup: Samsung's Official USB Driver Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-a-high-performance-pc-for-less-than-a-grand-check-out-our-recommended-lightweight-windows-machine-digital-gear-hub/"><u>Finding a High-Performance PC for Less Than a Grand? Check Out Our Recommended Lightweight Windows Machine | Digital Gear Hub</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-asus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Asus</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-the-inaccessible-boot-disk-bsod-in-windows-11-illustrated-instructions/"><u>How to Repair the Inaccessible Boot Disk BSOD in Windows 11 - Illustrated Instructions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maximizing-roi-with-snapchat-for-biz-leaders-for-2024/"><u>Maximizing ROI with Snapchat for Biz Leaders for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-the-timeout-bsod-error-on-windows-11-operating-systems/"><u>Step-by-Step Guide: Overcoming the Timeout BSOD Error on Windows 11 Operating Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android-for-2024/"><u>Updated The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32kfullsys-bsod-explained-steps-to-recover-and-prevent-future-issues/"><u>Win32kfull.sys BSoD Explained: Steps to Recover and Prevent Future Issues</u></a></li>
 </ul></div>
 

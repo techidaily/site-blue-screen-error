@@ -1,7 +1,7 @@
 ---
 title: WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology
-date: 2024-11-19T19:06:01.691Z
-updated: 2024-11-23T22:38:32.413Z
+date: 2024-11-30T03:36:10.874Z
+updated: 2024-12-01T16:18:39.177Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ According to Microsoft,
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You don’t need to try them all, just work your way down until you find the one works for you.
@@ -42,10 +46,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **First Thing First**
 
  Before we go any further, please make sure that you’ve done the following things:
@@ -54,10 +54,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
@@ -65,7 +61,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
@@ -73,10 +69,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -103,7 +95,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -113,7 +105,7 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
@@ -122,15 +114,15 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -150,9 +142,17 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -192,22 +192,21 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[New] 2024 Approved Enhancing Content Reach IGTV & Facebook Synergy</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-5-best-live-streaming-webcamscameras-for-twitch/"><u>[New] 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-bugcodeusbdriver-blue-screen-on-windows-11/"><u>[Solved] BUGCODE_USB_DRIVER Blue Screen on Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-scalable-success-lawful-techniques-for-video-visibility/"><u>[Updated] In 2024, Scalable Success Lawful Techniques for Video Visibility</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-your-way-through-youtube-tvs-unique-offerings-for-2024/"><u>[Updated] Navigating Your Way Through YouTube TV's Unique Offerings for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-discover-the-ultimate-affordable-tool-to-transform-your-valorant-gameplay/"><u>2024 Approved Discover the Ultimate, Affordable Tool to Transform Your Valorant Gameplay</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199729943-astm-e4n9-provides-a-standardized-approach-for-calibrating-measurement-tools-in-the-us/"><u>ASTM E4n9 Provides a Standardized Approach for Calibrating Measurement Tools in the US</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-blue-screen-of-death-due-to-memory-management-issues-in-windows-10-or-11/"><u>How to Fix Blue Screen of Death Due to Memory Management Issues in Windows 10 or 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-properly-discard-drivers-with-incomplete-operations/"><u>How to Properly Discard Drivers with Incomplete Operations</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-left-and-right-click-discrepancies-on-windows-11-devices/"><u>Resolving Left and Right Click Discrepancies on Windows 11 Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-storportsys-blue-screen-of-death-step-by-step-solutions/"><u>Resolving Windows 10 StorPort.sys Blue Screen of Death: Step-by-Step Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199717505-speedy-solutions-to-overcome-hidclasssys-challenges-expert-advice-here/"><u>Speedy Solutions to Overcome HIDCLASS.SYS Challenges - Expert Advice Here!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-a-critical-memory-management-failure-pool-header-on-windows-11/"><u>Step-by-Step Guide to Correcting a Critical Memory Management Failure (Pool Header) on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-walkthrough-for-fixing-the-tdr-blue-screen-error-due-to-nvlddmkmsys-windows/"><u>Step-by-Step Walkthrough for Fixing the TDR Blue Screen Error Due to nvlddmkm.sys (Windows)</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-for-tackling-livekernelevent-141-hw-issues-year-2024/"><u>Steps for Tackling LiveKernelEvent 141 HW Issues, Year 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-the-power-of-ai-start-using-our-8-ready-made-gpt-solutions-instantly/"><u>Unleash the Power of AI: Start Using Our 8 Ready-Made GPT Solutions Instantly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-creating-captivating-solo-content-that-strikes-gold/"><u>[New] Creating Captivating Solo Content that Strikes Gold</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-sky-to-screen-live-streaming-from-dji-drones/"><u>[New] From Sky to Screen Live-Streaming From DJI Drones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-crafting-a-standout-solo-podcast-experience/"><u>[New] In 2024, Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-microphone-not-working-on-windows-10/"><u>[Solved] Microphone Not Working on Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[Updated] Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-live-tv-access-a-top-ranked-list-review/"><u>[Updated] Mastering Live TV Access A Top-Ranked List Review</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/axel-springer-se/"><u>Axel Springer SE</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747968-genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-resolve-the-fat-file-error-on-your-windows-11-pc/"><u>How to Correctly Resolve the FAT File Error on Your Windows 11 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000000a-blue-screen-error/"><u>How to Fix 0X0000000A Blue Screen Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-blue-screen-error-in-netwtw10sys-for-stable-pc-operation/"><u>How to Stop the Blue Screen Error in Netwtw10.sys for Stable PC Operation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-f14-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy F14 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-fundamentals-of-navigating-youtube-regulations/"><u>In 2024, The Fundamentals of Navigating YouTube Regulations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/krupp-ag-hoesch-krupp/"><u>Krupp AG Hoesch-Krupp</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stepwise-steps-to-install-windows-movie-maker-6/"><u>Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-how-to-fix-blue-screen-of-death-bsod-code-0x00000124-in-windows-7-and-windows-10/"><u>Troubleshooting Tips: How to Fix Blue Screen of Death (BSOD) - Code 0X00000124 in Windows 7 and Windows 10</u></a></li>
 </ul></div>
 

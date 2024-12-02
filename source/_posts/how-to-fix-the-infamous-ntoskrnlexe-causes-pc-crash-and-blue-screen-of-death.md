@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death
-date: 2024-11-19T17:17:58.317Z
-updated: 2024-11-23T17:02:38.841Z
+date: 2024-11-30T21:57:45.910Z
+updated: 2024-12-02T02:44:48.121Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes you can fix this problem, ordered by likely effectiveness. You may not need to try them all.; just work your way down the list until you find the one that works for you.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update all your available drivers
@@ -47,10 +51,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Memory Diagnostics
 
  Memory corruption can also cause such blue screen error. You can run memory diagnostics to fix it.
@@ -60,12 +60,20 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-25.jpg)
 3. Click**Restart now and check for problems(recommended)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 After the testing, Windows will restart automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -76,17 +84,13 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
@@ -140,10 +144,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -151,7 +151,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -185,17 +185,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/afrikaans-unlocked-discover-7-learning-benefits-via-mondly/"><u>Afrikaans Unlocked: Discover 7 Learning Benefits via Mondly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-stop-code-for-ndis-errors-on-pcs/"><u>Comprehensive Guide: Eliminating 'Stop Code' For NDIS Errors on PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-effektivsten-videokonverter-software-losungen-fur-windows-1011-schnell-and-sicher-ihre-top-liste-der-zehn-besten/"><u>Die Effektivsten Videokonverter-Software Lösungen Für Windows 10/11: Schnell & Sicher – Ihre Top-Liste Der Zehn Besten</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-add-a-new-mail-sound-for-gmail/"><u>How to Add a New Mail Sound for Gmail</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-12-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 12?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-symbolizing-success-affordable-and-flexible-logo-crafting-from-templates/"><u>In 2024, Symbolizing Success Affordable & Flexible Logo Crafting From Templates</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-fun-overcoming-lag-and-fps-drops-in-forza-horizon-5-on-pc-setup/"><u>Maximizing Fun: Overcoming Lag and FPS Drops in Forza Horizon 5 on PC Setup</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-connectivity-issues-solving-the-network-performance-problem-in-windows-11/"><u>Overcoming Connectivity Issues: Solving the 'Network Performance' Problem in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-fat-file-system-error-in-windows-11-with-easy-troubleshooting-tips/"><u>Overcoming the 'FAT File System Error' In Windows 11 with Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-windows-11-internal-power-error-fixes/"><u>Winning the Battle Against Windows 11: Internal Power Error Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-your-perfect-match-the-best-6-gopro-helmet-harnesses/"><u>Discover Your Perfect Match The Best 6 GoPro Helmet Harnesses</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-solutions-for-dxgmms2sys-in-windows-11/"><u>Fixing Blue Screen of Death: Solutions for dxgmms2.sys in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-bsod-error-0x0000001a-step-by-step-solution/"><u>How to Fix Windows BSOD Error 0X0000001A: Step-by-Step Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-windows-11-power-malfunction/"><u>How To Troubleshoot and Solve Windows 11 Power Malfunction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>In 2024, Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>In 2024, Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/migrate-itunes-backups-onto-a-separate-storage-device-using-pc-or-mac-three-techniques-explored/"><u>Migrate iTunes Backups Onto a Separate Storage Device Using PC or Mac: Three Techniques Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-1/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-internal-error-of-video-schedulers-for-windows-10-users/"><u>Troubleshooting and Fixing the Internal Error of Video Schedulers for Windows 10 Users</u></a></li>
 </ul></div>
 

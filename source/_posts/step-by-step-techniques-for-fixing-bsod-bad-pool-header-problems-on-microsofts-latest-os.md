@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Techniques for Fixing BSOD: Bad Pool Header Problems on Microsoft's Latest OS"
-date: 2024-11-03T00:48:19.518Z
-updated: 2024-11-04T07:29:13.146Z
+date: 2024-11-30T04:49:59.474Z
+updated: 2024-12-02T04:38:34.679Z
 tags:
   - win11
   - win10
@@ -43,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
@@ -52,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
@@ -69,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
@@ -102,10 +100,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -115,10 +110,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
@@ -138,22 +130,24 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-laughter-league-social-medias-best-jokes/"><u>[New] 2024 Approved Laughter League Social Media's Best Jokes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-how-to-free-rotate-and-merge-videos-on-android/"><u>[New] In 2024, How to Free Rotate and Merge Videos on Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-superior-tools-for-capturing-moments-with-harmony/"><u>[Updated] 2024 Approved Superior Tools for Capturing Moments with Harmony</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-solution-overcoming-the-asmtxhci-system-crash-in-windows/"><u>Blue Screen Error Solution: Overcoming the ASMTXHCI System Crash in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-for-the-troublesome-blue-screen-with-code-d1-in-windows/"><u>Easy Fix Guide for the Troublesome Blue Screen with Code D1 in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-system-failures-in-depth-solutions-for-the-infamous-blue-screen-and-kernel-data-errors-in-webpages/"><u>Fixing Critical System Failures: In-Depth Solutions for the Infamous Blue Screen and Kernel Data Errors in Webpages</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-dxgmms2sys-bsod-issue-solutions-for-windows-11-users/"><u>Fixing the 'dxgmms2.sys' BSOD Issue: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .rtf file</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hal-initialization-failed-in-windows-11-solved/"><u>HAL INITIALIZATION FAILED in Windows 11 [Solved]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-avoid-risks-secure-paths-to-get-gratis-vlc-for-mac-os-x/"><u>In 2024, Avoid Risks Secure Paths to Get Gratis VLC for Mac OS X</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedying-steam-network-unresponsive-error/"><u>Remedying Steam Network Unresponsive Error</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steering-through-technical-hiccups-elan-and-win10/"><u>Steering Through Technical Hiccups: Elan & Win10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-0x00000050-blue-screen-of-death-error-in-windows-7-fixed/"><u>Stop: 0X00000050 Blue Screen of Death Error in Windows 7 [Fixed]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshoot-random-restarts-on-windows-11-systems/"><u>Troubleshoot Random Restarts on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/troubleshooting-gpu-issues/"><u>Troubleshooting GPU Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hardware-glitches-causing-display-problems-on-windows-1110-effective-fixes-inside/"><u>Troubleshooting Hardware Glitches Causing Display Problems on Windows 11/10: Effective Fixes Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-successfully-completed-understanding-your-systems-need-for-restart/"><u>Troubleshooting Successfully Completed: Understanding Your System's Need for Restart</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-androidios-tiktok-crash-solutions-to-keep-app-running/"><u>[New] 2024 Approved Android/iOS TikTok Crash Solutions to Keep App Running</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly/"><u>[Updated] In 2024, Smart Sync Strategy Transferring Photos From iPhone to Snapchat Correctly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pilots-toolkit-top-drones-must-have-gear-and-replacements/"><u>2024 Approved Pilot's Toolkit Top Drones Must-Have Gear and Replacements</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/color-crisis-conquered-tips-and-tricks-for-eradicating-the-orange-screen-of-death/"><u>Color Crisis Conquered: Tips and Tricks for Eradicating the Orange Screen of Death</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-crest-flicker-in-win11/"><u>Conquering Crest Flicker in Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199726568-diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012865721-expert-advice-on-avoiding-game-interruptions-in-titanfall-2-a-fast-track-fix/"><u>Expert Advice on Avoiding Game Interruptions in Titanfall 2: A Fast Track Fix!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-initialize-hardware-abstraction-layer-in-windows-10-and-fix-boot-failures/"><u>How to Correctly Initialize Hardware Abstraction Layer in Windows 10 and Fix Boot Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-infamous-ntoskrnlexe-causes-pc-crash-and-blue-screen-of-death/"><u>How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-internal-power-failure-on-your-pc-running-windows-10/"><u>How to Resolve the Internal Power Failure on Your PC Running Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aging-the-power-of-creative-commons-rights/"><u>Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/prodotto-premium-per-la-creazione-dei-film-il-download-di-film-maker-con-movavi-e-iniziare/"><u>Prodotto Premium per La Creazione Dei Film: Il Download Di Film Maker Con Movavi È Iniziare!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bsod-problem-with-tcpipsys-in-windows-operating-systems-11-7-and-eight-edition/"><u>Resolving the BSOD Problem with tcpip.sys in Windows Operating Systems: 11, 7 and Eight Edition</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-your-pcs-inaccessible-disk-during-startup-bsod-problem-in-windows-10-using-easy-steps-and-photos/"><u>Solve Your PC's Inaccessible Disk During Startup BSOD Problem in Windows 10 Using Easy Steps and Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-to-fixing-the-lack-of-sound-in-usb-headsets-on-windows-7-systems/"><u>Step-by-Step Solution to Fixing the Lack of Sound in USB Headsets on Windows 7 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-deal-in-the-market-in-depth-look-at-the-samsung-galaxy-a51-5gs-power-and-savings/"><u>The Best Deal in the Market? In-Depth Look at the Samsung Galaxy A51 5G's Power and Savings</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-asmtxhcisystem-blue-screen-of-death-step-by-step-guide/"><u>Troubleshooting and Repairing ASMTXHCISystem Blue Screen of Death - Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-driver-corrupted-expool-bugs-in-your-windows-10-system/"><u>Understanding and Resolving 'DRIVER CORRUPTED EXPOOL' Bugs in Your Windows 10 System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vobwindows-11/"><u>VOBファイルをWindows 11で安全にプレイ可能にするための最適解決策</u></a></li>
 </ul></div>
 

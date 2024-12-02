@@ -1,7 +1,7 @@
 ---
 title: Complete Fix for HYPERVISOR ERROR Causing Blue Screen of Death on Windows 11 - Expert Advice
-date: 2024-11-19T16:40:01.785Z
-updated: 2024-11-23T22:11:19.960Z
+date: 2024-12-01T04:23:26.243Z
+updated: 2024-12-02T03:04:33.675Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
  Many Windows 10 users have recently experienced an issue with their computers. What happens is they get a blue screen of death with an error message that says “CRITICAL\_SERVICE\_FAILED”. A lot of the time, they’re stuck in this error and can’t get to the login screen.
 
  If you’re also experiencing this error, you’re no doubt very frustrated. But don’t worry! This blue screen error is fixable…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 1. Turn on your computer, and then when your Windows starts loading, turn it off immediately. Do this until you see a message that says “_Preparing Automatic Repair_ “. ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 2. Click**Advanced Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t have the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 3. Click **Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 4. Select**Advanced options** .  
@@ -74,22 +78,18 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 3. Click **Troubleshoot** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 4. Select**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b2305b11c9.jpg)
 5. Select**Startup Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-86.png)
 6. Click the**Restart** button.  
@@ -98,14 +98,10 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 7. Press the**7** or**F7** key on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This should help you get through this error. But it may occur again after restarting your computer. To fix it permanently, you should try the fixes below…
 
@@ -119,19 +115,23 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 2. Click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 3. Click **Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 4. Select**Advanced options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b2305b11c9.jpg)
 5. Select**Startup Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-86.png)
 6. Click the**Restart** button.  
@@ -140,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 7. Press the**5** or**F5** key on your keyboard.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you should be able to update your drivers.
 
@@ -176,10 +172,6 @@ Now you should be able to update your drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 3. Click **Troubleshoot** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 4. Select**Advanced options** .  
 
@@ -193,6 +185,10 @@ Now you should be able to update your drivers.
 7. Press the**4** or**F4** key on your keyboard.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-88.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you should reset your Windows Update components.
 
@@ -217,7 +213,7 @@ Now you should reset your Windows Update components.
 2. Click**Advanced Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t the Advanced Startup Options menu, read **[this post](https://tools.techidaily.com/drivereasy/download/) (the “Case 2” instructions)** for other ways to get to it. You can’t perform the rest of the steps below until you can access the Advanced Startup Options  
@@ -231,6 +227,10 @@ Now you should reset your Windows Update components.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c47db2727166.jpg)
 6. Follow the on-screen instructions to restore your Windows 10 system to a restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, one of the fixes above helped you get rid of your CRITICAL SERVICE FAILED blue screen error. If you have any questions or suggestions, feel free to leave us a comment below.
 
@@ -251,24 +251,16 @@ Now you should reset your Windows Update components.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch/"><u>[New] In 2024, Transforming Viewers' Experience OBS Strategies on YouTube & Twitch</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-streaming-platforms-for-authors/"><u>[New] Prime Streaming Platforms for Authors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-proactive-gaming-enhancing-minecraft-through-ram-upgrade/"><u>[Updated] In 2024, Proactive Gaming Enhancing Minecraft Through RAM Upgrade</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unforgettable-visuals-key-elements-in-podcast-logo-creation-for-2024/"><u>[Updated] Unforgettable Visuals Key Elements in Podcast Logo Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-latest-advancements-for-immersive-video-viewing-for-2024/"><u>Android's Latest Advancements for Immersive Video Viewing for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beat-bsod-blues-with-these-pro-tips-for-handling-error-0xc00-on-win11-and-8-solved/"><u>Beat BSOD Blues with These Pro Tips for Handling Error 0xC0[^0] on Win11 & 8 [SOLVED]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-system-failures-the-windows-11-memory-management-bluescreen-solution/"><u>Fixing System Failures: The Windows 11 Memory Management Bluescreen Solution</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-memory-access-issue-causing-bsod-blue-screen/"><u>Fixing the Kernel Memory Access Issue Causing BSOD (Blue Screen)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-art-of-dealing-with-win32ksys-blue-screens-a-wdf01000sys-fix-guide/"><u>Master the Art of Dealing with Win32k.sys Blue Screens: A Wdf01000.sys Fix Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-realme-c67-5g-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Realme C67 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-fat-file-system-errors-in-windows-10-with-easy-fixes/"><u>Overcoming FAT File System Errors in Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-netwtw10sys-bsod-blue-screen-windows-issue/"><u>Resolved: Fixing the Netwtw10.sys BSoD (Blue Screen) Windows Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-critical-system-crashes-on-windows-10-a-comprehensive-guide/"><u>Resolving Critical System Crashes on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-repairing-the-acpisys-driver-issue-in-windows-10/"><u>Step-by-Step Guide: Repairing the ACPI.sys Driver Issue in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-kernel-security-check-violation-on-your-windows-10-system/"><u>Troubleshooting and Fixing the 'Kernel Security Check Violation' On Your Windows 10 System</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-redmi-note-12t-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-storyboard-designers-den/"><u>Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-tablets-for-photo-editing-worth-a-try/"><u>[New] Top 8 Tablets for Photo Editing Worth a Try</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-effortless-and-effective-embedding-youtube-in-gslides/"><u>[Updated] 2024 Approved Effortless and Effective - Embedding YouTube in GSlides</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhanced-team-collaboration-with-slack-plus-filmora-timelines/"><u>[Updated] 2024 Approved Enhanced Team Collaboration with Slack + Filmora Timelines</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>[Updated] Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy S24 Ultra</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-repairing-a-failed-ntsssys-error-causing-bsod-on-your-windows-10-pc/"><u>Effective Solutions for Repairing a Failed NTSS.SYS Error Causing BSOD on Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-ways-to-overcome-device-driver-problems-and-unstick-threads-in-windows-11/"><u>Effortless Ways to Overcome Device Driver Problems and Unstick Threads in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-issues-resolve-blue-screen-errors-in-windows-11/"><u>Fixing USB Driver Issues: Resolve Blue Screen Errors in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-access-to-stunning-8k-quality-footage-4320p60fps-at-no-cost-with-our-easy-youtube-extractor-tool/"><u>Get Access to Stunning 8K Quality Footage (4320P/60FPS) at No Cost with Our Easy YouTube Extractor Tool!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-unveils-top-screen-technology/"><u>IFA 2023 Unveils Top Screen Technology</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/knorr-bremse-ag/"><u>Knorr-Bremse AG</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Bad System Config Info Blue Screen Error | Quickly & Easily!"
-date: 2024-11-02T22:45:08.969Z
-updated: 2024-11-04T01:57:29.098Z
+date: 2024-11-29T19:24:10.340Z
+updated: 2024-12-01T21:52:15.418Z
 tags:
   - win11
   - win10
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 2. [**Run SFC**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -45,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 3. C  lick **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0f9b2cda8fc.jpg)  
@@ -59,16 +53,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run SFC
@@ -81,15 +66,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0fa680bdd8c.jpg)  
  Click **Yes**   when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0fa6f3400a3.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Restart your computer and hopefully the **HIDCLASS.SYS** problem has been fixed.
@@ -115,18 +101,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-record-with-flair-on-windows-10/"><u>[New] 2024 Approved How to Record with Flair on Windows 10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>[Updated] 2024 Approved Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-leverage-social-platforms-for-vimeo-video-sharing/"><u>[Updated] Leverage Social Platforms for Vimeo Video Sharing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>2024 Approved Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-n3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find N3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 13 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-0x00000019-bad-pool-header-issue-in-windows-operating-systems-guides/"><u>How to Resolve the 0X00000019 Bad Pool Header Issue in Windows Operating Systems [GUIDES]</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-trim-videos-online-for-free-10-best-websites-and-tools/"><u>New In 2024, Trim Videos Online for Free 10 Best Websites and Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-stack-buffer-overflow-errors-a-step-by-step-guide/"><u>Resolving Stack Buffer Overflow Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-win32ksys-bsod-a-step-by-step-guide/"><u>Resolving Win32K.sys BSOD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-of-0x00000050-blue-screen-troubleshooting-tips-for-windows-7-users/"><u>Unraveling the Mystery of 0X00000050 Blue Screen: Troubleshooting Tips for Windows 7 Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-enhance-your-video-with-pro-audio-editing-in-fcp/"><u>Updated In 2024, Enhance Your Video with Pro Audio Editing in FCP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-resources-for-crafting-eye-catching-youtube-ends-for-2024/"><u>[New] Essential Resources for Crafting Eye-Catching YouTube Ends for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>[New] Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-embrace-your-journey-the-best-inspirational-cinematic-experience-for-2024/"><u>[Updated] Embrace Your Journey The Best Inspirational Cinematic Experience for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-ntfssys-system-crash-on-windows-10-essential-troubleshooting-steps/"><u>Fixing 'NTFS.sys' System Crash on Windows 10 - Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-storm-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Storm 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-netwtw04sys-bsod-on-windows-11/"><u>How to Troubleshoot and Repair Netwtw04.sys BSOD on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-errors-with-acpisys-on-windows-11-a-comprehensive-guide/"><u>Resolving Errors with acpi.sys on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-redmi-12-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Redmi 12.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199700486-windows-11-crashes-with-driververifierdetectedviolation-heres-your-fix/"><u>Windows 11 Crashes with DRIVER_VERIFIER_DETECTED_VIOLATION? Here's Your Fix!</u></a></li>
 </ul></div>
 

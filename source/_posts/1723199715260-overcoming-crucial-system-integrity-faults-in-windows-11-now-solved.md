@@ -1,7 +1,7 @@
 ---
 title: Overcoming Crucial System Integrity Faults in Windows 11 - Now Solved
-date: 2024-10-31T06:41:48.299Z
-updated: 2024-11-03T17:33:14.766Z
+date: 2024-11-30T01:16:23.168Z
+updated: 2024-12-01T23:49:21.613Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -91,14 +84,11 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -108,40 +98,31 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -156,38 +137,23 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Check the Event Viewer
@@ -197,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 1. On your keyboard, press the **Windows logo key** and **X** at the same time, then click **Event Viewer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-42-28.png)
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
@@ -225,22 +195,22 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-breaking-down-barriers-to-pc-livestreams-on-tiktok-for-2024/"><u>[New] Breaking Down Barriers to PC Livestreams on TikTok for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-vgksys-blue-screen-of-death-error/"><u>[Solved] vgk.sys Blue Screen of Death Error</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos-for-2024/"><u>[Updated] The Ultimate Method for Adding High-Quality SRT to MP4 Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-solved-overcoming-the-stop-error-0x0000001a/"><u>Blue Screen of Death Solved: Overcoming the STOP Error 0X0000001A</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/critical-error-solved-eliminating-the-0x00000124-bsod-glitch-on-your-pcs-operating-system-windows-107/"><u>Critical Error Solved: Eliminating the 0X00000124 BSOD Glitch on Your PC's Operating System (Windows 10/7)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/deutsche-wohnen-se/"><u>Deutsche Wohnen SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guaranteed-fixes-for-ntfs-file-system-malfunctions-on-your-windows-10-pc/"><u>Guaranteed Fixes for NTFS File System Malfunctions on Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-critical-stop-error-due-to-video-memory-issues-in-windows/"><u>How to Fix Critical Stop Error Due to Video Memory Issues in Windows?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini with a Mask On</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-death-fixing-critical-process-died-issues-on-windows-10/"><u>Resolving the Blue Screen of Death: Fixing 'Critical Process Died' Issues on Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-sony-xperia-10-v-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Sony Xperia 10 V Location | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-resolving-blue-screen-issues-related-to-tcpipsys-on-various-windows-versions/"><u>Troubleshooting Guide: Resolving Blue Screen Issues Related to TCP/IP.sys on Various Windows Versions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-finest-mac-trackball-and-optical-mice-of-2024/"><u>Ultimate Selection: The Finest Mac Trackball & Optical Mice of 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-hidden-narrators-of-fb-nuggets/"><u>[New] In 2024, Hidden Narrators of FB Nuggets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[Updated] 2024 Approved Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-no-software-required-youtube-file-retrieval/"><u>[Updated] No Software Required YouTube File Retrieval</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-camcorders-head-on-video-sharing/"><u>[Updated] Premium Camcorders Head-On Video Sharing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/apc-index-mismatch-bluescreen-woes-heres-how-you-can-resolve-it/"><u>APC Index Mismatch Bluescreen Woes? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-windows-10-bad-pool-headers-that-trigger-blue-screen-of-death-errors-expert-tips/"><u>Diagnosing & Repairing Windows 10 'Bad Pool Headers' That Trigger Blue Screen of Death Errors: Expert Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-the-bsod-headache-fixing-stop-error-0x00000amazing-for-smooth-operation/"><u>End the BSOD Headache: Fixing Stop Error 0X00000amazing for Smooth Operation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-productivity-advanced-techniques-for-taking-notes-using-chatgpt/"><u>Enhancing Productivity: Advanced Techniques for Taking Notes Using ChatGPT</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-resolving-the-acpisys-error-in-windows-11-systems/"><u>Expert Advice on Resolving the Acpi.sys Error in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-bluescreen-errors-on-windows-11-a-comprehensive-guide/"><u>Fixing USB Driver Bluescreen Errors on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unbeatable-video-splitters-to-match-xplit/"><u>In 2024, Unbeatable Video Splitters to Match Xplit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/joining-jpegs-effortlessly-on-your-pc/"><u>Joining JPEGs Effortlessly on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/master-the-technique-correcting-bsod-errors-due-to-system-pte-misuse/"><u>Master the Technique: Correcting BSOD Errors Due to SYSTEM PTE Misuse</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-multiple-irp-completed-requests-causes-blue-screen-of-death-bsod/"><u>Resolved: Fixing Multiple IRP Completed Requests Causes Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-s18e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo S18e Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tutorial-retrieving-cell-value-information-via-microsoft-excel-status-bar/"><u>Tutorial: Retrieving Cell Value Information via Microsoft Excel Status Bar</u></a></li>
 </ul></div>
 

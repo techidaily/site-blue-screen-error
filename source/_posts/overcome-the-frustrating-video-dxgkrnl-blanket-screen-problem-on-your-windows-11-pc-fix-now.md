@@ -1,7 +1,7 @@
 ---
 title: Overcome the Frustrating Video Dxgkrnl Blanket Screen Problem on Your Windows 11 PC [Fix Now]
-date: 2024-10-27T19:42:52.098Z
-updated: 2024-11-04T08:45:03.868Z
+date: 2024-11-24T20:23:10.493Z
+updated: 2024-12-01T21:32:22.328Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes you can fix this problem, ordered by likely effectiveness. You may not need to try them all.; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 5. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update all your available drivers
 
@@ -43,6 +51,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Memory Diagnostics
 
  Memory corruption can also cause such blue screen error. You can run memory diagnostics to fix it.
@@ -52,26 +64,20 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-25.jpg)
 3. Click**Restart now and check for problems(recommended)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the testing, Windows will restart automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -84,14 +90,11 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
 
@@ -104,21 +107,7 @@ Here’s how you can check for Windows Update
 2. Click**Check for updates** on the right pane of the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go on to follow the on-screen instructions to install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -142,13 +131,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -201,16 +183,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>[New] In 2024, Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[Updated] A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-engage-with-googles-online-gatherings/"><u>[Updated] In 2024, Engage with Google's Online Gatherings</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-remedies-for-windows-7s-0x0000007e-blue-screen-of-death-error/"><u>Effective Remedies for Windows 7'S 0X0000007E Blue Screen of Death Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/iastorasys-blue-screen-of-death-solved/"><u>iaStorA.sys Blue Screen of Death [SOLVED]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-v30-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V30 Easily?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Pro Max from iCloud</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplify-installation-with-our-proven-windows-hp-printer-methodology/"><u>Simplify Installation with Our Proven Windows-Hp Printer Methodology</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solve-the-driver-corrupted-exception-pool-issue-on-windows-11-troubleshooting-tips/"><u>Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-initialization-error-on-your-windows-10-pc/"><u>Step-by-Step Fix for 'Initialization Error' On Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eradicating-the-bad-pool-caller-error-in-windows-10/"><u>Step-by-Step Guide: Eradicating the 'Bad Pool Caller Error' In Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-download-youtubes-best-moments-without-full-streaming/"><u>[New] 2024 Approved Download YouTube's Best Moments Without Full Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-demystifying-instagrams-videography-restrictions-for-2024/"><u>[New] Demystifying Instagram's Videography Restrictions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-blueprint-for-cutting-edge-xbox-recording/"><u>[Updated] 2024 Approved The Ultimate Blueprint for Cutting-Edge Xbox Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>[Updated] In 2024, Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3000-dell-gamer-beast-review-surprising-perks-of-cutting-edge-features-that-reimagine-your-playing-experience-zdnet/"><u>$3,000 Dell Gamer Beast Review: Surprising Perks of Cutting-Edge Features That Reimagine Your Playing Experience | ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-finding-your-digital-filming-suite-on-youtube/"><u>2024 Approved Step-by-Step Finding Your Digital Filming Suite on YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-persistent-bsod-from-ntkrnlmpexe-expert-strategies-and-solutions/"><u>Eliminating Persistent BSOD From 'ntkrnlmp.exe': Expert Strategies & Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747968-genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-blue-screen-error-in-netwtw10sys-for-stable-pc-operation/"><u>How to Stop the Blue Screen Error in Netwtw10.sys for Stable PC Operation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-classpnpsys-problems-in-windows-117-with-step-by-step-solutions/"><u>Troubleshooting Classpnp.sys Problems in Windows 11/7 with Step-by-Step Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-how-to-fix-blue-screen-of-death-bsod-code-0x00000124-in-windows-7-and-windows-10/"><u>Troubleshooting Tips: How to Fix Blue Screen of Death (BSOD) - Code 0X00000124 in Windows 7 and Windows 10</u></a></li>
 </ul></div>
 

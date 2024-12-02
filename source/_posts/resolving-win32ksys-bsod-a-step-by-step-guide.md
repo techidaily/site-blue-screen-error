@@ -1,7 +1,7 @@
 ---
 title: "Resolving Win32K.sys BSOD: A Step-by-Step Guide"
-date: 2024-11-02T22:58:06.767Z
-updated: 2024-11-04T00:44:35.320Z
+date: 2024-11-28T20:46:36.176Z
+updated: 2024-12-02T01:40:12.262Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
 **BAD\_SYSTEM\_CONFIG\_INFO**  is one of the common Blue Screen of Death (BSOD) error on Windows system. If you’re experiencing this error, rest assured, you’re not alone. Many Windows users have this problem. More importantly, you can fix it through the methods below quickly & easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 effective methods to fix BAD\_SYSYTEM\_CONFIG\_INFO
 
  The Bad System Config Info blue screen error could be caused by different reasons. This guide is covering 3 different effective and easy methods for your to try. You may not have to try them all; just start from the top and work your way down, till you solve your problem.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 1. **[Update all your available drivers](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
 
@@ -48,26 +56,10 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-update-drivers.jpg)
 4. Reboot your Windows 10 to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Fix your BCD file
@@ -83,26 +75,21 @@ thumbnail: https://thmb.techidaily.com/07b2aab86c7b38cc417b46120335b85009ee66f18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **bootrec /repairbcd**  
  **bootrec /osscan**  
@@ -161,17 +148,22 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-windows-11-blue-screen-error-after-update/"><u>[Fixed] Windows 11 Blue Screen Error After Update</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levate-your-soundbites-insights-for-youtube-short-tunes-for-2024/"><u>[New] Elevate Your Soundbites Insights for YouTube Short Tunes for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-transform-your-channel-with-effective-youtube-link-protocols/"><u>[New] In 2024, Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcast-in-ultra-hd-on-the-social-network/"><u>2024 Approved Broadcast in Ultra HD on the Social Network</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-video-tdr-failure-due-to-atikmpagsys-on-windows-11-fixed/"><u>Comprehensive Troubleshooting for Video TDR Failure Due to atikmpag.sys on Windows 11 [Fixed]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-10-computers-crash-overcoming-machine-check-error-bluescreens/"><u>Resolve Your Windows 10 Computer’s Crash: Overcoming Machine Check Error Bluescreens</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-0x000000ea-bsod-issue-on-your-windows-pc/"><u>Resolving 0X000000EA BSOD Issue on Your Windows PC</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/sichere-ubertragung-von-icloud-bildern-auf-eine-externe-festplatte-einfacher-weg/"><u>Sichere Übertragung Von iCloud-Bildern Auf Eine Externe Festplatte - Einfacher Weg</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-found-resolve-rtkvhd64sys-bsod-issues-in-windows-computers/"><u>Solution Found: Resolve RTKVHD64.sys BSOD Issues in Windows Computers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/spoon-generous-amounts-of-the-brown-sugar-sauce-over-the-top-allowing-some-to-pool-around-the-edges-of-the-steak-and-sides-of-the-plate-for-an-appealing-pre51/"><u>Spoon Generous Amounts of the Brown Sugar Sauce over the Top, Allowing some to Pool Around the Edges of the Steak and Sides of the Plate for an Appealing Presentation.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-final-fantasy-xv-crashing-on-pc/"><u>[Solved] Final Fantasy XV Crashing on PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masters-list-of-affordable-and-premium-win-art-tools/"><u>[Updated] Master's List of Affordable & Premium Win Art Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcoming-kernel-security-flaw-failures-on-windows-10-solution-provided/"><u>Comprehensive Guide to Overcoming Kernel Security Flaw Failures on Windows 10 [Solution Provided]</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719151213607-curbing-the-ban-facebook-board-assessment-of-executive-decision/"><u>Curbing the Ban: Facebook Board Assessment of Executive Decision</u></a></li>
+<li><a href="https://solve-info.techidaily.com/expert-advice-on-debugging-and-repairing-ram-write-failures-a-comprehensive-guide-with-13-methods/"><u>Expert Advice on Debugging and Repairing RAM Write Failures - A Comprehensive Guide with 13 Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/garrys-mod-crash-woes-advanced-troubleshooting-strategies-ready/"><u>Garry's Mod Crash Woes? Advanced Troubleshooting Strategies Ready</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-page-damaged-by-defective-equipment-on-windows-11-or-10/"><u>How to Fix a Page Damaged by Defective Equipment on Windows 11 or 10</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-score-the-premium-hp-victus-cuatro-de-juego-laptop-for-just-515-with-best-buys-exclusive-anti-prime-deal/"><u>Limited Time Offer: Score the Premium HP Victus Cuatro De Juego Laptop for Just $515 with Best Buy's Exclusive Anti-Prime Deal!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-visuals-and-minimizing-lag-tricks-for-optimizing-the-ascents-fps/"><u>Maximizing Visuals & Minimizing Lag: Tricks for Optimizing The Ascent's FPS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recovering-your-mac-a-comprehensive-walkthrough-of-accessing-the-recovery-menu/"><u>Recovering Your Mac: A Comprehensive Walkthrough of Accessing the Recovery Menu</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-0x00000019-bad-pool-header-issue-in-windows-operating-systems/"><u>Resolving the '0X00000019: Bad Pool Header' Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-tricks-for-reaching-the-windows-10-safe-mode-quickly/"><u>Simple Tricks for Reaching the Windows 10 Safe Mode Quickly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-nw-0x4b56-cab37d98-ac7e-error-code-dxgmms2sys-on-win11/"><u>Troubleshooting Windows Nw-0x4b56-Cab37d98-Ac7e Error Code - dxgmms2.sys on Win11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-driver-verifier-detected-violation-bluescreen-a-comprehensive-solution-for-windows/"><u>Winning Against 'Driver Verifier Detected Violation' Bluescreen: A Comprehensive Solution for Windows #</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-video-tdr-problems-and-atikmpagsys-on-windows-10-a-comprehensive-guide/"><u>Winning the Battle Against Video TDR Problems and atikmpag.sys on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-fight-against-syntpsys-bsod-issues-effective-strategies-for-windows-users/"><u>Winning the Fight Against SYNTP.SYS BSOD Issues: Effective Strategies for Windows Users</u></a></li>
 </ul></div>
 

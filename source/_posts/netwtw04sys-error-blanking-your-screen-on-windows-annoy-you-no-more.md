@@ -1,7 +1,7 @@
 ---
 title: Netwtw04.sys Error Blanking Your Screen on Windows Annoy You No More
-date: 2024-11-01T16:14:31.007Z
-updated: 2024-11-03T17:52:04.672Z
+date: 2024-11-27T01:19:36.238Z
+updated: 2024-12-01T21:23:49.246Z
 tags:
   - win11
   - win10
@@ -41,18 +41,15 @@ until you find the one that works for you.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
 
  3) Repeat**1)** and**2)** until the screen says**Preparing Automatic Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait for Windows to finish diagnosing your PC, and click**Advanced options** .
 
@@ -66,42 +63,33 @@ until you find the one that works for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Click**Startup settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) On your keyboard, press**5**  to enable**Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Now you’ve successfully booted up in**Safe Mode with Networking** , please move on to**Fix 2** , below to fix the**Netwtw04.sys** failed blue screen error.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Roll back your network driver
 
@@ -113,20 +101,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on**Network adapters** and then double-click on**your network adapter** /**Wi-Fi adapter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59b231e2ea5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Driver** tab >**Roll Back Driver** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59b2e77df85.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the**Roll Back Driver** button is grayed out, then move on to[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -141,10 +130,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network driver
@@ -189,19 +175,6 @@ Here is how to run DISM to fix Windows corruption errors:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Wait a while for the whole process to finish.
 
  3) Type **sfc /scannow**  and press **Enter** .
@@ -231,16 +204,22 @@ Wait a while for the whole process to finish.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-chronic-removal-method-for-youtubes-bite-sized-videos/"><u>[New] Chronic Removal Method for YouTube's Bite-Sized Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716068975393-new-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english-for-2024/"><u>[New] Navigating Through Top PS2 Games on Android Devices - A Compre Written in English. For 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exceptional-windows-calls-8-highest-rated/"><u>[Updated] 2024 Approved Exceptional Windows Calls 8 Highest Rated</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-negative-time-videos-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Negative-Time Videos on Instagram</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-podcast-branding-with-ai-naming-generators/"><u>2024 Approved Revolutionizing Podcast Branding with AI Naming Generators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-viral-journey-top-tags-to-accelerate-views-in-short-form-videos/"><u>2024 Approved Viral Journey Top Tags to Accelerate Views in Short Form Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-diagnosing-and-fixing-hardware-abstraction-layer-hal-malfunctions-on-windows-11-systems/"><u>Comprehensive Guide: Diagnosing and Fixing Hardware Abstraction Layer (HAL) Malfunctions on Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-dxgkrnlsys-bsod-issue-in-microsoft-windows/"><u>Effective Solutions for the 'dxgkrnl.sys' BSOD Issue in Microsoft Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor to Protect Your Individual Information</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/siemens-ag/"><u>Siemens AG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-blue-screen-of-death-due-to-memory-allocation-failures-on-win11-systems/"><u>Step-by-Step Solution for Blue Screen of Death Due to Memory Allocation Failures on Win11 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-chorus-of-creators-guidelines-for-sharing-sounds-online-for-2024/"><u>[Updated] Chorus of Creators Guidelines for Sharing Sounds Online for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-note-30-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-exciting-quests-selecting-the-top-10-adventure-gaming-treasures/"><u>2024 Approved Exciting Quests Selecting the Top 10 Adventure Gaming Treasures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-flying-buddies-top-toys-for-children/"><u>2024 Approved Perfect Flying Buddies Top Toys for Children</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-master-these-techniques-to-fix-windows-10s-bugcodeusb-driver-woes/"><u>Blue Screen Blues? Master These Techniques to Fix Windows 10'S BUGCODE_USB Driver Woes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-no-more-correcting-netwtw10sys-system-failures-for-smooth-computing/"><u>Blue Screen No More: Correcting Netwtw10.sys System Failures for Smooth Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-fixing-critical-failure-with-dxgmms2sys-error-message-on-windows-11/"><u>Comprehensive Guide: Fixing Critical Failure with dxgmms2.sys Error Message on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199722911-comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-critical-unmountable-boot-volume-error-in-windows-10-for-smooth-operation/"><u>Expert Tips to Overcome the Critical Unmountable Boot Volume Error in Windows 10 for Smooth Operation</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/gratis-soluciones-de-respaldo-para-sistemas-windows-881-nuestras-opciones-mas-eficaces/"><u>Gratis Soluciones De Respaldo Para Sistemas Windows 8/8.1: Nuestras Opciones Más Eficaces</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix FRP Locks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-transition-elevating-your-workspace-with-a-move-from-traditional-exchange-to-the-serenity-of-office-365/"><u>Seamless Transition: Elevating Your Workspace with a Move From Traditional Exchange to the Serenity of Office 365</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-initialization-errors-on-windows-11-a-complete-solution-guide/"><u>Troubleshooting HAL Initialization Errors on Windows 11: A Complete Solution Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-blue-screens-master-tips-for-resolving-error-0x0000001a/"><u>Winning Against Blue Screens: Master Tips for Resolving Error 0X0000001A</u></a></li>
 </ul></div>
 

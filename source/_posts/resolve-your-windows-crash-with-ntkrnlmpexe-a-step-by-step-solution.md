@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution
-date: 2024-11-06T21:59:37.126Z
-updated: 2024-11-14T03:44:59.832Z
+date: 2024-11-30T04:40:39.693Z
+updated: 2024-12-01T18:15:39.181Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -65,35 +69,26 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -117,6 +112,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
@@ -128,10 +127,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
@@ -162,18 +158,24 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-periscope-detailed-instruction-manual/"><u>[New] 2024 Approved Navigating Periscope Detailed Instruction Manual</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-clockwatchdogtimeout-bsod-in-windows-11/"><u>[Solved] CLOCK_WATCHDOG_TIMEOUT BSOD in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-resolve-stop-error-0x00000116-blue-screen/"><u>Effortless Solutions to Resolve Stop Error 0X00000116 Blue Screen</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-and-fixing-error-0x00000eb-bsod-solutions/"><u>Expert Tips for Diagnosing and Fixing Error 0X00000eb – BSOD Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-your-pcs-crashes-repair-ntsssys-errors-causing-bsod-on-windows-11/"><u>Fix Your PC's Crashes: Repair NTSS.sys Errors Causing BSOD on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-exclusive-selection-best-10-cameras-for-win-11-recording/"><u>In 2024, Exclusive Selection Best 10 Cameras for Win 11 Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-small-group-setups-in-zoom-for-2024/"><u>Navigating Small Group Setups in Zoom for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-the-bsod-error-linked-to-win3ekfullsys-file/"><u>Step-by-Step Solution for the BSOD Error Linked to Win3eKFull.sys File</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210573842-9781735658278-the-priestess-transmissions/"><u>The Priestess Transmissions | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-bsod-crashes-on-windows-10-systems/"><u>Troubleshooting and Repairing 'Bad Pool Header' BSOD Crashes on Windows 10 Systems</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/wonderfox-dvd-video-converter-steps-for-signup-and-premium-version-upgrade/"><u>WonderFox DVD Video Converter: Steps for Signup & Premium Version Upgrade</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-20-most-memorable-anime-series-intros/"><u>[New] 20 Most Memorable Anime Series Intros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-harvest-hacks-ginger-valley-edition/"><u>[New] 2024 Approved Harvest Hacks Ginger Valley Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-could-you-make-on-youtube-snippets/"><u>[New] In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-volume-surge-controllers-for-windowsmacos/"><u>[New] In 2024, Top 10 Volume Surge Controllers for Windows/MacOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-curate-engaging-content-with-top-igtv-editor-tools/"><u>[Updated] 2024 Approved Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enrich-video-narrative-with-slow-motion-on-iphone/"><u>2024 Approved Enrich Video Narrative with Slow Motion on iPhone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dealing-with-the-irql-not-less-or-equal-bug-a-comprehensive-guide-for-windows-7-users/"><u>Dealing with the 'IRQL NOT LESS OR EQUAL' Bug: A Comprehensive Guide for Windows 7 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-attempted-switch-failure-in-dpc-issue-for-windows-quick-fix-tips/"><u>Eliminating the 'Attempted Switch Failure in DPC' Issue for Windows - Quick Fix Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fandango-on-the-go-installation-tutorial-for-fire-stick-users/"><u>Fandango On The Go: Installation Tutorial for Fire Stick Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-10-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-error-usb-driver-issues-in-windows-10/"><u>Fixing the Blue Screen Error: USB Driver Issues in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-with-dxgmmsn2sys-error-on-windows-11/"><u>How to Resolve Blue Screen of Death with 'dxgmmsn2.sys' Error on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-s18e-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo S18e</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/powerdirector-color-correction-a-step-by-step-guide-to-perfecting-your-footage/"><u>PowerDirector Color Correction A Step-by-Step Guide to Perfecting Your Footage</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-resolving-windows-10s-unforeseen-store-exception-issue/"><u>Troubleshooting Steps for Resolving Windows 10'S Unforeseen Store Exception Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
 </ul></div>
 

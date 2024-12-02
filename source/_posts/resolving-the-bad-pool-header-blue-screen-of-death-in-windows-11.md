@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Bad Pool Header' Blue Screen of Death in Windows 11
-date: 2024-11-16T18:29:18.458Z
-updated: 2024-11-23T18:33:14.086Z
+date: 2024-11-27T22:39:01.275Z
+updated: 2024-12-01T18:03:12.817Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db357b3699e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 easy and effective methods to fix 0x000000F4
@@ -32,7 +32,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
  IMPORTANT: You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, restart it in Safe Mode, then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
@@ -46,24 +46,16 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a5be1336da.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer to see if the blue screen disappear. If it shows again, you know your drivers weren’t to blame, and you should try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Uninstall your antivirus software temporarily
 
  This problem could also be caused by your antivirus software. Try to uninstall your antivirus software, then restart your computer to see if the blue screen is gone.
 
 **Important:**  Please reinstall your antivirus software whether Method 2 helps you fix this problem. It’s important to keep an antivirus software to protect your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Check your disk
 
@@ -73,11 +65,19 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db475dd7b40.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Yes**  when prompted by User Account Control.
 
  3) Type **chkdsk /f**  and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db47077b1d2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow the instructions to finish the checking task.
 
@@ -101,24 +101,18 @@ Follow the instructions to finish the checking task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-a-comprehensible-guide-to-screen-recording-on-the-mi-11/"><u>[New] A Comprehensible Guide to Screen Recording on the Mi 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-10/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-ntkrnlmpexe-blue-screen-error/"><u>[SOLVED] ntkrnlmp.exe Blue Screen Error</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/clone-your-existing-windows-7-setup-a-guide-to-transferring-it-to-a-fresh-hard-disk-or-ssd-step-by-step/"><u>Clone Your Existing Windows 7 Setup: A Guide to Transferring It to a Fresh Hard Disk or SSD (Step-by-Step)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/easy-methods-to-incorporate-subtitles-on-vimeo-for-2024/"><u>Easy Methods to Incorporate Subtitles on Vimeo for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a59-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A59 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-pickups-top-choice-shows-streaming-on-discovery-plus-in-jul-2024/"><u>Exclusive Pickups: Top Choice Shows Streaming on Discovery Plus in Jul 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-the-notorious-syntpsys-blue-screen-of-death-in-windows-os/"><u>Expert Tips to Fix the Notorious SYNTP.SYS Blue Screen of Death in Windows OS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-mode-memory-leak-understanding-and-resolving-heap-corruptions/"><u>Fixing the 'Kernel Mode Memory Leak' – Understanding and Resolving Heap Corruptions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-cannot-access-boot-drive-error-displayed-as-a-blue-screen-on-windows-10-tutorial-with-screenshots/"><u>Fixing the Cannot Access Boot Drive Error Displayed as a Blue Screen on Windows 10 - Tutorial with Screenshots</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-error-ntoskrnlexe-stopped-unexpectedly-0xc00002e-on-windows-nx/"><u>Fixing the Critical Error: NTOSKRNL.EXE STOPPED Unexpectedly (0Xc00002e) on Windows nX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/handling-windows-blue-screen-errors-from-numerous-interrupt-request-handles-successfully-closed/"><u>Handling Windows Blue Screen Errors From Numerous Interrupt Request Handles Successfully Closed</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edgeplus-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge+ (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>In 2024, The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/liberating-laughter-from-lockdown-20-humorous-fb-incarceration-moments/"><u>Liberating Laughter From Lockdown 20 Humorous FB Incarceration Moments</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-errors-in-windows-11-a-comprehensive-guide/"><u>Resolving System Service Errors in Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/successful-techniques-for-restoring-your-accidentally-deleted-iphone-images-safely/"><u>Successful Techniques for Restoring Your Accidentally Deleted iPhone Images Safely</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-windows-10s-pnp-detected-fatal-malfunction-a-step-by-step-guide/"><u>Winning Against Windows 10'S 'PNP Detected' Fatal Malfunction – A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-game-changer-implementing-custom-gaming-banners/"><u>[New] 2024 Approved The Game Changer Implementing Custom Gaming Banners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-top-ranked-4-places-to-download-skype-tones/"><u>[Updated] 2024 Approved Top-Ranked 4 Places to Download Skype Tones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-breaking-the-internet-with-these-hysterical-stickers/"><u>[Updated] Breaking the Internet with These Hysterical Stickers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-top-notch-affordability-in-the-convertible-asus-chromebook-flip-c3email-protecteda-in-depth-analysis/"><u>Discover Top-Notch Affordability in the Convertible Asus Chromebook Flip C3([email Protected])A: In-Depth Analysis</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-the-notorious-stop-code-0x0000001a-bsod-problem-in-windows-os/"><u>Effective Solutions to Tackle the Notorious Stop Code 0X0000001A BSOD Problem in Windows OS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-techniques-for-addressing-and-correcting-bad-pool-header-issues-leading-to-bsod-on-windows-10/"><u>Effective Techniques for Addressing and Correcting Bad Pool Header Issues Leading to BSOD on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-ways-to-address-and-repair-a-corrupted-memory-allocation-error-bad-pool-header-in-windows-7/"><u>Effective Ways to Address and Repair a Corrupted Memory Allocation Error (Bad Pool Header) in Windows 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/futures-finest-htpc-models-dominating-2024-market-trends/"><u>Future's Finest HTPC Models Dominating 2024 Market Trends</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-components-a-deep-dive-by-toms-team/"><u>Mastering Gadgets and Components: A Deep Dive by Tom's Team</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199701695-mastering-hidclasssys-troubleshooting-fast-and-effective-methods-inside/"><u>Mastering HIDCLASS.SYS Troubleshooting: Fast & Effective Methods Inside!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-self-assured-vlogging-channeling-youtube-stars-for-2024/"><u>Mastering Self-Assured Vlogging Channeling YouTube Stars for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199722422-troubleshooting-the-unexpected-store-exception-error-in-windows-11-solved/"><u>Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-11-snipping-tool/"><u>Windows 11 Snipping Toolを使った効果的なスクリーンショット撮影テクニック</u></a></li>
 </ul></div>
 

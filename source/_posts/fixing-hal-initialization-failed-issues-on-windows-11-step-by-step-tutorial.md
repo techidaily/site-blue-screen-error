@@ -1,7 +1,7 @@
 ---
 title: Fixing 'HAL Initialization Failed' Issues on Windows 11 - Step-by-Step Tutorial
-date: 2024-11-21T17:52:18.723Z
-updated: 2024-11-23T21:15:20.784Z
+date: 2024-11-30T00:26:38.082Z
+updated: 2024-12-01T21:40:17.782Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -43,28 +47,24 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -77,19 +77,23 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
@@ -158,16 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-perfecting-the-art-of-documentation-in-virtual-gatherings-google-meet/"><u>[New] 2024 Approved Perfecting the Art of Documentation in Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-automatically-resize-videos-for-instagram-on-mac/"><u>[New] In 2024, How to Automatically Resize Videos for Instagram on Mac?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>[New] In 2024, Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-resolving-no-video-issue-on-sony-a6400-device/"><u>[Updated] 2024 Approved Resolving No-Video Issue on Sony A6400 Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-blue-screen-bugs-linked-to-cmusbdacsys-driver-in-windows/"><u>Diagnosing and Repairing Blue Screen Bugs Linked to CMUSBDAC.sys Driver in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-google-pixel-fold-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Google Pixel Fold to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Huawei ?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-system-issues-correcting-corrupted-data-from-hardware-faults-in-windows-1110/"><u>Solving System Issues: Correcting Corrupted Data From Hardware Faults in Windows 11/10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-unwanted-bluescreen-errors-post-windows-10-update/"><u>Troubleshooting Unwanted Bluescreen Errors Post-Windows 10 Update</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/victory-against-the-bluescreen-a-fixers-journey-through-ntkrnlmpexe-errors/"><u>Victory Against the Bluescreen: A Fixer's Journey Through ntkrnlmp.exe Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-12-signs-endless-stories-create-your-whatsapp-bio-narrative-for-2024/"><u>[New] 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-storage-exploration-how-many-vids-can-64128gb-hold/"><u>[New] In 2024, Storage Exploration How Many Vids Can 64/128GB Hold?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>[New] Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/wiftly-adapt-video-formats-for-mac-pixels-for-2024/"><u>[New] Swiftly Adapt Video Formats for MAC Pixels for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-win32kbasesys-blue-screen-error-on-windows-1110/"><u>[Solved] Win32kbase.sys Blue Screen Error on Windows 11/10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[Updated] 2024 Approved Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-screen-picks-for-professional-image-enhancers/"><u>[Updated] 2024 Approved Top Screen Picks for Professional Image Enhancers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>2024 Approved Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199742941-comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcome-nmi-related-bsod-errors-on-your-computer/"><u>Comprehensive Guide to Overcome NMI-Related BSOD Errors on Your Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199733618-critical-service-crash-to-blue-screen-of-death-solving-windows-11-issues-with-ease/"><u>Critical Service Crash to Blue Screen of Death? Solving Windows 11 Issues with Ease!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-pc-issues-fixing-windows-1ns-bsod-due-to-machine-check-exceptions/"><u>Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/atching-thumbnails-select-the-best-fonts/"><u>Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>In 2024, A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/lufthansa-group/"><u>Lufthansa Group</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-kernel-mode-memory-management-bug-a-step-by-step-guide/"><u>Resolving the 'Kernel Mode Memory Management' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-7-crashing-fix-full-guide/"><u>Windows 7 Crashing Fix [Full Guide]</u></a></li>
 </ul></div>
 

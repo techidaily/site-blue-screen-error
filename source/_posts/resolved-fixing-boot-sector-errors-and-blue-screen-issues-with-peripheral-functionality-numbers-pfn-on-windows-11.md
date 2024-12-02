@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Boot Sector Errors & Blue Screen Issues with Peripheral Functionality Numbers (PFN) on Windows 11"
-date: 2024-11-20T23:57:43.054Z
-updated: 2024-11-24T00:33:30.512Z
+date: 2024-11-29T03:08:02.843Z
+updated: 2024-12-02T03:48:21.050Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 [Driver Easy Free](https://tools.techidaily.com/drivereasy/download/) helps you fix the Bad Pool Caller problem in one go!
 
  If you’re seeing a blue screen of death with the error message_**Bad\_Pool\_Caller**_ popping up on your screen, stopping you from doing anything, you’re not alone.Many Windows 10 users are reporting this problem as well. But no need for you to worry sick about it, it’s possible to fix. Here are[**4 solutions**](https://tools.techidaily.com/drivereasy/download/) for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **What is Bad\_Pool\_Caller blue screen of death error?**
 
@@ -60,6 +56,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
@@ -91,7 +91,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -101,7 +101,7 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
@@ -110,19 +110,15 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
- 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -135,7 +131,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click the hard driver you want to check and click **Properties** .
@@ -147,7 +143,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
@@ -165,6 +161,10 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -192,17 +192,21 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-quick-and-easy-the-5-best-tools-for-facebook-live-videos/"><u>[New] 2024 Approved Quick & Easy The 5 Best Tools for Facebook Live Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-radiance-routines-pro-tips-for-video-illumination/"><u>[New] Radiance Routines Pro Tips for Video Illumination</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/empowering-your-automated-staff-with-intelligent-decision-making-skills-insights-from-abbyy/"><u>Empowering Your Automated Staff with Intelligent Decision-Making Skills - Insights From ABBYY</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-sudden-kernel-error-leading-to-bsods-on-your-windows-10-machine/"><u>How to Address the Sudden Kernel Error Leading to BSODs on Your Windows 10 Machine</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/propel-your-device-into-the-future-win7-to-10-update-strategy/"><u>Propel Your Device Into the Future: Win7 to 10 Update Strategy</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-memory-management-blue-screen-of-death-in-windows-11/"><u>Resolving 'Memory Management' Blue Screen of Death in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-persistent-blue-screen-caused-by-volsnapsys-in-windows-environments/"><u>Step-by-Step Fixes for the Persistent Blue Screen Caused by Volsnap.sys in Windows Environments</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-instructions-correcting-the-cmusbdacsys-issue-leading-to-blue-screen-in-windows/"><u>Step-by-Step Instructions: Correcting the CMUSBDAC.sys Issue Leading to Blue Screen in Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations/"><u>Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unlock-the-secrets-to-overcoming-fatal-system-failures-in-windows-10-with-event-tracing-techniques/"><u>Unlock the Secrets to Overcoming Fatal System Failures in Windows 10 with Event Tracing Techniques</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-essential-guide-to-the-best-7-audio-editors-for-professional-guitarists-for-2024/"><u>Updated The Essential Guide to the Best 7 Audio Editors for Professional Guitarists for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unleashing-video-potential-the-imovie-blueprint-for-youtube-editors/"><u>[New] 2024 Approved Unleashing Video Potential The iMovie Blueprint for YouTube Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-measuring-movie-gb-usage-over-a-day/"><u>[New] Measuring Movie GB Usage Over a Day</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-world-of-google-ar-accessories-and-beyond/"><u>[Updated] 2024 Approved The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>[Updated] Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-dealing-with-windows-11s-persistent-fat-file-system-problem/"><u>Effective Solutions for Dealing With Windows 11'S Persistent FAT File System Problem</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-bsod-errors-caused-by-inadequate-memory-management-in-windows-10-and-11/"><u>Eliminating BSOD Errors Caused by Inadequate Memory Management in Windows 10 & 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-blue-screen-of-death-from-driver-overrun-errors/"><u>Expert Tips to Fix Blue Screen of Death From Driver Overrun Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-edit-youtube-videos-in-finalcut-pro/"><u>How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-system-boot-problems-with-hal-failure-in-windows-n-expert-solutions-revealed/"><u>Overcoming System Boot Problems with HAL Failure in Windows N – Expert Solutions Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-driver-verifier-detected-violation-bsod-issues-on-windows-10-complete-guide/"><u>Resolve 'Driver Verifier Detected Violation' BSOD Issues on Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-windows-10-system-services-failure/"><u>Troubleshooting and Fixing the Windows 10 System Services Failure</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-ease-your-driver-corruptedexpool-error-headache-with-this-proven-fix/"><u>Windows Ease Your 'DRIVER CORRUPTED_EXPOOL' Error Headache with This Proven Fix</u></a></li>
 </ul></div>
 

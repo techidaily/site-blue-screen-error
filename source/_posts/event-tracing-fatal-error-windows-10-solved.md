@@ -1,7 +1,7 @@
 ---
 title: Event Tracing Fatal Error Windows 10 [SOLVED]
-date: 2024-11-21T22:58:28.531Z
-updated: 2024-11-23T23:58:54.004Z
+date: 2024-11-29T01:59:48.198Z
+updated: 2024-12-01T22:29:31.372Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  If your Windows PC is running into the blue screen of death with the error code:**CRITICAL\_STRUCTURE\_CORRUPTION** , don’t worry! You’re definitely not the only person to experience this problem. Many Windows 10 users are reporting the very same issue. More importantly, you should be able to fix it pretty easily… (skip to [the fixes](https://tools.techidaily.com/drivereasy/download/) directly).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why do I have the Critical\_Structure\_Corruption blue screen error?
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 2. **a driver that purposely or accidentally changed critical kernel code or data**
 
  Since we’ve got the causes cleared out, it’s not that hard for us to locate the solutions to this problem. Read on and find out how to fix the Critical\_Structure\_Corruption error on Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Uninstall potential problematic software
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -94,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -114,20 +114,21 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -143,21 +144,17 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-37-58.png)
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Check the Event Viewer
 
@@ -168,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final option
 
@@ -194,18 +195,17 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expert-guide-to-crafting-immersive-experiences-through-instagram-vids/"><u>[New] In 2024, Expert Guide to Crafting Immersive Experiences Through Instagram Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-ultimate-guide-to-essential-game-worlds/"><u>[Updated] 2024 Approved Your Ultimate Guide to Essential Game Worlds</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-6th-richest-strategies-for-successful-ig/"><u>[Updated] Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>2024 Approved Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bsod-troubleshooting-for-unmountablebootvolume-error-in-windows-11-detailed-fixes/"><u>BSOD Troubleshooting for UNMOUNTABLE_BOOT_VOLUME Error in Windows 11 - Detailed Fixes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fastboot-tips-enhancing-windows-11-startup-efficiency-with-revouninstaller/"><u>FastBoot Tips: Enhancing Windows 11 Startup Efficiency with RevoUninstaller</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-system-service-exception-issue-on-windows-11-solutions-and-tips/"><u>Fixing the 'System Service' Exception Issue on Windows 11: Solutions and Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-clock-watchdog-timeout-error-and-blue-screen-on-windows-10/"><u>Fixing the Clock Watchdog Timeout Error & Blue Screen on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-page-fault-in-nonpaged-area-on-windows-10-systems/"><u>How to Fix 'Page Fault in Nonpaged Area' On Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-resolve-hal-setup-errors-during-startup-on-windows-11/"><u>How to Successfully Resolve HAL Setup Errors During Startup on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-n3-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find N3 Flip Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/nvlddmkmsys-bsod-on-windows-systems-solving-video-driver-issues-and-preventing-failures/"><u>nvlddmkm.sys BSoD on Windows Systems: Solving Video Driver Issues and Preventing Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-verifier-iomanager-violation/"><u>[Fixed] DRIVER VERIFIER IOMANAGER VIOLATION</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-no-cost-youtube-audio-tools-for-seamless-mp3-downloads/"><u>[New] In 2024, No-Cost YouTube Audio Tools for Seamless MP3 Downloads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-deep-dive-into-polarr-photo-editor-comprehensive-review/"><u>[Updated] Deep Dive Into Polarr Photo Editor Comprehensive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>[Updated] In 2024, Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-internal-power-malfunction-in-windows-10-devices/"><u>Effective Solutions for Internal Power Malfunction in Windows 10 Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-address-error-0xc000000e-on-your-pc/"><u>Effective Solutions to Address Error 0Xc000000e on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fading-fast-with-premiere-pro-for-2024/"><u>Fading Fast with Premiere Pro for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-persistent-bluescreen-glitch-in-windows-10-updates/"><u>Fixing the Persistent BlueScreen Glitch in Windows 10 Updates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-with-aes-best-text-presets/"><u>In 2024, Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-kernal-protection-error-on-windows-10-operating-system/"><u>Resolved: Critical Kernal Protection Error on Windows 10 Operating System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-removing-digital-restrictions-from-google-play-ebooks/"><u>Step-by-Step Guide: Removing Digital Restrictions From Google Play eBooks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-vr-tools-compilation-10-essentials-for-2024/"><u>The Ultimate VR Tools Compilation (10 Essentials) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes
-date: 2024-10-30T08:25:05.950Z
-updated: 2024-11-03T19:32:21.173Z
+date: 2024-11-25T23:12:47.068Z
+updated: 2024-12-01T22:54:55.589Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Update all your available drivers
 
  Many blue screen errors are blamed on  outdated, corrupted or missing device drivers. BAD\_SYSTEM\_CONFIG\_INFO is no exception. Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -55,20 +42,21 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-update-drivers.jpg)
 4. Reboot your Windows 10 to see if it works.
 
- If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ## Method 2: Fix your BCD file
 
@@ -81,14 +69,15 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-43-48.jpg)
 3. Click **Repair your computer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
@@ -98,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **bootrec /repairbcd**  
  **bootrec /osscan**  
  **bootrec /repairmbr**
@@ -112,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 7. Reboot your Windows 10 to see if it works.
 
 See if this method works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Fix your Windows Registry
 
@@ -162,20 +148,24 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unleashing-the-future-of-action-recording-with-intova-for-2024/"><u>[New] Unleashing the Future of Action Recording With Intova for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-detailed-guide-to-advanced-usage-in-macs-preview-app/"><u>[Updated] 2024 Approved Detailed Guide to Advanced Usage in Mac's Preview App</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exploring-the-nuances-in-physical-gesture-detection/"><u>[Updated] 2024 Approved Exploring the Nuances in Physical Gesture Detection</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-clear-distraction-free-viewing-of-old-youtube-content/"><u>[Updated] In 2024, Clear, Distraction-Free Viewing of Old YouTube Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-for-educators-maximizing-its-classroom-potential/"><u>[Updated] YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-ipad-speech-recording-tools-3/"><u>2024 Approved Elite iPad Speech Recording Tools #3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excellence-in-virtual-presentations-discover-our-8-essential-strategies-for-success-on-zoom-with-insights-from-zdnet/"><u>Excellence in Virtual Presentations: Discover Our 8 Essential Strategies for Success on Zoom with Insights From ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/human-insight-vs-ai-algorithms-in-copywriting/"><u>Human Insight vs AI Algorithms in Copywriting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-of-death-error-bsod-stop-code-0x0000003b-explained/"><u>Solving Blue Screen of Death Error (BSOD) - Stop Code 0X0000003B Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tailored-ending-scenes-get-em-for-free-for-2024/"><u>Tailored Ending Scenes - Get 'Em for Free for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-overcoming-bsod-blue-screen-of-death-in-windows-7/"><u>Troubleshooting Tips: Overcoming BSOD (Blue Screen of Death) in Windows 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshoot-and-solve-nvpcfsys-bsod-issues-on-pc/"><u>Ultimate Guide to Troubleshoot and Solve nvpcf.sys BSoD Issues on PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bad-pool-header-problem-on-your-windows-7-pc/"><u>Understanding and Resolving 'Bad Pool Header' Problem on Your Windows 7 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-nmihardwarefailure-bsod-issues-on-your-pc/"><u>Understanding and Solving NMI_HARDWARE_FAILURE BSOD Issues on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-aesthetics-the-ultimate-guide-to-tiktok-effects/"><u>[New] Advanced Aesthetics The Ultimate Guide to TikTok Effects</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-0x0000007e-blue-screen-of-death-error-on-windows-7/"><u>[Solved] 0X0000007E Blue Screen of Death Error on Windows 7</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-quick-flicker-on-dell-display/"><u>[Solved] Quick Flicker on Dell Display</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-pc-issue-0xc00n000017-and-getting-your-system-running-smoothly-again/"><u>COMPREHENSIVE GUIDE to Fixing PC Issue 0Xc00n000017 and Getting Your System Running Smoothly Again</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-the-frustrating-ce-34878-0-issue-on-your-ps4/"><u>Comprehensive Solutions to Overcome the Frustrating CE-34878-0 Issue on Your PS4</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-resolving-driver-overrun-stack-buffer-issues/"><u>Effective Solutions for Resolving Driver Overrun Stack Buffer Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-internal-error-in-video-scheduling-apps-on-windows-11/"><u>How to Fix 'Internal Error' In Video Scheduling Apps on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-system-pte-misuse-blue-screen-errors/"><u>How to Fix SYSTEM PTE MISUSE Blue Screen Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-nord-3-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus Nord 3 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y28-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y28 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-grab-free-video-profile-backgrounds/"><u>In 2024, Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-nmihardwarefailure-bsod-error/"><u>Solved: NMI_HARDWARE_FAILURE BSOD Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-driver-verifier-detected-violation-bsod-crashes-on-windows-10-solution/"><u>Step-by-Step Guide: Fixing Driver Verifier Detected Violation BSOD Crashes on Windows 10 [SOLUTION]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-of-death-bsod-caused-by-clock-watchdog-in-windows-11/"><u>Troubleshooting Blue Screen of Death (BSOD) Caused by Clock Watchdog in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steams-internet-connection-on-windows/"><u>Unlocking Steam's Internet Connection on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/voice-recording-mastery-with-ipad-tools/"><u>Voice Recording Mastery with iPad Tools</u></a></li>
 </ul></div>
 

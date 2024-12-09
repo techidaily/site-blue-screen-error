@@ -1,7 +1,7 @@
 ---
 title: 0X00000019 Bad Pool Header in Windows 11/8/7 [SOLVED]
-date: 2024-11-26T01:22:20.362Z
-updated: 2024-12-02T04:57:52.851Z
+date: 2024-12-05T16:22:09.487Z
+updated: 2024-12-09T17:10:22.004Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -38,25 +34,25 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -113,6 +113,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -122,16 +126,12 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
@@ -158,22 +158,15 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-seamless-video-editing-on-windows-11-platform/"><u>[New] Seamless Video Editing on Windows 11 Platform</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>[Updated] In 2024, Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-seamless-video-editing-in-windows-10-without-expensive-software/"><u>2024 Approved Seamless Video Editing in Windows 10 Without Expensive Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-note-30-vip-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-clock-watchdog-timeout-error-and-blue-screen-on-windows-10/"><u>Fixing the Clock Watchdog Timeout Error & Blue Screen on Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-a05s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-page-fault-in-nonpaged-area-on-windows-10-systems/"><u>How to Fix 'Page Fault in Nonpaged Area' On Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-your-pc-from-freezing-with-a-memory-leak-blue-screen-in-win11/"><u>How to Stop Your PC From Freezing with a Memory Leak Blue Screen in Win11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-resolve-hal-setup-errors-during-startup-on-windows-11/"><u>How to Successfully Resolve HAL Setup Errors During Startup on Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-14-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 14 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/nvlddmkmsys-bsod-on-windows-systems-solving-video-driver-issues-and-preventing-failures/"><u>nvlddmkm.sys BSoD on Windows Systems: Solving Video Driver Issues and Preventing Failures</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-open-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus Open</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolution-steps-for-blue-screen-of-death-read-only-memory-write-error/"><u>Resolution Steps for Blue Screen of Death - Read-Only Memory Write Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-resolve-syntpsys-blue-screen-errors-in-windows-systems/"><u>Troubleshoot and Resolve SYNTP.SYS 'Blue Screen' Errors in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-eliminating-the-dxgkrnlsys-blue-screen-of-death/"><u>Troubleshooting Tips: Eliminating the 'dxgkrnl.sys' Blue Screen of Death</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-asus-vg248qe-monitor-on-windows-easy-download-and-setup-instructions/"><u>Update Your Asus VG248QE Monitor on Windows: Easy Download and Setup Instructions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/visual-storytelling-through-photomosaics/"><u>Visual Storytelling Through Photomosaics</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-exploring-past-social-media-engagement-via-twitter-archive/"><u>[New] 2024 Approved Exploring Past Social Media Engagement via Twitter Archive</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-efficient-tweet-strategy-embrace-aspect-ratio-specifications/"><u>[New] In 2024, Efficient Tweet Strategy Embrace Aspect Ratio Specifications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-revolutionize-slack-discussions-with-10-free-recorders-for-2024/"><u>[New] Revolutionize Slack Discussions with 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-teams-top-chat-tools-is-slack-superior-to-discord/"><u>[New] Teams' Top Chat Tools Is Slack Superior to Discord?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-for-overcoming-internal-error-in-windows-11s-video-scheduler-feature/"><u>Expert Advice for Overcoming 'Internal Error' In Windows 11'S Video Scheduler Feature</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-eliminating-blue-screen-of-death-on-windows-10-devices/"><u>Expert Tips: Eliminating Blue Screen of Death on Windows 10 Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ps5-slim-vs-regular-ps5-which-one-should-you-choose/"><u>PS5 Slim Vs. Regular PS5: Which One Should You Choose?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199737518-triumph-over-blue-screens-of-death-fixing-error-code-0x00000050-on-your-winodws-7-system-solved/"><u>Triumph Over Blue Screens of Death: Fixing Error Code 0X00000050 on Your Winodws 7 System [Solved]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-failed-hardware-abstraction-layer-hal-in-windows-10-easily/"><u>Troubleshoot Failed Hardware Abstraction Layer (HAL) in Windows 10 Easily</u></a></li>
 </ul></div>
 

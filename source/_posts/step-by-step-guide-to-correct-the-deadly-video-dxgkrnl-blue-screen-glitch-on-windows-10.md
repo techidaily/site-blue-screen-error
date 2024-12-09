@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Correct the Deadly Video Dxgkrnl Blue Screen Glitch on Windows 10
-date: 2024-11-28T01:14:01.868Z
-updated: 2024-12-01T22:20:52.232Z
+date: 2024-12-02T19:05:40.059Z
+updated: 2024-12-09T20:04:17.458Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
  If you’re seeing a blue screen of death with the error message_**Bad\_Pool\_Caller**_ popping up on your screen, stopping you from doing anything, you’re not alone.Many Windows 10 users are reporting this problem as well. But no need for you to worry sick about it, it’s possible to fix. Here are[**4 solutions**](https://tools.techidaily.com/drivereasy/download/) for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **What is Bad\_Pool\_Caller blue screen of death error?**
 
 According to Microsoft,
@@ -32,6 +28,10 @@ According to Microsoft,
 > The_**BAD\_POOL\_CALLER**_ bug check has a value of**0x000000C2** . This indicates that the current thread is making a bad pool request.
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -47,7 +47,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **First Thing First**
@@ -58,6 +58,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
  2) You have run your antivirus programs and made sure that any possible threats have already been removed from your computer.
@@ -65,7 +69,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
@@ -73,10 +77,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
 
 If the problem persists, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
 
@@ -102,6 +102,14 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
@@ -109,10 +117,6 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
@@ -122,14 +126,10 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
@@ -192,18 +192,16 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-tips-for-navigating-zoom-meetings-on-win10-for-2024/"><u>[New] Essential Tips for Navigating Zoom Meetings on WIN10 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-insiders-guide-to-metaverse-salesmanship/"><u>[New] The Insider's Guide to Metaverse Salesmanship</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-edit-gopro-4k-video-for-2024/"><u>[Updated] How to Edit GoPro 4K Video for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-building-a-solid-foundation-for-great-interviews/"><u>[Updated] In 2024, Building A Solid Foundation For Great Interviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-easy-file-movement-to-pcs/"><u>2024 Approved The Ultimate Guide Easy File Movement to PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-for-the-troublesome-blue-screen-with-code-d1-in-windows/"><u>Easy Fix Guide for the Troublesome Blue Screen with Code D1 in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellence-in-quality-leading-4k-panels-for-filmmaking-for-2024/"><u>Excellence in Quality Leading 4K Panels for Filmmaking for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hal-initialization-failed-in-windows-11-solved/"><u>HAL INITIALIZATION FAILED in Windows 11 [Solved]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-30i-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 30i</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-snippet-supremacy-essential-hashes-for-accelerated-viewership-growth/"><u>In 2024, Snippet Supremacy Essential Hashes for Accelerated Viewership Growth</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-post-update-bluescreen-issue-on-windows-10-devices/"><u>Resolved: Post-Update Bluescreen Issue on Windows 10 Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-0x00000050-blue-screen-of-death-error-in-windows-7-fixed/"><u>Stop: 0X00000050 Blue Screen of Death Error in Windows 7 [Fixed]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-metaverse-quest-10-innovative-sci-fi-films-worldwide-travels/"><u>[New] Metaverse Quest 10 Innovative Sci-Fi Films Worldwide Travels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-guide-retrieving-lost-reddit-content-deletion/"><u>[New] Quick Guide Retrieving Lost Reddit Content (Deletion)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-stop-error-stop-0x0cuu0000003b-on-pc-systems/"><u>Comprehensive Guide to Fixing Stop Error (STOP) 0X0cuu0000003b on PC Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-missing-or-corrupt-classpnpsym-file-in-windows-10windows-7-operating-systems/"><u>Fixing the Missing or Corrupt CLASSPNP.SYM File in Windows 10/Windows 7 Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flac-to-aac-conversion-made-simple/"><u>FLAC to AAC Conversion Made Simple - スムーズにオーディオフォーマットを切り替える</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-blue-screen-of-death-with-code-0x0000009f/"><u>How to Fix the BSOD (Blue Screen of Death) with Code 0X0000009F</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-x-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone X Factory Reset? | Stellar</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-bsod-caused-by-machine-check-exceptions-in-win10/"><u>How to Troubleshoot and Solve BSOD Caused by Machine Check Exceptions in Win10</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-marketing-impact-crafting-custom-videos-via-massmails-innovative-tools-and-tips/"><u>Maximizing Marketing Impact: Crafting Custom Videos via MassMail's Innovative Tools and Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-stability-problems-in-total-war-warhammer-ii-a-step-by-step-guide/"><u>Overcoming Stability Problems in Total War: Warhammer II - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-win32kdcom-object-failure-error-0x0000009f/"><u>Troubleshooting Guide for Win32_KDCOM Object Failure (Error 0X0000009F)</u></a></li>
 </ul></div>
 

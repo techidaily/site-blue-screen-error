@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-11-30T03:11:56.817Z
-updated: 2024-12-01T22:45:46.687Z
+date: 2024-12-08T17:30:46.772Z
+updated: 2024-12-09T17:06:41.580Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
@@ -66,24 +62,28 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -103,15 +103,15 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -130,21 +130,18 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>[New] 2024 Approved Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-enlarge-facebook-videos-to-full-screen-for-impact/"><u>[New] Enlarge Facebook Videos to Full Screen for Impact</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-drones-decoded-an-owners-primer-for-first-time-buyers/"><u>[Updated] Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-movie-magic-for-editing-select-excerpts-handpicked/"><u>2024 Approved Movie Magic for Editing Select Excerpts Handpicked</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-optimizing-online-content-delivery-to-key-social-media-channels/"><u>2024 Approved Optimizing Online Content Delivery to Key Social Media Channels</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-your-pc-when-you-see-stop-error-0x000000f4-a-step-by-step-guide/"><u>How to Fix Your PC When You See 'STOP Error 0X000000F4': A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199740704-how-to-overcome-windows-7s-bad-pool-header-tips-and-solutions-that-work/"><u>How to Overcome Windows 7'S Bad Pool Header: Tips & Solutions That Work</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-hal-initialization-errors-on-your-windows-10-machine-a-step-by-step-solution/"><u>Overcoming HAL Initialization Errors on Your Windows 10 Machine - A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/punpals-create-hilarious-memes-now-for-2024/"><u>PunPals - Create Hilarious Memes Now for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/stop-the-blues-in-a-flash-immediate-fixes-for-bad-system-configuration-bsod/"><u>Stop the Blues in a Flash: Immediate Fixes for 'Bad System Configuration' BSOD</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-to-resolve-issues-with-acpitzsys-file-on-windows-10/"><u>Troubleshooting Steps to Resolve Issues with acpitz.sys File on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-notorious-bsod-for-usb-drivers-in-windows-11-solutions-unveiled/"><u>Troubleshooting the Notorious BSOD for USB Drivers in Windows 11 – Solutions Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-repair-a-non-functional-microphone-in-a-laptop/"><u>Troubleshooting: How to Repair a Non-Functional Microphone in a Laptop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/turbo-dvd-ripping-mastery-with-winx-platinum-pro-swiftly-duplicate-any-encrypted-discs-under-windows-10/"><u>Turbo DVD Ripping Mastery with WinX Platinum Pro - Swiftly Duplicate Any Encrypted Discs Under Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts/"><u>[New] 2024 Approved Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beat-infused-imagery-mobile-video-making-on-iphone-for-2024/"><u>[New] Beat-Infused Imagery Mobile Video Making on iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-choice-top-mp4-players-unveiled/"><u>[New] Ultimate Choice Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-advanced-tips-for-3d-color-grading/"><u>[Updated] In 2024, Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-weaving-wonders-a-tiktok-fabric-fundamentals-series/"><u>[Updated] Weaving Wonders A TikTok Fabric Fundamentals Series</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-overcoming-syntpsys-blue-screens-of-death-on-windows-machines/"><u>Effective Fixes for Overcoming SYNTP.SYS Blue Screens of Death on Windows Machines</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199699843-how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F15 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-a-blue-screen-of-death-with-stop-code-0x0000007b/"><u>How to Overcome a Blue Screen of Death with STOP Code 0X0000007B</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unmasked-instagram-stories-pcandroidios-exploration-tips/"><u>In 2024, Unmasked Instagram Stories PC/Android/iOS Exploration Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-winodws-7-stop-error-0x00000050-a-comprehensive-guide/"><u>Resolving the Winodws 7 Stop Error: 0X00000050 - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/charge-your-content-key-seo-elements-for-youtube-for-2024/"><u>Supercharge Your Content Key SEO Elements for YouTube for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Video_TDR_Failure (nvlddmkm.sys) BSOD Error on Windows"
-date: 2024-11-27T23:36:02.107Z
-updated: 2024-12-02T02:49:53.130Z
+date: 2024-12-02T19:50:31.596Z
+updated: 2024-12-09T16:43:22.613Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de2bda24df.png)
 
  If you’re with Intel graphics card and you’re seeing the blue screen of death error with the code **_VIDEO TDR FAILURE_** , you’re not alone. Many Windows users are reporting this problem as well. But no worries, it’s possible to fix, no matter how dreadful it seems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for VIDEO TDR FAILURE
 
@@ -44,21 +48,17 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de476b0552.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) **System File Checker** will help you scan for the corruptions in your system files and restore the corrupted or missing files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2:** **Restore graphics card driver**
 
  If this problem happens after you updated your graphics card driver, roll it back to previous stage: 1) On your keyboard, press the **Windows logo key** and **R** at the same time. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a90fde1afee.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Properties** .
 
@@ -72,37 +72,37 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578ded4881db6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3: Uninstall or disable graphics card driver**
 
  If you have more than one graphics cards, there could be conflict among them. You can try uninstall or disable some with only one left: 1) On your keyboard, press the **Windows logo key** and **R** at the same time. Click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a90fde1afee.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91255c707f.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If the problem persists, go back to **step 2)** and click **Uninstall device** this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9120f950a7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tick the box for **Delete the driver software for this device** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9127db1094.png)
 
- 4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
 
 ## **4: Update video card driver**
 
@@ -123,7 +123,11 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-intel-xe-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Repair corrupted system files with Fortect
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
  If there’s any problem, you can click Start Repair to start the repair process. You’d need to buy the pro version (which comes with a 60-day Money-Back Guarantee) to unlock this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -166,22 +166,19 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-the-potential-of-slow-motion-creation-a-comprehensive-guide-to-impressive-instagram-videos/"><u>[New] 2024 Approved Unlock the Potential of Slow-Motion Creation A Comprehensive Guide to Impressive Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat/"><u>[New] Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-harnessing-webcams-a-2023-guide-to-slidecast-perfection/"><u>[Updated] 2024 Approved Harnessing Webcams A 2023 Guide to Slidecast Perfection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-7-best-fps-games/"><u>[Updated] 2024 Approved The 7 Best Fps Games</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-increase-attendance-and-engagement-with-strategic-zoom-recordings-for-2024/"><u>[Updated] Increase Attendance and Engagement with Strategic Zoom Recordings for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-due-to-rtkvhd64sys-error-solutions-and-fixes/"><u>Blue Screen of Death Due to rtkvhd64.sys Error: Solutions and Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-brilliant-picture-quality-on-lgs-4k-oled-c9-a-comprehensive-65-inch-smart-television-review/"><u>Discover Brilliant Picture Quality on LG's 4K OLED C9 – A Comprehensive 65-Inch Smart Television Review</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/download-comedy-bliss-top-free-movies-and-gifs-in-multiple-formats-mp4-mov-etc/"><u>Download Comedy Bliss: Top Free Movies & GIFs in Multiple Formats (MP4, MOV, Etc.)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortlessly-tackle-hidclasssys-problems-expert-guidance-inside/"><u>Effortlessly Tackle HIDCLASS.SYS Problems – Expert Guidance Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-system-service-problem-in-windows-11-effective-strategies-revealed/"><u>Eliminating the ‘System Service’ Problem in Windows 11: Effective Strategies Revealed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-eliminate-the-blue-screen-error-from-your-windows-11-system/"><u>How To Eliminate the Blue Screen Error From Your Windows 11 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-page-fault-in-non-paged-area-issues-on-windows-11/"><u>Resolving 'Page Fault in Non-Paged Area' Issues on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-issue-in-windows-11-a-complete-guide/"><u>Resolving the 'Bad Pool Caller' Issue in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-of-death-bsod-code-0xc00-fixes-for-windows-users/"><u>Troubleshooting Blue Screen of Death (BSoD) Code 0xC00# Fixes for Windows Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlock-quick-filming-techniques-your-5-best-home-hacks-list-for-2024/"><u>Unlock Quick Filming Techniques – Your 5 Best Home Hacks List for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/virtual-realitys-creativity-quandary-a-2023-outlook-for-2024/"><u>Virtual Reality's Creativity Quandary - A 2023 Outlook for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-troubleshooting-guide-eliminating-pnp-fatal-errors-for-smooth-operation/"><u>Windows 10 Troubleshooting Guide: Eliminating PNP Fatal Errors for Smooth Operation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-cmusbdacsys-blue-screen-of-death-in-windows/"><u>[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-conquering-chaos-muting-tactics-for-seamless-gmeet-participation-for-2024/"><u>[Updated] Conquering Chaos Muting Tactics for Seamless GMeet Participation for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>[Updated] Cult Classic Reimaginings Top 20 Anime on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-creativity-transformative-techniques-with-snapchat-photos/"><u>[Updated] In 2024, Unleash Creativity Transformative Techniques with Snapchat Photos</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-does-logging-out-of-your-apple-id-delete-all-your-data/"><u>1. Does Logging Out of Your Apple ID Delete All Your Data?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-memory-corruption-errors-the-complete-guide/"><u>Diagnosing and Repairing Memory Corruption Errors: The Complete Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-storportsys-blue-screen-of-death-under-windows-1nk-system/"><u>Diagnosing and Repairing the storport.sys Blue Screen of Death Under Windows 1Nk System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-the-inaccessible-boot-disk-bsod-in-windows-11-illustrated-instructions/"><u>How to Repair the Inaccessible Boot Disk BSOD in Windows 11 - Illustrated Instructions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-latest-innovations-in-lgs-360-camera-technology/"><u>In 2024, Unveiling the Latest Innovations in LG's 360 Camera Technology</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-pc-error-0xc0000017-essential-steps-for-successful-system-repair/"><u>RESOLVED: PC Error 0Xc0000017 - Essential Steps for Successful System Repair</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-in-minutes-the-ultimate-6-step-calibration-guide/"><u>Revitalize Your iPhone in Minutes: The Ultimate 6-Step Calibration Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-suspended-system-safety-mechanisms-in-win-11/"><u>Solving Suspended System Safety Mechanisms in Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-model-y-dominates-european-car-safety-ratings-achieves-unprecedented-score-analyzed-by-zdnet-experts/"><u>Tesla Model Y Dominates European Car Safety Ratings, Achieves Unprecedented Score | Analyzed by ZDNet Experts</u></a></li>
 </ul></div>
 

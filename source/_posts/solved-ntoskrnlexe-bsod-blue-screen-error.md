@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] ntoskrnl.exe BSOD Blue Screen Error"
-date: 2024-11-29T22:00:28.788Z
-updated: 2024-12-02T00:46:00.422Z
+date: 2024-12-04T18:00:25.663Z
+updated: 2024-12-09T20:11:22.112Z
 tags:
   - win11
   - win10
@@ -38,37 +38,33 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -84,11 +80,19 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -114,10 +118,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 4\. Check for Windows Updates
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can  address security flaws and bugs related to both hardware and software. Thus make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.
@@ -127,7 +127,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
@@ -158,18 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-discover-instagrams-free-filter-options-with-smart-searching-techniques-for-2024/"><u>[New] Discover Instagram's FREE Filter Options with Smart Searching Techniques for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-cozy-cinematic-approach-to-cold-season-videography/"><u>[New] The Cozy Cinematic Approach to Cold Season Videography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>2024 Approved ZoomEliteVue 7 Enhance & Resize Like a Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/excellent-apps-to-record-in-high-definition-for-2024/"><u>Excellent Apps to Record in High Definition for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-asmtxhcisystem-error-resolving-microsofts-blue-screen-of-death-issues/"><u>Fixing the ASMTXHCISystem Error: Resolving Microsoft's Blue Screen of Death Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/managing-excessive-tiktoks-mastering-edits-and-deletions-for-2024/"><u>Managing Excessive TikToks Mastering Edits & Deletions for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-for-the-notorious-ndis-driver-error-message/"><u>Mastering the Fix for the Notorious NDIS Driver Error Message</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/regular-documentation-of-calibration-checks-is-essential-for-audits-and-maintaining-traceability/"><u>Regular Documentation of Calibration Checks Is Essential for Audits and Maintaining Traceability</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-bluescreen-issue-a-detailed-guide-on-fixing-iastorasys-errors/"><u>Solving the 'BlueScreen' Issue: A Detailed Guide on Fixing IaStora.sys Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-blue-screens-solutions-to-error-code-0x0000001e/"><u>Troubleshooting Windows Blue Screens - Solutions to Error Code 0X0000001E</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-savings-a-guide-to-accessing-free-music-on-spotify-with-a-student-account/"><u>Unlocking Savings: A Guide to Accessing Free Music on Spotify with a Student Account</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 4G Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-how-to-easily-fix-a-bad-pool-caller-problem/"><u>Windows 11: How to Easily Fix a Bad Pool Caller Problem</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[New] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simplified-processes-for-adobe-presenter-video-saves/"><u>[Updated] 2024 Approved Simplified Processes for Adobe Presenter Video Saves</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-live-capture-review-discovering-obs-dominance/"><u>[Updated] In 2024, Ultimate Live Capture Review Discovering OBS Dominance</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-the-editorial-maze-answers-for-filmora-users/"><u>[Updated] Navigating the Editorial Maze Answers for Filmora Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[Updated] Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-bitcoin-soars-by-26-in-oct-rally-insights-from-yl-computings-latest-analysis-explore-the-upswing-with-yl-software/"><u>1. Bitcoin Soars by 26% in Oct Rally: Insights From YL Computing's Latest Analysis - Explore the Upswing with YL Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/definitive-fix-for-the-dreaded-ntkrnlmpexe-bsod-tips-and-techniques/"><u>Definitive Fix for the Dreaded ntkrnlmp.exe BSOD: Tips and Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-communicative-function-of-epson-equipment/"><u>Enhancing Communicative Function of Epson Equipment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-device-driver-errors-on-windows-11-get-your-system-running-smoothly/"><u>Quick Fixes for Device Driver Errors on Windows 11: Get Your System Running Smoothly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-the-kmodeexceptionnothandled-bugs-on-windows-10-and-11-platforms/"><u>Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-to-deal-with-stop-code-0x0000009f-on-your-pc/"><u>Step-by-Step Solutions to Deal with STOP Code 0X0000009F on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-blue-screens-expert-tips-for-fixing-0x000ptr00000124-on-windows-pcs-win10win7/"><u>Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transform-youtube-soundtracks-on-iphone-with-these-6-choices/"><u>Transform YouTube Soundtracks on iPhone with These 6 Choices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-driver-corruptedexpool-errors-in-windows-10-systems/"><u>Ultimate Solution for 'DRIVER CORRUPTED_EXPOOL' Errors in Windows 10 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-security-enhanced-preventing-nxmemory-execution-problems/"><u>Windows Security Enhanced: Preventing NXMemory Execution Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-0x0000000a-your-ultimate-guide-to-resolving-blue-screens/"><u>Winning Against 0X0000000A: Your Ultimate Guide to Resolving Blue Screens</u></a></li>
 </ul></div>
 

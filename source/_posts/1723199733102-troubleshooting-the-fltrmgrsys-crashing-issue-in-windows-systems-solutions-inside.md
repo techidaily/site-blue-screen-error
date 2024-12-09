@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Fltrmgr.sys Crashing Issue in Windows Systems - Solutions Inside
-date: 2024-11-28T04:00:57.391Z
-updated: 2024-12-01T23:44:19.361Z
+date: 2024-12-03T18:08:36.441Z
+updated: 2024-12-09T17:15:55.916Z
 tags:
   - win11
   - win10
@@ -47,17 +47,9 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
@@ -67,10 +59,6 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click **Startup settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
@@ -79,11 +67,23 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I’m using Windows 7
 
@@ -95,13 +95,13 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your drivers
 
@@ -113,6 +113,10 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -131,6 +135,10 @@ There are two ways you can repair possible issues with your system files:
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -158,15 +166,11 @@ Here’s how to use Fortect to run a Windows repair:
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)
 2. Click **Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/sfc-scannow.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any.
@@ -174,10 +178,6 @@ Here’s how to use Fortect to run a Windows repair:
 5. Check your computer to see if the problem has been fixed.
 
  Check your computer to see if the**fltmgr.sys** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Check disk errors
 
@@ -190,18 +190,18 @@ Here’s how to use Fortect to run a Windows repair:
 2. Right-click on **Local Disk**   and click **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools**   tab >**Check** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click**Scan drive** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
@@ -235,22 +235,19 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-seamless-integration-of-video-filters-in-zoom/"><u>[Updated] 2024 Approved Seamless Integration of Video Filters in Zoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-7-best-monitors-for-photo-editing-worth-trying/"><u>2024 Approved 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/freemaker/"><u>誠信評論：FreeMaker 上手的影片壓縮與傳送</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clearing-the-ai-mystique/"><u>Clearing the AI Mystique</u></a></li>
-<li><a href="https://win-best.techidaily.com/crack-de-movavi-video-converter-passer-en-mode-gratuit-avec-une-cle-dactivation-personnalisee/"><u>Crack De Movavi Video Converter: Passer en Mode Gratuit Avec Une Clé D'activation Personnalisée</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/driver-and-printer-software-compatible-with-macos-windows/"><u>Driver & Printer Software Compatible with MacOS, Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-navigating-and-correcting-bsod-glitches-in-windows-11/"><u>Expert Advice: Navigating and Correcting BSOD Glitches in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-11/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 11</u></a></li>
-<li><a href="https://discover-best.techidaily.com/hp-notebook-users-ultimate-tutorial-capturing-high-quality-audio-using-internal-mic-and-system-sounds/"><u>HP Notebook Users Ultimate Tutorial: Capturing High-Quality Audio Using Internal Mic and System Sounds</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-tackling-the-internal-power-error-in-windows-10-systems/"><u>Mastering the Fix: Tackling the Internal Power Error in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-bluscreen-issues-the-dxgkrnl-error-explained-and-fixed/"><u>Resolving Windows 10 BluScreen Issues: The Dxgkrnl Error Explained and Fixed</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/schnelle-windows-11-installation-ohne-tpm-und-secure-boot-die-einfache-anleitung/"><u>Schnelle Windows 11 Installation Ohne TPM Und Secure Boot – Die Einfache Anleitung</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-tdr-problems-with-atikmpagsys-in-windows-11/"><u>Step-by-Step Guide to Correcting TDR Problems with atikmpag.sys in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-driver-verifier-error-solutions-for-bsod-in-windows-11/"><u>Troubleshooting the Driver Verifier Error: Solutions for BSOD in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-solutions-for-correcting-ntfs-errors-in-windows-11-operating-systems/"><u>Ultimate Solutions for Correcting NTFS Errors in Windows 11 Operating Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-concealing-content-securing-video-data-ethics/"><u>[New] Concealing Content Securing Video Data Ethics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-fanfare-identifying-the-top-8-likable-apps-for-you/"><u>[Updated] 2024 Approved Facebook Fanfare Identifying the Top 8 Likable Apps for You</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-addressing-classpnpsys-problems-in-windows-107/"><u>Comprehensive Guide to Addressing Classpnp.sys Problems in Windows 10/7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-the-blues-of-blue-screen-detailed-steps-to-solve-error-0xc000021a-on-win-810/"><u>End the Blues of Blue Screen: Detailed Steps to Solve Error 0xC000021A on Win 8/10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-eradicating-the-fatal-dxgkrnl-video-bug-causing-bsod-on-windows-10-systems/"><u>Expert Advice: Eradicating the Fatal Dxgkrnl Video Bug Causing BSOD on Windows 10 Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-flipped-screen-on-windows-7-system/"><u>Fixing Flipped Screen on Windows 7 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/genomic-studies-have-identified-genetic-markers-that-help-predict-an-individuals-susceptibility-to-cad-aiding-in-personalized-prevention-strategies/"><u>Genomic Studies Have Identified Genetic Markers that Help Predict an Individual's Susceptibility to CAD, Aiding in Personalized Prevention Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-brother-hl-3170cdw-drivers-instant-downloads-and-steps-for-smooth-operation/"><u>Get Brother HL-3170CDW Drivers: Instant Downloads and Steps for Smooth Operation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-dolby-audio-driver-software-download-and-update-options-for-windows-users/"><u>Get the Latest Dolby Audio Driver Software - Download & Update Options for Windows Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/handling-system-crashes-from-memory-mismanagement-a-guide-for-windows-1011-users/"><u>Handling System Crashes From Memory Mismanagement - A Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-radial-magic-transforming-ordinary-photos-into-art/"><u>In 2024, Radial Magic Transforming Ordinary Photos Into Art</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-next-viral-platform-showdown-can-likes-beat-tiktoks-frenzy/"><u>In 2024, The Next Viral Platform Showdown Can Likes Beat TikTok's Frenzy?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-path-from-twitter-video-to-fb-sharing-for-2024/"><u>The Path From Twitter Video to FB Sharing for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-scheduler-internal-error-on-windows-10-solved/"><u>Video Scheduler Internal Error on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

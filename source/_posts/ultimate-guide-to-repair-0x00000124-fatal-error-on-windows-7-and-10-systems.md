@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repair 0X00000124 Fatal Error on Windows 7 & 10 Systems
-date: 2024-11-30T20:55:55.326Z
-updated: 2024-12-01T23:09:01.986Z
+date: 2024-12-04T17:43:58.151Z
+updated: 2024-12-09T16:13:48.278Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ According to Microsoft,
 > The_**BAD\_POOL\_CALLER**_ bug check has a value of**0x000000C2** . This indicates that the current thread is making a bad pool request.
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -57,7 +61,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
@@ -67,7 +71,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 If the problem persists, move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
@@ -107,18 +111,18 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
- 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -134,24 +138,16 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other options**
@@ -165,6 +161,10 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -192,18 +192,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-your-spotify-to-youtube-music-library-transition/"><u>[New] In 2024, Streamlining Your Spotify to YouTube Music Library Transition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count/"><u>[Updated] Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/asmtxhci-system-malfunction-how-to-correctly-address-the-blue-screen-error-in-windows-os/"><u>ASMTXHCI System Malfunction: How to Correctly Address the Blue Screen Error in Windows OS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xs-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XS Max with iTunes | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-win32kfullsys-causing-system-crashes/"><u>How to Troubleshoot and Fix 'Win32kfull.sys' Causing System Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcome-thread-stuck-in-device-driver-error-on-your-windows-nx-system/"><u>Overcome Thread Stuck in Device Driver Error on Your Windows nX System!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfecting-your-purses-expertise-in-haul-videography-for-2024/"><u>Perfecting Your Purses Expertise in Haul Videography for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-windows-7-solved/"><u>SYSTEM SERVICE EXCEPTION Windows 7 [SOLVED]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-critical-criteria-you-need-to-assess-before-relying-on-chatgpt-for-mental-health-care/"><u>The Critical Criteria You Need to Assess Before Relying on ChatGPT for Mental Health Care</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/transforming-reading-experience-the-ultimate-2018-amazon-kindle-paperwhite-review/"><u>Transforming Reading Experience: The Ultimate 2018 Amazon Kindle Paperwhite Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-audiovisual-excellence-zooming-into-exceptional-podcast-recordings-for-2024/"><u>[Updated] Audiovisual Excellence Zooming Into Exceptional Podcast Recordings for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-efficiently-achieving-color-background-separation-for-2024/"><u>[Updated] Efficiently Achieving Color Background Separation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-and-resolve-uninitialized-disk-message-on-pc/"><u>Decode and Resolve Uninitialized Disk Message on PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-remedies-for-windows-7s-0x0000007e-blue-screen-of-death-error/"><u>Effective Remedies for Windows 7'S 0X0000007E Blue Screen of Death Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tial-youtube-beauty-influencers-10-creators-to-watch/"><u>Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-overcome-persistent-loading-screens-on-netflix-for-smart-tvs/"><u>How to Overcome Persistent Loading Screens on Netflix for Smart TVs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-netwtw04sys-stop-code-on-your-pc-running-windows-10/"><u>How to Resolve the 'netwtw04.sys' Stop Code on Your PC Running Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/iastorasys-blue-screen-of-death-solved/"><u>iaStorA.sys Blue Screen of Death [SOLVED]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-square-video-production-masterclass-in-imovie-for-social-media/"><u>In 2024, Square Video Production Masterclass in iMovie for Social Media</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-20-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark 20 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ts-to-pull-out-parts-from-any-youtube-clip-for-2024/"><u>Secrets to Pull Out Parts From Any YouTube Clip for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-the-driver-corrupted-exception-pool-issue-on-windows-11-troubleshooting-tips/"><u>Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-blue-screen-of-death-caused-by-iastorasys-issues-detailed-steps-inside/"><u>Solving the Blue Screen of Death Caused by iastora.sys Issues - Detailed Steps Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-initialization-error-on-your-windows-10-pc/"><u>Step-by-Step Fix for 'Initialization Error' On Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eradicating-the-bad-pool-caller-error-in-windows-10/"><u>Step-by-Step Guide: Eradicating the 'Bad Pool Caller Error' In Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-accessing-facetime-from-your-windows-computer/"><u>Step-by-Step Instructions for Accessing FaceTime From Your Windows Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tackling-the-blue-screen-a-step-by-step-guide-to-resolving-stop-code-0x0000000a/"><u>Tackling the Blue Screen: A Step-by-Step Guide to Resolving Stop Code 0X0000000A</u></a></li>
 </ul></div>
 

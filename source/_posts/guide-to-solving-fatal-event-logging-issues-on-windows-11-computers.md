@@ -1,7 +1,7 @@
 ---
 title: Guide to Solving Fatal Event Logging Issues on Windows 11 Computers
-date: 2024-11-27T19:48:15.152Z
-updated: 2024-12-01T23:15:59.529Z
+date: 2024-12-02T16:16:00.176Z
+updated: 2024-12-09T20:01:10.409Z
 tags:
   - win11
   - win10
@@ -41,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
@@ -62,21 +66,17 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2: Update device drivers**
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -103,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
 
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
  3) See if the **Video Scheduler Internal Error** is fixed now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **4: Reinstall faulty drivers**
 
  Faulty drivers could be the cause of**Video Scheduler Internal Error** as well. To fix it:
@@ -130,13 +130,13 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
@@ -151,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other Work-arounds**
@@ -191,17 +191,18 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-syma-x8c-mastering-advanced-maneuvers/"><u>[New] 2024 Approved Syma X8C Mastering Advanced Maneuvers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-stream-snipping-specialists-2023-version-for-2024/"><u>[Updated] Stream Snipping Specialists, 2023 Version for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/excellence-in-virtual-venue-experience-for-2024/"><u>Excellence in Virtual Venue Experience for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-blueear-bluetooth-beanie-cap-fashion-meets-functionality-for-clear-audio-playback/"><u>Expert Analysis of the Blueear Bluetooth Beanie Cap: Fashion Meets Functionality for Clear Audio Playback</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-inaccessible-boot-device-blue-screen-error-on-windows-10-with-illustrative-images/"><u>How to Repair 'Inaccessible Boot Device' Blue Screen Error on Windows 10 with Illustrative Images</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 11 when Phone is Broken?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-posting-strategies-after-instagrams-revisions-for-2024/"><u>Navigating Posting Strategies After Instagram’s Revisions for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-system-stalls-due-to-critical-service-failures-ending-bsod-issues-on-windows-11/"><u>Overcoming System Stalls Due to Critical Service Failures: Ending BSoD Issues on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-kernel-security-failures-in-windows-11-a-fix-guide/"><u>Troubleshooting Critical Kernel Security Failures in Windows 11 – A Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-over-the-dreaded-dxgmms2sys-stop-error-solutions-for-windows-10-users/"><u>Winning Over the Dreaded dxgmms2.sys Stop Error: Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-simplifying-the-process-of-watching-fb-live-on-roku/"><u>[New] In 2024, Simplifying the Process of Watching FB Live on Roku</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategies-for-high-definition-streaming-on-global-platforms-fb-for-2024/"><u>[New] Strategies for High Definition Streaming on Global Platforms (FB) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[Updated] 2024 Approved Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-soothing-soundscapes-recommended-voice-experts/"><u>[Updated] 2024 Approved Soothing Soundscapes Recommended Voice Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-asmr-uncover-its-pros-today/"><u>2024 Approved Exploring ASMR Uncover Its Pros Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-to-overcome-the-sims-4-non-opening-challenge/"><u>Comprehensive Tutorial to Overcome the Sims 4 Non-Opening Challenge</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use-for-2024/"><u>High-Fidelity AVI Player for Portable & Stationary Use for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-unhandled-exceptions-in-kmode-mode-for-windows-11-and-windows-10-users/"><u>How to Resolve Unhandled Exceptions in KMODE Mode for Windows 11 and Windows 10 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-a-guide-to-effective-hashtag-integration-on-facebook-platforms/"><u>In 2024, A Guide to Effective Hashtag Integration on Facebook Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-v29e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo V29e For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-critical-hardware-fault-leading-to-blue-screen-and-restore-system-stability/"><u>Resolve Critical Hardware Fault Leading to Blue Screen and Restore System Stability</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eliminating-tdr-failure-bluescreens-on-your-computer/"><u>Step-by-Step Guide: Eliminating TDR Failure Bluescreens on Your Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-video-conference-software-resolved-fixing-the-unexpected-system-crashes/"><u>Windows 10 Video Conference Software: Resolved - Fixing the Unexpected System Crashes</u></a></li>
 </ul></div>
 

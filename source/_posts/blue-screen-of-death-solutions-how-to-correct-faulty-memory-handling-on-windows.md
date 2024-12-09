@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows"
-date: 2024-11-27T05:11:52.021Z
-updated: 2024-12-02T03:29:47.227Z
+date: 2024-12-02T17:46:50.182Z
+updated: 2024-12-09T17:02:02.957Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Bad Pool Header Windows 7
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-328.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-331.png)
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Windows Memory Diagnostic
 
  If you’ve recently made any changes to your computer, say upgrading memory etc., then we might have to run the built-in Windows tool called **Windows Memory Diagnostic**   to help check  our system for memory problems and see if it fixes this **Bad Pool Header** blue screen problem.
@@ -76,10 +76,6 @@ To do so:
 1. On your keyboard, press **the Windows logo key**  and type memory. Then click on **Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
@@ -103,12 +99,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
@@ -118,7 +118,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check disk errors
@@ -140,7 +140,7 @@ To do so:
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
@@ -167,16 +167,14 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-clockwatchdogtimeout-bsod-in-windows-11/"><u>[Solved] CLOCK_WATCHDOG_TIMEOUT BSOD in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-resolve-stop-error-0x00000116-blue-screen/"><u>Effortless Solutions to Resolve Stop Error 0X00000116 Blue Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-hogwarts-legacy-crashes-at-launch-discover-8-effective-solutions/"><u>Fix Hogwarts Legacy Crashes at Launch: Discover 8 Effective Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/masterclass-setting-windows-11-walls/"><u>Masterclass Setting Windows 11 Walls</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-keep-fallout-4-running-smoothly-on-pc/"><u>Optimizing Performance: Keep Fallout 4 Running Smoothly on PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/successfully-unloading-drivers-while-maintaining-pending-workflow-tasks/"><u>Successfully Unloading Drivers While Maintaining Pending Workflow Tasks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tchibo-ag/"><u>Tchibo AG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-bsod-crashes-on-windows-10-systems/"><u>Troubleshooting and Repairing 'Bad Pool Header' BSOD Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-artistic-methods-in-fb-video-ad-production/"><u>[New] 2024 Approved Unlock Artistic Methods in FB Video Ad Production</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>[Updated] Best Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-wirecast-and-facebook-creating-high-quality-live-streams/"><u>[Updated] In 2024, Wirecast and Facebook Creating High-Quality Live Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-iphone-with-tailored-call-alert-sounds/"><u>Enhance Your iPhone with Tailored Call Alert Sounds</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-a-blue-screen-when-playing-videos-with-dxgkrnl-driver-on-windows-11-solutions/"><u>How to Resolve a Blue Screen When Playing Videos with Dxgkrnl Driver on Windows 11 [Solutions]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-bluescreen-error-due-to-cmusbdacsys-malfunction-in-windows-os/"><u>How to Stop the Bluescreen Error Due to 'CMUSBDAC.sys' Malfunction in Windows OS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-the-blue-screen-nightmare-overcoming-error-0xc000021a-in-windows-11-and-8-your-complete-fixer/"><u>Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-fat-file-system-errors-expert-tips-and-techniques/"><u>Troubleshooting and Solving Windows 11 FAT File System Errors: Expert Tips & Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-features-of-androids-lightroom-app-for-2024/"><u>Unpacking the Features of Android's Lightroom App for 2024</u></a></li>
 </ul></div>
 

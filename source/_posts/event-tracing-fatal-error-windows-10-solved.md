@@ -1,7 +1,7 @@
 ---
 title: Event Tracing Fatal Error Windows 10 [SOLVED]
-date: 2024-11-29T01:59:48.198Z
-updated: 2024-12-01T22:29:31.372Z
+date: 2024-12-06T18:31:20.365Z
+updated: 2024-12-09T19:52:25.930Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  If your Windows PC is running into the blue screen of death with the error code:**CRITICAL\_STRUCTURE\_CORRUPTION** , don’t worry! You’re definitely not the only person to experience this problem. Many Windows 10 users are reporting the very same issue. More importantly, you should be able to fix it pretty easily… (skip to [the fixes](https://tools.techidaily.com/drivereasy/download/) directly).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why do I have the Critical\_Structure\_Corruption blue screen error?
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 2. **a driver that purposely or accidentally changed critical kernel code or data**
 
  Since we’ve got the causes cleared out, it’s not that hard for us to locate the solutions to this problem. Read on and find out how to fix the Critical\_Structure\_Corruption error on Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and [restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Uninstall potential problematic software
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -94,13 +90,21 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -113,16 +117,8 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -144,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-37-58.png)
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 
@@ -151,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
  If you don’t see any error, your memory card is not causing any issues.
 
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Check the Event Viewer
 
@@ -167,7 +163,11 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final option
@@ -195,17 +195,18 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-driver-verifier-iomanager-violation/"><u>[Fixed] DRIVER VERIFIER IOMANAGER VIOLATION</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-no-cost-youtube-audio-tools-for-seamless-mp3-downloads/"><u>[New] In 2024, No-Cost YouTube Audio Tools for Seamless MP3 Downloads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-deep-dive-into-polarr-photo-editor-comprehensive-review/"><u>[Updated] Deep Dive Into Polarr Photo Editor Comprehensive Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>[Updated] In 2024, Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-internal-power-malfunction-in-windows-10-devices/"><u>Effective Solutions for Internal Power Malfunction in Windows 10 Devices</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-address-error-0xc000000e-on-your-pc/"><u>Effective Solutions to Address Error 0Xc000000e on Your PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fading-fast-with-premiere-pro-for-2024/"><u>Fading Fast with Premiere Pro for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-persistent-bluescreen-glitch-in-windows-10-updates/"><u>Fixing the Persistent BlueScreen Glitch in Windows 10 Updates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-with-aes-best-text-presets/"><u>In 2024, Unleashing Creativity with AE's Best Text Presets</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-kernal-protection-error-on-windows-10-operating-system/"><u>Resolved: Critical Kernal Protection Error on Windows 10 Operating System</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-removing-digital-restrictions-from-google-play-ebooks/"><u>Step-by-Step Guide: Removing Digital Restrictions From Google Play eBooks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-vr-tools-compilation-10-essentials-for-2024/"><u>The Ultimate VR Tools Compilation (10 Essentials) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-pnpdetectedfatalerror-error-on-windows-10/"><u>[Fixed] PNP_Detected_Fatal_Error Error on Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-find-the-good-iphone-photography-angles/"><u>[Updated] In 2024, How to Find the Good iPhone Photography Angles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-12-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 12 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-12-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 12 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-errors-from-core-system-components-leading-to-bsod-on-windows-11/"><u>Diagnosing and Repairing Fatal Errors From Core System Components Leading to BSoD on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-the-security-check-violation-on-your-windows-am-ensuring-system-stability-and-security/"><u>Guide to Correcting the 'Security Check Violation' On Your Windows Am, Ensuring System Stability and Security</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-frame-rate-drops-and-stutter-issues-on-naraka-bladepoint/"><u>Solve Frame Rate Drops & Stutter Issues on Naraka: Bladepoint</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stalled-resurgence-of-net-neutrality-current-status-update/"><u>Stalled Resurgence of Net Neutrality: Current Status Update</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/steps-to-fix-cmusbdacsys-related-bluescreen-of-death-errors-in-microsoft-windows/"><u>Steps to Fix 'CMUSBDAC.sys' Related Bluescreen of Death Errors in Microsoft Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209941032-9781789043181-this-one-is-special/"><u>This One is Special | Free Book</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-critical-system-error-code-0x00000124-in-windows-operating-systems-11-and-7/"><u>Troubleshooting the Critical System Error: Code 0X00000124 in Windows Operating Systems 11 and 7</u></a></li>
 </ul></div>
 

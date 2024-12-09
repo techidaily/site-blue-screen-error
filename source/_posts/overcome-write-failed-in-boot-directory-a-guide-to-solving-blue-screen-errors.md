@@ -1,7 +1,7 @@
 ---
 title: Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors
-date: 2024-11-29T21:22:02.075Z
-updated: 2024-12-01T18:54:51.582Z
+date: 2024-12-08T16:28:11.047Z
+updated: 2024-12-09T17:18:16.016Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ According to Microsoft,
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How do I fix it?**
@@ -47,7 +47,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **First Thing First**
@@ -57,6 +57,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  1) You’ve installed all available updates and packs on**Windows Update** . You can check by following the path:**Start button > Settings > Updates & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
@@ -94,6 +98,10 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
@@ -101,7 +109,7 @@ If the problem persists, move on to the next step.
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
@@ -110,22 +118,14 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
@@ -143,7 +143,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
@@ -192,20 +192,20 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-maximizing-your-zoom-experience-on-chromeos/"><u>[New] In 2024, Maximizing Your Zoom Experience on ChromeOS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-bugcodeusbdriver-blue-screen-on-windows-10/"><u>[Solved] BUGCODE_USB_DRIVER Blue Screen on Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-notable-top-5-superlight-action-camera-picks-for-2024/"><u>[Updated] Notable Top 5 Superlight Action Camera Picks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>[Updated] Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-vgksys-solved-effective-techniques-for-stability-restoration/"><u>Blue Screen Error 'vgk.sys' Solved: Effective Techniques for Stability Restoration</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199698884-blue-screen-of-death-eliminate-bad-system-config-issues-in-minutes/"><u>Blue Screen of Death? Eliminate 'Bad System Config' Issues in Minutes!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcome-service-failed-warnings-in-windows-11/"><u>Comprehensive Guide to Overcome 'Service Failed' Warnings in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-page-fault-errors-in-windows-10-step-by-step-guide/"><u>How to Fix 'Page Fault' Errors in Windows 10 – Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-canon-mg2800-series-drivers-for-your-pc-windows-1087/"><u>How to Get the Latest Canon MG2800 Series Drivers for Your PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-xs-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone XS Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pasos-faciles-y-rapidos-para-rescatar-el-contenido-de-tu-dvd-viejas-y-recientes-copias-sin-perdida-en-solo-5-minutos/"><u>Pasos Fáciles Y Rápidos Para Rescatar El Contenido De Tu DVD (Viejas Y Recientes Copias) Sin Pérdida en Solo 5 Minutos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-chronicles-of-ai-when-it-all-began/"><u>The Chronicles of AI: When It All Began</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-clockwatchdogtimeout-errors-and-bsod-crashes-in-windows-10/"><u>Troubleshooting CLOCK_WATCHDOG_TIMEOUT Errors & BSOD Crashes in Windows 10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-the-havit-5-laptop-chiller-stay-cool-while-gaming/"><u>Ultimate Guide to the HAVIT 5 Laptop Chiller: Stay Cool While Gaming</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-the-blue-screen-of-death-fixing-error-code-0x0000007e-in-windows-7-easily/"><u>Winning Against the 'Blue Screen of Death': Fixing Error Code 0X0000007E in Windows 7 Easily</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/emystifying-the-math-of-youtube-ratio-perfection/"><u>[New] Demystifying the Math of YouTube Ratio Perfection</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-fixing-error-code-0x0000000a-made-simple/"><u>Blue Screen Blues? Fixing Error Code 0X0000000A Made Simple</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-fix-your-internal-power-glitch-on-windows-10/"><u>Comprehensive Solutions: Fix Your Internal Power Glitch on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-fixes-to-handle-system-thread-exceptions-properly/"><u>Effortless Fixes to Handle System Thread Exceptions Properly</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-windows-7-system-service-exception-bug-fixed/"><u>How to Overcome the Windows 7 System Service Exception Bug [FIXED]</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-successfully-upload-your-bcpf-document-on-youtube/"><u>How to Successfully Upload Your BCPF Document on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>In 2024, Soundscapes of Restfulness High-Rated ASMR Experts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-voice-changers-for-vtubers-two-best-app-recommended/"><u>In 2024, Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-sx740-hs-camera-ultra-portable-lens-master/"><u>The SX740 HS Camera - Ultra-Portable Lens Master</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-solving-critical-hardware-failures-tackling-whea-errors/"><u>The Ultimate Guide to Solving Critical Hardware Failures - Tackling WHEA Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-y55s-5g-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo Y55s 5G (2023) Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-collection-of-dynamic-text-for-ae-projects/"><u>Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-kernel-mode-memory-corruption-errors/"><u>Understanding and Correcting Kernel Mode Memory Corruption Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-essentials-working-with-freeze-frames-and-slow-motion-video/"><u>Updated In 2024, FCPX Essentials Working with Freeze Frames and Slow Motion Video</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-kernel-error-resolved-fixing-the-kernal-security-check-issue/"><u>Windows 10 Kernel Error Resolved: Fixing the 'Kernal Security Check' Issue</u></a></li>
 </ul></div>
 

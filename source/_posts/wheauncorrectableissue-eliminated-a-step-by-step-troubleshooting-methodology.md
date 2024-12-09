@@ -1,7 +1,7 @@
 ---
 title: WHEA_UNCORRECTABLE_ISSUE Eliminated – A Step-by-Step Troubleshooting Methodology
-date: 2024-11-30T03:36:10.874Z
-updated: 2024-12-01T16:18:39.177Z
+date: 2024-12-03T17:02:29.879Z
+updated: 2024-12-09T18:16:19.687Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  If you’re seeing a blue screen of death with the error message_**Bad\_Pool\_Caller**_ popping up on your screen, stopping you from doing anything, you’re not alone.Many Windows 10 users are reporting this problem as well. But no need for you to worry sick about it, it’s possible to fix. Here are[**4 solutions**](https://tools.techidaily.com/drivereasy/download/) for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What is Bad\_Pool\_Caller blue screen of death error?**
 
 According to Microsoft,
@@ -28,10 +32,6 @@ According to Microsoft,
 > The_**BAD\_POOL\_CALLER**_ bug check has a value of**0x000000C2** . This indicates that the current thread is making a bad pool request.
 
 T  o make it easy to understand, a thread in your processor is asking to use resources that are unavailable, nonexistent, or in used by other thread.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How do I fix it?**
 
@@ -45,6 +45,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 [**Other options**](https://tools.techidaily.com/drivereasy/download/)
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **First Thing First**
 
@@ -61,7 +65,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
@@ -94,19 +98,11 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Step 3:** **Run a Memory Check**
 
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
@@ -114,15 +110,15 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -143,7 +139,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If your hard disk drive is problem free, you will see the notification like this:
@@ -151,7 +147,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other options**
@@ -165,6 +161,10 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -192,21 +192,22 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-creating-captivating-solo-content-that-strikes-gold/"><u>[New] Creating Captivating Solo Content that Strikes Gold</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-from-sky-to-screen-live-streaming-from-dji-drones/"><u>[New] From Sky to Screen Live-Streaming From DJI Drones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-crafting-a-standout-solo-podcast-experience/"><u>[New] In 2024, Crafting a Standout Solo Podcast Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-microphone-not-working-on-windows-10/"><u>[Solved] Microphone Not Working on Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>[Updated] Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-live-tv-access-a-top-ranked-list-review/"><u>[Updated] Mastering Live TV Access A Top-Ranked List Review</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/axel-springer-se/"><u>Axel Springer SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199747968-genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-resolve-the-fat-file-error-on-your-windows-11-pc/"><u>How to Correctly Resolve the FAT File Error on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000000a-blue-screen-error/"><u>How to Fix 0X0000000A Blue Screen Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-blue-screen-error-in-netwtw10sys-for-stable-pc-operation/"><u>How to Stop the Blue Screen Error in Netwtw10.sys for Stable PC Operation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-f14-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy F14 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-fundamentals-of-navigating-youtube-regulations/"><u>In 2024, The Fundamentals of Navigating YouTube Regulations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/krupp-ag-hoesch-krupp/"><u>Krupp AG Hoesch-Krupp</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stepwise-steps-to-install-windows-movie-maker-6/"><u>Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-how-to-fix-blue-screen-of-death-bsod-code-0x00000124-in-windows-7-and-windows-10/"><u>Troubleshooting Tips: How to Fix Blue Screen of Death (BSOD) - Code 0X00000124 in Windows 7 and Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-humor-hub-adobe-meme-manipulation/"><u>[New] Humor Hub Adobe Meme Manipulation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators/"><u>2024 Approved The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/beating-the-fltmgrsys-bsod-on-windows-a-comprehensive-repair-guide/"><u>Beating the Fltmgr.sys BSOD on Windows: A Comprehensive Repair Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bugcode-ndis-error-corrected-step-by-step-solution-guide/"><u>Bugcode NDIS Error Corrected: Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diving-into-the-multilingual-mind-of-belgium/"><u>Diving Into the Multilingual Mind of Belgium</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-fixing-windows-11-page-fault-in-nonpaged-area-errors/"><u>Expert Tips for Fixing Windows 11 'Page Fault in Nonpaged Area' Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-windows-11-bad-pool-caller-mistake-solutions-unveiled/"><u>Fixing Windows 11 'Bad Pool Caller' Mistake - Solutions Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-nvidia-rtx-e90-driver-for-windows-supported-by-win11-8-and-7/"><u>Get Your NVIDIA RTX E90 Driver For Windows - Supported by Win11, 8 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000007e-stop-error-in-windows-7-troubleshooting-guide/"><u>How to Fix 0X0000007E STOP Error in Windows 7 – Troubleshooting Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-11-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/the-depths-of-screen-capture-a-youtube-perspective-for-idevices-for-2024/"><u>Into the Depths of Screen Capture A YouTube Perspective for iDevices for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-critical-system-malfunctions-during-event-tracking-on-windows-11-success-stories-and-solutions/"><u>Overcoming Critical System Malfunctions During Event Tracking on Windows 11 – Success Stories & Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfecting-obs-output-common-fixes-explored/"><u>Perfecting OBS Output Common Fixes Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-hal-initialization-failed-error-in-windows-11-step-by-step-solutions/"><u>Resolving the 'HAL Initialization Failed' Error in Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-controller-friendly-mobile-games/"><u>Top 30 Controller-Friendly Mobile Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creative-potential-with-asuss-latest-understated-powerhouse-insider-info-from-zdnet/"><u>Unlocking Creative Potential with ASUS's Latest Understated Powerhouse - Insider Info From ZDNET</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32ksys-bluescreen-fixes-comprehensive-troubleshooting-steps/"><u>Win32k.sys Bluescreen Fixes: Comprehensive Troubleshooting Steps</u></a></li>
 </ul></div>
 

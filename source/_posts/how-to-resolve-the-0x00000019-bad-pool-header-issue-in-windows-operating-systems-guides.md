@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the 0X00000019 Bad Pool Header Issue in Windows Operating Systems [GUIDES]
-date: 2024-11-29T20:37:26.537Z
-updated: 2024-12-01T16:36:10.738Z
+date: 2024-12-05T18:07:24.003Z
+updated: 2024-12-09T17:13:23.232Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run SFC and DISM
@@ -42,16 +42,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click **Yes** when you’re prompted to confirm.
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -59,10 +55,6 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
@@ -74,7 +66,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -91,6 +83,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
@@ -115,6 +111,10 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
@@ -131,13 +131,13 @@ Here are the steps on how to disable driver integrity checks:
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -174,17 +174,17 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-memory-management-bsod-error-on-windows-1111/"><u>[Fixed] Memory Management BSOD Error on Windows 11/11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>[New] Crafting Compelling Instagram Stories A Guide to Scaled Visuals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-charting-the-top-8-online-photo-hybrid-creator/"><u>[New] In 2024, Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastery-in-mind-games-2024s-best-general-knowledge-hubs/"><u>[New] Mastery in Mind Games - 2024'S Best General Knowledge Hubs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-conquer-your-first-successful-zoom-call/"><u>[Updated] 2024 Approved Conquer Your First Successful Zoom Call</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-0xc000000e-errors-for-smoother-performance/"><u>Comprehensive Guide: Eliminating 0Xc000000e Errors for Smoother Performance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-guide-for-dealing-with-page-corruption-due-to-hardware-failures-on-windows-10-and-11/"><u>Fix Guide for Dealing with Page Corruption Due to Hardware Failures on Windows 10 & 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hochtief-ag/"><u>Hochtief AG</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-15-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 15 Plus and iPad Securely</u></a></li>
-<li><a href="https://fox-within.techidaily.com/quick-and-easy-tutorial-restore-accidentally-deleted-files-from-your-network-storage/"><u>Quick & Easy Tutorial: Restore Accidentally Deleted Files From Your Network Storage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>Ultimate Guide to Bandicam The 2023 Comprehensive Overview</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-critical-process-failure-error-leading-to-bsod-in-win11/"><u>Understanding and Repairing the Critical Process Failure Error Leading to BSoD in Win11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>[New] 2024 Approved Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-brilliance-in-canon-photos-with-free-and-premium-luts/"><u>[New] Capture Brilliance in Canon Photos with Free and Premium LUTs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>[New] Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-psychology-of-persuasion-in-subscription-growth/"><u>[New] The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bad-pool-caller-error-on-windows-10-solved/"><u>Bad Pool Caller Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-rtwlanesys-system-crash-problems/"><u>Diagnosing and Repairing RTWLane.SYS System Crash Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-resolve-a-missing-directx-9-dll-error/"><u>Effortless Ways to Resolve a Missing DirectX 9 DLL Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ending-blue-screen-woes-once-and-for-all-a-closer-look-at-storahcisys-solutions/"><u>Ending Blue Screen Woes Once and For All: A Closer Look at Storahci.sys Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-framework-damage-on-the-latest-windows-operating-system/"><u>Fixing Essential Framework Damage on the Latest Windows Operating System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-mini-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 mini without Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-s17t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo S17t to Gmail | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-iphone-sideways-shots-for-2024/"><u>Innovative Techniques for iPhone Sideways Shots for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2024-11-30T18:15:18.174Z
-updated: 2024-12-02T02:04:42.098Z
+date: 2024-12-05T16:33:33.840Z
+updated: 2024-12-09T17:58:14.891Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -47,10 +43,14 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Yes** .
@@ -61,25 +61,25 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -103,15 +103,15 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -130,24 +130,16 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-these-5-techniques-on-windows-11/"><u>[New] 2024 Approved Elevate Your Gaming Experience with These 5 Techniques on Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-hdr-mastery-for-home-and-professional-pcs/"><u>[New] 2024 Approved HDR Mastery for Home and Professional PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/banishing-your-windows-10-video-glitches-the-complete-fix-guide-for-the-pesky-atikmpagsys-errors/"><u>Banishing Your Windows 10 Video Glitches: The Complete Fix Guide for the Pesky atikmpag.sys Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-tutorial-to-repair-blue-screen-of-death-caused-by-video-dxgkrnl-driver-in-windows-11/"><u>Complete Tutorial to Repair Blue Screen of Death Caused by Video Dxgkrnl Driver in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/essential-methods-correcting-critical-system-failures-bsod-in-windows-10/"><u>Essential Methods: Correcting Critical System Failures (BSOD) in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-blue-screen-of-death-with-error-code-0x00000050-on-windows-eeprom/"><u>How to Fix the Blue Screen of Death with Error Code 0X00000050 on Windows Eeprom</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-storahcisys-crashes-on-your-pc/"><u>How to Resolve Storahci.sys Crashes on Your PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y28 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photopony-pro-exploring-affordable-filters/"><u>In 2024, PhotoPony Pro Exploring Affordable Filters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-windowsmac-securely-download-facebook-media/"><u>In 2024, Windows/Mac Securely Download Facebook Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/of-the-apple-watch-series-4-for-potential-buyers/"><u>Of the Apple Watch Series 4 for Potential Buyers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199736858-quick-and-easy-repairs-for-0x000000d1-error-say-goodbye-to-blue-screens/"><u>Quick and Easy Repairs for 0X000000D1 Error, Say Goodbye to Blue Screens!</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-hidden-risks-of-shadowing-online-profiles/"><u>The Hidden Risks of Shadowing Online Profiles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-leading-microsoft-enterprise-apps-of-2022-for-iphone-and-ipad-expert-picks/"><u>Top 10 Leading Microsoft Enterprise Apps of 2022 for iPhone & iPad - Expert Picks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/trouble-free-tips-for-reaching-win-11s-boot-recovery-environment-and-more/"><u>Trouble-Free Tips for Reaching Win 11’S Boot Recovery Environment and More</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-system-failures-a-guide-to-fixing-watchdogsys-bluescreens/"><u>Troubleshooting Critical System Failures: A Guide to Fixing Watchdog.sys Bluescreens</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-system-service-exception/"><u>Windows 7에서 'System Service Exception' 문제 해결 - 사용자가 될 수 있는 솔루션</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-goovision-chromium-captures-on-screen/"><u>[New] 2024 Approved GooVision Chromium Captures On-Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-downloading-youtube-srt-a-step-by-step-threefold-approach/"><u>[New] In 2024, Downloading YouTube SRT A Step-by-Step, Threefold Approach</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-critical-structure-corruption-on-windows-11/"><u>[SOLVED] Critical Structure Corruption on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x00000124-blue-screen-error-on-windows-10-and-7/"><u>[Solved] Stop: 0X00000124 Blue Screen Error on Windows 10 & 7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-master-technique-long-term-disabling-of-youtube-shorts/"><u>2024 Approved Master Technique Long-Term Disabling of YouTube Shorts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/immediate-solutions-to-tackle-dpc-watchdog-non-compliance-error-easily-and-fast/"><u>Immediate Solutions to Tackle DPC Watchdog Non-Compliance Error Easily and Fast!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-magic-vs-2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor Magic Vs 2 FRP</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211425094-9781631524707-memories-in-dragonflies/"><u>Memories in Dragonflies | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-solve-system-service-failed-to-start-on-your-pc-windows-10-edition/"><u>Troubleshoot & Solve System Service Failed to Start on Your PC - Windows 10 Edition</u></a></li>
 </ul></div>
 

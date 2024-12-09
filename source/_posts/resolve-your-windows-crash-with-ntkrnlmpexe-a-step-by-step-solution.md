@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution
-date: 2024-11-30T04:40:39.693Z
-updated: 2024-12-01T18:15:39.181Z
+date: 2024-12-07T19:25:34.946Z
+updated: 2024-12-09T17:07:00.631Z
 tags:
   - win11
   - win10
@@ -46,17 +46,21 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -69,26 +73,26 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -112,10 +116,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
@@ -127,7 +127,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
@@ -158,24 +158,18 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-20-most-memorable-anime-series-intros/"><u>[New] 20 Most Memorable Anime Series Intros</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-harvest-hacks-ginger-valley-edition/"><u>[New] 2024 Approved Harvest Hacks Ginger Valley Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-could-you-make-on-youtube-snippets/"><u>[New] In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-volume-surge-controllers-for-windowsmacos/"><u>[New] In 2024, Top 10 Volume Surge Controllers for Windows/MacOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-curate-engaging-content-with-top-igtv-editor-tools/"><u>[Updated] 2024 Approved Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enrich-video-narrative-with-slow-motion-on-iphone/"><u>2024 Approved Enrich Video Narrative with Slow Motion on iPhone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-the-irql-not-less-or-equal-bug-a-comprehensive-guide-for-windows-7-users/"><u>Dealing with the 'IRQL NOT LESS OR EQUAL' Bug: A Comprehensive Guide for Windows 7 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-attempted-switch-failure-in-dpc-issue-for-windows-quick-fix-tips/"><u>Eliminating the 'Attempted Switch Failure in DPC' Issue for Windows - Quick Fix Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fandango-on-the-go-installation-tutorial-for-fire-stick-users/"><u>Fandango On The Go: Installation Tutorial for Fire Stick Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-10-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-error-usb-driver-issues-in-windows-10/"><u>Fixing the Blue Screen Error: USB Driver Issues in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Pro 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-with-dxgmmsn2sys-error-on-windows-11/"><u>How to Resolve Blue Screen of Death with 'dxgmmsn2.sys' Error on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-s18e-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo S18e</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/powerdirector-color-correction-a-step-by-step-guide-to-perfecting-your-footage/"><u>PowerDirector Color Correction A Step-by-Step Guide to Perfecting Your Footage</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-resolving-windows-10s-unforeseen-store-exception-issue/"><u>Troubleshooting Steps for Resolving Windows 10'S Unforeseen Store Exception Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-10-dynamic-image-backdrops-for-video-editing/"><u>[New] In 2024, Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-melodic-mockery-best-laugh-inspired-songs/"><u>[New] Melodic Mockery Best Laugh-Inspired Songs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-zoom-rooms-with-ease-newcomers/"><u>[New] Navigating Zoom Rooms with Ease, Newcomers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-stories-in-a-flash-free-extensions-and-mobile-magic-for-2024/"><u>[New] Transform Stories in a Flash – Free Extensions & Mobile Magic for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-the-script-online-video-reversals-for-2024/"><u>[Updated] Flipping the Script Online Video Reversals for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-social-media-watersheds-of-your-interest-space/"><u>[Updated] Navigating the Social Media Watersheds of Your Interest Space</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746265-comprehensive-solutions-to-the-bsod-error-0xc00lete-on-windows-10-and-8-get-your-pc-back-online/"><u>Comprehensive Solutions to the BSOD (Error 0xC00lete) on Windows 10 and 8: Get Your PC Back Online</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-storportsys-system-failure-in-windows-10-effective-solutions-unveiled/"><u>Fixing the Critical Storport.sys System Failure in Windows 10: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-video-tdr-faults-caused-by-atikmpagsys-in-windows-11-solution-guide/"><u>How to Fix Video TDR Faults Caused by atikmpag.sys in Windows 11 - Solution Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y56-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y56 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-on-windows-11-solved/"><u>System Service Exception on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-shifting-window-bar-through-decades-1985-2023/"><u>The Shifting Window Bar Through Decades (1985-2023)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-phantom-v-fold-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Phantom V Fold FRP</u></a></li>
 </ul></div>
 

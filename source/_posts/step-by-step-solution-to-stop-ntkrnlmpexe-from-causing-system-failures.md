@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Stop NTKRNLMP.EXE From Causing System Failures
-date: 2024-12-03T17:24:26.075Z
-updated: 2024-12-09T16:42:35.218Z
+date: 2024-12-13T18:11:34.383Z
+updated: 2024-12-15T21:24:12.091Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
 **BAD\_SYSTEM\_CONFIG\_INFO**  is one of the common Blue Screen of Death (BSOD) error on Windows system. If you’re experiencing this error, rest assured, you’re not alone. Many Windows users have this problem. More importantly, you can fix it through the methods below quickly & easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 effective methods to fix BAD\_SYSYTEM\_CONFIG\_INFO
 
  The Bad System Config Info blue screen error could be caused by different reasons. This guide is covering 3 different effective and easy methods for your to try. You may not have to try them all; just start from the top and work your way down, till you solve your problem.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
@@ -52,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-update-drivers.jpg)
 4. Reboot your Windows 10 to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Fix your BCD file
@@ -74,18 +82,14 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-49-04.jpg)
 5. Type the following commands and press **Enter**  after each.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **bootrec /repairbcd**  
  **bootrec /osscan**  
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 7. Reboot your Windows 10 to see if it works.
 
 See if this method works for you. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Fix your Windows Registry
 
@@ -148,22 +148,18 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/34130268-new-in-2024-channel-name-wizardry-brainstorm-and-create/"><u>[New] In 2024, Channel Name Wizardry Brainstorm & Create</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-of-youtube-music-reactions-essential-tips/"><u>[New] In 2024, Mastering the Art of YouTube Music Reactions - Essential Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-bsod-error-video-memory-management-internal/"><u>[SOLVED] BSOD Error Video Memory Management Internal</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elite-choices-in-total-sweep-cinematography/"><u>[Updated] 2024 Approved Elite Choices in Total Sweep Cinematography</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-blueprint-to-youtube-success-top-tips-for-outstanding-shorts/"><u>[Updated] 2024 Approved Your Blueprint to Youtube Success Top Tips for Outstanding Shorts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-video-editing-in-youtube-studio-explained-for-2024/"><u>[Updated] Cutting-Edge Video Editing in YouTube Studio Explained for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-inside-look-how-youtuber-shorts-work/"><u>[Updated] In 2024, Inside Look How Youtuber Shorts Work</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-recording-showdown-go-with-obs-studio-or-bandicam/"><u>2024 Approved Screen Recording Showdown Go with OBS Studio or Bandicam</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-sony-xperia-10-v-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Sony Xperia 10 V? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/arvato-systems/"><u>Arvato Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-video-zoom-editors-of-the-year-roundup-for-2024/"><u>Best Video Zoom Editors of the Year - Roundup for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-eliminating-the-unexpected-trapping-bug-leading-to-blue-screen-failures-in-windows-11/"><u>Guide: Eliminating the Unexpected Trapping Bug Leading to Blue Screen Failures in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-attemptedwritetoreadonlymemory-blue-screen-error/"><u>Solved: Attempted_Write_To_Readonly_Memory Blue Screen Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-inaccessible-boot-device-blue-screen-error-on-windows-11-a-visual-guide/"><u>Solving 'Inaccessible Boot Device' Blue Screen Error on Windows 11: A Visual Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-io-manager-and-driver-verifier-conflicts/"><u>Troubleshooting Guide: Fixing IO Manager and Driver Verifier Conflicts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-acpisys-error-on-windows-11-step-by-step-guide/"><u>Troubleshooting the acpi.sys Error on Windows 11 – Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-fixing-fatal-errors-in-pnp-detection-on-windows-11/"><u>Troubleshooting Tips for Fixing Fatal Errors in PNP Detection on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-break-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid/"><u>[New] 2024 Approved Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-elevate-your-youtube-presence-essential-tips-for-engaging-shorts/"><u>[New] In 2024, Elevate Your Youtube Presence Essential Tips for Engaging Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-closer-look-at-vlc-critiques-and-options/"><u>2024 Approved A Closer Look at VLC Critiques and Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-adversities-in-digital-self-expression/"><u>2024 Approved Overcoming Adversities in Digital Self-Expression</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746265-comprehensive-solutions-to-the-bsod-error-0xc00lete-on-windows-10-and-8-get-your-pc-back-online/"><u>Comprehensive Solutions to the BSOD (Error 0xC00lete) on Windows 10 and 8: Get Your PC Back Online</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-storportsys-system-failure-in-windows-10-effective-solutions-unveiled/"><u>Fixing the Critical Storport.sys System Failure in Windows 10: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-video-tdr-faults-caused-by-atikmpagsys-in-windows-11-solution-guide/"><u>How to Fix Video TDR Faults Caused by atikmpag.sys in Windows 11 - Solution Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elevate-your-images-using-new-techniques/"><u>In 2024, Elevate Your Images Using New Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>In 2024, Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-guiding-users-on-completely-audible-fb-videos/"><u>In 2024, Guiding Users on Completely Audible FB Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-8s-proplus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nubia Red Magic 8S Pro+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/system-service-exception-on-windows-11-solved/"><u>System Service Exception on Windows 11 [Solved]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Bad Pool Header' Blue Screen of Death in Windows 11
-date: 2024-12-08T18:40:57.496Z
-updated: 2024-12-09T17:17:07.902Z
+date: 2024-12-08T22:00:30.138Z
+updated: 2024-12-15T20:42:26.090Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db357b3699e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 easy and effective methods to fix 0x000000F4
 
 1. **[Update all your available drivers](https://tools.techidaily.com/drivereasy/download/)**
@@ -30,10 +26,6 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 3. **[Check your disk](https://tools.techidaily.com/drivereasy/download/)**
 
  IMPORTANT: You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, restart it in Safe Mode, then try these solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
 
@@ -45,10 +37,14 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a5be1336da.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the blue screen disappear. If it shows again, you know your drivers weren’t to blame, and you should try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Uninstall your antivirus software temporarily
@@ -58,7 +54,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 **Important:**  Please reinstall your antivirus software whether Method 2 helps you fix this problem. It’s important to keep an antivirus software to protect your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Check your disk
@@ -69,6 +65,10 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db475dd7b40.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Yes**  when prompted by User Account Control.
 
  3) Type **chkdsk /f**  and press **Enter**  on your keyboard.
@@ -76,7 +76,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db47077b1d2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Follow the instructions to finish the checking task.
@@ -101,24 +101,20 @@ Follow the instructions to finish the checking task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-bringing-up-the-height-editing-instagram-content-with-fcpx-for-2024/"><u>[New] Bringing Up the Height Editing Instagram Content with FCPX for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[New] In 2024, A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revolutionize-your-mac-streaming-experience-for-2024/"><u>[Updated] Revolutionize Your Mac Streaming Experience for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/allianz-se/"><u>Allianz SE</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ehensive-directory-of-inexpensive-stock-images/"><u>Comprehensive Directory of Inexpensive Stock Images</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/comprehensive-guide-to-idevices-recording-tools-for-2024/"><u>Comprehensive Guide to iDevices Recording Tools for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decoding-and-repairing-the-common-ndisdriver-bug-problem/"><u>Decoding and Repairing the Common NDIS_DRIVER Bug Problem</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-device-driver-mishaps-in-windows-11-systems/"><u>Effortless Solutions to Device Driver Mishaps in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-gripping-real-life-mysteries-with-these-13-true-crime-pods/"><u>Explore Gripping Real-Life Mysteries with These 13 True Crime Pods</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/"><u>Fixing ACPI.sys Issues - Tips and Tricks for Windows 11 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-machine-check-exception-that-leads-to-bsod-in-windows-10/"><u>How to Troubleshoot and Repair the 'Machine Check Exception' That Leads to BSoD in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-resolving-the-7-frequent-display-issues-on-iphones/"><u>Identifying & Resolving the 7 Frequent Display Issues on iPhones</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1726026865314-pcyoutube/"><u>PCでのYouTubeショート動画記録・保存ガイド</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/seamless-troubleshooting-navigating-to-windows-11-safe-mode-and-advanced-options/"><u>Seamless Troubleshooting: Navigating to Windows 11 Safe Mode & Advanced Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/shedding-light-on-overwatch-troubles-tackling-the-games-dark-launch-dilemma/"><u>Shedding Light on Overwatch Troubles: Tackling the Game's Dark Launch Dilemma</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-for-rtwlanesys-critical-stop-error-fix/"><u>Solution for RTWLane.SYS Critical Stop Error Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-the-driver-overrun-stack-buffer-failure/"><u>Step-by-Step Guide: Correcting the DRIVER OVERRUN STACK BUFFER Failure</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-errors-from-igdkmd64sys-in-windows-11-solution-provided/"><u>Troubleshooting Blue Screen Errors From IGDKMD64.sys in Windows 11 [Solution Provided]</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-power-of-artificial-intelligence-in-facebook-posts/"><u>Unveiling the Power of Artificial Intelligence in Facebook Posts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovating-quickly-2-approaches-to-making-snapchat-filters/"><u>[New] Innovating Quickly 2 Approaches to Making Snapchat Filters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-nature-backdrop-sketches-essential-downloads-for-videographers-for-2024/"><u>[New] Nature Backdrop Sketches Essential Downloads for Videographers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/remier-service-youtube-to-written-summary/"><u>[New] Premier Service YouTube to Written Summary</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transform-your-feed-a-comprehensive-guide-to-videos/"><u>[Updated] 2024 Approved Transform Your Feed A Comprehensive Guide to Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-lesson-planning-with-recorder-tools/"><u>2024 Approved Streamline Lesson Planning with Recorder Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/demystifying-and-repairing-the-notorious-0x0000000a-blue-screen-error/"><u>Demystifying and Repairing the Notorious 0X0000000A Blue Screen Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-post-ag/"><u>Deutsche Post AG</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/irql-not-less-or-equal-windows-7-solved/"><u>IRQL NOT LESS OR EQUAL Windows 7 [SOLVED]</u></a></li>
+<li><a href="https://discover-best.techidaily.com/navigating-the-digital-space-efficiently-how-cookiebot-empowers-personalized-engagement/"><u>Navigating the Digital Space Efficiently: How Cookiebot Empowers Personalized Engagement</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rectify-windows-11-booting-issue-with-inaccessible-disk-error-bsod-detailed-photo-tutorial/"><u>Rectify Windows 11 Booting Issue with Inaccessible Disk Error (BSOD): Detailed Photo Tutorial</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-repair-the-scheduler-glitch-on-your-windows-10-device-for-smooth-video-calls/"><u>Step-by-Step Guide to Repair the Scheduler Glitch on Your Windows 10 Device for Smooth Video Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/techniques-for-effortless-facebook-video-posting-pcandroid/"><u>Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-blue-screen-of-death-error-0x00000133-in-windows-10-systems/"><u>Troubleshooting Guide for Blue Screen of Death Error 0X00000133 in Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-vcplusplus-distributor-functions/"><u>Understanding VC++ Distributor Functions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/visual-storytelling-made-gorgeous-expert-guides-to-grading-and-correction-for-2024/"><u>Visual Storytelling Made Gorgeous Expert Guides to Grading & Correction for 2024</u></a></li>
 </ul></div>
 

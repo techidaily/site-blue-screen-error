@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Stop Error Code 0X0000001A
-date: 2024-12-04T19:14:37.991Z
-updated: 2024-12-09T20:09:58.052Z
+date: 2024-12-09T18:56:14.130Z
+updated: 2024-12-15T22:55:48.439Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  Are you suffering the**0x00000116 blue-screen** error? It could be super frustrating, especially if it happens while you’re playing a video game. But don’t panic. You won’t be stuck with it forever. We’ll walk you through how to fix it step by step. Read on and find how…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 fixes for 0x00000116
 
 1. **[Perform a clean install for your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Perform a clean install for your graphics card driver
@@ -50,11 +46,15 @@ Here’s how you can do it:
 3. Double-click**Display adapters** . Then**right-click** on your graphics card software to select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976d0aa02ea.jpg)
 4. Restart your computer, your Windows system should then load the basic display adapter driver for your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 2: Download and install the latest driver for your graphics card**
 
@@ -77,13 +77,13 @@ Note: You can do it   **for free**  if you like, but it’s partly manual.
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If unfortunately, updating driver fails to help you, don’t give up hope, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Turn off your monitor’s sleep function
 
@@ -95,15 +95,15 @@ See how to do it:
 2. Type**power** in the search box then select**Choose a power plan** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976ec81c2d5.jpg)
 3. Click**Choose when to turn off the display** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976efd15857.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Set**Turn off the display** to**Never** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976f21d008f.jpg)
 
 Restart your computer to see if the blue-screen error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your game
 
@@ -143,19 +143,24 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[New] 2024 Approved Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-breaking-the-internet-with-these-hysterical-stickers-for-2024/"><u>[New] Breaking the Internet with These Hysterical Stickers for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-epic-escapades-10-roguelite-games-reviewed/"><u>[Updated] 2024 Approved Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-enhanced-joy-in-switchs-hd-gameplay-through-cards/"><u>[Updated] In 2024, Enhanced Joy in Switch's HD Gameplay Through Cards</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>[Updated] Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-0x00000116-blue-screen-error-easily/"><u>Fix 0X00000116 Blue Screen Error Easily</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-drivercorruptedexceptionpool-errors-in-windows-11-step-by-step-guide/"><u>Fixing DRIVER_CORRUPTED_EXCEPTION_POOL Errors in Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-bsod-with-error-code-ea/"><u>Fixing the Blue Screen of Death (BSoD) with Error Code Ea</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-officejet-pro-8600-printer-driver-for-windows/"><u>How to Download and Install HP Officejet Pro 8600 Printer Driver for Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-damaged-fat-file-structure-in-windows-11-a-step-by-step-guide/"><u>How to Repair a Damaged Fat File Structure in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-the-gorgeous-and-lightweight-lenovo-ideapad-320-with-its-iconic-lenovo-keyboard-experience/"><u>Review: The Gorgeous & Lightweight Lenovo Ideapad 320 with Its Iconic Lenovo Keyboard Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unconventnional-methods-to-refuel-your-smartphones-battery-sans-charger/"><u>Unconventnional Methods to Refuel Your Smartphone's Battery Sans Charger</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-successfully-overcoming-hal-initialization-problems-in-windows-nvme-storage-devices-cpu-overclocking-issues-and-more/"><u>Unraveling the Mystery: Successfully Overcoming HAL Initialization Problems in Windows Nvme Storage Devices, CPU Overclocking Issues, and More</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-driver-exception-pool-error-fixes-comprehensive-troubleshooting-techniques/"><u>Windows 11 Driver Exception Pool Error Fixes: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banish-the-blue-screen-troubleshooting-storahcisys/"><u>Banish the Blue Screen: Troubleshooting 'storahci.sys'</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcome-the-storportsys-crash-on-your-windows-10-pc/"><u>Comprehensive Guide to Overcome the StorPort.sys Crash on Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/conquer-the-curse-of-crimson-pixels-a-comprehensive-guide-to-repairing-the-orange-display-fault/"><u>Conquer the Curse of Crimson Pixels: A Comprehensive Guide to Repairing the Orange Display Fault</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-lineages-and-lines/"><u>Drone Lineages and Lines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-and-interact-with-audience-across-major-social-platforms-facebook-twitter-instagram-you-tube/"><u>Engage and Interact With Audience Across Major Social Platforms: Facebook, Twitter, Instagram, You Tube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-irql-discrepancy-issues-in-windows-7-systems-fixed/"><u>Expert Tips to Overcome IRQL Discrepancy Issues in Windows 7 Systems [FIXED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-ntfs-filesystem-error-on-your-windows-1n-pro-device-step-by-step-tutorial/"><u>How to Fix the NTFS Filesystem Error on Your Windows 1N Pro Device – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ballot-battlegrounds-prime-political-games-guide/"><u>In 2024, Ballot Battlegrounds Prime Political Games Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-essential-update-on-whats-new-with-facebook/"><u>In 2024, The Essential Update on What's New with Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-pro-4g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-palworld-a-beginners-guide/"><u>Navigating PalWorld: A Beginner's Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/patch-applied-to-stop-nx-memory-exploit-attacks-in-windows-environments/"><u>Patch Applied to Stop NX Memory Exploit Attacks in Windows Environments</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-installing-windows-10-via-usb-drive-with-illustrative-images/"><u>Step-by-Step Guide: Installing Windows 10 via USB Drive with Illustrative Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tactical-guide-to-screening-meetings-on-mobilepc-for-2024/"><u>Tactical Guide to Screening Meetings on Mobile/PC for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transforming-photos-into-videos-an-experts-complete-tutorial-series-for-2024/"><u>Transforming Photos Into Videos An Expert's Complete Tutorial Series for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-success-understanding-system-restarts-after-errors/"><u>Troubleshooting Success: Understanding System Restarts After Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-bsod-error-0xc000021a-on-your-windows-10-or-8-pc-effective-fixes/"><u>Troubleshooting the BSOD (Error 0xC000021A) on Your Windows 10 or 8 PC - Effective Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshooting-iastorasys-critical-system-failure-and-blue-screens/"><u>Ultimate Guide to Troubleshooting iastorA.sys Critical System Failure and Blue Screens</u></a></li>
 </ul></div>
 

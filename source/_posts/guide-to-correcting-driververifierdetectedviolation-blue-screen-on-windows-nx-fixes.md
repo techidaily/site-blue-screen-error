@@ -1,7 +1,7 @@
 ---
 title: Guide to Correcting 'DRIVER_VERIFIER_DETECTED_VIOLATION' Blue Screen on Windows nX [FIXES]
-date: 2024-11-27T20:17:06.737Z
-updated: 2024-12-01T19:51:12.476Z
+date: 2024-12-22T17:54:43.956Z
+updated: 2024-12-24T17:45:51.676Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf76266cb012.jpg)
 
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,7 +44,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -61,17 +57,13 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 3. Click**Restart now and check for problems(recommended)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After the testing, Windows will restart automatically.
 
@@ -84,10 +76,18 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
 
@@ -99,15 +99,7 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Go on to follow the on-screen instructions to install the updates.
 
@@ -134,6 +126,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -147,6 +143,10 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
@@ -185,19 +185,17 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-choruscheck-live-audio-critique-for-2024/"><u>[New] ChorusCheck Live Audio Critique for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-convert-twitter-vids-to-customized-soundtracks/"><u>[New] In 2024, Convert Twitter Vids to Customized Soundtracks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-essentials-in-obtaining-stock-images-for-multimedia-projects/"><u>[New] In 2024, Essentials in Obtaining Stock Images for Multimedia Projects</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlined-steps-capturing-your-dell-screen-in-a-minute/"><u>[New] In 2024, Streamlined Steps Capturing Your Dell Screen in a Minute</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-the-0x00000050-error-on-windows/"><u>Fixing the Blue Screen of Death: Solutions for the 0X00000050 Error on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-and-save-video-images-on-windows-11/"><u>In 2024, Capture and Save Video Images on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mozilla-firefox-security-hiccup-heres-how-you-can-solve-it/"><u>Mozilla Firefox Security Hiccup? Here's How You Can Solve It</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pioneering-techniques-for-cross-social-video-sharing/"><u>Pioneering Techniques for Cross-Social Video Sharing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-memory-management-blue-screen-of-death-in-windows-11/"><u>Resolving 'Memory Management' Blue Screen of Death in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-persistent-blue-screen-caused-by-volsnapsys-in-windows-environments/"><u>Step-by-Step Fixes for the Persistent Blue Screen Caused by Volsnap.sys in Windows Environments</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-instructions-correcting-the-cmusbdacsys-issue-leading-to-blue-screen-in-windows/"><u>Step-by-Step Instructions: Correcting the CMUSBDAC.sys Issue Leading to Blue Screen in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unlock-the-secrets-to-overcoming-fatal-system-failures-in-windows-10-with-event-tracing-techniques/"><u>Unlock the Secrets to Overcoming Fatal System Failures in Windows 10 with Event Tracing Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-elite-iphones-of-2eplusoo-rigorously-tested-by-professionals-detailed-insights/"><u>Unveiling the Elite iPhones of 2E+oo: Rigorously Tested by Professionals, Detailed Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-hd-action-recorder-brands-under-100/"><u>[New] Best HD Action Recorder Brands Under $100</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-amplify-your-channel-effortless-tactics-for-more-views/"><u>[Updated] In 2024, Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>2024 Approved Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-eliminating-bsod-caused-by-hypervisor-glitch-in-windows-11-systems/"><u>Diagnose and Repair: Eliminating BSOD Caused by Hypervisor Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-persistent-pnpdetectedfatalerror-issue-in-windows-10/"><u>How to Fix the Persistent 'PNP_Detected_Fatal_Error' Issue in Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-essential-tactics-for-success-in-instagrams-video-discussions/"><u>In 2024, Essential Tactics for Success in Instagram's Video Discussions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-keeping-your-ps4-remote-connected-to-windows/"><u>Mastering the Art of Keeping Your PS4 Remote Connected to Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/microvid-virtuoso-for-2024/"><u>MicroVid Virtuoso for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-bsod-errors-caused-by-system-configuration-quick-remedies-inside/"><u>Stop BSOD Errors Caused by System Configuration - Quick Remedies Inside</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unexpected-store-exception-error-in-windows-11-solved/"><u>Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-windows-11s-critical-system-failure-machine-check-exception/"><u>Understanding and Solving Windows 11'S Critical System Failure (Machine Check Exception)</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-messenger-kids-sleep-mode-for-optimal-performance/"><u>Unlocking Messenger Kids' Sleep Mode for Optimal Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All
-date: 2024-12-12T22:41:45.653Z
-updated: 2024-12-15T22:58:16.139Z
+date: 2024-12-20T19:18:02.875Z
+updated: 2024-12-24T19:52:46.254Z
 tags:
   - win11
   - win10
@@ -19,37 +19,37 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 A**Blue Screen of Death (BSOD)**is usually hardware or software related. In most cases, when you see a blue screen of death error, you will also see an error code (marked by the red rectangle). Since the exact cause and the solutions could be hard to get, Microsoft has included a QR code with each BSOD in Windows 10\. If you missed the chance to mark down the error code or scan the QR code, you are not at your wits ends. There are still many options that you can try to get the blue screen of death error go away. **Note that** methods varied depending on different codes. If you want to have more specific tutorial about a specific BSOD error, search your error code in our knowledge base [_https://www.drivereasy.com/knowledge/_](https://tools.techidaily.com/drivereasy/download/). If your problem has yet to be addresses, feel free to leave us comment and we’ll see what else we can do. Step 1:[**Check if you have enough space left**](https://tools.techidaily.com/drivereasy/download/)Step 2: **[Scan your computer for viruses](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Apply all available Windows service packs and other updates](https://tools.techidaily.com/drivereasy/download/)** Step 4: **[Test Your System Memory and your Hard Disk Drive(HDD)](https://www.drivereasy.com/knowledge/5-tips-to-fix-a-blue-screen-of-death-bsod-on-windows-10/#m4)** Step 5: **[Roll Back Drivers in Safe Mode](https://tools.techidaily.com/drivereasy/download/)** **IMPORTANT**: If your computer won’t boot, you need to refer to[**this post**](https://tools.techidaily.com/drivereasy/download/)to get into desktop and then safe mode first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Check if you have enough space left
 
 Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Scan your computer for viruses
 
 Make sure you have upgraded your antivirus program database to the latest version first. Then use it to scan your computer to see if there is some virus that could cause this problem. If you are not sure how to update your database of your antivirus program, it is suggested that you search for related information in the developer or manufacturer website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3: Apply all available Windows service packs and other updates
 
 Service pack is a collection of updates and fixes, called patches, for operating system or a software program. It usually allows an easy and single installation. You could usually check your service pack in**Control Panel > System**. In Windows, most patches and fixes are available through**Windows Update**. It is suggested that you check whether your computer has installed the latest released patches in**Settings > Updates & security.** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/settings-updates-security.jpg)It’s also important that you keep your device drivers up-to-date. Some BSOD could be caused by faulty or outdated device drivers. To update your drivers, you can search on the manufacturer support website your PC model and see if there are updates available. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bcc356d652.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Click the**Update**button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click**Update All**).
 
 ## ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598bcc4ae4019.jpg)  4: Test Your System Memory and your Hard Disk Drive(HDD)
 
 These two tests are done to make sure whether your memory card or hard drive are to blame for the BSOD error. If they are problematic, you should consider replace them as soon as possible. Test Your System Memory 1) On your keyboard, press**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter** . ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) You could choose**Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose**Check for problems the next time I start my computer** if you are too occupied now.
 
@@ -59,14 +59,14 @@ These two tests are done to make sure whether your memory card or hard drive are
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you don’t see any error here, it’s likely that your memory card is not causing any issues. Blue Screen of Death problems and some other serious error, such as data corruption, can occur if there is not enough free space on your primary partition used for Windows operating system, which is usually installed in Disk or partition C. Windows 10 uses approximately 10 GBs of disk space, please make sure that you have enough room in your Disk C to store the setup files of Windows 10\. Run a Hard Disk Drive testPlease make sure you have closed all open programs and files before your disk check. 1) Follow the path**Start button** **\> File Explorer > This PC**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)2) Locate the hard drive that you would like to check. Right click it and choose**Properties**. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties-in-hard-drive.jpg)3) Go to**Tools**tab and then click**Check**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)4) If your hard disk drive is problem free, you will see the notification like this:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)  5: Roll Back Drivers in Safe Mode
@@ -97,16 +97,19 @@ If you find that your software is the cause of your BSOD problem, please try the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sound-system-advances-announced-for-2024/"><u>[New] Sound System Advances Announced for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-chucklechrome-memomasters/"><u>[Updated] 2024 Approved ChuckleChrome MemoMasters</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1-troubleshooting-your-pc-how-to-fix-connection-issues-between-your-printer-and-computer-tips-from-yl-computing/"><u>1. Troubleshooting Your PC: How to Fix Connection Issues Between Your Printer and Computer - Tips From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-not-recognized-issues-in-windows-with-these-fixes/"><u>Banish 'Not Recognized' Issues in Windows with These Fixes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-correctly-address-and-repair-storportsys-bsod-errors-on-a-windows-10-machine/"><u>Comprehensive Strategies to Correctly Address and Repair Storport.sys BSOD Errors on a Windows 10 Machine</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-stop-bsod-error-caused-by-asmtxhci-driver-failure/"><u>Effective Strategies to Stop BSOD Error Caused by ASMTXHCI Driver Failure</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-an-internal-power-failure-problem-in-windows-11-easily-and-quickly/"><u>How to Fix an Internal Power Failure Problem in Windows 11 Easily and Quickly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-10/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 10</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-editing-splitting-videos-in-windows-live-movie-maker/"><u>New 2024 Approved The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-dxgkrnl-bluescreen-obstacle-in-windows-10-a-comprehensive-fix/"><u>Overcoming the 'Dxgkrnl' Bluescreen Obstacle in Windows 10: A Comprehensive Fix</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/raymond-announces-historic-us-china-communication-agreement-establishing-joint-trade-channels-and-export-control-mechanisms/"><u>Raymond Announces Historic US-China Communication Agreement, Establishing Joint Trade Channels and Export Control Mechanisms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>[New] 2024 Approved Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-mobile-asmr-must-have-apps/"><u>[Updated] Mastering Mobile ASMR Must-Have Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-traps-avoiding-pitfalls-for-better-interactions/"><u>ChatGPT's Traps: Avoiding Pitfalls for Better Interactions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-resolving-the-acpisys-error-in-windows-11-systems/"><u>Expert Advice on Resolving the Acpi.sys Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915373130-exploring-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fine-tuning-ai-assistance-in-fitness-regimes-smart-chatgpt-prompt-crafting-methods/"><u>Fine-Tuning AI Assistance in Fitness Regimes: Smart ChatGPT Prompt Crafting Methods</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-syntpsys-blue-screen-of-death-error-in-windows/"><u>How to Fix SYNTP.SYS Blue Screen of Death Error in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-discover-free-high-quality-facebook-image-and-vfx-makers/"><u>In 2024, Discover Free, High-Quality Facebook Image & VFX Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>In 2024, Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-g22-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia G22 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/master-the-technique-correcting-bsod-errors-due-to-system-pte-misuse/"><u>Master the Technique: Correcting BSOD Errors Due to SYSTEM PTE Misuse</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-multiple-irp-completed-requests-causes-blue-screen-of-death-bsod/"><u>Resolved: Fixing Multiple IRP Completed Requests Causes Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-resolving-boot-device-not-found-bsod-issues-in-windows-10-visual-aids-included/"><u>Step-by-Step Guide: Resolving 'Boot Device Not Found' BSOD Issues in Windows 10 (Visual Aids Included)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-the-solution-to-overcome-fallout-4s-persistent-black-screen-challenge/"><u>Uncover the Solution to Overcome Fallout 4'S Persistent Black Screen Challenge</u></a></li>
 </ul></div>
 

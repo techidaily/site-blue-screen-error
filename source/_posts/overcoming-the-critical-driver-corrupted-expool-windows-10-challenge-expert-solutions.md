@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions
-date: 2024-12-20T17:11:21.988Z
-updated: 2024-12-24T19:04:05.396Z
+date: 2024-12-27T19:38:08.053Z
+updated: 2025-01-02T05:42:04.934Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1\. Performing clean boot
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  2) Type**msconfig** in the box and press **Enter** to open the System Configuration window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
@@ -50,16 +54,24 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
@@ -82,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 3\. Update your drivers**
 
  The blue screen errors are always caused by the incompatible, outdated or corrupted drivers. Therefore, we highly recommend updating device drivers on your Windows to ensure your system run properly whenever the blue screen shows on your computer.
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -113,6 +117,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -122,17 +130,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -158,18 +158,19 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-beyond-the-viewfinder-top-6-android-and-ios-video-apps/"><u>[New] 2024 Approved Beyond the Viewfinder Top 6 Android and iOS Video Apps</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-pre-upload-best-practices-to-maintain-tiktoks-integrity-for-2024/"><u>[New] Pre-Upload Best Practices to Maintain TikTok's Integrity for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ifting-through-the-differences-igtv-vs-youtube-in-a-direct-comparison-for-2024/"><u>[New] Sifting Through the Differences IGTV Vs. YouTube in a Direct Comparison for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-blue-screen-error-0x0000003b-a-comprehensive-guide-to-fixing-the-critical-process-died-issue/"><u>Diagnosing and Resolving Blue Screen Error 0X0000003B - A Comprehensive Guide to Fixing the Critical Process Died Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminate-your-windows-10-trouble-fixing-the-unanticipated-store-exception-error-with-ease/"><u>Eliminate Your Windows 10 Trouble: Fixing the Unanticipated Store Exception Error with Ease</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-rtwlanesys-blue-screen-error/"><u>Fixed: rtwlane.sys Blue Screen Error</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Phone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-bugcodendis-driver-bug-a-complete-fix-manual/"><u>How to Overcome BUGCODE_NDIS Driver Bug: A Complete Fix Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-iphone-camera-focusing-abilities-proven-techniques-and-tips/"><u>How to Restore iPhone Camera Focusing Abilities: Proven Techniques and Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-invisible-viewership-on-instagram-live/"><u>In 2024, Mastering the Art of Invisible Viewership on Instagram Live</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/lidl-gmbh/"><u>Lidl GmbH</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-poor-connection-quality-message-in-windows-11-resolved/"><u>Troubleshooting the 'Poor Connection Quality' Message in Windows 11 – Resolved</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[New] In 2024, The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-key-to-mastering-tiktok-a-user-friendly-manual-for-applewindows-computers/"><u>[New] The Key to Mastering TikTok A User-Friendly Manual for Apple/Windows Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-proven-methods-for-snappy-signature-bg-removal/"><u>[Updated] Proven Methods for Snappy Signature Bg Removal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-image-sharing-blueprint-for-youtube-enthusiasts/"><u>[Updated] The Ultimate Image Sharing Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-stop-error-stop-0x0cuu0000003b-on-pc-systems/"><u>Comprehensive Guide to Fixing Stop Error (STOP) 0X0cuu0000003b on PC Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-no-cost-voip-services-for-2n24/"><u>Discover the Ultimate List of No-Cost VoIP Services for 2N24</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-clock-watchdog-timed-out-error-to-stop-windows-10-bluescreen-crashes/"><u>Eliminating the Clock Watchdog Timed-Out Error to Stop Windows 10 Bluescreen Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-missing-or-corrupt-classpnpsym-file-in-windows-10windows-7-operating-systems/"><u>Fixing the Missing or Corrupt CLASSPNP.SYM File in Windows 10/Windows 7 Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-blue-screen-of-death-with-code-0x0000009f/"><u>How to Fix the BSOD (Blue Screen of Death) with Code 0X0000009F</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-bsod-caused-by-machine-check-exceptions-in-win10/"><u>How to Troubleshoot and Solve BSOD Caused by Machine Check Exceptions in Win10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification-for-2024/"><u>Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-sailing-through-full-screen-issues-sonic-style-on-w11/"><u>Smooth Sailing Through Full-Screen Issues, Sonic Style on W11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-win32kdcom-object-failure-error-0x0000009f/"><u>Troubleshooting Guide for Win32_KDCOM Object Failure (Error 0X0000009F)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pro-editing-techniques-l-cuts-and-j-cuts-in-fcpx-made-easy/"><u>Updated Pro Editing Techniques L-Cuts and J-Cuts in FCPX Made Easy</u></a></li>
 </ul></div>
 

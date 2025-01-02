@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Blue Screen Error (Code 0X0000007E) on Your Windows 7 Machine
-date: 2024-12-22T19:54:46.697Z
-updated: 2024-12-24T16:32:47.131Z
+date: 2024-12-31T06:14:02.744Z
+updated: 2025-01-02T06:11:51.894Z
 tags:
   - win11
   - win10
@@ -49,32 +49,36 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -108,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -130,17 +130,22 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>[New] A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-halt-real-time-audiovideo-capturing-on-apples-platform-for-2024/"><u>[Updated] Halt Real-Time Audio/Video Capturing on Apple's Platform for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-improve-real-time-periscope-performance/"><u>2024 Approved Improve Real-Time Periscope Performance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files/"><u>2024 Approved Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/computer-boot-issues-solved-a-guide-to-overcoming-initialization-hiccups/"><u>Computer Boot Issues Solved: A Guide to Overcoming Initialization Hiccups</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-10-unexpected-store-exception-error/"><u>How to Fix the Windows 10 Unexpected Store Exception Error</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-oneplus-nord-n30-se-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus Nord N30 SE Safely | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-ntoskrnlexe-crashes-and-stop-bsod-from-ruining-your-day/"><u>How to Resolve Windows NTOSKRNL.EXE Crashes and Stop BSoD From Ruining Your Day</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-flight-a-complete-review-of-the-dji-inspire-2-drone/"><u>In 2024, Mastering Flight A Complete Review of the DJI Inspire 2 Drone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199736422-step-by-step-fix-for-driver-verifier-causing-bsod-on-windows-10-problem-solved/"><u>Step-by-Step Fix for Driver Verifier Causing BSOD on Windows 10 – Problem Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-correcting-internal-power-malfunction-on-windows-11-computers/"><u>Troubleshooting Steps for Correcting Internal Power Malfunction on Windows 11 Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-machine-check-exception-bsod-in-windows-11/"><u>[SOLVED] MACHINE CHECK EXCEPTION BSOD in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premium-3d-video-app-for-android-devices/"><u>[Updated] In 2024, Premium 3D Video App for Android Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>[Updated] The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/access-free-photographic-treasures-through-favored-4-youtube-clips-for-2024/"><u>Access Free Photographic Treasures Through Favored 4 Youtube Clips for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-errors-from-core-system-components-leading-to-bsod-on-windows-11/"><u>Diagnosing and Repairing Fatal Errors From Core System Components Leading to BSoD on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-why-igdkmd64sys-causes-blue-screens-and-how-to-fix-it-in-win10/"><u>Expert Tips: Why IgdkmD64.sys Causes Blue Screens and How to Fix It in WIN10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-voice-call-problems-a-step-by-step-solution/"><u>How to Resolve 'Discord Voice Call Problems': A Step-by-Step Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-lite-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 6 Lite PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-viral-strategy-for-impressive-instagram-stories/"><u>In 2024, A Viral Strategy for Impressive Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-audiences-favorite-top-action-recording-tools/"><u>In 2024, Audience's Favorite Top Action Recording Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-windows-failed-to-initialize-hardware-abstraction-layer-problem-tips-for-windows-10-users/"><u>Solving the 'Windows Failed to Initialize Hardware Abstraction Layer' Problem: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-your-iphones-inability-to-back-up-to-icloud-9-solutions/"><u>Steps to Resolve Your iPhone's Inability to Back Up to iCloud (9 Solutions)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-insight-into-samsung-apps-for-your-smart-television/"><u>The Comprehensive Insight Into Samsung Apps for Your Smart Television</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199703592-the-ultimate-guide-to-solving-deadly-glitches-via-event-tracer-on-your-windows-10-machine-fix-now/"><u>The Ultimate Guide to Solving Deadly Glitches via Event Tracer on Your Windows 10 Machine – Fix Now!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-badpoolheader-blue-screen-issue-on-windows-10-pcs/"><u>Troubleshooting and Repairing BAD_POOL_HEADER Blue Screen Issue on Windows 10 PCs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-critical-system-error-code-0x00000124-in-windows-operating-systems-11-and-7/"><u>Troubleshooting the Critical System Error: Code 0X00000124 in Windows Operating Systems 11 and 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199742005-winning-over-a-weak-network-error-on-windows-11-heres-your-solution/"><u>Winning Over a Weak Network Error on Windows 11? Here’s Your Solution!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Defense Update: Eliminating NoExecute Memory Compromise Risks"
-date: 2024-12-18T18:34:42.471Z
-updated: 2024-12-24T18:11:03.392Z
+date: 2024-12-28T20:12:28.357Z
+updated: 2025-01-01T17:12:52.300Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
  If your Windows PC is running into the blue screen of death with the error code:**CRITICAL\_STRUCTURE\_CORRUPTION** , don’t worry! You’re definitely not the only person to experience this problem. Many Windows 10 users are reporting the very same issue. More importantly, you should be able to fix it pretty easily… (skip to [the fixes](https://tools.techidaily.com/drivereasy/download/) directly).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why do I have the Critical\_Structure\_Corruption blue screen error?
 
  The causes for the Critical\_Structure\_Corruption blue screen error usually are:
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 2. **a driver that purposely or accidentally changed critical kernel code or data**
 
  Since we’ve got the causes cleared out, it’s not that hard for us to locate the solutions to this problem. Read on and find out how to fix the Critical\_Structure\_Corruption error on Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Uninstall potential problematic software
@@ -73,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Repair Windows OS with Fortect
 
  If you’d like to get your computer back to its working state ASAP, you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ## Fix 4: Perform a clean boot
@@ -106,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
  Once you find out the problematic software that triggers the BSOD error, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Run memory diagnostic tool
@@ -145,18 +145,18 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 2. You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-39-29-1.png)
 3. You will see this page showing the progress of the check and number of passes it will run on memory.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-40-21-1.png)  
  If you don’t see any error, your memory card is not causing any issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. If you have installed some hardware diagnostics tools that you can trust provided by the manufacturers, run them on your computer as well to see if they are able to tell you what is causing this problem.
 
@@ -195,14 +195,17 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/right-ideas-effective-lighting-in-vlogging/"><u>[New] Bright Ideas Effective Lighting in Vlogging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-get-the-ultimate-media-tool-official-winx-burner-and-downloader-with-seamless-dvd-ripping-and-hd-video-editing/"><u>1. Get the Ultimate Media Tool: Official WinX Burner & Downloader with Seamless DVD Ripping & HD Video Editing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-create-a-successful-video-earnings-model-on-vimeo/"><u>2024 Approved How to Create a Successful Video Earnings Model on Vimeo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoiding-wait-times-a-guide-to-purchasing-the-latest-macbook-pro-and-mac-mini-from-apple/"><u>Avoiding Wait Times: A Guide to Purchasing the Latest MacBook Pro & Mac Mini From Apple</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/environmental-factors-can-affect-tool-accuracy-requiring-adjustments-to-maintenance-schedules/"><u>Environmental Factors Can Affect Tool Accuracy, Requiring Adjustments to Maintenance Schedules.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bad-pool-header-error-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing the 'Bad Pool Header' Error on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-game-of-aoe-iv-from-unexpectedly-crashing-on-pc/"><u>How to Prevent Your Game of AoE IV From Unexpectedly Crashing on PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-why-does-my-computer-need-an-immediate-reboot/"><u>Resolved: Why Does My Computer Need an Immediate Reboot?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-overcoming-the-clock-watchdog-timeout-blue-screen-on-win10/"><u>Step-by-Step Guide: Overcoming the Clock Watchdog Timeout Blue Screen on Win10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[New] 2024 Approved From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-a-list-of-the-quickest-rising-youtube-spaces-for-encouragement/"><u>[New] In 2024, A List of the Quickest Rising YouTube Spaces for Encouragement</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overwatch-gameplay-recording-made-easy/"><u>[New] Overwatch Gameplay Recording Made Easy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-list-6-diverse-websites-for-youtube-visuals/"><u>[New] The Essential List 6 Diverse Websites for YouTube Visuals</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bust-the-code-tackling-and-correcting-internal-power-failure-in-windows-10/"><u>Bust the Code: Tackling and Correcting Internal Power Failure in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcoming-kernel-security-flaw-failures-on-windows-10-solution-provided/"><u>Comprehensive Guide to Overcoming Kernel Security Flaw Failures on Windows 10 [Solution Provided]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-page-damaged-by-defective-equipment-on-windows-11-or-10/"><u>How to Fix a Page Damaged by Defective Equipment on Windows 11 or 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-10-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 10 5G Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>In 2024, Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-0x00000019-bad-pool-header-issue-in-windows-operating-systems/"><u>Resolving the '0X00000019: Bad Pool Header' Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-driver-verifier-detected-violation-bluescreen-a-comprehensive-solution-for-windows/"><u>Winning Against 'Driver Verifier Detected Violation' Bluescreen: A Comprehensive Solution for Windows #</u></a></li>
 </ul></div>
 

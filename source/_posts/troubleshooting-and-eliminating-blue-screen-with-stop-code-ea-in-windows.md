@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Eliminating Blue Screen with Stop Code Ea in Windows
-date: 2024-12-23T19:57:03.966Z
-updated: 2024-12-24T19:49:26.551Z
+date: 2024-12-30T00:08:48.792Z
+updated: 2025-01-01T17:56:51.705Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 4. **[Check disks errors](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check the crash logs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Enter Safe Mode with Networking
 
 **[I’m using Windows 10:](https://tools.techidaily.com/drivereasy/download/)**
@@ -48,24 +52,28 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click **Startup settings** .
 
@@ -79,11 +87,11 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
- 10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
 
 ### I’m using Windows 7
 
@@ -94,10 +102,6 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
  3) Press**the arrow keys** to navigate to**Safe Mode with Networking** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the blue screen problem.
 
@@ -119,10 +123,6 @@ If you keep getting random blue screens with**fltmgr.sys** lately, don’t panic
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check to see if the**fltmgr.sys** blue screen of death issue has been resolved. If yes, then great! If the issue remains, please move on to**Fix 3** , below.
 
 ---
@@ -137,7 +137,7 @@ There are two ways you can repair possible issues with your system files:
 2. [**Run SFC scan**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
@@ -158,6 +158,10 @@ Here’s how to use Fortect to run a Windows repair:
 
  Check your computer to see if the**fltmgr.sys** **BSOD** problem has been fixed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **BSOD** ). To **run the SFC scan** :
@@ -175,10 +179,6 @@ Here’s how to use Fortect to run a Windows repair:
 
  Check your computer to see if the**fltmgr.sys** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 4** , below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Check disk errors
 
  Disk check is a useful in-built Windows tool that scans your hard disk and external drives for errors and fix them.
@@ -192,18 +192,18 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools**   tab >**Check** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click**Scan drive** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer and see if it fixes the**fltmgr.sys bsod** problem. If not, repeat these steps on the other drives on your computer.
@@ -235,18 +235,14 @@ Here’s how to use Fortect to run a Windows repair:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-through-the-clutter-how-to-stream-top-notch-upside-down-content-on-youtube-for-2024/"><u>[New] Cutting Through the Clutter How to Stream Top-Notch Upside-Down Content on Youtube for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-years-leading-tweets-on-twittersphere-viewer-counts-for-2024/"><u>[Updated] Year's Leading Tweets on Twittersphere Viewer Counts for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decoding-and-defeating-the-notorious-0x0000000a-bsod-issue-on-your-pc/"><u>Decoding and Defeating the Notorious 0X0000000A BSOD Issue on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-fix-for-stop-error-criticalprocessdied-0x00000116/"><u>Effortless Fix for Stop Error 'CRITICAL_PROCESS_DIED' (0X00000116)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/faulty-hardware-corrupted-page-on-windows-1110-solved/"><u>FAULTY HARDWARE CORRUPTED PAGE on Windows 11/10 [Solved]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-mac-computer-audio-issues-a-comprehensive-guide/"><u>Fix Mac Computer Audio Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-system-service-exception-issue-on-windows-11-solutions-and-tips/"><u>Fixing the 'System Service' Exception Issue on Windows 11: Solutions and Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-kernel-mode-crashes-causing-bsod-on-windows-11-systems/"><u>How to Resolve Kernel Mode Crashes Causing BSOD on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leveling-the-playfield-a-comprehensive-review-of-apple-watch-series-10-vs-series/"><u>Leveling the Playfield: A Comprehensive Review of Apple Watch Series 10 Vs. Series</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/next-level-playing-field-embrace-the-philips-evnias-49-oled-curved-monitor/"><u>Next-Level Playing Field: Embrace the Philips Evnia's 49 OLED Curved Monitor</u></a></li>
-<li><a href="https://win-premium.techidaily.com/understanding-the-new-bill-what-you-need-to-know-about-paying-for-future-windows-cups-technews-today/"><u>Understanding the New Bill: What You Need to Know About Paying for Future Windows Cups | TechNews Today</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visionaries-crafting-next-gen-vr-worlds-for-2024/"><u>Visionaries Crafting Next-Gen VR Worlds for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>[New] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-dive-into-the-world-of-customized-ringtones-with-tiktok-beats/"><u>[New] In 2024, Dive Into the World of Customized Ringtones with TikTok Beats</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-screen-capture-snapchat-stories-effectively/"><u>[Updated] 2024 Approved How to Screen Capture Snapchat Stories Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/application-stalled-due-to-missing-crt-library/"><u>Application Stalled Due to Missing CRT Library</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-service-exception-issues-on-your-windows-11-machine-effectively/"><u>Fixing Critical Service Exception Issues on Your Windows 11 Machine Effectively</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-the-clock-watchdog-timeout-problem-in-windows-10/"><u>How to Resolve Blue Screen of Death: The Clock Watchdog Timeout Problem in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>In 2024, How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199730078-overcome-thread-stuck-in-device-driver-error-on-your-windows-nx-system/"><u>Overcome Thread Stuck in Device Driver Error on Your Windows nX System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-apcindexmismatch-bsod-blue-screen-of-death-on-windows/"><u>Step-by-Step Solutions for APC_INDEX_MISMATCH BSOD (Blue Screen of Death) on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips"
-date: 2024-12-22T18:11:47.202Z
-updated: 2024-12-24T16:55:18.219Z
+date: 2024-12-27T01:53:11.731Z
+updated: 2025-01-02T01:30:14.980Z
 tags:
   - win11
   - win10
@@ -34,37 +34,37 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -115,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/ab3bfec296887a8d448d8e35c0b03544ab7fa85c9
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
@@ -129,6 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -158,24 +158,17 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-viewer-count-triumphs-play-button-honors-for-2024/"><u>[New] Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unending-suspension-how-to-erase-youtube-shorts/"><u>[New] In 2024, Unending Suspension How to Erase YouTube Shorts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-clockwatchdogtimeout-bsod-in-windows-11/"><u>[Solved] CLOCK_WATCHDOG_TIMEOUT BSOD in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmenting-film-vistas-with-apple-playlist/"><u>2024 Approved Augmenting Film Vistas with Apple Playlist</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-resolve-stop-error-0x00000116-blue-screen/"><u>Effortless Solutions to Resolve Stop Error 0X00000116 Blue Screen</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/effortlessly-enhance-your-urdu-skills-in-minutes/"><u>Effortlessly Enhance Your Urdu Skills in Minutes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-and-fixing-error-0x00000eb-bsod-solutions/"><u>Expert Tips for Diagnosing and Fixing Error 0X00000eb – BSOD Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-your-pcs-crashes-repair-ntsssys-errors-causing-bsod-on-windows-11/"><u>Fix Your PC's Crashes: Repair NTSS.sys Errors Causing BSOD on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-lava-blaze-curve-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Lava Blaze Curve 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-multiple-irp-complete-issues-leading-to-a-system-crash-on-windows/"><u>How to Correct the 'Multiple IRP Complete' Issues Leading to a System Crash on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-stuttering-in-halo-infinite-a-step-by-step-solution/"><u>How To Fix Stuttering in Halo Infinite: A Step-by-Step Solution</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-retrieve-files-accidentally-removed-from-external-hard-drive-without-a-recycle-bin/"><u>How to Retrieve Files Accidentally Removed From External Hard Drive Without a Recycle Bin</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-charges-yes-to-superior-free-webm-player-selections/"><u>In 2024, No Charges? Yes to Superior, Free WebM Player Selections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-engineering-responsive-prompts-a-sustainable-career/"><u>Is Engineering Responsive Prompts a Sustainable Career?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-internal-power-error-on-windows-11/"><u>Solved: Internal Power Error on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-the-bsod-error-linked-to-win3ekfullsys-file/"><u>Step-by-Step Solution for the BSOD Error Linked to Win3eKFull.sys File</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tchibo-ag/"><u>Tchibo AG</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-bsod-crashes-on-windows-10-systems/"><u>Troubleshooting and Repairing 'Bad Pool Header' BSOD Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pictorial-humor-ranking-10-memes-by-creativity/"><u>[New] Pictorial Humor Ranking #10 Memes by Creativity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-campaigns-innovative-approaches-to-fb-video-ads/"><u>[Updated] In 2024, Elevate Your Campaigns Innovative Approaches to FB Video Ads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leaders-in-education-top-15-sci-yt-innovators/"><u>[Updated] Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-linking-fb-stories/"><u>[Updated] The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-embark-on-a-journey-through-augmented-space/"><u>2024 Approved Embark on a Journey Through Augmented Space</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-guide-for-correcting-error-message-0x00000cd-the-blue-screen-of-death/"><u>Complete Guide for Correcting Error Message 0X00000CD - The Blue Screen of Death</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-rectify-halo-infinites-audio-malfunctions/"><u>Effective Solutions to Rectify Halo Infinite's Audio Malfunctions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fuchs-petrolub-se/"><u>Fuchs Petrolub SE</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-mov-saving-in-windows-11-top-six-methods-reviewed-for-2024/"><u>Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-common-blue-screen-errors-due-to-pte-mishaps/"><u>Step-by-Step Fixes for Common Blue Screen Errors Due to PTE Mishaps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-windows-blue-screen-with-dxgkrnlsys/"><u>Understanding and Resolving Windows Blue Screen with 'dxgkrnl.sys'</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-a-splash-10-leading-music-video-makers-of/"><u>Updated In 2024, Make a Splash 10 Leading Music Video Makers Of</u></a></li>
 </ul></div>
 

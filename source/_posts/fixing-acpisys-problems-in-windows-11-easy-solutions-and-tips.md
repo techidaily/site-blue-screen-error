@@ -1,7 +1,7 @@
 ---
 title: Fixing ACPI.sys Problems in Windows 11 - Easy Solutions and Tips
-date: 2024-12-20T17:53:43.007Z
-updated: 2024-12-24T17:46:16.849Z
+date: 2024-12-29T16:40:33.996Z
+updated: 2025-01-01T22:58:17.120Z
 tags:
   - win11
   - win10
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
@@ -65,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -106,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
@@ -126,13 +126,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -158,17 +158,24 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/raph-gala-2017-an-illuminated-expedition-into-yt-data-for-2024/"><u>[New] Graph Gala 2017 An Illuminated Expedition Into YT Data for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-captivating-crafts-trending-instagram-filters/"><u>2024 Approved Captivating Crafts Trending Instagram Filters</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/create-professional-slideshows-with-movavi-for-macos-users/"><u>Create Professional Slideshows with Movavi for macOS Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/emoji-enhancement-techniques-converting-graphics-into-chat-app-stickers/"><u>Emoji Enhancement Techniques Converting Graphics Into Chat App Stickers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enjoy-an-immersive-experience-with-the-newly-remastered-bioshock-cuh/"><u>Enjoy an Immersive Experience with the Newly Remastered BioShock Cuh!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50-gt-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50 GT to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-6s-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 6s using itunes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029257541-ipadwmv2/"><u>IPad上でWMVファイル再生手順：2通りのシンプルガイド</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-storportsys-blue-screen-errors-on-windows-11-a-step-by-step-guide/"><u>Resolving Storport.sys Blue Screen Errors on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-troubleshooting-the-pool-header-error-in-windows-11/"><u>Resolving the Blue Screen: Troubleshooting the 'Pool Header' Error in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-windows-10-blue-screen-error-0x00000133/"><u>Ultimate Guide: Resolving Windows 10 Blue Screen Error 0X00000133</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-windows-blue-screen-error-0x0000001e/"><u>Understanding and Fixing Windows Blue Screen Error 0X0000001E</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-hotspots-for-revolutionary-vr-cinema/"><u>[New] Hotspots for Revolutionary VR Cinema</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>[New] In 2024, Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing/"><u>[New] The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-world-of-premium-banners-for-media/"><u>[New] Unlocking the World of Premium Banners for Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-scenes-insights-for-instagram-story-audience/"><u>[Updated] 2024 Approved Behind the Scenes Insights for Instagram Story Audience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-imagery-a-step-by-step-guide-for-instagram-videos/"><u>[Updated] 2024 Approved Enhance Your Imagery A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressing-key-component-deterioration-on-your-windows-11-machine-solution-found/"><u>Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converting-audio-files-to-drm-free-aax-and-aa-formats/"><u>Converting Audio Files to DRM-Free AAX and AA Formats</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-windows-bsod-caused-by-watchdogsys-malfunctions/"><u>Diagnosing & Repairing Windows BSOD Caused by watchdog.sys Malfunctions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-0x0000007b-critical-error-permanently/"><u>How to Fix Windows' 0X0000007B Critical Error Permanently</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-system-failures-stop-the-criticalservice-failed-bluescreen-on-windows-11/"><u>How To Recover From System Failures: Stop the 'CRITICAL_SERVICE Failed' Bluescreen on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-correct-page-faults-in-windows-11-systems/"><u>How to Troubleshoot and Correct Page Faults in Windows 11 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-free-cam-stream-and-recorder-tool/"><u>In 2024, Leading Free Cam Stream & Recorder Tool</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-the-repair-of-windows-bsod-caused-by-ndissys-glitches/"><u>Mastering the Repair of Windows BSOD Caused by NDIS.sys Glitches</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-tdr-failure-and-nvlddmkmssys-crashes-on-your-pc/"><u>Resolve TDR Failure and NVLDDMKMS.SYS Crashes on Your PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2581656-9780008205416-the-ox-in-2017-your-chinese-horoscope/"><u>The Ox in 2017: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-bad-pool-header-on-windows-versions-tutorials-available/"><u>Troubleshooting and Repairing 'Bad Pool Header' On Windows Versions - Tutorials Available</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-error-on-your-windows-11-pc/"><u>Troubleshooting and Repairing NTFS Error on Your Windows 11 PC</u></a></li>
 </ul></div>
 

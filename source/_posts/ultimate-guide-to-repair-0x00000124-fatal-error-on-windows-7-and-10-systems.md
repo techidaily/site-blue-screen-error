@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repair 0X00000124 Fatal Error on Windows 7 & 10 Systems
-date: 2024-12-17T19:17:55.237Z
-updated: 2024-12-24T19:54:21.963Z
+date: 2024-12-31T04:58:17.411Z
+updated: 2025-01-02T01:10:41.172Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 1** **: Undo recent Changes**
 
  One of the causes of this blue screen error could be recent changes you’ve made to your system. If you’ve added new hardware or software to your system recently, remove them to see if the problem is fixed.
@@ -63,7 +67,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 If the problem persists, move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 2: Update Available Device Drivers**
@@ -85,7 +89,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -102,19 +106,23 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -126,13 +134,13 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
@@ -141,14 +149,6 @@ If the problem persists, move on to the next step.
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -163,7 +163,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
@@ -192,20 +192,17 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>[New] 2024 Approved Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>[New] In 2024, Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-master-blending-techniques-for-clips-harmony/"><u>2024 Approved Master Blending Techniques for Clips Harmony</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamlining-video-conferences-with-snap-camera-functions/"><u>2024 Approved Streamlining Video Conferences with Snap Camera Functions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-thrifty-shoppers-best-bargains-in-cams/"><u>2024 Approved Thrifty Shopper's Best Bargains in Cams</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-overcome-the-0x000000d1-bsod-windows-issue/"><u>Effortless Solutions to Overcome the 0X000000D1 BSOD Windows Issue</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-steps-to-reach-windows-administration-utilities-via-control-panel-insights-by-yl-computing/"><u>Guide: Steps to Reach Windows Administration Utilities via Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfs-file-system-issues-in-windows-11/"><u>How to Fix NTFS File System Issues in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-stop-error-0x0000003b-for-windows-users/"><u>How to Troubleshoot and Repair STOP Error 0X0000003B for Windows Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-content-from-android-to-iphone-directly-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Content from android to iPhone Directly | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lift-run-and-dance-to-the-beat-of-these-top-20-songs/"><u>In 2024, Lift, Run, and Dance to the Beat of These Top 20 Songs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-dealing-with-uncaught-system-thread-exceptions/"><u>Step-by-Step Fixes for Dealing with Uncaught System Thread Exceptions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-storportsys-error-and-preventing-windows-1-cuffles/"><u>Troubleshooting the StorPort.sys Error and Preventing Windows 1 Cuffles</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-bsod-help-solving-the-critical-error-dxgmms2sys/"><u>Windows 11 BSOD Help: Solving the Critical Error dxgmms2.sys</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-secret-strategies-to-outshine-with-canva-photos/"><u>[Updated] In 2024, Secret Strategies to Outshine with Canva Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects-for-2024/"><u>[Updated] Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199704023-breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/direct-send-from-camera-roll-your-easy-to-follow-guide/"><u>Direct Send From Camera Roll Your Easy-to-Follow Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-first-steps-for-mastering-insta-chat-rooms-for-2024/"><u>Essential First Steps for Mastering Insta Chat Rooms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-video-editing-solutions-for-property-marketing-top-picks-with-insider-advice/"><u>Professional Video Editing Solutions for Property Marketing: Top Picks with Insider Advice</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-blue-screen-issues-fixing-memory-management-crashes-in-windows-11/"><u>Resolving Blue Screen Issues: Fixing Memory Management Crashes in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-pinnacle-of-editing-reviewing-movavi-pro-video-2024plus/"><u>The Pinnacle of Editing Reviewing Movavi Pro Video 2024+</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-10-video-transcoding-tools-secure-and-swift-solutions-for-windows-1110-users/"><u>Top 10 Video Transcoding Tools: Secure and Swift Solutions for Windows 11/10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-severe-application-crashes-windows-11-solution-unveiled/"><u>Troubleshooting Severe Application Crashes - Windows 11 Solution Unveiled</u></a></li>
 </ul></div>
 

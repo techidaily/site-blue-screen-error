@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Infamous 'ntoskrnl.exe' Causes PC Crash & Blue Screen of Death
-date: 2024-12-20T19:54:43.342Z
-updated: 2024-12-24T19:34:51.142Z
+date: 2024-12-30T01:23:20.549Z
+updated: 2025-01-01T17:12:29.248Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -60,16 +60,16 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
-After the testing, Windows will restart automatically.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After the testing, Windows will restart automatically.
 
 ### Fix 3: Run System File Checker
 
@@ -80,13 +80,17 @@ After the testing, Windows will restart automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-16.jpg)
 3. Click**Yes** when prompted by User Account Control.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-10.jpg)
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows Update
@@ -102,7 +106,7 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Go on to follow the on-screen instructions to install the updates.
@@ -144,10 +148,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -185,24 +185,19 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-proven-strategies-for-device-screening/"><u>[New] 2024 Approved Proven Strategies for Device Screening</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-your-online-influence-for-earnings-through-brand-collaborations-on-youtube/"><u>[New] Maximizing Your Online Influence for Earnings Through Brand Collaborations on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-practices-in-winning-tv-recording-with-software/"><u>[Updated] 2024 Approved Best Practices in Winning TV Recording with Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-key-lights-and-soft-shadows-for-vloggers/"><u>[Updated] In 2024, Key Lights and Soft Shadows for Vloggers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/augmenting-ai-intelligence-core-desired-traits-for-gpt-5/"><u>Augmenting AI Intelligence: Core Desired Traits for GPT-5</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-resolving-hardware-compatibility-issues-with-dell-optiplex-790-and-windows/"><u>Guide to Resolving Hardware Compatibility Issues with Dell OptiPlex 790 and Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-14-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 14</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-strategies-for-sourcing-video-content-with-google-trends/"><u>In 2024, Strategies for Sourcing Video Content with Google Trends</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/izing-video-game-channel-revenue/"><u>Maximizing Video Game Channel Revenue</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-thx-not-working-in-windows-setup/"><u>Rectifying THX Not Working in Windows Setup</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-of-death-error-bsod-stop-code-0x0000003b-explained/"><u>Solving Blue Screen of Death Error (BSOD) - Stop Code 0X0000003B Explained</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-repairing-the-bsod-caused-by-a-machine-check-on-windows-11-computers/"><u>Step-by-Step Guide: Repairing the BSOD Caused by a Machine Check on Windows 11 Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-blue-screen-issues-on-windows-7-pcs/"><u>Step-by-Step Solutions for Blue Screen Issues on Windows 7 PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-how-to-resolve-critical-stop-error-0x00000fx/"><u>Troubleshooting Guide: How to Resolve Critical Stop Error 0X00000^FX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-overcoming-bsod-blue-screen-of-death-in-windows-7/"><u>Troubleshooting Tips: Overcoming BSOD (Blue Screen of Death) in Windows 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-to-troubleshoot-and-solve-nvpcfsys-bsod-issues-on-pc/"><u>Ultimate Guide to Troubleshoot and Solve nvpcf.sys BSoD Issues on PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bad-pool-header-problem-on-your-windows-7-pc/"><u>Understanding and Resolving 'Bad Pool Header' Problem on Your Windows 7 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-solving-nmihardwarefailure-bsod-issues-on-your-pc/"><u>Understanding and Solving NMI_HARDWARE_FAILURE BSOD Issues on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-memory-management-bsod-error-on-windows-1111/"><u>[Fixed] Memory Management BSOD Error on Windows 11/11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>[New] The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>2024 Approved Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-slash-the-size-of-oversized-drafts-with-easy-edit-tactics/"><u>2024 Approved Slash the Size of Oversized Drafts with Easy Edit Tactics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-12-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme 12 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-the-future-with-microsofts-surface-laptop-studio-v2-impressions-and-envy-spark/"><u>Experiencing the Future with Microsoft's Surface Laptop Studio v2: Impressions & Envy Spark</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-guide-for-dealing-with-page-corruption-due-to-hardware-failures-on-windows-10-and-11/"><u>Fix Guide for Dealing with Page Corruption Due to Hardware Failures on Windows 10 & 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-paramountplus-connection-errors-on-an-amazon-firestick-device/"><u>Fixing Paramount+ Connection Errors on an Amazon Firestick Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-repairing-blue-screen-issues-linked-to-rtkvhd64sys-malfunction/"><u>Guide to Repairing Blue Screen Issues Linked to rtkvhd64.sys Malfunction</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solution-strategies-for-correcting-the-video-memory-management-bsod-error-on-your-pc/"><u>Solution Strategies for Correcting the 'Video Memory Management' BSOD Error on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-storahcisys-errors-a-step-by-step-guide/"><u>Solving 'storahci.sys' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-non-paged-area-pages-faults-and-solutions-on-win11/"><u>Understanding Non-Paged Area Pages Faults & Solutions on Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-5-advanced-cognitive-robots-for-psychological-relief/"><u>Unveiling 5 Advanced Cognitive Robots for Psychological Relief</u></a></li>
 </ul></div>
 

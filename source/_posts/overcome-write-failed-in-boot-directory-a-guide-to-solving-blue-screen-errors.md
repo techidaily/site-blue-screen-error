@@ -1,7 +1,7 @@
 ---
 title: Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors
-date: 2024-12-23T18:41:16.619Z
-updated: 2024-12-24T17:21:37.123Z
+date: 2024-12-29T00:06:16.705Z
+updated: 2025-01-01T18:06:36.039Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **First Thing First**
 
  Before we go any further, please make sure that you’ve done the following things:
@@ -55,7 +51,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
@@ -65,7 +61,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  If you have done the above two things, and the problem persists, please move forward to find the solution for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 1** **: Undo recent Changes**
@@ -99,7 +95,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -107,6 +103,10 @@ If the problem persists, move on to the next step.
  Faulty RAM is a very common reason for a blue screen of death problem such as Bad Pool Caller. You can run the built-in check to see if your RAM is at fault:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
@@ -118,15 +118,7 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 4:** **Check for Hard Drive Corruption**
 
@@ -151,7 +143,11 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other options**
@@ -165,6 +161,10 @@ If the problem persists, move on to the next step.
 **Warning** : You should only run Driver Verifier on test computers, or computers you are testing and debugging. For more information, please refer to this post[**here**](https://msdn.microsoft.com/windows/hardware/drivers/devtest/driver-verifier) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
 
@@ -192,22 +192,24 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-the-ultimate-guide-to-tiktok-captioning-mastery-for-2024/"><u>[New] The Ultimate Guide to TikTok Captioning Mastery for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-will-televising-facebook-vids-become-a-trend/"><u>[New] Will Televising Facebook Vids Become a Trend ?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-subtitle-insertion-for-vimeo-videos/"><u>[Updated] In 2024, Step-by-Step Subtitle Insertion for Vimeo Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/basf-se/"><u>BASF SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199704023-breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-apcindexmismatch-blue-screen-error/"><u>Fix: APC_INDEX_MISMATCH Blue Screen Error</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-14-ultra-by-drfone-android/"><u>How to Bypass FRP from Xiaomi 14 Ultra?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199741078-how-to-correct-the-bad-pool-caller-bug-on-your-windows-10-system-today/"><u>How to Correct the 'Bad Pool Caller' Bug on Your Windows 10 System Today!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bad-pool-header-error-on-windows-11-8-and-7/"><u>How to Fix the 'Bad Pool Header' Error on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199748241-how-to-repair-a-fatal-unmountablebootvolume-bug-in-windows-10-easily/"><u>How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-drones-key-parts-for-peak-performance/"><u>Mastering Drones Key Parts for Peak Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lenovo-by-drfone-android/"><u>Three Ways to Sim Unlock Lenovo</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-google-pixel-fold-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Google Pixel Fold for Streaming | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-severe-application-crashes-windows-11-solution-unveiled/"><u>Troubleshooting Severe Application Crashes - Windows 11 Solution Unveiled</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-visual-richness-switching-to-hdr-technology/"><u>Unlocking Visual Richness Switching to HDR Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-are-chatgpt-shared-links-and-how-do-they-work/"><u>What Are ChatGPT Shared Links and How Do They Work?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-to-outstanding-ppt-in-google-meet-iosandroid/"><u>[Updated] In 2024, Step-by-Step Guide to Outstanding PPT in Google Meet (iOS/Android)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-video-platform-economics-a-tale-of-two-titles-income-potentials/"><u>[Updated] In 2024, Video Platform Economics A Tale of Two Titles' Income Potentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-newly-released-m3-macbook-air-how-apples-affordable-ai-device-is-changing-the-game-insights/"><u>Comprehensive Review of the Newly Released M3 MacBook Air: How Apple's Affordable AI Device Is Changing the Game | Insights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-steps-correcting-the-notorious-nvpcfsys-blue-screen-error/"><u>Comprehensive Steps: Correcting the Notorious NVPCF.SYS Blue Screen Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-resolve-windows-1n-hypervisor-bsod-issues-tips-and-tricks-for-users/"><u>Effective Solutions to Resolve Windows 1N Hypervisor BSoD Issues: Tips and Tricks for Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-catastrophic-system-halt-bsod-error-0x000000f4/"><u>Expert Tips to Overcome the Catastrophic System Halt: BSOD ERROR 0X000000F4</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y100a-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y100A Device SIM</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A24 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/internal-power-issue-resolved-in-windows-10-fix-guide/"><u>Internal Power Issue Resolved in Windows 10 - Fix Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-techniques-de-questions-courantes-pour-le-systeme-dintelligence-artificielle-winxvideo-et-leurs-reponses/"><u>Les Techniques De Questions Courantes Pour Le Système D'intelligence Artificielle Winxvideo Et Leurs Réponses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagram-the-essential-guide-to-mastering-reels/"><u>Navigating Instagram The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://win-tips.techidaily.com/professional-pdf-esignature-maker-generate-secure-digital-signatures-easily/"><u>Professional PDF eSignature Maker - Generate Secure Digital Signatures Easily</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-dpc-watchguard-compliance-issue-instantly-with-our-expert-tips/"><u>Resolve DPC Watchguard Compliance Issue Instantly with Our Expert Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-the-critical-process-died-blue-screen-of-death-on-windows-11/"><u>Resolved: How to Fix the 'Critical Process Died' Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stack-videos-in-your-youtube-queue/"><u>Stack Videos in Your YouTube Queue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-vgksys-system-failure-errors-on-windows-computers/"><u>Step-by-Step Solutions for VGK.SYS System Failure Errors on Windows Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/traditional-rogues-vs-modern-roguism-for-2024/"><u>Traditional Rogues Vs. Modern Roguism for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199714649-troubleshooting-and-repairing-bad-pool-header-on-windows-versions-tutorials-available/"><u>Troubleshooting and Repairing 'Bad Pool Header' On Windows Versions - Tutorials Available!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-fixing-the-pfn-list-is-corrupt-problem-and-ending-blue-screen-of-death-bsod-in-windows-10/"><u>Ultimate Guide: Fixing the 'PFN List Is Corrupt' Problem and Ending Blue Screen of Death (BSOD) in Windows 10</u></a></li>
 </ul></div>
 

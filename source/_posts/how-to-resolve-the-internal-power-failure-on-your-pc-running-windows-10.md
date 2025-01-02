@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Internal Power Failure on Your PC Running Windows 10
-date: 2024-12-20T18:39:32.797Z
-updated: 2024-12-24T17:54:15.015Z
+date: 2024-12-29T23:51:19.834Z
+updated: 2025-01-01T16:53:47.692Z
 tags:
   - win11
   - win10
@@ -38,19 +38,15 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer so Windows will perform a hard disk check.
 
  5) After the restart, press the **Windows logo key**  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
@@ -77,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2: Update device drivers**
 
@@ -98,19 +94,15 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
 
@@ -121,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Check for updates** .
@@ -142,17 +134,21 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted with the confirmation, click **OK** to continue.
 
@@ -163,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Work-arounds**
 
@@ -191,22 +191,15 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>[New] 2024 Approved Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[Updated] Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-vlogging-effective-use-of-jump-cuts/"><u>2024 Approved Elevate Vlogging Effective Use of Jump Cuts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrated-camera-use-photos-and-videos-on-one-phone/"><u>2024 Approved Integrated Camera Use Photos and Videos on One Phone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-0x00000019-memory-conflict-in-windows-solutions-for-win11win8win7/"><u>Bypassing the 0X00000019 Memory Conflict in Windows: Solutions for Win11/Win8/Win7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199720194-control-charts-are-central-tools-in-spc-helping-to-distinguish-between-common-cause-and-special-cause-variations/"><u>Control Charts Are Central Tools in SPC, Helping to Distinguish Between Common Cause and Special Cause Variations.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-blue-screen-problem-linked-to-tcpipsys-in-microsoft-operating-systems/"><u>Diagnose and Repair 'Blue Screen' Problem Linked to tcpip.sys in Microsoft Operating Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-storportsys-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Fixing StorPort.sys Blue Screen of Death on Windows 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/download-videos-from-makertv-in-various-formats-mp4-wmv-mov/"><u>Download Videos From Maker.tv in Various Formats (MP4, WMV, MOV)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-the-notorious-syntpsys-blue-screen-of-death-in-windows-os/"><u>Expert Tips to Fix the Notorious SYNTP.SYS Blue Screen of Death in Windows OS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-mode-memory-leak-understanding-and-resolving-heap-corruptions/"><u>Fixing the 'Kernel Mode Memory Leak' – Understanding and Resolving Heap Corruptions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 5 Phone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-no-cost-all-benefits-with-fcp-downloads/"><u>In 2024, No Cost, All Benefits with FCP Downloads</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-overcome-device-driver-lock-ups-on-your-windows-10-system-with-ease/"><u>Troubleshoot and Overcome Device Driver Lock-Ups on Your Windows 10 System with Ease</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-fixes-for-netwtw04sys-blue-screen-of-death-in-windows-11-computers/"><u>Ultimate Fixes for Netwtw04.sys Blue Screen of Death in Windows 11 Computers</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/yl-computings-guide-steps-to-remove-unnecessary-programs/"><u>YL Computing's Guide: Steps to Remove Unnecessary Programs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] In 2024, Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-crafting-impactful-ppt-tutorials-for-online-learning-sessions/"><u>[Updated] In 2024, Crafting Impactful PPT Tutorials for Online Learning Sessions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-8s-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 8S Pro+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-stop-bsod-errors-with-tcpipsys-fixes-on-windows-10-7-and-8/"><u>Resolved: Stop BSoD Errors with TCP/IP.sys Fixes on Windows 10, 7 & 8</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/seamlessly-transforming-dvd-video-into-high-quality-avi-a-quick-guide/"><u>Seamlessly Transforming DVD Video Into High-Quality AVI: A Quick Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-resolve-failing-ntfs-filesystem-error-in-windows-11-bsods/"><u>Step-by-Step Troubleshooting: Resolve Failing NTFS Filesystem Error in Windows 11 BSODs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-kid-friendly-ipads-expert-reviews-and-buying-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : Expert Reviews & Buying Guide (ZDNet)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-correcting-fat-file-system-problems-in-windows-10/"><u>Troubleshooting Guide: Correcting FAT File System Problems in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199750884-troubleshooting-the-poor-connection-quality-message-in-windows-11-resolved/"><u>Troubleshooting the 'Poor Connection Quality' Message in Windows 11 – Resolved!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)"
-date: 2024-12-17T19:11:52.158Z
-updated: 2024-12-24T19:58:03.074Z
+date: 2025-01-01T01:27:59.220Z
+updated: 2025-01-02T01:52:31.186Z
 tags:
   - win11
   - win10
@@ -33,14 +33,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
@@ -63,7 +59,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
@@ -71,10 +67,6 @@ Driver Verifier is built in every version of Windows operating system. It monito
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
 
@@ -87,6 +79,10 @@ Or click **Update All**  to automatically download and install the correct versi
  Go on to choose**Seach automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then Windows will search the update for you automatically.
 
@@ -105,10 +101,6 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
@@ -117,6 +109,10 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
 
@@ -124,6 +120,10 @@ You need to do these:
  Then type**Verifier /reset** in the window and press**Enter** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
 
@@ -149,18 +149,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[Updated] 2024 Approved Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>[Updated] Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
-<li><a href="https://article-files.techidaily.com/converting-ordinary-images-into-artistic-hdr-works-for-2024/"><u>Converting Ordinary Images Into Artistic HDR Works for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-the-irql-not-less-or-equal-bug-a-comprehensive-guide-for-windows-7-users/"><u>Dealing with the 'IRQL NOT LESS OR EQUAL' Bug: A Comprehensive Guide for Windows 7 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-10-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-with-dxgmmsn2sys-error-on-windows-11/"><u>How to Resolve Blue Screen of Death with 'dxgmmsn2.sys' Error on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/insider-secrets-smooth-videophoto-transfer-to-windows-11/"><u>Insider Secrets Smooth Video/Photo Transfer to Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-asus-maximus-x-hero-drivers-a-step-by-cstep-quick-and-straightforward-installation-guide/"><u>Mastering ASUS Maximus X Hero Drivers: A Step-by-CStep Quick & Straightforward Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinvigorate-dull-volume-options-in-disk-management-tool/"><u>Reinvigorate Dull Volume Options in Disk Management Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-leaf-blowers-in-2n2-your-ultimate-guide-insights-from-zdnet/"><u>Top Rated Electric Leaf Blowers in 2N2: Your Ultimate Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-resolving-windows-10s-unforeseen-store-exception-issue/"><u>Troubleshooting Steps for Resolving Windows 10'S Unforeseen Store Exception Issue</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unraveling-social-network-giants-insights-on-facebook-twitter-instagram-and-youtube/"><u>Unraveling Social Network Giants: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-creative-content-for-fb-video-advertising/"><u>[New] Mastering Creative Content for Fb Video Advertising</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-understanding-youtubes-revenue-streams-for-creators/"><u>[Updated] 2024 Approved Understanding YouTube's Revenue Streams for Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-top-camcorders-to-consider-in-depth-analysis-for-2024/"><u>[Updated] The Top Camcorders to Consider – In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comment-installer-facilement-windows-e-10-en-utilisant-une-cle-usb-et-un-nouvel-disque-dur-tutoriel-etape-par-etape/"><u>Comment Installer Facilement Windows E 10 en Utilisant Une Clé USB Et Un Nouvel Disque Dur - Tutoriel Étape Par Étape</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-blue-screen-of-death-due-to-memory-management-issues-in-windows-10-or-11/"><u>How to Fix Blue Screen of Death Due to Memory Management Issues in Windows 10 or 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mind-maze-spectacle-exclusive-trivia-channel-line-up/"><u>Mind Maze Spectacle Exclusive Trivia Channel Line-Up</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-11-exceptional-free-music-recording-programs-for-beginners-and-pros/"><u>New 2024 Approved 11 Exceptional Free Music Recording Programs for Beginners and Pros</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199717505-speedy-solutions-to-overcome-hidclasssys-challenges-expert-advice-here/"><u>Speedy Solutions to Overcome HIDCLASS.SYS Challenges - Expert Advice Here!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-a-critical-memory-management-failure-pool-header-on-windows-11/"><u>Step-by-Step Guide to Correcting a Critical Memory Management Failure (Pool Header) on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-walkthrough-for-fixing-the-tdr-blue-screen-error-due-to-nvlddmkmsys-windows/"><u>Step-by-Step Walkthrough for Fixing the TDR Blue Screen Error Due to nvlddmkm.sys (Windows)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2531757-9781626256989-three-poisons/"><u>Three Poisons | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-fixes-for-windows-10-and-11-users/"><u>Wallpaper Engine Stability Fixes for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

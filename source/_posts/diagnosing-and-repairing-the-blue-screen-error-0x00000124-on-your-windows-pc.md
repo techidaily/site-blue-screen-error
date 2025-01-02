@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing the Blue Screen Error (0X00000124) on Your Windows PC
-date: 2024-12-17T16:55:11.409Z
-updated: 2024-12-24T19:11:17.004Z
+date: 2024-12-26T16:14:13.489Z
+updated: 2025-01-01T17:36:35.028Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/video-scheduler-internal-error-windows-10.png)
 
  If you’re bugging by the blue screen of death error with the error message_**VIDEO SCHEDULER INTERNAL ERROR**_ , you’re not alone. Many Windows 10 users have reported about this error before. But no need for you to worry about it, and there’s one thing is for sure: it’s possible to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for Video Scheduler Internal Error
 
@@ -38,31 +42,27 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Press **Y**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
 
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
 
@@ -124,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf648ccb5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) See if the **Video Scheduler Internal Error** is fixed now.
 
 ## **4: Reinstall faulty drivers**
@@ -139,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Scan for hardware changes** .
@@ -158,11 +150,19 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Work-arounds**
 
@@ -191,14 +191,22 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-ready-360-videos-editing-and-sharing-made-simple/"><u>[Updated] YouTube-Ready 360 Videos Editing & Sharing Made Simple</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/defeating-the-bluish-menace-a-complete-guide-to-solving-asmthchisys-bsod-errors/"><u>Defeating the Bluish Menace: A Complete Guide to Solving 'asmthchi.sys' BSOD Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-for-the-troublesome-blue-screen-with-code-d1-in-windows/"><u>Easy Fix Guide for the Troublesome Blue Screen with Code D1 in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-component-failures-on-windows-10-solutions-explored/"><u>Fixing Essential Component Failures on Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95666153-9782268003948-reiki/"><u>Reiki | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-post-update-bluescreen-issue-on-windows-10-devices/"><u>Resolved: Post-Update Bluescreen Issue on Windows 10 Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-showdown-of-llms-google-bard-vs-microsoft-chatgpt-vs-offline-alpaca-which-reigns-supreme/"><u>The Ultimate Showdown of LLMs: Google Bard Vs. Microsoft ChatGPT Vs. Offline Alpaca - Which Reigns Supreme?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104996068-troubles-with-your-recently-updated-pc-cant-find-my-dear-old-prodigy-cam-heres-what-i-learned-to-do-about-it-solved/"><u>Troubles with Your Recently Updated PC? Can't Find My Dear Old Prodigy Cam – Here’s What I Learned to Do About It ![Solved]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seamless-transition-leading-8-tools-for-sub-to-srt-changeover-for-2024/"><u>[New] Seamless Transition Leading 8 Tools for Sub to SRT Changeover for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-watchdogsys-blue-screen-errors-bsod/"><u>[Solved] Watchdog.sys Blue Screen Errors (BSOD)</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1-streamline-video-conversion-convert-vod-files-to-mp4-on-the-web-gratis-with-movavi/"><u>1. Streamline Video Conversion: Convert VOD Files to MP4 on the Web, Gratis with Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-woes-correct-system-pte-mismanagement-easily/"><u>Blue Screen Woes? Correct SYSTEM PTE Mismanagement Easily!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cracked-code-direct-x-quirk-no-longer-lurks-in-lol/"><u>Cracked Code: Direct X Quirk No Longer Lurks in LoL</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-high-latency-issues-ultimate-guide-for-smoother-gameplay-in-back-4-blood/"><u>Fixing High Latency Issues: Ultimate Guide for Smoother Gameplay in Back 4 Blood</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y100i-power-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y100i Power 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastery-of-wi-fi-coverage-with-linksys-velop-an-in-depth-review-for-advanced-routers/"><u>Mastery of Wi-Fi Coverage with Linksys Velop - An In-Depth Review for Advanced Routers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-webcams-designed-for-smooth-zoom-conferencing/"><u>Optimal Webcams Designed for Smooth Zoom Conferencing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-thread-stuck-and-device-driver-issues-in-windows-11-with-simple-solutions/"><u>Resolve 'Thread Stuck' And Device Driver Issues in Windows 11 with Simple Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-your-deactivated-snapchat-profile-a-step-by-step-guide/"><u>Reviving Your Deactivated Snapchat Profile: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-bsod-issue-fixing-wdf01000sys-error-on-your-pc/"><u>Solving the BSOD Issue: Fixing 'WDF01000.SYS' Error on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-initialization-errors-on-windows-11-a-complete-solution-guide/"><u>Troubleshooting HAL Initialization Errors on Windows 11: A Complete Solution Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-cortana-when-it-stops-responding/"><u>Troubleshooting Tips: How To Fix Cortana When It Stops Responding</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-video-driver-issues-solving-the-tdr-failure-with-atikmpagsys-on-windows-11/"><u>Troubleshooting Video Driver Issues: Solving the TDR Failure with atikmpag.sys on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-blue-screens-master-tips-for-resolving-error-0x0000001a/"><u>Winning Against Blue Screens: Master Tips for Resolving Error 0X0000001A</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows"
-date: 2024-12-18T16:47:03.325Z
-updated: 2024-12-24T19:33:54.207Z
+date: 2024-12-26T03:58:37.156Z
+updated: 2025-01-02T00:44:23.311Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0d0b5a268.jpg)
 
  If you keep getting random blue screens with **Bad\_Pool\_Header**  error on your**Windows 7** computer, don’t worry. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Bad Pool Header Windows 7
 
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-328.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -76,10 +76,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
 
@@ -93,18 +89,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c0ed1f89.jpg)
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
@@ -126,22 +130,18 @@ To do so:
 2. Click the **Tools** tab > **Check** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19f9abdd8.jpg)
 4. Follow the on-screen instructions for Windows to detect and fix the errors found.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and see if it fixes the**Bad Pool Header** blue screen error.
 
@@ -167,18 +167,14 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-discovering-costless-software-for-streaming-sessions-for-2024/"><u>[New] Discovering Costless Software for Streaming Sessions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>2024 Approved Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-to-address-ntoskrnlexe-crashes-and-netiosys-blue-screens-in-windows/"><u>Comprehensive Fixes to Address ntoskrnl.exe Crashes and NETIO.SYS Blue Screens in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-storahcisys-and-windows-blue-screen-of-death-bsod/"><u>Effective Fixes for Storahci.sys and Windows Blue Screen of Death (BSOD)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-guide-fix-the-kernel-mode-violation-error-from-inadequate-memory-handling-in-windows-11/"><u>Expert Guide: Fix the Kernel-Mode Violation Error From Inadequate Memory Handling in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207339862-fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>In 2024, Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/netwtw10sys-error-resolved-steps-for-fixing-your-pcs-blue-screen-malfunction/"><u>Netwtw10.sys Error Resolved: Steps for Fixing Your PC's Blue Screen Malfunction</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prestigious-websites-elevating-youtube-content-for-2024/"><u>Prestigious Websites Elevating YouTube Content for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fixing-bsod-defeating-the-0x00000050-error-on-windows-operating-system/"><u>Step-by-Step Guide to Fixing BSOD - Defeating the 0X00000050 Error on Windows Operating System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-fixing-the-perplexing-nmi-hardware-failure-blue-screen-error/"><u>Step-by-Step Solution for Fixing the Perplexing NMI Hardware Failure Blue Screen Error</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g04-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G04 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-essential-tips-for-storing-snapchat-videos-on-devices/"><u>[New] In 2024, Essential Tips for Storing Snapchat Videos on Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-watchdogsys-blue-screen-errors-bsod/"><u>[Solved] Watchdog.sys Blue Screen Errors (BSOD)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-woes-correct-system-pte-mismanagement-easily/"><u>Blue Screen Woes? Correct SYSTEM PTE Mismanagement Easily!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/discover-the-undiscovered-top-social-media-memes-for-2024/"><u>Discover the Undiscovered Top Social Media Memes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-compelling-stories-with-your-gopro-footage/"><u>In 2024, Crafting Compelling Stories with Your GoPro Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-evaluation-of-the-newest-slomo-video-software/"><u>In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-close-up-views-in-minecraft-for-2024/"><u>Mastering Close-Up Views in Minecraft for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hal-initialization-errors-on-windows-11-a-complete-solution-guide/"><u>Troubleshooting HAL Initialization Errors on Windows 11: A Complete Solution Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-video-driver-issues-solving-the-tdr-failure-with-atikmpagsys-on-windows-11/"><u>Troubleshooting Video Driver Issues: Solving the TDR Failure with atikmpag.sys on Windows 11</u></a></li>
 </ul></div>
 

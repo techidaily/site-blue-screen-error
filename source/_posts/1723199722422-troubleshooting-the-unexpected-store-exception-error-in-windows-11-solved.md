@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the 'Unexpected Store Exception' Error in Windows 11 – Solved
-date: 2024-12-23T18:09:19.192Z
-updated: 2024-12-24T19:07:31.865Z
+date: 2024-12-31T21:01:16.995Z
+updated: 2025-01-02T05:11:29.960Z
 tags:
   - win11
   - win10
@@ -34,33 +34,33 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
@@ -112,10 +108,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -126,13 +126,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -158,20 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-peekcapture-review-of-low-res-screen-grabs/"><u>[Updated] PeekCapture Review of Low-Res Screen Grabs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-definitive-12-tycoon-titles-unmissable-gaming-delights-for-2024/"><u>[Updated] The Definitive 12 Tycoon Titles - Unmissable Gaming Delights for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decreasing-decibits-gradually-for-calm-soundscapes-in-lumafusion/"><u>Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210830288-9781685260453-discover-victory-in-the-meaning-of-your-life/"><u>Discover Victory In the Meaning of Your Life | Free Book</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-windows-troubleshooting-eradicating-error-0x00000amoa-blue-screen-dilemma/"><u>Mastering Windows Troubleshooting: Eradicating Error 0X00000amoa Blue Screen Dilemma</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/minimalist-web-expeditions-top-7-browser-options-with-lower-ram-demands/"><u>Minimalist Web Expeditions: Top 7 Browser Options With Lower RAM Demands</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/obtaining-canon-mg3620-driver-safe-and-quick-methods/"><u>Obtaining Canon MG3620 Driver: Safe & Quick Methods</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210006368-9781633412224-seventy-eight-degrees-of-wisdom-hardcover-gift-edition-3rd-ed/"><u>Seventy-Eight Degrees of Wisdom (Hardcover Gift Edition) (3rd ed.) | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fix-bad-pool-header-errors-on-various-versions-of-windows-os/"><u>Step-by-Step Guide to Fix 'Bad Pool Header' Errors on Various Versions of Windows OS</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-overcoming-the-dxgmms2sys-bsod-problem-in-windows-11/"><u>Troubleshooting Guide: Overcoming the dxgmms2.sys BSOD Problem in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-nvlddmkmsys-blue-screen-of-death-for-windows-users/"><u>Troubleshooting nvlddmkm.sys Blue Screen of Death for Windows Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-help-how-to-resolve-bugcodeusbdriver-and-stop-the-blue-screen-of-death/"><u>Windows 11 Help - How to Resolve 'BUGCODE_USB_DRIVER' And Stop the Blue Screen of Death</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-crashing-fix-full-guide/"><u>Windows 7 Crashing Fix [Full Guide]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-best-vr-game-engines-of-2023/"><u>[New] Unveiling the Best VR Game Engines of 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[Updated] 2024 Approved The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite-for-2024/"><u>[Updated] A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sculpt-visual-jokes-for-giphy-space-for-2024/"><u>[Updated] Sculpt Visual Jokes for Giphy Space for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-invisible-insights-into-instagram-story-viewing/"><u>2024 Approved Invisible Insights Into Instagram Story Viewing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-bsod-with-error-0x00000133-on-your-pc-running-windows-e/"><u>Diagnosing and Repairing BSOD with Error 0X00000133 on Your PC Running Windows E</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-fatal-errors-at-event-tracing-in-windows-11-a-comprehensive-guide/"><u>Diagnosing and Repairing Fatal Errors at Event Tracing in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dz-bank/"><u>DZ Bank</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-eliminating-blue-screen-of-death-on-windows-10-devices/"><u>Expert Tips: Eliminating Blue Screen of Death on Windows 10 Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-faults-navigate-through-kmodeexception-error-handling-on-win-11-and-10/"><u>Fixing Critical Faults: Navigate Through KMODE_Exception Error Handling on Win 11 and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-penning-perfect-steam-game-critiques/"><u>Guide to Penning Perfect Steam Game Critiques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/hidclasssys-issues-resolved-simple-fixes-and-fast-solutions/"><u>HIDCLASS.SYS Issues Resolved - Simple Fixes and Fast Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-online-free-file-converter-compatible-with-all-formats/"><u>Movavi Online Free File Converter - Compatible with All Formats</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199736776-resolve-bad-configurations-fast-end-that-blue-screen-error-today/"><u>Resolve Bad Configurations Fast: End That Blue Screen Error Today!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-steps-to-relocate-your-windows-10-profile-onto-another-machine/"><u>Simple Steps to Relocate Your Windows 10 Profile Onto Another Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-4k-aerial-experience-with-xiaomis-drone/"><u>The Ultimate 4K Aerial Experience with Xiaomi's Drone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/untangling-the-solved-bluescreen-of-death-dealing-with-machine-check-exceptions-on-windows-11/"><u>Untangling the [Solved] BlueScreen of Death: Dealing with Machine Check Exceptions on Windows 11</u></a></li>
 </ul></div>
 

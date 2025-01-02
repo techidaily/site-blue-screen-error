@@ -1,7 +1,7 @@
 ---
 title: Guide to Solving Fatal Event Logging Issues on Windows 11 Computers
-date: 2024-12-23T16:52:52.214Z
-updated: 2024-12-24T17:37:48.493Z
+date: 2024-12-25T18:37:16.855Z
+updated: 2025-01-02T03:32:49.100Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/video-scheduler-internal-error-windows-10.png)
 
  If you’re bugging by the blue screen of death error with the error message_**VIDEO SCHEDULER INTERNAL ERROR**_ , you’re not alone. Many Windows 10 users have reported about this error before. But no need for you to worry about it, and there’s one thing is for sure: it’s possible to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for Video Scheduler Internal Error
 
@@ -38,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
 
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Press **Y**  on your keyboard.
 
@@ -66,21 +66,21 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2: Update device drivers**
 
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
  3) See if the **Video Scheduler Internal Error** is fixed now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **4: Reinstall faulty drivers**
 
  Faulty drivers could be the cause of**Video Scheduler Internal Error** as well. To fix it:
@@ -134,25 +130,29 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When prompted with the confirmation, click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other Work-arounds**
@@ -191,24 +191,15 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-alternative-software-for-laptoppc-video-editing/"><u>[Updated] 2024 Approved Alternative Software for Laptop/PC Video Editing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-master-these-techniques-to-fix-windows-10s-bugcodeusb-driver-woes/"><u>Blue Screen Blues? Master These Techniques to Fix Windows 10'S BUGCODE_USB Driver Woes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-no-more-correcting-netwtw10sys-system-failures-for-smooth-computing/"><u>Blue Screen No More: Correcting Netwtw10.sys System Failures for Smooth Computing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-fixing-critical-failure-with-dxgmms2sys-error-message-on-windows-11/"><u>Comprehensive Guide: Fixing Critical Failure with dxgmms2.sys Error Message on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199722911-comprehensive-tutorial-to-overcome-bad-pool-header-in-windows-7-now-resolved/"><u>Comprehensive Tutorial to Overcome 'Bad Pool Header' In Windows 7 - Now Resolved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-the-critical-unmountable-boot-volume-error-in-windows-10-for-smooth-operation/"><u>Expert Tips to Overcome the Critical Unmountable Boot Volume Error in Windows 10 for Smooth Operation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-vgksys-bsod-error-a-step-by-step-guide/"><u>Fixing the 'vgk.sys' BSoD Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-quickly-resolve-windows-0x000000d1-bsod-errors-step-by-step/"><u>How to Quickly Resolve Windows 0X000000D1 BSOD Errors Step by Step</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-the-netwtw10sys-causes-of-blue-screens-in-windows/"><u>How to Troubleshoot and Repair the Netwtw10.sys Causes of Blue Screens in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/improving-professional-collaboration-with-strategic-office-planning/"><u>Improving Professional Collaboration with Strategic Office Planning</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-v27e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo V27e FRP Bypass</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-7-best-video-joiners-with-no-watermark-or-logo/"><u>New 7 Best Video Joiners with No Watermark or Logo</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-gpu-missing-bios-resolved/"><u>NVIDIA GPU Missing BIOS [Resolved]</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pennywise-pet-filming-system-review/"><u>Pennywise Pet Filming System Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-bluetooth-not-found-problem-in-windows-11-step-by-step-guide/"><u>Solve the 'Bluetooth Not Found' Problem in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-for-uninstalling-nvidias-geforce-experience-software/"><u>Step-by-Step Tutorial for Uninstalling Nvidia's GeForce Experience Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-laptops-during-october-sales-events-explore-the-best-offers-of-2024/"><u>Top-Rated Discounts on Laptops During October Sales Events - Explore the Best Offers of 2024!</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-to-different-steam-language/"><u>Transitioning to Different Steam Language</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-windows-ten-bad-pool-caller-issue-once-and-for-all/"><u>Troubleshoot and Fix Windows ˈTen Bad Pool Caller Issue Once & For All</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-unexpected-kernel-mode-trap-bsod-error-in-windows-10/"><u>[SOLVED] UNEXPECTED KERNEL MODE TRAP BSOD Error in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-glowing-android-video-guide-simplified-methods/"><u>[Updated] Glowing Android Video Guide - Simplified Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1-minute-to-fade-to-black-in-premiere-pro-for-2024/"><u>1 Minute To Fade To Black In Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/10-recording-tips-for-recording-audio-with-high-quality-for-2024/"><u>10 Recording Tips for Recording Audio with High Quality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766575392-dvd/"><u>安全にDVDのコピーとリッピングをマスターするための基本知識・徹底解説</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-video-engagement-crafting-scripts-on-youtube-via-chatgpt/"><u>Boosting Video Engagement: Crafting Scripts on YouTube via ChatGPT</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcoming-pnp-detected-fatal-error-on-windows-11-machines/"><u>Comprehensive Guide to Overcoming PNP Detected Fatal Error on Windows 11 Machines</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-tackle-the-persistent-usb-driver-error-causing-blue-screen-on-windows-10-devices/"><u>How to Successfully Tackle the Persistent USB Driver Error Causing Blue Screen on Windows 10 Devices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-pointer-headers-errors-in-windows-10-8-and-7/"><u>Understanding & Resolving Pointer Headers Errors in Windows 10, 8, and 7</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/yl-computings-tutorial-detecting-and-troubleshooting-your-hard-drive-errors/"><u>YL Computing's Tutorial: Detecting & Troubleshooting Your Hard Drive Errors</u></a></li>
 </ul></div>
 

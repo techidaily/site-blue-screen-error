@@ -1,7 +1,7 @@
 ---
 title: "Winning Against 0X0000000A: Your Ultimate Guide to Resolving Blue Screens"
-date: 2024-12-19T19:52:40.420Z
-updated: 2024-12-24T16:11:20.750Z
+date: 2024-12-26T03:18:47.210Z
+updated: 2025-01-01T19:27:27.305Z
 tags:
   - win11
   - win10
@@ -37,13 +37,17 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click **Yes** when you’re prompted to confirm.
 
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -78,7 +82,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
@@ -105,7 +109,11 @@ Here are the steps on how to disable secure boot:
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
@@ -121,23 +129,15 @@ Here are the steps on how to disable driver integrity checks:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
@@ -175,24 +175,18 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-approach-to-best-youtube-thumbnails-for-2024/"><u>[Updated] A Step-by-Step Approach to Best YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-crafting-impactful-reactions-the-ultimate-guidebook-for-2024/"><u>[Updated] Crafting Impactful Reactions The Ultimate Guidebook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-hero5-black-showdown-with-hero4-silver/"><u>2024 Approved GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/aldi-sud-hofmann-group/"><u>Aldi Süd (Hofmann) Group</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-to-correctly-address-internal-errors-within-the-video-scheduler-of-windows-11/"><u>Comprehensive Solutions to Correctly Address Internal Errors Within the Video Scheduler of Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-11-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 11 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-fatal-error-using-event-tracer-on-your-windows-10-pc-now-solved/"><u>How to Fix a Fatal Error Using Event Tracer on Your Windows 10 PC - Now Solved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-crashing-heres-how-to-stop-the-bsod-on-your-windows-11-pc/"><u>IGDKMD64.sys Crashing? Here's How to Stop the BSOD on Your Windows 11 PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-c22-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia C22?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/navigating-your-way-in-graphic-design-careers/"><u>Navigating Your Way in Graphic Design Careers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-blue-screen-of-death-due-to-win32kfullsys-errors/"><u>Resolving Windows Blue Screen of Death Due to Win32KFull.sys Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-images-from-your-facebook-profile/"><u>Step-by-Step Guide: Removing Images From Your Facebook Profile</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshoot-and-resolve-blue-screen-errors-from-system-pte/"><u>Step-by-Step Tutorial: Troubleshoot and Resolve 'Blue Screen' Errors From System PTE</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-battlefield-5-from-freezing-fixes-that-work/"><u>Stop Battlefield 5 From Freezing: Fixes That Work</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-10-vibes-a-discotheme-adventure/"><u>Top 10 Vibes A DiscoTheme Adventure</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-memory-issue-on-windows-11-platforms/"><u>Troubleshooting BSOD: Memory Issue on Windows 11 Platforms</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netiosys-bsod-errors-on-your-windows-pc-step-by-step-tips/"><u>Troubleshooting NETIO.SYS BSoD Errors on Your Windows PC: Step-by-Step Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-high-fidelity-mp4-streamer-to-facebook/"><u>[Updated] High-Fidelity MP4 Streamer to Facebook</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypassing-fat-file-system-errors-for-smooth-windows-10-operations/"><u>Bypassing FAT File System Errors for Smooth Windows 10 Operations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480152043-cant-adjust-auto-brightness-on-iphone-discover-these-7-quick-solutions/"><u>Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-amd-radeon-drivers-for-free-on-windows-8-platforms/"><u>Download Updated AMD Radeon Drivers for Free on Windows 8 Platforms</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eradicating-blue-screen-of-death-a-comprehensive-guide-to-solving-the-usb-driver-error-in-windows-10/"><u>Eradicating Blue Screen of Death: A Comprehensive Guide to Solving the USB Driver Error in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/prevent-and-repair-blue-screen-issues-stemming-from-system-pte-failures/"><u>Prevent and Repair Blue Screen Issues Stemming From System PTE Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-fltmgrsys-bsod-error-on-your-windows-system-a-step-by-step-guide/"><u>Resolving the 'fltmgr.sys' BSOD Error on Your Windows System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-checklist-for-achieving-high-quality-vocal-recordings-for-2024/"><u>The Ultimate Checklist for Achieving High-Quality Vocal Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-iphone-models-that-are-worth-passing-on-according-to-zdnet/"><u>Top 4 iPhone Models That Are Worth Passing on According to ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Tips: Fixing Astro A40 Microphone Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-unison-unit-for-voice-broadcasting-for-2024/"><u>Ultimate Unison Unit for Voice Broadcasting for 2024</u></a></li>
 </ul></div>
 

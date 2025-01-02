@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Critical Process Died BSOD Error in Windows 11"
-date: 2024-12-18T16:46:35.088Z
-updated: 2024-12-24T16:05:32.404Z
+date: 2024-12-31T17:28:09.106Z
+updated: 2025-01-01T22:25:49.123Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1\. Performing clean boot
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 2\. Running System File Checker
 
  Sometimes the corrupted system files can cause the blue screen error, in such case, we advise you run system file checker to scan the system file and repair the corrupted or missing ones.
@@ -76,23 +72,23 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -110,11 +106,19 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
@@ -125,10 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -158,24 +158,24 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-gopro-faceoff-the-ultimate-camera-showdown-guide/"><u>[Updated] 2024 Approved Gopro Faceoff The Ultimate Camera Showdown Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-personalizing-who-can-see-your-youtube-content/"><u>[Updated] Personalizing Who Can See Your YouTube Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-facebook-sharing-of-youtube-videos/"><u>2024 Approved Navigating Facebook Sharing of YouTube Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cutting-edge-techniques-for-youtube-video-edits-via-wm-maker-for-2024/"><u>Cutting-Edge Techniques for YouTube Video Edits via WM Maker for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-error-usb-driver-issues-in-windows-10/"><u>Fixing the Blue Screen Error: USB Driver Issues in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-address-unhandled-exceptions-fixing-kmode-errors-on-win10win11-systems/"><u>How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-irql-not-less-or-equal-error-on-windows-7-solutions-and-explanations/"><u>How to Fix 'IRQL Not Less or Equal' Error on Windows 7 - Solutions and Explanations</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-x9a-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X9a Without Password | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-internal-power-malfunction-in-windows-10/"><u>How to Overcome the Internal Power Malfunction in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-with-dxgmmsn2sys-error-on-windows-11/"><u>How to Resolve Blue Screen of Death with 'dxgmmsn2.sys' Error on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/immediate-actions-for-potential-hard-drive-issues-advice-by-professionals-at-yl-software-and-computing/"><u>Immediate Actions for Potential Hard Drive Issues: Advice by Professionals at YL Software and Computing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-exceptions-on-windows-7-comprehensive-guide/"><u>Resolving System Service Exceptions on Windows 7 - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-integration-of-google-home-into-your-pc-routine/"><u>Seamless Integration of Google Home Into Your PC Routine</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-screen-understanding-the-reason-behind-monitor-errors-yl-computing-solutions/"><u>Troubleshooting Your Screen: Understanding the Reason Behind Monitor Errors - YL Computing Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1726220094632-aviaac-movavi/"><u>오피스에서 AVI/AAC 파일을 무료로 바꾸는 방법 - Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-studio-vs-bandicam-which-is-better/"><u>[Updated] In 2024, OBS Studio vs Bandicam Which Is Better</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-record-voices-using-windows-11-techniques/"><u>2024 Approved How to Effortlessly Record Voices Using Windows 11 Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-audio-alteration-in-sony-games/"><u>2024 Approved Master the Art of Audio Alteration in Sony Games</u></a></li>
+<li><a href="https://win-guides.techidaily.com/excelwindows-11/"><u>Excel文件在Windows 11上恢复删除 -详解</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-your-blue-screen-woes-tackling-kmodeexplorerpluskmdextension-bsod-in-modern-windows/"><u>Fix Your Blue Screen Woes: Tackling KMode_Explorer+KMDExtension BSOD in Modern Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746517-how-to-fix-a-fatal-error-using-event-tracer-on-your-windows-10-pc-now-solved/"><u>How to Fix a Fatal Error Using Event Tracer on Your Windows 10 PC - Now Solved!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-irql-challenges-on-windows-7-solutions-and-best-practices-for-it-professionals/"><u>Mastering IRQL Challenges on Windows 7 - Solutions and Best Practices for IT Professionals</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-storportsys-blue-screen-errors-on-windows-11-a-step-by-step-guide/"><u>Resolving Storport.sys Blue Screen Errors on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-troubleshooting-the-pool-header-error-in-windows-11/"><u>Resolving the Blue Screen: Troubleshooting the 'Pool Header' Error in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-stop-0x0000007b-bsod-issue-on-your-windows-pc/"><u>Resolving the STOP 0X0000007B BSOD Issue on Your Windows PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/shifting-focus-twitters-videos-to-facebook-streaming-for-2024/"><u>Shifting Focus Twitters' Videos to Facebook Streaming for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-rotated-video-conundrum-in-instagrams-feed-for-2024/"><u>The Rotated Video Conundrum in Instagram's Feed for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-picks-the-ideal-graphics-cards-for-ultra-high-definition-gaming/"><u>Top Picks: The Ideal Graphics Cards for Ultra-High Definition Gaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-how-to-fix-audio-issues-with-your-counter-strike-go-microphone/"><u>Troubleshooting Steps: How to Fix Audio Issues with Your Counter-Strike GO Microphone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-windows-10-blue-screen-error-0x00000133/"><u>Ultimate Guide: Resolving Windows 10 Blue Screen Error 0X00000133</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-windows-blue-screen-error-0x0000001e/"><u>Understanding and Fixing Windows Blue Screen Error 0X0000001E</u></a></li>
+<li><a href="https://discover-great.techidaily.com/yl-software-showcase-premium-hd-wallpaper-pack-wildlife-serenity-in-wolf-imagery-and-background-scenes/"><u>YL Software Showcase: Premium HD Wallpaper Pack - Wildlife Serenity in Wolf Imagery and Background Scenes</u></a></li>
 </ul></div>
 

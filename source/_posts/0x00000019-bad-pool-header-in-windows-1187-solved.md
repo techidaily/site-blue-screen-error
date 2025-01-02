@@ -1,7 +1,7 @@
 ---
 title: 0X00000019 Bad Pool Header in Windows 11/8/7 [SOLVED]
-date: 2024-12-20T19:22:43.285Z
-updated: 2024-12-24T19:39:18.325Z
+date: 2025-01-01T02:30:00.965Z
+updated: 2025-01-01T16:41:43.841Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
@@ -50,21 +54,9 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -77,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Yes** when prompted by User Account Control.
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 3\. Update your drivers**
 
@@ -106,20 +102,20 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -129,6 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -158,14 +158,17 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-copyright-protection-for-instatunes/"><u>[Updated] 2024 Approved Copyright Protection for InstaTunes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-save-and-watch-5-best-pinterest-videos-tools-for-2024/"><u>Capture, Save and Watch 5 Best Pinterest Videos Tools for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/defeating-the-netiosys-bluescreen-menace-in-windows-systems/"><u>Defeating the NETIO.SYS Bluescreen Menace in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-fatal-dxgkrnl-error-that-leads-to-a-blue-screen-in-windows-10/"><u>Diagnosing and Repairing the Fatal Dxgkrnl Error That Leads to a Blue Screen in Windows 10</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-stream-ready-steam-gameplay-filming-guide/"><u>In 2024, Stream-Ready Steam Gameplay Filming Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-guide-easy-entry-into-windows-11-advanced-setup-menu/"><u>Quick Guide: Easy Entry Into Windows 11 Advanced Setup Menu</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-key-system-integrity-issues-in-windows-10/"><u>Resolved: Key System Integrity Issues in Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-equipment-starter-guide-for-beginners-for-2024/"><u>YouTube Equipment Starter Guide For Beginners for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-perfect-ringtone-for-your-ios-device/"><u>[New] Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-selection-of-superior-hexadrones/"><u>[New] Ultimate Selection of Superior HexaDrones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-followers-to-fans-a-guide-to-thriving-instagram-presence-for-2024/"><u>[Updated] From Followers to Fans A Guide to Thriving Instagram Presence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-supreme-memetric-creation-tool/"><u>[Updated] Supreme Memetric Creation Tool</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/data-restoration-techniques-for-compact-flash-cf-storage-devices-expert-tips-and-tricks/"><u>Data Restoration Techniques for Compact Flash (CF) Storage Devices: Expert Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/1723808353906-how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-rtwlanesys-blue-screen-of-death-issue/"><u>How To Resolve the RTWLane.SYS Blue Screen of Death Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ustream-overview-plus-similar-services/"><u>In 2024, Ustream Overview + Similar Services</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-igdkmd64sys-crash-a-complete-guide-for-windows-10-users/"><u>Resolving the IGDKMD64.SYS Crash: A Complete Guide for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-bad-pool-header-error-on-windows-11-8-and-7-a-step-by-step-guide/"><u>Solving the 'Bad Pool Header' Error on Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-taskbar-look-with-personalized-weather-icons-on-windows-11/"><u>Transforming Taskbar Look with Personalized Weather Icons on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-ntfs-errors-effective-strategies-for-windows-10/"><u>Troubleshooting and Repairing NTFS Errors: Effective Strategies for Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2024-12-19T18:41:29.356Z
-updated: 2024-12-24T18:35:28.419Z
+date: 2024-12-31T20:29:49.250Z
+updated: 2025-01-01T23:46:44.295Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -37,21 +41,17 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
@@ -65,21 +65,17 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -104,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
@@ -130,16 +130,21 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-revealing-historys-best-anime-openers/"><u>[New] 2024 Approved Revealing History's Best Anime Openers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>[New] Boosting Skype Engagement Best Zoom Utilization Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/reaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[New] Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-win32kfullsys-bsod-issue-a-comprehensive-guide/"><u>Fixing the Win32KFull.sys BSOD Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-blue-screen-of-death-bsod-error-in-windows-10/"><u>How to Fix a Blue Screen of Death (BSOD) Error in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-an-unmountable-boot-volume-blue-screen-of-death-in-windows-10/"><u>How to Recover From an Unmountable Boot Volume Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-amplify-your-facebook-presence-with-mobile-music-files/"><u>In 2024, Amplify Your Facebook Presence with Mobile Music Files</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-corrupted-display-issues-on-windows-11-and-10-a-comprehensive-guide/"><u>Resolving Corrupted Display Issues on Windows 11 & 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-the-bad-pool-header-problem-in-windows-fixes-and-tips-for-windows-11-8-and/"><u>Understanding the 'Bad Pool Header' Problem in Windows: Fixes and Tips for Windows 11, 8 &</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/anakal-shalka-parayapata-sathara-cakatasa-aavashayakatae-manavaya-thaharana/"><u>अनुकूली शुल्क: पर्याप्त, स्थिर चिकित्सा आवश्यकताएं - मानवीय दोहराने</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>[New] Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sculpting-images-creative-distortion-with-adobe-ph/"><u>2024 Approved Sculpting Images Creative Distortion with Adobe PH</u></a></li>
+<li><a href="https://article-posts.techidaily.com/3-straightforward-methods-to-fine-tune-shades/"><u>3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-airborne-series-entry-level-mid-range-models-premium-uhd-edition-for-2024/"><u>DJI Airborne Series Entry Level, Mid-Range Models, Premium UHD Edition for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-tiktok-presence-by-merging-bio-and-linktree/"><u>Elevating Your TikTok Presence by Merging Bio & Linktree</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-network-storage-errors-addressing-netwkstorsys-crashes-in-windows-11/"><u>Fix Network Storage Errors: Addressing NetWkstor.sys Crashes in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-service-failures-resolve-blue-screen-of-death-bsod-in-windows-11/"><u>Fixing Critical Service Failures: Resolve Blue Screen of Death (BSoD) in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-driver-overran-stack-buffer-blue-screen-error/"><u>How to Fix DRIVER OVERRAN STACK BUFFER Blue Screen Error</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-fatal-system-error-code-0x00000133-on-your-windows-10-pc/"><u>How to Fix the Fatal System Error (Code 0X00000133) on Your Windows 10 PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-on-windows-10-blue-screen-error-solved/"><u>igdkmd64.sys on Windows 10 Blue Screen Error [Solved]</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/protected-pc-models-by-hewlett-packard-with-operating-systems-windows-7-or-8/"><u>Protected PC Models by Hewlett-Packard with Operating Systems Windows 7 or 8</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-overcome-windows-10s-bugcodeusb-driver-issue-and-eliminate-crashes/"><u>Step-by-Step Guide to Overcome Windows 10'S BUGCODE_USB Driver Issue & Eliminate Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-error-on-windows-10-blue-screen-troubleshooting-steps-and-solutions/"><u>UNMOUNTABLE_BOOT_VOLUME Error on Windows 10 Blue Screen: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-xbox-virtual-reality-set-discover-latest-insights-on-costs-launch-timeline-and-tech-details/"><u>Upcoming Xbox Virtual Reality Set - Discover Latest Insights on Costs, Launch Timeline & Tech Details!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 

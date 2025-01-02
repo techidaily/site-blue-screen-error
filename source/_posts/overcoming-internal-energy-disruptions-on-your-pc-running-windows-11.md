@@ -1,7 +1,7 @@
 ---
 title: Overcoming Internal Energy Disruptions on Your PC Running Windows 11
-date: 2024-12-19T16:13:43.988Z
-updated: 2024-12-24T18:11:47.275Z
+date: 2024-12-30T20:36:17.068Z
+updated: 2025-01-01T16:28:31.436Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf76266cb012.jpg)
 
  If you’re in the middle of your work, suddenly your Windows 10 computer turns into a blue screen, and shows you**UNEXPECTED\_KERNEL\_MODE\_TRAP** error, you would be very annoyed and frustrated. But don’t panic, you won’t be stuck with it forever. You CAN fix it with this guide. Read on to find how…  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,7 +44,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -64,20 +60,16 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the testing, Windows will restart automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
 
@@ -93,6 +85,10 @@ After the testing, Windows will restart automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows Update
 
  Either hardware or software issues can lead to blue screen error. And Windows updates can address security flaws and bugs related to both hardware and software. So make sure you’ve install all the new Windows 10 updates to keep your Windows 10 healthy, stable and away from blue screen error.  
@@ -104,7 +100,7 @@ Here’s how you can check for Windows Update
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
@@ -148,6 +144,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -185,17 +185,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[New] 2024 Approved Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-overcoming-the-stop-0x0000007b-hurdle/"><u>Blue Screen of Death: Overcoming the STOP 0X0000007B Hurdle</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/failure-to-adhere-to-recommended-calibration-frequencies-can-result-in-product-quality-issues-and-non-compliance-with-industry-standards/"><u>Failure to Adhere to Recommended Calibration Frequencies Can Result in Product Quality Issues and Non-Compliance with Industry Standards.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/giggle-guide-to-funny-memes-a-quick-primer/"><u>Giggle Guide to Funny Memes A Quick Primer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-switch-your-whatsapp-messages-over-to-an-iphone-expert-tips-for-a-smooth-transition/"><u>How To Effortlessly Switch Your WhatsApp Messages Over to an iPhone – Expert Tips for a Smooth Transition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722894090120-mastering-network-troubleshooting-a-guide-to-using-tracert-on-windows/"><u>Mastering Network Troubleshooting: A Guide to Using 'Tracert' On Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-error-blanking-your-screen-on-windows-annoy-you-no-more/"><u>Netwtw04.sys Error Blanking Your Screen on Windows Annoy You No More</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcpx-storage-solutions-how-to-reclaim-disk-space-and-boost-performance/"><u>New In 2024, FCPX Storage Solutions How to Reclaim Disk Space and Boost Performance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-challenge-of-switching-from-direct-process-context-dpc-errors-in-windows-expert-solutions-revealed/"><u>Overcoming the Challenge of Switching From Direct Process Context (DPC) Errors in Windows: Expert Solutions Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-asus-usb-drivers-with-ease-a-step-by-step-guide/"><u>Update ASUS USB Drivers with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/video-dxgkrnl-fatal-error-blue-screen-on-windows-11-fixed/"><u>Video Dxgkrnl Fatal Error Blue Screen on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>[New] Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-edge-and-elegance-in-figure-skating/"><u>[Updated] 2024 Approved Edge and Elegance in Figure Skating</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-dream-phone-cover-tips-and-tricks-for-an-ideal-match/"><u>Finding Your Dream Phone Cover: Tips and Tricks for an Ideal Match</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-blue-screen-of-death-bsod-error-in-windows-10/"><u>How to Fix a Blue Screen of Death (BSOD) Error in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-storportsys-bsod-in-windows-11/"><u>How to Fix storport.sys BSOD in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-huawei-nova-y91-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Huawei Nova Y91</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-an-unmountable-boot-volume-blue-screen-of-death-in-windows-10/"><u>How to Recover From an Unmountable Boot Volume Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-c51-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme C51</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-reversing-video-in-final-cut-pro/"><u>In 2024, The Ultimate Guide to Reversing Video in Final Cut Pro</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ntfs-file-system-error-on-windows-11-fixed/"><u>NTFS FILE SYSTEM Error on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventive-measures-for-unrecognized-hard-drives-in-windows-11-systems/"><u>Preventive Measures for Unrecognized Hard Drives in Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-for-gameplay-communication-on-cs-go-update-fixes/"><u>Resolving Audio Problems for Gameplay Communication on CS: GO Update Fixes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-corrupted-display-issues-on-windows-11-and-10-a-comprehensive-guide/"><u>Resolving Corrupted Display Issues on Windows 11 & 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-error-code-0xc000021a-in-windows-11-and-8-a-step-by-step-guide/"><u>Resolving the Blue Screen Error Code 0xC000021A in Windows 11 and 8: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-page-fault-error-in-windows-10-a-comprehensive-guide/"><u>Solving the Page Fault Error in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/styling-your-content-a-compreran-guide-to-insta-photo-watermarks-for-2024/"><u>Styling Your Content A Compreran Guide to Insta Photo Watermarks for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-notorious-bad-pool-caller-error-on-your-windows-11-system/"><u>Troubleshooting the Notorious Bad Pool Caller Error on Your Windows 11 System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-the-bad-pool-header-problem-in-windows-fixes-and-tips-for-windows-11-8-and/"><u>Understanding the 'Bad Pool Header' Problem in Windows: Fixes and Tips for Windows 11, 8 &</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728461260793-windows-11/"><u>Windows 11向けダイナミックハードドライブの効率的なコピー手順</u></a></li>
 </ul></div>
 

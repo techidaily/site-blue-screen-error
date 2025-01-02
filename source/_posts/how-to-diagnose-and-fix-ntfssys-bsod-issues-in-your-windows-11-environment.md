@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Fix ntfs.sys BSOD Issues in Your Windows 11 Environment
-date: 2024-12-20T17:29:02.906Z
-updated: 2024-12-24T18:03:50.198Z
+date: 2024-12-26T16:54:20.496Z
+updated: 2025-01-01T21:17:09.507Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 ## Troubleshooting the StorPort.sys Error and Preventing Windows 1 Cuffles
 
 If you keep getting random blue screens with**storport.sys** lately, don’t panic. It can be easily fixed!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for storport.sys in Windows 10
 
@@ -37,7 +33,7 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Enter Safe Mode with Networking**
@@ -51,10 +47,6 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 4. Wait for Windows to finish diagnosing your PC, and click **Advanced options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 5. Click **Troubleshoot** .  
@@ -70,11 +62,15 @@ If you keep getting random blue screens with**storport.sys** lately, don’t pan
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 9. On your keyboard, press **5**  to enable **Safe Mode with Networking** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 10. Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2** to troubleshoot the**storport.sys** blue screen problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -105,10 +101,6 @@ This problem may occur if you’re using the wrong or outdated device drivers. S
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Repair corrupt system files
 
  The **storport.sys** blue screen error could be caused by missing, corrupt or damaged system files on your computer. To see if this is the case, you should run a Windows repair.
@@ -132,6 +124,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  Once the scan finishes, you will get a summary of the issues found on your computer. If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The full version of Fortectcomes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -146,6 +142,10 @@ Here’s how to use Fortect to run a Windows repair:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -153,7 +153,7 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -181,16 +181,12 @@ Wait a while for the whole process to finish.
 4. Restart your computer and check if the**storport.sys**  blue screen problem has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Blue screen issue still not resolved yet? Please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your SSD
 
@@ -204,6 +200,10 @@ Wait a while for the whole process to finish.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976686ad871.jpg)
 6. Press & hold**the function keys** to enter BIOS. (You might want to check our your user manual to know what the function keys for this are).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** :**Do not** release the function keys until you see the BIOS setup screen.
 7. Allow your PC for 20 minutes of stay in BIOS.
 8. Repeat steps**1)** –**3)** .
@@ -216,10 +216,6 @@ Wait a while for the whole process to finish.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Check disk errors
 
  Disk check is a useful in-built  Windows tool that scans our hard disk and external drives for errors and fix them.
@@ -231,20 +227,24 @@ To do so:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Right-click on **Local Disk** and click **Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9771a3dcf2c.jpg)
 4. Click **Scan drive** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer and see if the **storport.sys failed** blue screen of death issue is resolved.
 
@@ -269,22 +269,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-rebranding-identity-on-google-meet-laptops-and-phones/"><u>[New] Rebranding Identity on Google Meet - Laptops & Phones</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-hidclasssys-quickly-and-easily/"><u>[Solved] HIDCLASS.SYS. Quickly & Easily</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screenrec-for-lactops-your-step-by-step-guide/"><u>[Updated] 2024 Approved ScreenRec for Lactops Your Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-conquer-youtube-with-creator-studio-a-comprehensive-guide/"><u>[Updated] Conquer YouTube with Creator Studio A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>2024 Approved Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/beat-the-bluescreen-bug-expert-techniques-for-in-page-kernel-data-fix-and-optimization-strategies/"><u>Beat the Bluescreen Bug: Expert Techniques for In-Page Kernel Data Fix and Optimization Strategies</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bertelsmann/"><u>Bertelsmann</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/critical-update-correcting-driver-verifier-exceptions-for-iomanager-devices/"><u>Critical Update: Correcting Driver Verifier Exceptions for IOManager Devices</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-i-solved-the-deadly-pnp-detected-bug-for-windows-10-systems/"><u>How I Solved the Deadly 'PNP Detected' Bug for Windows 10 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-find-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo Find X6 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-deciphering-the-language-of-haptic-interaction/"><u>In 2024, Deciphering the Language of Haptic Interaction</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-masterful-80s-filters-and-transitions-for-editors/"><u>In 2024, Masterful 80S Filters & Transitions for Editors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-error-fix-how-to-handle-the-dreaded-storportsys-stop-code-on-windows-10-systems/"><u>Mastering Error Fix: How to Handle the Dreaded StorPort.sys Stop Code on Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/navigating-through-windows-11s-quickboot-to-advanced-options/"><u>Navigating Through Windows 11’S QuickBoot to Advanced Options</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-critical-system-error-unmountablebootvol-on-windows-11/"><u>Step-by-Step Guide: Fixing the Critical System Error UNMOUNTABLE_BOOT_VOL on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-pinnacle-of-amusement-select-15-laughing-out-loud-channels/"><u>[New] 2024 Approved The Pinnacle of Amusement Select 15 Laughing-Out-Loud Channels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-epic-mmo-collection-best-10-no-cost-online-adventures/"><u>[Updated] In 2024, Epic MMO Collection Best 10 No-Cost Online Adventures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/airbus-defence-and-space/"><u>Airbus Defence & Space</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/conversao-gratuita-de-swf-para-mp4-online-oficinas-do-movavi/"><u>Conversão Gratuita De SWF Para MP4 Online - Oficinas Do Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-kmodeexceptionnothandled-error-on-windows-1110/"><u>Fix Kmode_Exception_Not_Handled Error on Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>In 2024, Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-success-the-essentials-of-crafting-great-reddit-threads/"><u>In 2024, Unlocking Success The Essentials of Crafting Great Reddit Threads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-job-market-with-confidence-6-powerful-uses-of-chatgpt-for-job-seekers/"><u>Navigate the Job Market with Confidence: 6 Powerful Uses of ChatGPT for Job Seekers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-the-driver-verifier-detected-violation-bsod-issue-in-windows-11/"><u>Resolved: How to Fix the 'Driver Verifier Detected Violation' BSOD Issue in Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revitalizing-your-laptop-a-cpu-upgrade-exploration/"><u>Revitalizing Your Laptop: A CPU Upgrade Exploration</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-to-stop-driver-verifier-detected-violation-bsod-on-windows-11/"><u>Step-by-Step Tutorial to Stop 'Driver Verifier Detected Violation' BSOD on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tech-fix-done-comprehending-the-need-for-immediate-restart-following-system-errors/"><u>Tech Fix Done - Comprehending the Need for Immediate Restart Following System Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199715642-troubleshoot-and-fix-your-pcs-0x000000d1-error-in-minutes-no-tech-know-how-required/"><u>Troubleshoot and Fix Your PC's 0X000000D1 Error in Minutes - No Tech Know-How Required</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-your-pcs-0x000000d1-error-in-minutes-no-tech-know-how-required/"><u>Troubleshoot and Fix Your PC's 0X000000D1 Error in Minutes - No Tech Know-How Required!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-non-paged-memory-issues-in-windows-10-pcs/"><u>Troubleshooting Non-Paged Memory Issues in Windows 10 PCs</u></a></li>
+<li><a href="https://win-data.techidaily.com/update-v357-for-pcdjs-dex-3-and-red-mobile-free-download/"><u>Update v3.5.7 for PCDJ's DEX 3 & RED Mobile - Free Download</u></a></li>
 </ul></div>
 

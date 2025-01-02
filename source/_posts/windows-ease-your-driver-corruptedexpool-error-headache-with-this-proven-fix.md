@@ -1,7 +1,7 @@
 ---
 title: Windows Ease Your 'DRIVER CORRUPTED_EXPOOL' Error Headache with This Proven Fix
-date: 2024-12-23T16:31:08.444Z
-updated: 2024-12-24T16:56:38.362Z
+date: 2024-12-29T02:39:15.715Z
+updated: 2025-01-01T21:23:12.000Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -38,21 +34,17 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
@@ -65,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -106,20 +102,20 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
@@ -129,6 +125,10 @@ Or click **Update All**  to automatically download and install the correct versi
 1) Type **Windows Update** in the search box. Click **Check for updates** on the top result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click **Check for updates** on the right pane of pop-up window.
 
@@ -158,24 +158,19 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-windows-11-blue-screen-error-after-update/"><u>[Fixed] Windows 11 Blue Screen Error After Update</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-personalize-and-protect-youtube-channel-url-made-simple/"><u>[New] In 2024, Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-secrets-of-the-pros-apple-devices-for-premium-interactive-recording-for-2024/"><u>[New] Secrets of the Pros Apple Devices for Premium Interactive Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metacosm-musings-the-best-quotations-for-virtual-inhabitants/"><u>2024 Approved Metacosm Musings The Best Quotations for Virtual Inhabitants</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-stop-code-for-ndis-errors-on-pcs/"><u>Comprehensive Guide: Eliminating 'Stop Code' For NDIS Errors on PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-zero-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Zero 30 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-rtkvhd64sys-crashes-leading-to-blue-screen-issues/"><u>How to Stop the Rtkvhd64.sys Crashes Leading to Blue Screen Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-connectivity-issues-solving-the-network-performance-problem-in-windows-11/"><u>Overcoming Connectivity Issues: Solving the 'Network Performance' Problem in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-fat-file-system-error-in-windows-11-with-easy-troubleshooting-tips/"><u>Overcoming the 'FAT File System Error' In Windows 11 with Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/quick-and-effective-techniques-to-build-your-own-bootable-windows-10-usb-stick/"><u>Quick & Effective Techniques to Build Your Own Bootable Windows 10 USB Stick</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-10-computers-crash-overcoming-machine-check-error-bluescreens/"><u>Resolve Your Windows 10 Computer’s Crash: Overcoming Machine Check Error Bluescreens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-starfield-sound-glitches-no-more-crackling-or-skipping/"><u>Resolved: Starfield Sound Glitches - No More Crackling or Skipping</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-found-resolve-rtkvhd64sys-bsod-issues-in-windows-computers/"><u>Solution Found: Resolve RTKVHD64.sys BSOD Issues in Windows Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-empty-your-mailbox-in-gmail-for-androidios-devices/"><u>Step-by-Step Tutorial: How to Empty Your Mailbox in Gmail for Android/iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-error-262-in-roblox-platform/"><u>Tackling Error 262 in Roblox Platform</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-performance-of-amazonbasics-12-sheet-ultra-secure-document-shredder-user-reviews-and-insights/"><u>Unpacking the Performance of AmazonBasics' 12-Sheet Ultra-Secure Document Shredder - User Reviews and Insights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-windows-11-internal-power-error-fixes/"><u>Winning the Battle Against Windows 11: Internal Power Error Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-richest-rewards-for-creators/"><u>[New] 2024 Approved Richest Rewards for Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams/"><u>[New] 2024 Approved Unveiling the Illusion How Genuine Growth Is Stifled by Shams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[New] Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-troubleshooting-tips-for-win-11s-stubborn-photos-app-for-2024/"><u>[Updated] Troubleshooting Tips for Win 11'S Stubborn Photos App for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-and-fixes-for-overcoming-fatal-pnp-detected-error-messages-in-windows-11/"><u>Expert Tips and Fixes for Overcoming Fatal 'PNP Detected' Error Messages in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iconic-locales-for-stream-video-quality/"><u>Iconic Locales for Stream Video Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-3d-video-app-for-android-devices/"><u>In 2024, Premium 3D Video App for Android Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/ios-and-androids-finest-split-screen-video-apps-you-need-to-try/"><u>IOS and Androids Finest Split Screen Video Apps You Need to Try</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-bluescreen-fix-effective-techniques-for-windows-10-users/"><u>Netwtw04.sys Bluescreen Fix - Effective Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-classpnpsys-issues-on-windows-11-and-7-a-comprehensive-guide/"><u>Resolving CLASSPNP.SYS Issues on Windows 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ripristina-il-cestino-senza-costi-su-windows-10-o-11/"><u>Ripristina Il Cestino Senza Costi Su Windows 10 O 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-basics-of-picture-in-picture-in-ff/"><u>The Basics of Picture-in-Picture in FF</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-iastorasys-bsod-problems-expert-tips-and-tricks/"><u>Troubleshooting and Resolving IaStora.sys BSOD Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unsuccessful-dpc-shift-glitch-on-windows-systems-solution-provided/"><u>Troubleshooting the Unsuccessful DPC Shift Glitch on Windows Systems [Solution Provided]</u></a></li>
 </ul></div>
 

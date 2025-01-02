@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms
-date: 2024-12-20T17:42:00.280Z
-updated: 2024-12-24T16:34:18.298Z
+date: 2024-12-28T23:13:41.986Z
+updated: 2025-01-02T02:37:26.852Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Reinstall your graphic card driver
@@ -37,19 +37,15 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -66,6 +62,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -73,7 +73,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -94,10 +94,6 @@ Then Windows will search the update for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Disable & Reset Driver Verifier
 
  If unluckily after solving the driver problems, the error still occur, try to disable and reset the Driver Verifier on your Windows 10\.
@@ -116,6 +112,10 @@ You need to do these:
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -149,20 +149,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-essential-guide-to-musical-feed-posts-on-instagram/"><u>[New] In 2024, The Essential Guide to Musical Feed Posts on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-webinar-label-builder-kit/"><u>2024 Approved Expert Webinar Label Builder Kit</u></a></li>
-<li><a href="https://video-capture.techidaily.com/chromebooks-and-hp-perfect-your-video-capture-for-2024/"><u>Chromebooks and HP Perfect Your Video Capture for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028116080-divxmp4/"><u>DivXに完璧に変換！MP4ファイルを一括で素早く、美しく！</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-bsod-blues-correcting-pfn-list-discrepancies-on-your-windows-11-device/"><u>Eliminating the BSOD Blues: Correcting PFN List Discrepancies on Your Windows 11 Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-siri-malfunctions-top-7-solutions-for-iphone-and-ipad-users/"><u>Fixing Siri Malfunctions - Top 7 Solutions for iPhone and iPad Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/henkel-ag-and-co-kgaa/"><u>Henkel AG & Co. KGaA</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-driververifierdetectedviolation-blue-screen-of-death-in-windows-10/"><u>How to Resolve the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-music-acquisition-on-audio-network-steps-to-secure-and-enjoy-audio-files/"><u>Mastering Music Acquisition on Audio Network: Steps to Secure and Enjoy Audio Files</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-blue-screen-error-troubleshooting-cmusbdacsys-on-pcs/"><u>Overcoming the Blue Screen Error: Troubleshooting CMUSBDAC.sys on PCs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-setup-pioneer-dj-ddj-sx2-controller-download-the-latest-software/"><u>Quick Setup: Pioneer DJ DDJ-SX2 Controller - Download the Latest Software</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-fix-deadly-system-issues-on-your-windows-10-computer/"><u>Step-by-Step Guide to Fix Deadly System Issues on Your Windows 10 Computer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-sudden-bsod-errors-due-to-kernel-mode-issues-in-windows-11/"><u>Troubleshooting Sudden BSOD Errors Due to Kernel Mode Issues in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-kmodeexceptionnothandled-mistake-in-windows-11-and-windows-10/"><u>Troubleshooting the KMODE_Exception_Not_Handled Mistake in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated In 2024, Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-best-cams-for-professional-streaming-for-2024/"><u>[New] The Ultimate Guide Best Cams for Professional Streaming for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-premier-ranking-comprehensive-8k-tv-analysis/"><u>[Updated] 2024 Approved The Premier Ranking Comprehensive 8K TV Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-animated-adventures-top-game-list/"><u>2024 Approved Android’s Animated Adventures – Top Game List</u></a></li>
+<li><a href="https://games-able.techidaily.com/chaos-made-calm-6-efficient-gpt-techniques-for-aspiring-dms/"><u>Chaos Made Calm: 6 Efficient GPT Techniques for Aspiring DMs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/examining-the-acer-xfa240-an-emphasis-on-effective-design/"><u>Examining the Acer XFA240: An Emphasis on Effective Design</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-with-error-0xc000021a-on-windows-11-and-8-detailed-tutorial/"><u>Fixing 'Blue Screen of Death' With Error 0xC000021A on Windows 11 & 8 - Detailed Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola Edge 40 Pro Phone Without Password?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-unmountablebootvolume-bsod-issue-in-windows-11-comprehensive-guide/"><u>Resolving the UNMOUNTABLE_BOOT_VOLUME BSOD Issue in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-persistent-blue-screen-due-to-dxgkrnl-in-windows-11-systems/"><u>Step-by-Step Fix for the Persistent Blue Screen Due to Dxgkrnl in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tech-support-eliminating-critical-process-died-errors-and-bsod-scenarios-in-windows-eon/"><u>Tech Support: Eliminating 'Critical Process Died' Errors and BSOD Scenarios in Windows Eon</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-kernel-driven-system-failures-due-to-memory-conflicts-windows-1011/"><u>Troubleshooting Kernel Driven System Failures Due to Memory Conflicts (Windows 10/11)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-nonpaged-memory-page-fault-problem-in-windows-1n/"><u>Troubleshooting the 'Nonpaged Memory Page Fault' Problem in Windows 1N</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/what-does-virtual-mean-in-a-world-of-reality/"><u>What Does 'Virtual' Mean in a World of Reality?</u></a></li>
 </ul></div>
 

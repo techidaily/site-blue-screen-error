@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair STOP Error 0X0000003B for Windows Users
-date: 2024-12-22T19:35:14.557Z
-updated: 2024-12-24T17:57:03.380Z
+date: 2024-12-31T03:07:09.355Z
+updated: 2025-01-02T06:09:33.757Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  If you keep getting random blue screens with **STOP CODE** **0x00000019**  (i.e. **Bad\_Pool\_Header**  error)  o n your computer lately, don’t panic. Below are 6 fixes that have helped other users resolve this problem. So read on and check them out…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Just work your way down until this nasty **0x00000019 Bad Pool Header** problem goes away.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 6. [**Check disk errors**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -58,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7beced4710f.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and keep track of your PC to see if the blue screen and crashing problem gets fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Fast Startup
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before**Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
@@ -86,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows search
@@ -101,16 +109,16 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a137e81417.jpg)
 3. Double-click on **Windows Search** . Then in**Startup type:** , choose**Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a145884937.jpg)
 4. Click**Apply** \>**OK** .
 
 5. Restart your computer and check if this **0x00000019 Bad\_Pool\_Header** ever happens again.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Memory Diagnostic
 
@@ -123,17 +131,9 @@ To do so:
 1. On your keyboard, press    **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type memory. Then click on**Windows Memory Diagnostic** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e83b8a93a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Be sure to**save your work** &**close all apps** on your PC before clicking **Restart now and check for problems (Recommended)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e87a6d482.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failing/failed memory on your RAM. You might have to move to**Fix 5** to get this **0x00000019** (**Bad\_Pool\_Header** ) fixed.
@@ -141,7 +141,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
@@ -149,10 +149,6 @@ To do so:
  Turn off and unplug your PC, then remove all of your RAM sticks. Try to power your computer back on with the sticks, ONE BY ONE. If your computer fails to boot with one specific RAM, you know which one is to blame.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check disk errors
 
@@ -165,6 +161,14 @@ To do so:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the **Tools** tab > **Check** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
@@ -172,10 +176,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your computer and see if it fixes the **0x00000019** (**Bad\_Pool\_Header** ) blue screen error.
 
@@ -201,19 +201,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps/"><u>[New] In 2024, Modulate Your Message A Top-Tier List of Voice Change Mobile Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nnovators-roundtable-for-youtube/"><u>[New] Innovators’ Roundtable for YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rime-video-performance-tracer-in-youtube-landscape/"><u>[New] Prime Video Performance Tracer in YouTube Landscape</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/macwindows-11-handbrake-libdvds-dvd/"><u>怎样使用 Mac/Windows 11 系统安装 Handbrake Libdvds 解码器录制 DVD？</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/diccionario-de-terminos-cruciales-sobre-seguridad-de-datos-con-abbyy/"><u>Diccionario De Términos Cruciales Sobre Seguridad De Datos Con ABBYY</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-tackling-the-internal-power-error-in-windows-10-systems/"><u>Mastering the Fix: Tackling the Internal Power Error in Windows 10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10-bluscreen-issues-the-dxgkrnl-error-explained-and-fixed/"><u>Resolving Windows 10 BluScreen Issues: The Dxgkrnl Error Explained and Fixed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-la-noire-coming-soon-to-windows-platform/"><u>Solution Found: L.A. Noire Coming Soon to Windows Platform</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-tdr-problems-with-atikmpagsys-in-windows-11/"><u>Step-by-Step Guide to Correcting TDR Problems with atikmpag.sys in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-driver-verifier-error-solutions-for-bsod-in-windows-11/"><u>Troubleshooting the Driver Verifier Error: Solutions for BSOD in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-solutions-for-correcting-ntfs-errors-in-windows-11-operating-systems/"><u>Ultimate Solutions for Correcting NTFS Errors in Windows 11 Operating Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-timeless-tales-for-the-whole-clan-family-movie-guide/"><u>[New] 2024 Approved Timeless Tales for the Whole Clan Family Movie Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-improving-the-endurance-of-your-gopro-power-source/"><u>[Updated] 2024 Approved Improving the Endurance of Your GoPro Power Source</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-video-tdr-error-fixes-for-atikmpagsys-glitches-on-windows-11/"><u>Defeating the Video TDR Error: Fixes for atikmpag.sys Glitches on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199749222-eliminate-dpc-guard-error-swiftly-your-ultimate-troubleshooting-solution/"><u>Eliminate DPC Guard Error Swiftly - Your Ultimate Troubleshooting Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bsod-error-solving-dxgkrnlsys-crashes-in-windows/"><u>Fixing the BSOD Error: Solving 'dxgkrnl.sys' Crashes in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-14-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi 14 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v29e-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V29e Phone Now with These Tips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-smart-solutions-for-gathering-visual-assets/"><u>In 2024, Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-headers-blue-screen-of-death-in-windows-10-a-comprehensive-guide/"><u>Resolving the Bad Pool Headers Blue Screen of Death in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-windows-stop-error-caused-by-network-device-interfaces-ntdlldll-and-ndissys-tips/"><u>Solving Windows Stop Error Caused by Network Device Interfaces: ntdll.dll & ndis.sys Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-places-to-purchase-apple-watch-series-9-and-ultra-pre-halt-unbeatable-offers-you-cant-miss-insights/"><u>Top Places to Purchase Apple Watch Series 9 & Ultra (Pre-Halt): Unbeatable Offers You Can't Miss - Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-review-of-portable-performance-the-pioneer-bdr-xs06-blu-ray-burners-capabilities-and-advantages-explored/"><u>Top Review of Portable Performance: The Pioneer BDR-XS06 Blu-Ray Burner's Capabilities & Advantages Explored</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-driver-corruptedexpool-problem-on-windows-10-expert-tips-and-tricks/"><u>Troubleshooting the DRIVER CORRUPTED_EXPOOL Problem on Windows 10: Expert Tips & Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mobile-video-editing-essentials-best-apps-for-vertical-content/"><u>Updated In 2024, Mobile Video Editing Essentials Best Apps for Vertical Content</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results-for-2024/"><u>Updated The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-classpnpsys-glitches-on-windows-11-and-windows-7-computers/"><u>Winning the Battle Against CLASSPNP.SYS Glitches on Windows 11 and Windows 7 Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2024-12-21T18:43:55.995Z
-updated: 2024-12-24T16:04:39.902Z
+date: 2024-12-29T01:27:30.884Z
+updated: 2025-01-02T02:51:13.214Z
 tags:
   - win11
   - win10
@@ -21,19 +21,11 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  Don’t panic. Usually this is a driver issue, and it’s easy to solve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Reinstall your graphic card driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Reinstall your graphic card driver
 
@@ -41,15 +33,15 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -73,11 +65,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -98,6 +86,10 @@ Then Windows will search the update for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Disable & Reset Driver Verifier
 
  If unluckily after solving the driver problems, the error still occur, try to disable and reset the Driver Verifier on your Windows 10\.
@@ -109,9 +101,17 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
@@ -149,17 +149,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>[Updated] In 2024, Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-opposite-list-orders-on-yt/"><u>[Updated] Step by Step Guide to Opposite List Orders on YT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-mobile-editing-apps-for-dji-videos-for-2024/"><u>Best Mobile Editing Apps for DJI Videos for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-fixing-error-code-0x0000000a-made-simple/"><u>Blue Screen Blues? Fixing Error Code 0X0000000A Made Simple</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-fix-your-internal-power-glitch-on-windows-10/"><u>Comprehensive Solutions: Fix Your Internal Power Glitch on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-windows-11-blue-screens-stemming-from-hardware-malfunctions/"><u>Diagnosing & Fixing Windows 11 Blue Screens Stemming From Hardware Malfunctions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/illuminating-insights-a-visual-notetaking-journey-with-obsidian/"><u>Illuminating Insights: A Visual Notetaking Journey with Obsidian</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-2022-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE (2022) Lock Screen</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/macs-screen-capture-champions-the-premier-tools-evaluation-for-2024/"><u>Mac's Screen Capture Champions The Premier Tools Evaluation for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/meta-quest-2-vr-headset-back-at-initial-launch-cost-exciting-news/"><u>Meta Quest 2 VR Headset Back at Initial Launch Cost: Exciting News!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-kernel-mode-memory-corruption-errors/"><u>Understanding and Correcting Kernel Mode Memory Corruption Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-masterful-video-text-techniques-ranked-for-2024/"><u>[New] Masterful Video Text Techniques - Ranked for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-snagging-superior-pixels-without-spending/"><u>[Updated] Expert Tips for Snagging Superior Pixels Without Spending</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-screens-that-make-a-statement-the-ultimate-4k-displays-for-macs/"><u>[Updated] Screens That Make a Statement The Ultimate 4K Displays for Macs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-top-dav-file-conversion-tools-switch-from-dav-to-avimp4-efficiently-your-guide/"><u>1. Top DAV File Conversion Tools: Switch From DAV to AVI/MP4 Efficiently - Your Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-to-correct-the-hypervisor-error-leading-to-a-system-crash-on-windows-11/"><u>Effective Fixes to Correct the Hypervisor Error Leading to a System Crash on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-system-service-problem-in-windows-11-effective-strategies-revealed/"><u>Eliminating the ‘System Service’ Problem in Windows 11: Effective Strategies Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-attempted-write-on-protected-memory-leading-to-system-crashes/"><u>How to Resolve Attempted Write on Protected Memory Leading to System Crashes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-3830-printer-driver-for-windows-users-free-download/"><u>HP OfficeJet 3830 Printer Driver for Windows Users – Free Download</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/iphone-movmp4/"><u>IPhone用 MOVフォーマットのビデオをMP4へ簡単変換する詳細ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-sharp-4k-top-10-mirrorless-cameras-for-2024/"><u>Mastering Sharp 4K Top 10 Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/maximizing-view-count-secrets-to-staff-picks-on-vimeo-for-2024/"><u>Maximizing View Count Secrets to Staff Picks on Vimeo for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-driver-verifier-and-iomgr-policy-compliance/"><u>Resolved: Driver Verifier and IOmgr Policy Compliance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-critical-services-error-and-blue-screen-of-death-in-windows-11/"><u>Resolved: Fixing Critical Services Error & Blue Screen of Death in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-page-fault-in-non-paged-area-issues-on-windows-11/"><u>Resolving 'Page Fault in Non-Paged Area' Issues on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-issue-in-windows-11-a-complete-guide/"><u>Resolving the 'Bad Pool Caller' Issue in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-conversion-from-flv-to-mov-files-a-simple-guide/"><u>Seamless Conversion From FLV to MOV Files: A Simple Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-solutions-for-unhandled-system-thread-errors/"><u>Simple Solutions for Unhandled System Thread Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-troubleshooting-guide-eliminating-pnp-fatal-errors-for-smooth-operation/"><u>Windows 10 Troubleshooting Guide: Eliminating PNP Fatal Errors for Smooth Operation</u></a></li>
 </ul></div>
 

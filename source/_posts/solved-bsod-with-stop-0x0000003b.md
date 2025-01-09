@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] BSOD with STOP 0X0000003b"
-date: 2024-12-30T23:26:28.177Z
-updated: 2025-01-01T21:09:54.711Z
+date: 2025-01-08T17:25:38.316Z
+updated: 2025-01-09T16:58:13.501Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -43,47 +47,39 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -130,16 +130,21 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-sound-logging-our-selection-of-11-precision-gadgets/"><u>[New] In 2024, Mastering Sound Logging Our Selection of 11 Precision Gadgets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-spark-to-the-future-djis-next-gen-challenge-from-mavic-air/"><u>[New] In 2024, Spark to the Future DJI's Next-Gen Challenge From Mavic Air</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>[Updated] In 2024, Toolwiz Analysis Revolutionizing Image Editing on the Go</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/12-essential-microsoft-excel-configuration-tweaks-for-optimal-performance/"><u>12 Essential Microsoft Excel Configuration Tweaks for Optimal Performance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-update-fixes-persistent-watchdog-bsod-problems/"><u>Driver Update Fixes Persistent Watchdog BSOD Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-tips-for-correcting-your-hp-monitors-drivers-in-various-windows-versions/"><u>Expert Tips for Correcting Your HP Monitor's Drivers in Various Windows Versions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-win32k-bug-tips-to-combat-windows-boot-crashes/"><u>Fixing the Win32K Bug: Tips to Combat Windows Boot Crashes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-resolving-netwtw04sys-system-bluescreen-on-windows-11/"><u>Guide to Resolving 'Netwtw04.sys' System Bluescreen on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-and-revitalize-your-pcs-speed-with-these-clever-tricks/"><u>Optimize and Revitalize Your PC's Speed with These Clever Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-to-prevent-recurring-glitches-and-crashes-in-valorant-on-desktop-computers/"><u>Steps to Prevent Recurring Glitches and Crashes in Valorant on Desktop Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-the-dreaded-blue-screen-how-to-fix-storahcisys-issues/"><u>Troubleshoot the Dreaded Blue Screen: How to Fix Storahci.sys Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199728306-solved-bad-system-config-info-blue-screen-error-quickly-and-easily/"><u>[SOLVED] Bad System Config Info Blue Screen Error | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-eye-catching-after-effects-texture-for-2024/"><u>[Updated] Ultimate Guide to Eye-Catching After Effects Texture for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199728268-effortless-fix-for-dpc-watchguard-alert-resolve-the-compliance-mistake-swiftly/"><u>Effortless Fix for DPC Watchguard Alert: Resolve the Compliance Mistake Swiftly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-transcription-applications-the-best-picks-for-2eighteen/"><u>Elite Transcription Applications: The Best Picks for 2Eighteen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-acoustic-depths-a-g533-headset-study/"><u>Exploring the Acoustic Depths: A G533 Headset Study</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199737545-how-to-fix-the-bsod-error-code-0xc000021a-in-windows-11-and-8-solutions-inside/"><u>How to Fix the BSOD Error Code 0xC000021A in Windows 11 and 8 - Solutions Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-in-converting-images-to-videos/"><u>In 2024, Best Practices in Converting Images to Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-white-label-microphones-at-a-wallet-wise-wage/"><u>In 2024, White-Label Microphones at a Wallet-Wise Wage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-brand-partnerships-for-youtube-content-creators-for-2024/"><u>Leveraging Brand Partnerships for YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/nmi-hardware-malfunction-bsod-mistake-corrected-a-comprehensive-guide/"><u>NMI Hardware Malfunction BSOD Mistake Corrected - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolution-steps-for-overwatch-players-struggling-with-disabled-push-to-talk-feature/"><u>Resolution Steps for Overwatch Players Struggling With Disabled Push-To-Talk Feature</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-7-memory-error-the-complete-step-by-step-bad-pool-header-fix/"><u>Resolving Windows 7 Memory Error: The Complete Step-by-Step Bad Pool Header Fix</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199718770-spc-uses-statistical-methods-to-monitor-and-control-manufacturing-processes-for-quality-assurance/"><u>SPC Uses Statistical Methods to Monitor and Control Manufacturing Processes for Quality Assurance</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/troubleshooting-common-heart-of-iron-iv-game-crashes-solutions-inside/"><u>Troubleshooting Common Heart of Iron IV Game Crashes - Solutions Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-explores-apples-latest-innovation-an-enchanting-local-ai-imagery-generator-eclipsing-dall-e-top-tech-news/"><u>ZDNet Explores Apple's Latest Innovation: An Enchanting Local AI Imagery Generator Eclipsing DALL-E | Top Tech News</u></a></li>
 </ul></div>
 

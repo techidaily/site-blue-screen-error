@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Bad System Config Info Blue Screen Error | Quickly & Easily!"
-date: 2024-12-18T19:11:00.150Z
-updated: 2024-12-24T17:53:32.532Z
+date: 2025-01-05T20:05:25.137Z
+updated: 2025-01-09T17:01:32.905Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
  If you keep getting blue screens with an**HIDCLASS.SYS** error, don’t worry. It should be pretty easy to fix…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Fixes for HIDCLASS.SYS
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 2. [**Run SFC**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -45,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0f996aabe02.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _ALL_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0f9b2cda8fc.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **HIDCLASS.SYS** BSOD issue has been resolved.
@@ -61,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run SFC
@@ -74,9 +66,17 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0fa680bdd8c.jpg)  
  Click **Yes**   when prompted to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c0fa6f3400a3.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your computer and hopefully the **HIDCLASS.SYS** problem has been fixed.
 
@@ -101,16 +101,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-youtube-pros-creating-an-account-rightly/"><u>[Updated] In 2024, From Zero to YouTube Pros Creating an Account Rightly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-what-are-the-best-websites-to-download-amusing-and-funny-ringtones/"><u>2024 Approved What Are the Best Websites to Download Amusing and Funny Ringtones?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cant-access-psn-services-identifying-if-its-a-global-service-interruption-or-connectivity-snag/"><u>Can't Access PSN Services? Identifying if It's a Global Service Interruption or Connectivity Snag</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-creativity-unleashed-top-montage-apps-for-iphone-android-users/"><u>Digital Creativity Unleashed Top Montage Apps for iPhone, Android Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-overcoming-syntpsys-blue-screens-of-death-on-windows-machines/"><u>Effective Fixes for Overcoming SYNTP.SYS Blue Screens of Death on Windows Machines</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-restoring-core-functionality-in-your-windows-10-pc/"><u>Guide to Restoring Core Functionality in Your Windows 10 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199699843-how-to-address-a-dpc-watchdog-breach-without-delay-solutions-inside/"><u>How to Address a DPC Watchdog Breach Without Delay - Solutions Inside</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-a-blue-screen-of-death-with-stop-code-0x0000007b/"><u>How to Overcome a Blue Screen of Death with STOP Code 0X0000007B</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-of-video-tdr-failures-due-to-atikmpagsys-on-windows-10-step-by-step-solutions/"><u>Mastering the Fix of Video TDR Failures Due to atikmpag.sys on Windows 10: Step-by-Step Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/review-of-the-satechi-qi2-a-game-changing-foldable-stand-with-robust-desktop-performance-in-a-portable-package/"><u>Review of the Satechi Qi2: A Game-Changing Foldable Stand with Robust Desktop Performance in a Portable Package</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-most-popular-stock-photo-meme-and-their-stories-for-2024/"><u>[New] The Most Popular Stock Photo Meme and Their Stories for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-iomgr-violations-in-driververifier-environment/"><u>Fixing Iomgr Violations in DriverVerifier Environment</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-geforce-mx150-driver-updates-for-optimal-windows-performance/"><u>Get the Latest GeForce MX150 Driver Updates for Optimal Windows Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>In 2024, Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-easy-peasy-guide-to-using-ifunnys-meme-app/"><u>In 2024, The Easy-Peasy Guide to Using iFunny's Meme App</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimal-speech-devices-web-based-for-2024/"><u>Optimal Speech Devices, Web-Based for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199709553-solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-tdr-failure-atikmpagsys-on-windows-10-solved/"><u>Video TDR Failure (atikmpag.sys) on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

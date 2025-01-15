@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Repair the Watchdog.sys Crashes Causing BSOD on Your PC
-date: 2025-01-06T20:30:45.719Z
-updated: 2025-01-09T16:07:31.833Z
+date: 2025-01-10T03:19:04.086Z
+updated: 2025-01-15T10:55:28.717Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run SFC and DISM
@@ -46,6 +46,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 **Here is how to run DISM** :
@@ -53,12 +57,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your computer for the change to take effect.
 
@@ -86,7 +90,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
@@ -108,15 +112,7 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
@@ -130,16 +126,20 @@ Here are the steps on how to disable driver integrity checks:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -176,24 +176,17 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-4-ways-to-record-powerpoint-presentation-with-webcam-2023/"><u>[Updated] 4 Ways to Record PowerPoint Presentation with Webcam 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-fee-audio-understanding-tool/"><u>2024 Approved No-Fee Audio Understanding Tool</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y02t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y02T without App | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/1725288902560-iso/"><u>無料のISOマウントツールとして推薦！イメージファイルを簡単に利用可能</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/fresh-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-address-unhandled-exceptions-fixing-kmode-errors-on-win10win11-systems/"><u>How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-irql-not-less-or-equal-error-on-windows-7-solutions-and-explanations/"><u>How to Fix 'IRQL Not Less or Equal' Error on Windows 7 - Solutions and Explanations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-internal-power-malfunction-in-windows-10/"><u>How to Overcome the Internal Power Malfunction in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-drivercorruptedexceptionpool-bugs-in-windows-11-expert-solutions/"><u>How to Resolve DRIVER_CORRUPTED_EXCEPTION_POOL Bugs in Windows 11 - Expert Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphones-mirror-images-in-photos/"><u>In 2024, Mastering iPhone's Mirror Images in Photos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-secrets-to-mastering-photosvideos-in-windows-11/"><u>In 2024, Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-exceptions-on-windows-7-comprehensive-guide/"><u>Resolving System Service Exceptions on Windows 7 - Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-0xc000000e-bsod-a-step-by-step-guide/"><u>Resolving the 0xC000000E BSOD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208484589-reviving-keyboard-vertical-arrow-buttons-expert-solutions-for-you/"><u>Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-the-moment-methods-for-online-audio-recording-for-2024/"><u>[Updated] Capturing the Moment Methods for Online Audio Recording for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-hardware-related-page-corruption-in-windows-11-and-10-systems-solutions-unveiled/"><u>Fixing Hardware-Related Page Corruption in Windows 11 and 10 Systems – Solutions Unveiled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/hal-initialization-failed-in-windows-10-solved/"><u>HAL INITIALIZATION FAILED in Windows 10 [Solved]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-windows-7s-bad-pool-header-tips-and-solutions-that-work/"><u>How to Overcome Windows 7'S Bad Pool Header: Tips & Solutions That Work!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy S23+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y78plus-t1-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y78+ (T1) Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcoming-recurring-team-fortress-2-gameplay-interruptions/"><u>Resolved: Overcoming Recurring Team Fortress 2 Gameplay Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-troubleshooting-steps-for-magic-mouse-malfunctions/"><u>Simple Troubleshooting Steps for Magic Mouse Malfunctions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-correcting-nt-fs-service-failure-leading-to-bsod-on-windows-11/"><u>Step-by-Step Guide: Correcting NT FS Service Failure Leading to BSOD on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990716497-troubleshooting-why-does-my-nox-player-keep-freezing-solve-now/"><u>Troubleshooting: Why Does My Nox Player Keep Freezing? Solve Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a24-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A24 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-your-youtube-potential-expert-tips-on-writing-video-outlines-for-2024/"><u>Unlock Your YouTube Potential Expert Tips on Writing Video Outlines for 2024</u></a></li>
 </ul></div>
 

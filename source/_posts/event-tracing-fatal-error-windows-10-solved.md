@@ -1,7 +1,7 @@
 ---
 title: Event Tracing Fatal Error Windows 10 [SOLVED]
-date: 2025-01-04T19:29:44.286Z
-updated: 2025-01-09T18:44:11.237Z
+date: 2025-01-09T22:45:45.013Z
+updated: 2025-01-14T16:07:27.452Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-47-32.png)
 
  If your Windows PC is running into the blue screen of death with the error code:**CRITICAL\_STRUCTURE\_CORRUPTION** , don’t worry! You’re definitely not the only person to experience this problem. Many Windows 10 users are reporting the very same issue. More importantly, you should be able to fix it pretty easily… (skip to [the fixes](https://tools.techidaily.com/drivereasy/download/) directly).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why do I have the Critical\_Structure\_Corruption blue screen error?
 
@@ -62,16 +66,20 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair Windows OS with Fortect
 
@@ -90,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Perform a clean boot
 
  A clean boot allows your computer to run with the minimum amount of needed programs. It’s a good way to tell whether certain programs are at fault. Here’s how to do it:
@@ -106,35 +110,35 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that triggers the BSOD error, you need to **uninstall** it to avoid game crashing issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Run memory diagnostic tool
 
@@ -160,14 +164,10 @@ thumbnail: https://thmb.techidaily.com/4a802928534c1f510679f7db39aa8757031a3947f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-42-28.png)
 2. On the left side of the pane, click **Windows Logs**  and **System** . Check the mid section for any suspicious event that happens just about the time when the blue screen error occurs. See if certain program is the culprit for your problem.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2019-09-16_16-43-17-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final option
@@ -195,18 +195,16 @@ For more information, please visit the post below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/everaging-costless-methods-for-integrating-videos-into-writing/"><u>[New] Leveraging Costless Methods for Integrating Videos Into Writing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pazera-free-extractor-analysis-the-ultimate-guide-to-2024-sound-freedom/"><u>[New] Pazera Free Extractor Analysis The Ultimate Guide to 2024 Sound Freedom</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-direct-encouraging-content-for-daily-living-vids-for-2024/"><u>[Updated] How to Direct Encouraging Content for Daily Living Vids for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-recognizing-disconnected-social-network/"><u>2024 Approved Recognizing Disconnected Social Network</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-techniques-removing-restrictions-in-windows/"><u>Advanced Techniques: Removing Restrictions in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-remedies-for-kernel-errors-in-windows-11-a-comprehensive-fixed-approach/"><u>Effective Remedies for Kernel Errors in Windows 11: A Comprehensive Fixed Approach</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-ntfssys-system-crash-on-windows-10-essential-troubleshooting-steps/"><u>Fixing 'NTFS.sys' System Crash on Windows 10 - Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bad-pool-header-error-in-windows-7-a-comprehensive-guide/"><u>Fixing the 'Bad Pool Header' Error in Windows 7 – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-download-to-implementation-auto-gpt/"><u>From Download to Implementation: Auto-GPT</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-netwtw04sys-bsod-on-windows-11/"><u>How to Troubleshoot and Repair Netwtw04.sys BSOD on Windows 11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mobile-animation-magic-top-stop-motion-apps-revealed/"><u>New 2024 Approved Mobile Animation Magic Top Stop Motion Apps Revealed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-of-death-error-0x00000133-identification-and-solutions/"><u>Windows 10 Blue Screen of Death Error 0X00000133: Identification and Solutions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199700486-windows-11-crashes-with-driververifierdetectedviolation-heres-your-fix/"><u>Windows 11 Crashes with DRIVER_VERIFIER_DETECTED_VIOLATION? Here's Your Fix!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-comprehensive-look-at-youtube-shorts-template-design/"><u>[New] 2024 Approved A Comprehensive Look at YouTube Shorts Template Design</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-blue-screen-error-0x0000003b-a-comprehensive-guide-to-fixing-the-critical-process-died-issue/"><u>Diagnosing and Resolving Blue Screen Error 0X0000003B - A Comprehensive Guide to Fixing the Critical Process Died Issue</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-bugcodendis-driver-bug-a-complete-fix-manual/"><u>How to Overcome BUGCODE_NDIS Driver Bug: A Complete Fix Manual</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-ntoskrnlexe-blue-screen-of-death-ndissys-troubleshooting-guide/"><u>Resolving ntoskrnl.exe Blue Screen of Death: NDIS.sys Troubleshooting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-oleaut32dll-file-not-detected-a-step-by-step-guide/"><u>Solving the oleaut32.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/top-5-methods-for-moving-videos-from-your-pc-to-ipod-touch-or-iphone/"><u>Top 5 Methods for Moving Videos From Your PC to iPod Touch or iPhone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-poor-connection-quality-message-in-windows-11-resolved/"><u>Troubleshooting the 'Poor Connection Quality' Message in Windows 11 – Resolved</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unearthing-vivas-video-capabilities/"><u>Unearthing Viva's Video Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Addressing and Correcting Bad Pool Header Issues Leading to BSOD on Windows 10
-date: 2025-01-06T20:44:14.640Z
-updated: 2025-01-09T17:57:30.742Z
+date: 2025-01-13T21:01:17.186Z
+updated: 2025-01-15T08:06:41.587Z
 tags:
   - win11
   - win10
@@ -51,19 +51,19 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7beced4710f.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer and keep track of your PC to see if the blue screen and crashing problem gets fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable Fast Startup
@@ -85,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 5. Restart your computer and hopefully the**0x00000019** blue screen issue ceases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows search
@@ -101,29 +101,25 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then copy & paste **services.msc**   into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a13144cf25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Scroll down to**Windows Search** . Then right click on**Windows Search** and click**Stop** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a137e81417.jpg)
 3. Double-click on **Windows Search** . Then in**Startup type:** , choose**Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a145884937.jpg)
 4. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer and check if this **0x00000019 Bad\_Pool\_Header** ever happens again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Memory Diagnostic
 
@@ -137,7 +133,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e83b8a93a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Be sure to**save your work** &**close all apps** on your PC before clicking **Restart now and check for problems (Recommended)** .  
@@ -145,10 +141,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e87a6d482.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failing/failed memory on your RAM. You might have to move to**Fix 5** to get this **0x00000019** (**Bad\_Pool\_Header** ) fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
 
@@ -166,10 +170,6 @@ To do so:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **E**   at the same time, then click **This PC** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4aa7877b6.jpg)
 2. Right-click on **Local Disk** and click **Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click the **Tools** tab > **Check** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
@@ -202,18 +202,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elite-remote-meeting-apps-beyond-zoom/"><u>[New] In 2024, Elite Remote Meeting Apps Beyond Zoom</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-compact-powerful-and-stylish-8-top-5k-monitors/"><u>[Updated] 2024 Approved Compact, Powerful & Stylish #8 Top 5K Monitors</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/5-efficiente-methoden-om-voormalig-verborgen-visuele-inhoud-te-herstellen-op-verscheiden-apparaten/"><u>5 Efficiënte Methoden Om Voormalig Verborgen Visuele Inhoud Te Herstellen Op Verscheiden Apparaten</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-your-way-through-typical-anydesk-troubles-on-windows-os/"><u>Easing Your Way Through Typical AnyDesk Troubles on Windows OS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/efficient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/in-depth-solution-for-handling-unequal-interrupt-request-levels-irql-in-windows-ebitron-how-to-correctly-resolve-irql-errors-on-your-pc-tips-and-techniques-3/"><u>In-Depth Solution for Handling Unequal Interrupt Request Levels (IRQL) in Windows Ebitron: How to Correctly Resolve IRQL Errors on Your PC - Tips and Techniques for Windows 7 Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-your-pcs-apc-index-mismatch-critical-stop-error/"><u>Resolve Your PC's 'APC Index Mismatch' Critical Stop Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-repair-addressing-recurrerence-of-bsod-linked-with-multiple-irp-completion-tasks/"><u>Step-by-Step Repair: Addressing Recurrerence of BSOD Linked with Multiple IRP Completion Tasks</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-crucial-8-criteria-for-choosing-a-superior-cpu-cooler/"><u>The Crucial 8 Criteria for Choosing a Superior CPU Cooler</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-fixing-kernel-security-check-failure-in-windows-11-systems/"><u>Troubleshooting Guide for Fixing 'Kernel Security Check Failure' In Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-techniques-for-overcoming-the-0xc000000e-blue-screen/"><u>Troubleshooting Techniques for Overcoming the 0XC000000E Blue Screen</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit-for-2024/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-makes-an-rtx-card-different-discover-the-innovations-in-nvidias-latest-graphics-cards/"><u>What Makes an RTX Card Different? Discover the Innovations in NVIDIA’s Latest Graphics Cards</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-and-save-your-snapchat-screen-seamlessly/"><u>[Updated] Capture and Save Your Snapchat Screen Seamlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[Updated] In 2024, Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-and-fixing-error-0x00000eb-bsod-solutions/"><u>Expert Tips for Diagnosing and Fixing Error 0X00000eb – BSOD Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-your-pcs-crashes-repair-ntsssys-errors-causing-bsod-on-windows-11/"><u>Fix Your PC's Crashes: Repair NTSS.sys Errors Causing BSOD on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-multiple-irp-complete-issues-leading-to-a-system-crash-on-windows/"><u>How to Correct the 'Multiple IRP Complete' Issues Leading to a System Crash on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixed-remote-gameplay-with-steam-and-windows/"><u>Mastering the Art of Fixed Remote Gameplay with Steam & Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-savvy-constructing-innovative-and-memorable-boomers-for-2024/"><u>SnapChat Savvy Constructing Innovative and Memorable Boomers for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-internal-power-error-on-windows-11/"><u>Solved: Internal Power Error on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-the-bsod-error-linked-to-win3ekfullsys-file/"><u>Step-by-Step Solution for the BSOD Error Linked to Win3eKFull.sys File</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultraportable-microsoft-surface-laptop-go-review-combining-functionality-with-budget-friendly-pricing/"><u>Ultraportable Microsoft Surface Laptop Go Review: Combining Functionality with Budget-Friendly Pricing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unleash-creativity-top-screencast-tools-recommended-by-experts-for-2024/"><u>Unleash Creativity Top Screencast Tools Recommended by Experts for 2024</u></a></li>
 </ul></div>
 

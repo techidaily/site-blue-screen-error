@@ -1,7 +1,7 @@
 ---
 title: "Diagnose & Fix 'Faulty Boot Device' Error Messages on Windows 10: A Comprehensive Guide with Pictures"
-date: 2025-01-05T20:16:49.479Z
-updated: 2025-01-09T19:22:06.985Z
+date: 2025-01-11T05:38:04.744Z
+updated: 2025-01-14T23:02:13.258Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 4. [**Update your BIOS**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for hardware corruption**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Enter Safe Mode with Networking**
 
 [**I’m using Windows 10:**](https://tools.techidaily.com/drivereasy/download/)
@@ -46,12 +42,12 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 3. Repeat **1)** and **2)** until the screen says **Preparing Automatic Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 4. Wait for Windows to finish diagnosing your PC, and click **Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 5. Click **Troubleshoot** .  
@@ -59,15 +55,15 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 6. Click **Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 7. Click **Startup settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 8. Click **Restart** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 9. On your keyboard, press **5**  to enable **Safe Mode with Networking** .  
@@ -83,11 +79,11 @@ If your computer has been hanging on a blue screen with **CLASSPNP.SYS** failed 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60039a0e97b.jpg)
 4. Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Step 2** to troubleshoot the**CLASSPNP.SYS**  blue screen problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair corrupt system files
 
@@ -112,6 +108,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  If you need to proceed with the repair function, you’ll be required to purchase the full version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The full version of Fortect comes with a 60-day money-back guarantee and full custom support. If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact their support team.
 
 4) Restart your computer for the changes to take effect.
@@ -126,11 +126,19 @@ Here’s how to use Fortect to run a Windows repair:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -139,10 +147,6 @@ Here’s how to use Fortect to run a Windows repair:
 5) Check your computer to see if the **CLASSPNP.SYS** **BSOD** problem has been fixed. If yes, then congrats! If the issue still persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -157,15 +161,11 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer hopefully the CLASSPNP.SYS blue screen issue has been fixed. If the problem persists, move on to**Step 4** , below.
@@ -183,7 +183,7 @@ Here’s how to use Fortect to run a Windows repair:
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
@@ -207,15 +207,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4b9164593.jpg)
 3. Click the **Tools** tab > **Check** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdae62513c.jpg)
 4. Click **Scan drive** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdbf4172ec.jpg)
 5. Follow the on-screen instructions for Windows to detect and fix the errors found.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer and see if the CLASSPNP.SYS error has been fixed.
 
@@ -243,17 +243,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>[New] In 2024, Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>[Updated] In 2024, Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus/"><u>Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/audition-the-benefits-of-spotifys-high-end-membership/"><u>Audition the Benefits of Spotify's High-End Membership</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-resolving-internal-system-crashes-from-video-memory-glitches/"><u>Diagnosing and Resolving Internal System Crashes From Video Memory Glitches</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199695598-effortlessly-tackle-hidclasssys-problems-expert-guidance-inside/"><u>Effortlessly Tackle HIDCLASS.SYS Problems – Expert Guidance Inside!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>In 2024, The Ultimate War Strategists' Guide Selecting Top 7 Total War Challenges</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/orange-alert-resolved-expert-fixes-for-the-vibrant-display-issue/"><u>Orange Alert Resolved: Expert Fixes for the Vibrant Display Issue</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1576842-9781459726581-the-worlds-most-mysterious-people/"><u>The World's Most Mysterious People | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-the-bsod-caused-by-a-damaged-pfn-list-in-windows-10/"><u>Troubleshooting Steps for the BSOD Caused by a Damaged PFN List in Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-solving-persistent-sound-issues/"><u>Troubleshooting Windows 10: Solving Persistent Sound Issues</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/uniper-se/"><u>Uniper SE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhancing-audio-quality-on-spotify-quickly-and-safely/"><u>[Updated] In 2024, Enhancing Audio Quality on Spotify Quickly & Safely</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-attempted-switch-failure-in-dpc-issue-for-windows-quick-fix-tips/"><u>Eliminating the 'Attempted Switch Failure in DPC' Issue for Windows - Quick Fix Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-10-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices-for-2024/"><u>From YouTube to High Definition Prime Downloader Choices for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-12-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 12 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-e13-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto E13 Through Google Earth?</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-obs-troubleshooting-eradicating-black-screens-in-live-gaming-broadcasts/"><u>Master OBS Troubleshooting: Eradicating Black Screens in Live Gaming Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-managing-windows-apps/"><u>Mastering the Art of Managing Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/six-secrets-to-temporarily-halt-updates-on-your-pc/"><u>Six Secrets to Temporarily Halt Updates on Your PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-ntfs-file-system-issues-on-windows-10-fix-guide/"><u>Solving NTFS File System Issues on Windows 10 - Fix Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-classpnpsys-issues-solutions-for-windows-11-and-windows/"><u>Troubleshooting Classpnp.sys Issues: Solutions for Windows 11 & Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-resolving-hypervisor-error-bsod-in-windows-11/"><u>Troubleshooting Steps for Resolving Hypervisor Error BSOD in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-steps-for-resolving-windows-10s-unforeseen-store-exception-issue/"><u>Troubleshooting Steps for Resolving Windows 10'S Unforeseen Store Exception Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-the-vgk-system-crash-that-leads-to-a-bsod-interruption/"><u>Understanding and Fixing the VGK System Crash That Leads to a BSoD Interruption</u></a></li>
 </ul></div>
 

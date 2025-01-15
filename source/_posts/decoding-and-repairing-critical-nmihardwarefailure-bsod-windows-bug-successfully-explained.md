@@ -1,7 +1,7 @@
 ---
 title: Decoding and Repairing Critical NMI_HARDWARE_FAILURE BSOD Windows Bug Successfully Explained
-date: 2025-01-05T19:39:39.709Z
-updated: 2025-01-09T20:00:53.885Z
+date: 2025-01-14T06:36:47.391Z
+updated: 2025-01-15T08:40:04.764Z
 tags:
   - win11
   - win10
@@ -40,35 +40,31 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Press **Y**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
 
  5) After the restart, press the **Windows logo key**  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -112,13 +112,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf648ccb5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) See if the **Video Scheduler Internal Error** is fixed now.
 
@@ -130,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
@@ -142,27 +138,31 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When prompted with the confirmation, click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf6de9cff9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Search on the support website of the manufacturer of this device driver, download and install the driver manually.
 
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Work-arounds**
 
@@ -191,22 +191,22 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-photographic-expression-through-snapchat-edits/"><u>[New] Enhancing Photographic Expression Through Snapchat Edits</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-11/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-this-weeks-hot-tiktok-trends-for-you-for-2024/"><u>[Updated] This Week’s Hot TikTok Trends for You for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-youtube-soundtracks-on-iphone-with-these-6-choices/"><u>[Updated] Transform YouTube Soundtracks on iPhone with These 6 Choices</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1-comment-eliminer-definitivement-un-fichier-de-cle-usb/"><u>1. Comment Éliminer Définitivement Un Fichier De Clé USB ?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gently-introducing-scene/"><u>2024 Approved Gently Introducing Scene</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-solution-how-to-stop-windows-7-from-frequent-freezing-full-step-by-step-tutorial/"><u>Complete Solution: How to Stop Windows 7 From Frequent Freezing - Full Step-by-Step Tutorial</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-fixed-bugcodendis-drivers-issue/"><u>Effective Solutions for the Fixed BUGCODE_NDIS Drivers Issue</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-imagery-with-a-track-discover-the-top-5-photo-experts-with-musical-accompaniment/"><u>In 2024, Capturing Imagery with a Track Discover the Top 5 Photo Experts with Musical Accompaniment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/nine-superior-puzzle-games-on-non-networked-android-for-2024/"><u>Nine Superior Puzzle Games on Non-Networked Android for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-windows-blue-screen-of-death-fixing-watchdogsys-crashes/"><u>Overcoming Windows Blue Screen of Death: Fixing watchdog.sys Crashes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-tcpipsys-bsod-error-in-windows-10-7-and-8/"><u>Solving the 'tcpip.sys' BSOD Error in Windows 10, 7 & 8</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-cancel-free-driver-deactivation-during-active-tasks-problem-solved/"><u>The Ultimate Guide to Cancel-Free Driver Deactivation During Active Tasks - Problem Solved!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-k11x-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo K11x Android SIM Unlock APK</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-netwtw04sys-bsod-error-in-windows-10/"><u>Troubleshooting the 'Netwtw04.sys' BSOD Error in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-system-service-exception-error-solution-step-by-step-guide-to-fix-it-now/"><u>Windows 7 'System Service Exception' Error [SOLUTION]: Step-by-Step Guide to Fix It Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/udio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[New] Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-fast-techniques-for-reordering-youtube-video-queues/"><u>[Updated] In 2024, Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-make-facebook-videos-extend-the-wallpaper/"><u>[Updated] In 2024, Make Facebook Videos Extend the Wallpaper</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-fix-live-video-interrupted-on-facebook/"><u>2024 Approved How to Fix Live Video Interrupted on Facebook?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed/"><u>2024 Approved Perfect Images with Frames Best Sites and Tools of 2023 Reviewed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-steps-correcting-the-notorious-nvpcfsys-blue-screen-error/"><u>Comprehensive Steps: Correcting the Notorious NVPCF.SYS Blue Screen Error</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-system-ready-asus-dvd-driver-installation-made-simple/"><u>Get Your System Ready: ASUS DVD Driver Installation Made Simple</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-resolve-an-apc-index-mismatch-error-causing-a-blue-screen/"><u>How to Correctly Resolve an APC Index Mismatch Error Causing a Blue Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-s23-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel S23</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/internal-power-issue-resolved-in-windows-10-fix-guide/"><u>Internal Power Issue Resolved in Windows 10 - Fix Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-windows-a-comprehensive-guide-to-addressing-attempted-switch-from-dpc-issues/"><u>Mastering Windows: A Comprehensive Guide to Addressing Attempted Switch From DPC Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-the-critical-process-died-blue-screen-of-death-on-windows-11/"><u>Resolved: How to Fix the 'Critical Process Died' Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-vgksys-system-failure-errors-on-windows-computers/"><u>Step-by-Step Solutions for VGK.SYS System Failure Errors on Windows Computers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199714649-troubleshooting-and-repairing-bad-pool-header-on-windows-versions-tutorials-available/"><u>Troubleshooting and Repairing 'Bad Pool Header' On Windows Versions - Tutorials Available!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-fixing-the-pfn-list-is-corrupt-problem-and-ending-blue-screen-of-death-bsod-in-windows-10/"><u>Ultimate Guide: Fixing the 'PFN List Is Corrupt' Problem and Ending Blue Screen of Death (BSOD) in Windows 10</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-1111hddpc/"><u>Windows 11/11時代の旧HDDを最新PCにスムーズに移行 - 添付ガイド</u></a></li>
 </ul></div>
 

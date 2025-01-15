@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing the Blue Screen Error (0X00000124) on Your Windows PC
-date: 2025-01-05T19:31:42.187Z
-updated: 2025-01-09T16:34:39.694Z
+date: 2025-01-09T06:25:37.081Z
+updated: 2025-01-15T13:50:55.697Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
  You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and[restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Check for possible system file and hard drive corruption**
@@ -43,21 +43,17 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
@@ -68,23 +64,19 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer so Windows will perform a hard disk check.
 
  5) After the restart, press the **Windows logo key**  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
@@ -106,11 +98,19 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
 
@@ -134,21 +134,21 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
@@ -191,20 +191,14 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fixing-inaccurate-avatar-showcasing-in-fb-messages/"><u>[Updated] In 2024, Fixing Inaccurate Avatar Showcasing in FB Messages</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-pinnacle-of-plot-construction-the-worlds-best-8-academies-for-2024/"><u>[Updated] Pinnacle of Plot Construction – The World's Best 8 Academies for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/dealing-with-blue-screen-errors-caused-by-win32ksys-in-windows-systems/"><u>Dealing with Blue Screen Errors Caused by Win32k.sys in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-network-service-issues-causing-blue-screen-in-win11/"><u>Diagnosing & Correcting 'NETWORK SERVICE' Issues Causing Blue Screen in Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code43/"><u>Fix Windows 11 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find X6 phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-game-capture-software-analysis-obs-vs-shadowplay/"><u>In 2024, Game Capture Software Analysis OBS vs ShadowPlay</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-challenges-in-driver-unloading-with-incomplete-operations-a-successful-fix/"><u>Overcoming Challenges in Driver Unloading with Incomplete Operations – A Successful Fix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reinstating-legacy-windows-photo-viewer-feature-for-w10-for-2024/"><u>Reinstating Legacy Windows Photo Viewer Feature for W10 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-applications-ensuring-authenticity-in-student-work/"><u>Top 4 AI Detection Applications: Ensuring Authenticity in Student Work</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/form-videos-with-these-premium-free-sound-options/"><u>Transform Videos with These Premium, Free Sound Options</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-critical-pnp-detected-issues-on-windows-11-systems/"><u>Troubleshooting and Fixing Critical 'PNP Detected' Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-windows-10-blue-screen-error-solved/"><u>UNMOUNTABLE_BOOT_VOLUME Windows 10 Blue Screen Error [Solved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199734457-windows-10-bluestack-fix-guide-resolving-unmountablebootvolume-issues-successfully/"><u>Windows 10 Bluestack Fix Guide: Resolving UNMOUNTABLE_BOOT_VOLUME Issues Successfully</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-inaccessible-boot-device-bsod-issue-resolve-it-quickly-visuals/"><u>Windows 10 Inaccessible Boot Device BSOD Issue - Resolve It Quickly [Visuals]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-cmusbdacsys-blue-screen-of-death-in-windows/"><u>[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ioss-finest-virtual-ps2-games-for-2024/"><u>[New] IOS's Finest Virtual PS2 Games for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-mac-exclusive-free-drawing-platforms-for-2024/"><u>[Updated] Top 10 Mac-Exclusive Free Drawing Platforms for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/achieve-perfect-mobile-display-with-your-converters-book-on-flipbuildercom-step-by-step-tips-and-tricks/"><u>Achieve Perfect Mobile Display with Your Converters' Book on FlipBuilder.com - Step-by-Step Tips and Tricks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/achieving-pristine-soundtracks-effortless-noise-suppression-in-audacity-and-filmorapro-for-2024/"><u>Achieving Pristine Soundtracks Effortless Noise Suppression in Audacity and FilmoraPro for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-the-storportsys-blue-screen-of-death-under-windows-1nk-system/"><u>Diagnosing and Repairing the storport.sys Blue Screen of Death Under Windows 1Nk System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-s23plus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Itel S23+ Phones</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-pc-error-0xc0000017-essential-steps-for-successful-system-repair/"><u>RESOLVED: PC Error 0Xc0000017 - Essential Steps for Successful System Repair</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "End the Blue Screen Chaos: Expert Solutions to Troubleshoot Error 0xC000021A in Windows 11 and 8"
-date: 2025-01-05T20:45:37.539Z
-updated: 2025-01-09T19:02:12.920Z
+date: 2025-01-09T17:36:25.365Z
+updated: 2025-01-15T01:16:31.448Z
 tags:
   - win11
   - win10
@@ -44,19 +44,15 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfebf6571e.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** You can do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cffe964db3.jpg)
-
- Restart your computer to see if the error disappear. If yes, so great! If you still see the error, don’t give up hope, you have something else to try…
-
----
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your computer to see if the error disappear. If yes, so great! If you still see the error, don’t give up hope, you have something else to try…
+
+---
 
 ### Solution 2: Check for memory problems
 
@@ -71,6 +67,10 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0065d2532.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows should then automatically check for memory problems once your computer restarts.
 
  As soon as Windows completes the process, your computer will restart again. Check if the blue screen error disappears.
@@ -78,7 +78,7 @@ Here’s how you can do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solutions 3: Restore your system
@@ -93,11 +93,11 @@ See how to do it:
 3. Click**Next** to restore your system to the recommended previous state. Or you can select**Choose a different restore point** to view more restore points.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d00d8b78f7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Follow the the on-screen instructions to complete system restore.
@@ -122,22 +122,24 @@ Follow the the on-screen instructions to complete system restore.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-transform-viewing-habits-the-top-6-choices-for-cost-free-and-online-short-film-downloads/"><u>[New] 2024 Approved Transform Viewing Habits The Top 6 Choices for Cost-Free & Online Short Film Downloads</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-find-your-perfect-match-the-top-10-online-converters-list/"><u>[New] Find Your Perfect Match The Top 10 Online Converters List</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-asus-keyboard-backlight-not-working/"><u>[SOLVED] ASUS Keyboard Backlight Not Working</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-iphones-hdr-a-photography-essential/"><u>[Updated] 2024 Approved Mastering iPhone's HDR A Photography Essential</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-traffic-cams-for-superior-vehicle-tracking/"><u>[Updated] In 2024, Top 10 Traffic Cams for Superior Vehicle Tracking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-methods-for-turning-youtube-videos-into-mpegs/"><u>[Updated] Prime Methods for Turning YouTube Videos Into MPEGs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/complete-guide-on-resolving-kernel-memory-glitches-leading-to-blue-screens-step-by-step-repair-tutorial/"><u>Complete Guide on Resolving Kernel Memory Glitches Leading to Blue Screens - Step by Step Repair Tutorial</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-overcome-and-prevent-volsnapsys-bsod-in-your-windows-operating-system/"><u>Effective Strategies to Overcome and Prevent Volsnap.sys BSOD in Your Windows Operating System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-correcting-the-windows-10-blue-screen-glitches-post-software-enhancement/"><u>Guide: Correcting the Windows 10 Blue Screen Glitches Post-Software Enhancement</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-i-fixed-the-persistent-dpc-to-windows-error-step-by-step-guide/"><u>How I Fixed the Persistent 'DPC to Windows' Error - Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722891083973-mastering-network-diagnostics-a-guide-to-using-tracert-on-windows/"><u>Mastering Network Diagnostics: A Guide to Using 'Tracert' On Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ntoskrnlexe-bluestack-errors-solved-tips-for-preventing-system-failures-on-windows/"><u>NTOSKRNL.EXE Bluestack Errors Solved: Tips for Preventing System Failures on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/organize-email-like-a-pro-with-this-simple-trickno-need-for-complex-rules-or-separate-accounts-zdnet/"><u>Organize Email Like a Pro with This Simple Trick—No Need for Complex Rules or Separate Accounts | ZDNET</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-resolve-syntpsys-blue-screen-errors-in-windows-systems/"><u>Troubleshoot and Resolve SYNTP.SYS 'Blue Screen' Errors in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-resolving-critical-process-died-and-preventing-bsod-on-windows-10-systems/"><u>Troubleshooting Tips for Resolving Critical Process Died and Preventing BSOD on Windows 10 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/untangling-the-complexities-of-iastorasys-related-bsod-effective-solutions-and-prevention-tips/"><u>Untangling the Complexities of IaStora.sys-Related BSOD: Effective Solutions and Prevention Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-pnpdetectedfatalerror-error-on-windows-11/"><u>[Fixed] PNP_Detected_Fatal_Error Error on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effective-strategies-for-utilizing-telegram-desktop-features/"><u>[New] Effective Strategies for Utilizing Telegram Desktop Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unravel-time-on-your-mobile-screen-with-videos-for-2024/"><u>[New] Unravel Time on Your Mobile Screen with Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-personal-drones-that-perfectly-trace-their-owners-path/"><u>[Updated] In 2024, Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gr44gc44kl5yuv55qe44kq44o844oh44kj44kq6kab57sg44ks5oq95ye644o75lplusd5a2y44gz44kl5yw35l2t55qe5pa55rov44cn/"><u>「インターネットにある動的オーディオ要素を抽出・保存する具体的方法」</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-process-died-blue-screen-of-death-on-windows-11/"><u>Fixing the 'Critical Process Died' Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-the-security-check-violation-on-your-windows-am-ensuring-system-stability-and-security/"><u>Guide to Correcting the 'Security Check Violation' On Your Windows Am, Ensuring System Stability and Security</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-the-critical-error-0x000000ea-a-step-by-step-guide/"><u>How to Overcome the Critical Error 0X000000EA - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-windows-10-device-driver-hanging-issue-quickly-and-effectively/"><u>How to Resolve 'Windows 10 Device Driver Hanging' Issue Quickly & Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamers-dilemma-is-vlc-superior-to-mpc/"><u>In 2024, Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/increase-snapshot-size-no-quality-compromise/"><u>Increase Snapshot Size - No Quality Compromise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-savings-insiders-list-of-best-deals-pre-prime-day-2-curated-by-tech-experts-at-zdnet/"><u>Maximize Savings: Insider's List of Best Deals Pre-Prime Day 2# - Curated by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-classpnpsys-compatibility-problems-in-windows-117-fixed/"><u>Overcoming CLASSPNP.SYS Compatibility Problems in Windows 11/7 [FIXED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-safe-termination-of-drives-while-preserving-ongoing-tasks/"><u>Resolved: Safe Termination of Drives While Preserving Ongoing Tasks</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-steps-creating-a-quick-and-easy-system-backup-on-windows-11-8-or-7-using-free-software/"><u>Simple Steps: Creating a Quick & Easy System Backup on Windows 11, 8 or 7 Using Free Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/steps-to-fix-cmusbdacsys-related-bluescreen-of-death-errors-in-microsoft-windows/"><u>Steps to Fix 'CMUSBDAC.sys' Related Bluescreen of Death Errors in Microsoft Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-whea-watchdog-hardware-exception-tips-for-correction/"><u>Troubleshooting WHEA (Watchdog Hardware Exception) - Tips for Correction</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-doesnt-my-laptop-touchpad-scroll-properly-on-windows-10-solutions-inside/"><u>Why Doesn't My Laptop Touchpad Scroll Properly on Windows 10? Solutions Inside!</u></a></li>
 </ul></div>
 

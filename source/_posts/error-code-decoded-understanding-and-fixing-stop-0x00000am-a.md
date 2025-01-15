@@ -1,7 +1,7 @@
 ---
 title: Error Code Decoded - Understanding and Fixing Stop 0X00000am A
-date: 2025-01-07T19:46:48.424Z
-updated: 2025-01-09T17:25:56.415Z
+date: 2025-01-11T01:56:46.225Z
+updated: 2025-01-14T21:35:57.023Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
  If this is the very first time you had such a problem, and you’ve recently added certain hardware or installed some programs to your computer, they might be the culprit. You may need to remove or uninstall them completely from your PC.
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2\. Rum Memory Diagnose and Disk Check**
 
@@ -57,33 +49,45 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -130,18 +130,14 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-convincing-openers-stellar-podcast-entries/"><u>[Updated] Convincing Openers Stellar Podcast Entries</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-creative-filters-in-zoom-calls/"><u>2024 Approved Integrating Creative Filters in Zoom Calls</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/das-geheimnis-des-sicheren-datenloschens-entsorgung-der-dokumente-mit-strgplusz-lerne-die-vier-schritte-zur-wiederherstellung/"><u>Das Geheimnis Des Sicheren Datenlöschens: Entsorgung Der Dokumente Mit Strg+Z - Lerne Die Vier Schritte Zur Wiederherstellung</u></a></li>
-<li><a href="https://video-capture.techidaily.com/guide-accessing-premium-lossless-anime-audio-files-for-free-in-flac-extension/"><u>Guide: Accessing Premium Lossless Anime Audio Files for Free in .FLAC Extension</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-11/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-dxgkrnlsys-bsod-error-in-your-windows-system/"><u>How to Recover From 'dxgkrnl.sys' BSOD Error in Your Windows System</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide/"><u>In 2024, Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-tdr-problems-with-atikmpagsys-in-windows-11/"><u>Step-by-Step Guide to Correcting TDR Problems with atikmpag.sys in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-fat-drive-issues-on-windows-10/"><u>Troubleshooting and Repairing FAT Drive Issues on Windows 10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/shing-your-musical-voice-a-compree-play-by-play-guide-for-youtube-playlist-crafting/"><u>Unleashing Your Musical Voice A Compree Play-by-Play Guide for YouTube Playlist Crafting</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726226894145-5/"><u>다음해 위태로운 풍선 사진 콜라를 만드는 것을 위한 편리한 5가지 방법: 도움말</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-easy-to-use-tiktok-video-to-mp4-tool/"><u>[Updated] 2024 Approved Easy-to-Use TikTok Video to MP4 Tool</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>[Updated] 2024 Approved IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pixelpunmatic-device/"><u>[Updated] 2024 Approved PixelPunmatic Device</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-sub4sub-really-enhance-viewing-experience-for-2024/"><u>Can YouTube Sub4Sub Really Enhance Viewing Experience for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-sudden-kernel-error-leading-to-bsods-on-your-windows-10-machine/"><u>How to Address the Sudden Kernel Error Leading to BSODs on Your Windows 10 Machine</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-memory-management-blue-screen-of-death-in-windows-11/"><u>Resolving 'Memory Management' Blue Screen of Death in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-persistent-blue-screen-caused-by-volsnapsys-in-windows-environments/"><u>Step-by-Step Fixes for the Persistent Blue Screen Caused by Volsnap.sys in Windows Environments</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-instructions-correcting-the-cmusbdacsys-issue-leading-to-blue-screen-in-windows/"><u>Step-by-Step Instructions: Correcting the CMUSBDAC.sys Issue Leading to Blue Screen in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-understanding-and-leveraging-instagrams-reels-for-2024/"><u>The Ultimate Guide to Understanding and Leveraging Instagram's Reels for 2024</u></a></li>
 </ul></div>
 

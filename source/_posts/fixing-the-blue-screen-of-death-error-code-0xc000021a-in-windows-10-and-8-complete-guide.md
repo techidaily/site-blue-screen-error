@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide
-date: 2025-01-08T19:20:57.911Z
-updated: 2025-01-09T17:04:22.389Z
+date: 2025-01-08T21:49:43.588Z
+updated: 2025-01-15T01:36:05.435Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/1acb8c811dd75a749590a9459a8ce73dd17ec95c9
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update all your available drivers
@@ -48,7 +48,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -63,12 +63,16 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-17.jpg)
 4. Now Windows will check the memory automatically. Wait till the testing 100% completes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
 After the testing, Windows will restart automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
@@ -95,9 +99,17 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -122,10 +134,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -140,19 +148,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -185,17 +185,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-vlog-glow-achieving-professional-video-setup/"><u>[New] In 2024, Vlog Glow Achieving Professional Video Setup</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-video-productions-15-top-tier-free-music-websites-for-2024/"><u>[Updated] Elevate Your Video Productions 15 Top-Tier Free Music Websites for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-with-ez-grabber/"><u>2024 Approved Streamline Your Workflow with EZ Grabber</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199747833-fix-windows-10-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 10 Thread Stuck in Device Driver Error. Easily</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-kernel-level-heap-overflows-solutions-and-techniques/"><u>Fixing Kernel-Level Heap Overflows: Solutions and Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-blue-screen-errors-caused-by-ntkrnlmpexe-in-windows/"><u>How to Stop Blue Screen Errors Caused by ntkrnlmp.exe in Windows</u></a></li>
-<li><a href="https://win-bits.techidaily.com/improving-your-print-quality-issues-solutions-by-yl-software-experts/"><u>Improving Your Print Quality Issues - Solutions by YL Software Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nokia-c210-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nokia C210</u></a></li>
-<li><a href="https://howto.techidaily.com/rust/live-server/"><u>Live Server</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-storage-errors-on-windows-11-tackling-the-fat-file-system-failures/"><u>Overcoming Storage Errors on Windows 11: Tackling the FAT File System Failures</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-irql-not-less-or-equal-errors-in-windows-7-a-comprehensive-guide/"><u>Resolving IRQL Not Less or Equal Errors in Windows 7 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-comprehensive-starter-guide-effortless-method-of-moving-information-between-two-iphones/"><u>Ultimate Comprehensive Starter Guide: Effortless Method of Moving Information Between Two iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-mac-toolkit-comprehensive-screen-and-voice-logging/"><u>[New] 2024 Approved Ultimate Mac Toolkit Comprehensive Screen & Voice Logging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-zooms-best-audio-practices-2-simple-steps-to-enhanced-quality-for-2024/"><u>[Updated] Zoom's Best Audio Practices 2 Simple Steps to Enhanced Quality for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/87/"><u>87</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/zoom2/"><u>完全ガイド：Zoomビデオ会議におすすめの2つのレコーディング方法📹 |高画質動画作成</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-configuring-logitech-mx-master-for-optimal-performance/"><u>Comprehensive Tutorial: Configuring Logitech MX Master for Optimal Performance</u></a></li>
+<li><a href="https://network-issues.techidaily.com/device-repair-error-43-settled/"><u>Device Repair: Error 43 Settled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-fix-faulty-boot-device-error-messages-on-windows-10-a-comprehensive-guide-with-pictures/"><u>Diagnose & Fix 'Faulty Boot Device' Error Messages on Windows 10: A Comprehensive Guide with Pictures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199738605-driver-protection-oversight-rectified-no-more-blue-screens-of-death/"><u>Driver Protection Oversight Rectified – No More Blue Screens of Death</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-the-persistent-0x00000124-blue-screen-error-solutions-for-win10-and-win7-users/"><u>Eliminating the Persistent 0X00000124 Blue Screen Error: Solutions for Win10 & Win7 Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/high-quality-audi-r8-hd-desktop-wallpapers-and-screen-savers-premium-digital-art-by-yl-computing/"><u>High-Quality Audi R8 HD Desktop Wallpapers & Screen Savers - Premium Digital Art by YL Computing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Pro Max from iCloud</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-kernel-level-heap-damage-strategies-for-preventing-system-crashes/"><u>Overcoming Kernel-Level Heap Damage: Strategies for Preventing System Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-iomanager-violation-fixed-driver-verifier-issues-resolved/"><u>Resolved: I/OManager Violation Fixed - Driver Verifier Issues Resolved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199715571-solving-the-puzzle-of-device-driver-errors-on-windows-11-fast-effective-strategies/"><u>Solving the Puzzle of Device Driver Errors on Windows 11 – Fast, Effective Strategies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-strategies-to-repair-the-syntpsys-blue-screen-error-in-windows/"><u>Step-by-Step Strategies to Repair the SYNTP.SYS Blue Screen Error in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-rated-gamer-audio-setup-now-over-28-cheaper-on-amazon-exclusive-review-from-zdnet/"><u>Unbeatable Deal Alert: Top Rated Gamer Audio Setup Now Over 28% Cheaper on Amazon - Exclusive Review From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-the-full-screen-potential-of-fb-videos-for-2024/"><u>Unlocking the Full Screen Potential of FB Videos for 2024</u></a></li>
 </ul></div>
 

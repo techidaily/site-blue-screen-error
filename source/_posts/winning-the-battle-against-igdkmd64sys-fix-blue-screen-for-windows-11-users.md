@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against IGDKMD64.sys - Fix Blue Screen for Windows 11 Users
-date: 2025-01-06T17:37:06.214Z
-updated: 2025-01-09T19:30:48.533Z
+date: 2025-01-09T16:34:20.882Z
+updated: 2025-01-14T21:14:11.079Z
 tags:
   - win11
   - win10
@@ -34,15 +34,15 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 **TDR** stands for **Timeout** , **Detection** , and **Recovery** components in Windows. If you’re seeing this notification, the most likely reason is that your graphics card driver stops responding. Windows might stop and restart the driver to fix the problem. You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and[restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1: Run System File Checker**
 
  Corrupted or faulty system files could be the lead cause of a Video TDR Failure error. You can run System File Checker to help you fix it: 1) On you keyboard, press the **Windows logo key** and **S** at the same time, type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de41231e7e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **sfc/ scannow** and press **Enter** .
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a90fde1afee.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand **Display adapters** . Right-click your Intel Graphics card device driver and click **Properties** .
@@ -68,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a910633218b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer after this change. If the **Roll Back Driver** option here is grey like the following screen shot, skip to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578ded4881db6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3: Uninstall or disable graphics card driver**
 
@@ -87,26 +87,26 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91255c707f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If the problem persists, go back to **step 2)** and click **Uninstall device** this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9120f950a7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tick the box for **Delete the driver software for this device** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9127db1094.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Update video card driver**
 
@@ -122,13 +122,13 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged Intel graphics card driver to automatically download and install the correct version of that driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-intel-xe-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5: Repair corrupted system files with Fortect
 
@@ -166,16 +166,19 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android/"><u>[New] A Detailed Guidance How To Add Custom Ringtones And Sounds To Your Android?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[New] In 2024, How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-scripted-to-spontaneous-elevating-reactions-for-youtube-success-3-steps/"><u>[Updated] 2024 Approved From Scripted to Spontaneous Elevating Reactions for YouTube Success (3 Steps)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-m1-dominance-video-editors-rejoice-in-seamless-experience/"><u>[Updated] M1 Dominance Video Editors Rejoice in Seamless Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-video-spin-what-causes-it/"><u>2024 Approved Instagram's Video Spin What Causes It?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/arvato-systems/"><u>Arvato Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-inaccessible-boot-device-blue-screen-error-on-windows-11-a-visual-guide/"><u>Solving 'Inaccessible Boot Device' Blue Screen Error on Windows 11: A Visual Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-fixing-io-manager-and-driver-verifier-conflicts/"><u>Troubleshooting Guide: Fixing IO Manager and Driver Verifier Conflicts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-acpisys-error-on-windows-11-step-by-step-guide/"><u>Troubleshooting the acpi.sys Error on Windows 11 – Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-fixing-fatal-errors-in-pnp-detection-on-windows-11/"><u>Troubleshooting Tips for Fixing Fatal Errors in PNP Detection on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-gently-reducing-sound-levels-in-operating-systems/"><u>[Updated] 2024 Approved Gently Reducing Sound Levels in Operating Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-idea-infringement-instant-video-ban/"><u>[Updated] Idea Infringement Instant Video Ban</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-precision-photography-leading-tripods-for-smartphones-for-2024/"><u>[Updated] Precision Photography Leading Tripods for Smartphones for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-new-era-of-capturing-screens-camstudio-2023-reviewed/"><u>A New Era of Capturing Screens? CamStudio 2023 Reviewed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-the-persistent-bsod-caused-by-nvpcfsys-file/"><u>Diagnose and Repair the Persistent BSoD Caused by nvpcf.sys File</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-printer-settings-on-windows-11/"><u>How to Bypass Printer Settings on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-recover-from-a-crash-in-your-amd-graphics-control-panel-wattman/"><u>How to Recover From a Crash in Your AMD Graphics Control Panel (WattMan)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/quick-and-easy-m4a-to-wav-file-conversion-get-started-with-movavis-free-service-now/"><u>Quick and Easy M4A to WAV File Conversion - Get Started With Movavi's Free Service Now!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/reviving-your-device-solutions-to-the-notorious-orange-screen-dilemma/"><u>Reviving Your Device: Solutions to the Notorious Orange Screen Dilemma</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-post-update-bluescreen-issue-on-windows-10/"><u>Solving the Post-Update Bluescreen Issue on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-inaccessiblebootdrive-stop-error-code-0x0000013-on-windows-10/"><u>Step-by-Step Fixes for the Inaccessible_Boot_Drive Stop Error (Code 0X000001#3) on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3-for-2024/"><u>Three Safe Methods for Directly Downloading YouTube's Audios as MP3 for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-driver-corrupted-expool-bugs-in-windows-11-top-fixes-revealed/"><u>Troubleshoot DRIVER CORRUPTED EXPOOL Bugs in Windows 11 – Top Fixes Revealed</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unlock-swift-resolutions-for-the-notorious-hidclasssys-glitch/"><u>Unlock Swift Resolutions for the Notorious HIDCLASS.SYS Glitch</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Driver Verifier Causing BSOD on Windows 10 – Problem Solved
-date: 2025-01-07T19:40:34.372Z
-updated: 2025-01-09T16:44:30.423Z
+date: 2025-01-14T09:51:07.182Z
+updated: 2025-01-14T23:35:14.474Z
 tags:
   - win11
   - win10
@@ -33,19 +33,15 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -87,7 +83,11 @@ Then Windows will search the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
@@ -101,21 +101,21 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a7520322e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
  The BSOD error should be solved, but if not, go on to follow the steps below to reset the verifier.
@@ -149,22 +149,18 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-due-to-tcpipsys-glitches-solutions-for-windows-11-7-and-8-users/"><u>Blue Screen of Death Due to TCP/IP.sys Glitches – Solutions for Windows 11, 7 & 8 Users</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easily-access-contents-of-zip-files-with-windows-tools-tips-from-yl-computing/"><u>Easily Access Contents of ZIP Files with Windows Tools - Tips From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-magic-5-lite-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor Magic 5 Lite in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-stop-noexecute-attempts-in-windows-systems/"><u>Effective Solutions to Stop Noexecute Attempts in Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminating-blue-screen-frustrations-expert-tips-for-restoring-stability-to-windows-eight-systems/"><u>Eliminating Blue Screen Frustrations: Expert Tips for Restoring Stability to Windows Eight Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-understanding-and-choosing-the-right-enterprise-search-solution/"><u>Essential Guide: Understanding and Choosing the Right Enterprise Search Solution</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-fix-blue-screen-of-death-from-driver-overrun-errors/"><u>Expert Tips to Fix Blue Screen of Death From Driver Overrun Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-error-code-0xc000021a-in-windows-10-and-8-complete-guide/"><u>Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-netwtw04sys-error-and-stop-bluescreen-in-windows-11/"><u>How to Resolve the 'Netwtw04.sys' Error and Stop Bluescreen in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>In 2024, PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17 Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/no-more-blue-screens-ultimate-fixes-for-the-notorious-volsnapsys-error-on-windows-machines/"><u>No More Blue Screens: Ultimate Fixes for the Notorious Volsnap.sys Error on Windows Machines</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1162005-9781577313427-stillness-speaks/"><u>Stillness Speaks | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-16-livres-gravadores-de-video-mais-eficientes-para-o-ano-de-2024/"><u>Top 16 Livres Gravadores De Vídeo Mais Eficientes Para O Ano De 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformer-des-images-raw-en-wmv-pour-free-sur-movavicom-conversion-directe-et-facile/"><u>Transformer Des Images RAW en WMV Pour Free Sur Movavi.com - Conversion Directe Et Facile!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-ease-your-driver-corruptedexpool-error-headache-with-this-proven-fix/"><u>Windows Ease Your 'DRIVER CORRUPTED_EXPOOL' Error Headache with This Proven Fix</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-meets-tiktok-syncing-social-media/"><u>[New] Instagram Meets TikTok Syncing Social Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-dealing-with-dark-video-frames-on-youtube/"><u>[Updated] Strategies for Dealing with Dark Video Frames on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-start-your-affordable-webinar-journey-with-youtube/"><u>2024 Approved Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decode-kernel-mode-buffer-overflows-steps-to-correct-heap-errors-in-operating-systems/"><u>Decode Kernel Mode Buffer Overflows: Steps to Correct Heap Errors in Operating Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/evaluating-photoshop-sway-effective-or-not-in-2024/"><u>Evaluating Photoshop Sway Effective or Not, In 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-netwtw04sys-blue-screen-windows-11/"><u>Fix Netwtw04.sys Blue Screen Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-bsod-error-0x0000001a-step-by-step-solution/"><u>How to Fix Windows BSOD Error 0X0000001A: Step-by-Step Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-sony-xperia-1-v-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Sony Xperia 1 V to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-1/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-internal-error-of-video-schedulers-for-windows-10-users/"><u>Troubleshooting and Fixing the Internal Error of Video Schedulers for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/winning-against-igdkmd64sys-bsod-on-windows-10-effective-troubleshooting-and-repair-techniques/"><u>Winning Against iGDKMD64.sys BSOD on Windows 10: Effective Troubleshooting and Repair Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxvideo-ai-revolutionnez-la-qualite-dimage-en-4k-8k-et-10k-pour-une-restauration-optimale/"><u>Winxvideo AI : Révolutionnez La Qualité D'Image en 4K, 8K Et 10K Pour Une Restauration Optimale</u></a></li>
 </ul></div>
 

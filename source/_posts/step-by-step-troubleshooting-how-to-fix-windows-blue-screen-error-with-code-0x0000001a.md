@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A"
-date: 2025-01-07T20:49:10.363Z
-updated: 2025-01-09T16:01:17.140Z
+date: 2025-01-09T11:32:23.551Z
+updated: 2025-01-15T07:47:04.757Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
  If this is the very first time you had such a problem, and you’ve recently added certain hardware or installed some programs to your computer, they might be the culprit. You may need to remove or uninstall them completely from your PC.
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2\. Rum Memory Diagnose and Disk Check**
 
@@ -49,21 +49,21 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
@@ -74,12 +74,16 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2161cf076.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23f45ec87.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * [Blue Screen](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -130,20 +130,17 @@ thumbnail: https://thmb.techidaily.com/d777e58ef4303b664d35aa15bee22af42d07562b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-prime-choices-purchasing-your-dreams-in-youtube-ringtones/"><u>[New] 2024 Approved Prime Choices Purchasing Your Dreams in YouTube Ringtones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-grandest-picture-tweaker-suite/"><u>[Updated] In 2024, Grandest Picture Tweaker Suite</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/acpisys-in-windows-11-how-to-identify-and-fix-common-problems-quickly/"><u>acpi.sys in Windows 11: How to Identify and Fix Common Problems Quickly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-essential-framework-damage-on-the-latest-windows-operating-system/"><u>Fixing Essential Framework Damage on the Latest Windows Operating System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-failed-hardware-abstraction-layer-hal-start-up-issue-in-windows-10/"><u>Fixing the Failed Hardware Abstraction Layer (HAL) Start-Up Issue in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-blue-screen-of-death-in-windows-7/"><u>How to Fix Blue Screen of Death in Windows 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-manage-a-roku-television-using-non-traditional-methods/"><u>How To Manage A Roku Television Using Non-Traditional Methods</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-infinix-hot-30-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix Hot 30 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sierra-unlocking-all-access-to-icloud-files-and-desktop/"><u>Sierra Unlocking All Access to iCloud Files and Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-persistent-stalling-issues-in-age-of-wonders-planetfall-for-windows-users/"><u>Solving Persistent Stalling Issues in 'Age of Wonders: Planetfall' For Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-s18-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo S18 Pro Device</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-the-notorious-stop-error-0x00000050-in-windows-7-easily/"><u>Troubleshoot and Repair the Notorious Stop Error 0X00000050 in Windows 7 Easily</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooted-essential-steps-to-fix-your-pc-needs-to-be-repaired-code-0xc0000017-explained/"><u>TROUBLESHOOTED: Essential Steps to Fix 'Your PC Needs To Be Repaired' - Code 0xC0000017 Explained</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-guide-resolving-the-0xc000000e-system-failure/"><u>Ultimate Guide: Resolving the 0xC000000E System Failure</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-connecting-with-real-time-tiktoks-practical-guide/"><u>[New] Connecting with Real-Time TikToks Practical Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-future-is-here-free-innovative-fb-story-enhancers/"><u>[Updated] In 2024, The Future Is Here Free, Innovative FB Story Enhancers</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-installation-process-via-registry/"><u>Altering Windows Installation Process via Registry</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/complete-fix-for-hypervisor-error-causing-blue-screen-of-death-on-windows-11-expert-advice/"><u>Complete Fix for HYPERVISOR ERROR Causing Blue Screen of Death on Windows 11 - Expert Advice</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-kernel-mode-violations-the-pool-header-blue-screen-of-death-on-windows-11/"><u>Diagnosing and Repairing Kernel-Mode Violations: The Pool Header Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-engagement-uploading-and-sharing-on-instagram-desktop/"><u>In 2024, Boosting Engagement Uploading and Sharing on Instagram Desktop</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/regulatory-standards-and-policies-for-digital-currencies-by-yl-software/"><u>Regulatory Standards and Policies for Digital Currencies by YL Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-fixes-for-the-persistent-thread-blocked-by-windows-driver-in-win-10/"><u>Simple Fixes for the Persistent Thread Blocked by Windows Driver in Win 10</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-adjusting-your-network-preferences-with-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Network Preferences with YL Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-definitive-fix-guide-for-windows-elusive-error-0x0000000a-blue-screen-challenge/"><u>The Definitive Fix Guide for Windows' Elusive Error 0X0000000A Blue Screen Challenge</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-fixing-sound-stutters-and-distortions-in-windows-11-and-7/"><u>Troubleshooting Audio Glitches: Fixing Sound Stutters & Distortions in Windows 11 and 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199721721-troubleshooting-the-notorious-blue-screen-error-0xc000021a-in-windows-11-and-8-solutions-proven-to-work/"><u>Troubleshooting the Notorious Blue Screen (Error 0xC000021A) in Windows 11 and 8: Solutions Proven to Work</u></a></li>
 </ul></div>
 

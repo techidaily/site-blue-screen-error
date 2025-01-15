@@ -1,7 +1,7 @@
 ---
 title: "Stop Blue Screens: Expert Tips for Fixing 0X000ptr_00000124 on Windows PCs (Win10/Win7)"
-date: 2025-01-06T16:31:21.747Z
-updated: 2025-01-09T20:03:58.131Z
+date: 2025-01-11T23:22:58.096Z
+updated: 2025-01-15T05:08:39.903Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  Don’t panic. Usually this is a driver issue, and it’s easy to solve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Reinstall your graphic card driver](https://tools.techidaily.com/drivereasy/download/)
@@ -33,15 +37,15 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
  Then install the new driver on your Windows 10.
@@ -59,7 +63,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
@@ -69,7 +73,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -84,19 +88,11 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
 
@@ -112,6 +108,10 @@ You need to do these:
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
@@ -149,20 +149,22 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-gpus-elevating-4k-creative-workflows/"><u>[Updated] In 2024, Ultimate GPUs Elevating 4K Creative Workflows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>2024 Approved Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choosing-google-pixel-music-matches-online-for-2024/"><u>Choosing Google Pixel Music Matches Online for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-for-unresolved-kmode-error-codes-on-modern-windows-versions-windows-1011/"><u>Comprehensive Fixes for Unresolved kMODE Error Codes on Modern Windows Versions (Windows 10/11)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decode-the-blue-screen-nightmare-ntoskrnlexe-issues-and-how-to-fix-them-effectively/"><u>Decode the Blue Screen Nightmare: NTOSKRNL.EXE Issues and How to Fix Them Effectively</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-protection-oversight-rectified-no-more-blue-screens-of-death/"><u>Driver Protection Oversight Rectified – No More Blue Screens of Death!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-easily-navigate-to-biosuefi-in-windows-10/"><u>Guide to Easily Navigate to BIOS/UEFI in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-c615-drivers-speedy-and-easy-repair-techniques-revealed/"><u>Logitech C615 Drivers: Speedy & Easy Repair Techniques Revealed</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-fltrmgrsys-blue-screen-of-death-bsod-for-a-smoother-windows-experience/"><u>Overcoming Fltrmgr.sys Blue Screen of Death (BSOD) for a Smoother Windows Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-audio-choice-the-ultimate-10-spotify-tools-for-2024/"><u>Professional Audio Choice The Ultimate 10 Spotify Tools for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-unforeseen-kernel-trapping-and-blue-screen-of-death-in-windows-10/"><u>Troubleshooting Guide for Unforeseen Kernel Trapping and Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukranian-fluency-in-minutes-a-daily-practice-guide-88-chars/"><u>Ukranian Fluency in Minutes: A Daily Practice Guide (88 Chars)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-say-cheese-16-best-apps-to-convert-your-photos-into-cartoons/"><u>Updated 2024 Approved Say Cheese! 16 Best Apps to Convert Your Photos Into Cartoons</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-blue-screen-of-death-solutions-a-comprehensive-how-to-guide/"><u>Windows 11 Blue Screen of Death Solutions: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-define-new-destination-for-mac-screenshots/"><u>[New] 2024 Approved Define New Destination for Mac Screenshots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-innovative-gloves-for-virtual-immersion/"><u>[Updated] Top 10 Innovative Gloves for Virtual Immersion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-decreasing-mix-intensity-step-by-step/"><u>2024 Approved Decreasing Mix Intensity Step by Step</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/the-heat-tips-for-uploading-songs-to-youtube-for-2024/"><u>Beat the Heat Tips for Uploading Songs to YouTube for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-nvpcfsys-crashing-problem-on-windows/"><u>Effective Solutions for nvpcf.sys Crashing Problem on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-diagnosing-and-fixing-badpoolheader-errors-in-windows-10-for-smooth-operation/"><u>Expert Advice: Diagnosing and Fixing BAD_POOL_HEADER Errors in Windows 10 for Smooth Operation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-guide-downloading-asus-prime-z370-i-motherboard-software/"><u>Fast Guide: Downloading Asus Prime Z370-I Motherboard Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-understanding-and-solving-the-volsnapsys-blue-screen-of-death-in-windows/"><u>Guide: Understanding and Solving the Volsnap.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-bsod-error-code-0xc000021a-in-windows-11-and-8-solutions-inside/"><u>How to Fix the BSOD Error Code 0xC000021A in Windows 11 and 8 - Solutions Inside!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-windows-blue-screen-with-error-code-0x0000001e/"><u>How to Fix the Windows Blue Screen with Error Code 0X0000001E</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-prime-youtube-personalities-and-their-stellar-subscriber-tally/"><u>In 2024, Prime YouTube Personalities and Their Stellar Subscriber Tally</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unveiling-the-potential-of-thumbnails-in-video-marketing/"><u>In 2024, Unveiling the Potential of Thumbnails in Video Marketing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/secure-and-share-your-live-sounds-5-proven-online-approaches/"><u>Secure & Share Your Live Sounds - 5 Proven Online Approaches</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-troubleshooting-how-to-fix-windows-blue-screen-error-with-code-0x0000001a/"><u>Step-by-Step Troubleshooting: How to Fix Windows Blue Screen Error with Code 0X0000001A</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-rising-star-of-smartphones-in-depth-review-of-motorola-one-hypers-excellence/"><u>The Rising Star of Smartphones: In-Depth Review of Motorola One Hyper's Excellence.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-service-control-manager-bugs-in-windows-10-system-services/"><u>Understanding and Fixing 'Service Control Manager' Bugs in Windows 10 System Services</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-bsod-bluescreen-solving-unmountable-boot-volume-problems-successfully/"><u>Windows 10 BSOD Bluescreen - Solving Unmountable Boot Volume Problems Successfully</u></a></li>
 </ul></div>
 

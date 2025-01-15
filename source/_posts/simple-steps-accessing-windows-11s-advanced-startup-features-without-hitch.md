@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Accessing Windows 11'S Advanced Startup Features Without Hitch"
-date: 2025-01-07T20:29:12.344Z
-updated: 2025-01-09T19:34:18.655Z
+date: 2025-01-14T11:52:16.134Z
+updated: 2025-01-14T20:00:46.642Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7bf87c712048fd1b5c49af691f0f5b92a0d10753a
 
 If you run into the**Event Tracing Fatal Error** blue screen of death, don’t worry. It’s usually not very hard to resolve at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix event tracing fatal error
 
  Here are four fixes that have helped other users resolve the**event tracing fatal error.** You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 4. **[Hard reset your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run SFC and DISM
 
@@ -42,10 +50,6 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 **Here is how to run DISM** :
@@ -53,18 +57,22 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/1-1.png)
 2. Type **the following command** and press **Enter** :**DISM.exe /Online /Cleanup-image /Restorehealth** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2-1.jpg)  
  Wait a while for the whole process to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your computer for the change to take effect.
 
  Check to see if the event tracing fatal error still occurs. If it doesn’t occur, then great – you’ve fixed the issue! If it still happens, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -78,16 +86,8 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
@@ -113,7 +113,7 @@ Here are the steps on how to disable secure boot:
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
@@ -129,12 +129,12 @@ Here are the steps on how to disable driver integrity checks:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
@@ -175,17 +175,21 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-11-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 11 Pro Max Online</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ending-your-blue-screen-woes-the-ultimate-fix-for-0x00000050-on-windows-7-solved/"><u>Ending Your Blue Screen Woes: The Ultimate Fix for 0X00000050 on Windows 7 [Solved]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-handling-kernel-level-heap-damage-for-optimal-performance/"><u>Expert Advice on Handling Kernel Level Heap Damage for Optimal Performance</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guida-essenziale-al-clonare-le-tue-ssd-crucial-con-il-miglior-software-di-clonazione-in-italia/"><u>Guida Essenziale Al Clonare Le Tue SSD Crucial Con Il Miglior Software Di Clonazione in Italia</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-script-visionaries-corner-for-2024/"><u>Innovative Script Visionaries Corner for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-new-horizons-in-video-player-software-for-2024/"><u>Navigating New Horizons in Video Player Software for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-the-driververifierdetectedviolation-blue-screen-error-in-windows/"><u>Troubleshooting and Solving the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen Error in Windows #</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleashing-potential-in-depth-review-of-the-user-friendly-clearstream-eclipse-antenna/"><u>Unleashing Potential: In-Depth Review of the User-Friendly ClearStream Eclipse Antenna</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-review-reveals-apples-powerful-new-macbook-pro-m3-max-the-leading-pro-artificial-intelligence-laptop-on-the-market/"><u>ZDNet Review Reveals Apple's Powerful New MacBook Pro (M3 Max) - The Leading Pro Artificial Intelligence Laptop on the Market</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-5-leading-3d-video-entrance-design-tools/"><u>[New] 2024 Approved 5 Leading 3D Video Entrance Design Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>[New] Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-fan-favorite-films-reimagined-7-replacements/"><u>[Updated] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-fixes-to-address-delayed-stories-on-social-networks/"><u>[Updated] Quick Fixes to Address Delayed Stories on Social Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-simulation-to-reality-jaunt-vrs-journey/"><u>2024 Approved From Simulation to Reality Jaunt VR's Journey</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-heres-how-to-fix-stop-error-0x00000050-on-your-winodws-7-pc/"><u>Blue Screen Blues? Here's How to Fix Stop Error 0X00000050 on Your Winodws 7 PC!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-bank-ag/"><u>Deutsche Bank AG</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-file-cleanup-stellar-file-eraser-pro-set-your-schedule-on-windows/"><u>Efficient File Cleanup: Stellar File Eraser Pro - Set Your Schedule on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-windows-11s-internal-power-failure-problems/"><u>Fixing Windows 11'S Internal Power Failure Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visualconstruct-pro/"><u>In 2024, VisualConstruct Pro</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-for-ntfs-file-system-problems-in-windows-11/"><u>Step-by-Step Solution for NTFS File System Problems in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-fix-hp-audio-driver-errors-for-windows-operating-systems/"><u>Troubleshoot and Fix HP Audio Driver Errors for Windows Operating Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooted-dealing-with-critical-error-code-0xc0000017-and-restoring-your-computers-health/"><u>TROUBLESHOOTED: Dealing with Critical Error Code 0xC0000017 and Restoring Your Computer's Health</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-irql-is-neither-less-than-nor-equal-issues-on-windows-7/"><u>Troubleshooting and Fixing 'IRQL Is Neither Less Than Nor Equal' Issues on Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199746213-troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All!</u></a></li>
 </ul></div>
 

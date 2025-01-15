@@ -1,7 +1,7 @@
 ---
 title: Fixing 'HAL Initialization Failed' Issues on Windows 11 - Step-by-Step Tutorial
-date: 2025-01-03T17:30:39.647Z
-updated: 2025-01-09T19:09:57.844Z
+date: 2025-01-09T01:04:05.684Z
+updated: 2025-01-15T10:49:27.775Z
 tags:
   - win11
   - win10
@@ -38,21 +38,17 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-41.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6） Close Task Manager window and back on Services Configuration window, tap on**Boot**  pane. Then**uncheck Safe boot** and click**OK** .
 
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -72,23 +72,23 @@ thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-10.jpg)
 
- 4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
 ## **Solution 3\. Update your drivers**
 
@@ -112,11 +112,11 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
- 4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
 
@@ -131,7 +131,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
@@ -158,24 +158,22 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-counterclockwise-watch-how-to-unravel-your-youtube-sequence/"><u>[New] 2024 Approved Counterclockwise Watch How to Unravel Your YouTube Sequence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-cracking-the-code-of-photoshop-for-beginners/"><u>[New] 2024 Approved Cracking the Code of Photoshop for Beginners</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gopro-hero-5-vs-nikon-km-170-for-adventurers/"><u>[New] 2024 Approved GoPro HERO 5 vs Nikon KM-170 for Adventurers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/becoming-a-visionary-in-depth-guide-to-hdr-photography-for-2024/"><u>Becoming a Visionary In-Depth Guide to HDR Photography for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/compliant-driver-management-after-resolving-iomgr-non-conformity/"><u>Compliant Driver Management After Resolving Iomgr Non-Conformity</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-kernal-security-check-errors-in-windows-10-a-step-by-step-fix/"><u>Effective Solutions for Kernal Security Check Errors in Windows 10 - A Step-by-Step Fix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/end-the-nightmare-comprehensive-troubleshooting-of-rtkvhd64sys-blue-screen-errors/"><u>End the Nightmare: Comprehensive Troubleshooting of RTKVHD64.sys Blue Screen Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-solutions-to-overcome-netwtw10sys-bsod-error-on-your-computer/"><u>Expert Solutions to Overcome 'Netwtw10.sys' BSoD Error on Your Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-photo-excellence-simple-tips-and-tricks/"><u>IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/no-more-freezes-a-step-by-step-guide-to-stabilize-your-windows-7-system/"><u>No More Freezes: A Step-by-Step Guide to Stabilize Your Windows 7 System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-driver-verifier-errors-bsod-fixes-for-windows-10-users-complete-guide/"><u>Overcoming Driver Verifier Errors: BSOD Fixes for Windows 10 Users [COMPLETE GUIDE]</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-remedies-for-exception-in-thread-issues/"><u>Quick Remedies for 'Exception in Thread' Issues</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-0x0000000a-bsod-dilemma-a-step-by-step-guide/"><u>Solving the 0X0000000A BSOD Dilemma: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rejuvenating-non-starting-adobe/"><u>The Ultimate Guide to Rejuvenating Non-Starting Adobe</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-a-blank-screen-fixing-no-signal-on-xbox-one/"><u>Troubleshooting a Blank Screen - Fixing No Signal on Xbox One</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-pubgs-hidden-voice-tweaks-quickly-for-2024/"><u>Unlock PUBG's Hidden Voice Tweaks Quickly for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-7-troubleshooting-fixing-the-stop-code-0x0000007e-bsod/"><u>Windows 7 Troubleshooting: Fixing the STOP Code 0X0000007E BSOD</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>[New] In 2024, How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-m1-advantages-in-high-quality-video-production-workstations/"><u>[New] M1 Advantages in High-Quality Video Production Workstations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-privacy-focused-instagram-story-insight-methodology-for-2024/"><u>[Updated] Privacy-Focused Instagram Story Insight Methodology for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/affectionate-aphorisms-top-french-film-pick/"><u>Affectionate Aphorisms: Top French Film Pick</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-clearing-up-error-0x0000001e-on-your-computer/"><u>Blue Screen Blues: Clearing Up Error 0X0000001E on Your Computer</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-dealing-with-the-apc-index-mismatch-that-triggers-blue-screens/"><u>Comprehensive Fixes: Dealing with the 'APC Index Mismatch' That Triggers Blue Screens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-tackle-badpoolheader-crashes-on-windows-11/"><u>Effective Solutions to Tackle 'BAD_POOL_HEADER' Crashes on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-overcome-internal-power-system-issues-in-windows-11-systems-effectively/"><u>Expert Tips to Overcome Internal Power System Issues in Windows 11 Systems Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/implementing-gradual-audio-diminishment-in-lumafusion/"><u>Implementing Gradual Audio Diminishment in Lumafusion</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-windows-11-igdkmd64sys-bsod-error-permanently/"><u>Resolve Windows 11 IGDKMD64.sys BSOD Error Permanently</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-inescapable-blue-screen-error-wheauncorrectable/"><u>Resolved: Fixing the Inescapable Blue Screen Error (WHEA_UNCORRECTABLE)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-errors-storahcisys-troubleshooting-guide/"><u>Solving Blue Screen Errors: Storahci.sys Troubleshooting Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/streamlining-core-operations-with-abbyy-software-at-banque-populaire-de-louest-unveiled-in-latest-update/"><u>Streamlining Core Operations with ABBYY Software at Banque Populaire De L'Ouest Unveiled in Latest Update</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xpert-market-approach-rapid-eradication-on-youtube/"><u>The Expert' Market Approach Rapid Eradication on YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-error-code-0x00000amazing-for-pc-restarts/"><u>Understanding and Resolving Error Code 0X00000amazing for PC Restarts</u></a></li>
+<li><a href="https://win-web.techidaily.com/verifying-your-laptops-cooling-system-efficiency-expert-tips-from-yl-computing/"><u>Verifying Your Laptop's Cooling System Efficiency - Expert Tips From YL Computing</u></a></li>
 </ul></div>
 

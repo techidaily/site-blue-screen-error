@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Fatal UNMOUNTABLE_BOOT_VOLUME Bug in Windows 10 Easily
-date: 2024-09-27T17:46:07.341Z
-updated: 2024-09-30T17:43:51.569Z
+date: 2025-01-14T18:14:40.473Z
+updated: 2025-01-21T19:51:57.617Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5928ec40c3439.jpg)
 
 You may come across an **UNMOUNTABLE\_BOOT\_VOLUME** Blue Screen of Death error when you power on your Windows 10 computer. It blocks you away from your files and data. To fix this problem, you can try the methods as follows. (**Note**that you will need a**Windows 10 DVD**or a**bootable USB drive** before you proceed. If you have neither of them, you can[**burn a Windows 10 ISO file to an available USB drive**](https://tools.techidaily.com/drivereasy/download/)using another computer. Once you have your Windows 10 media prepared, put it into your computer and boot your computer from it. If you don’t know how to do it, please check[**How to Boot from a USB Drive, DVD or CD**](https://tools.techidaily.com/drivereasy/download/). Then you can try any of the methods listed below.)[**1) Fix UNMOUNTABLE_BOOT_VOLUME error with Automatic Repair**](https://tools.techidaily.com/drivereasy/download/) [**2) Fix UNMOUNTABLE_BOOT_VOLUME error by Fixing Master Boot Record**](https://tools.techidaily.com/drivereasy/download/) [**3) Fix UNMOUNTABLE_BOOT_VOLUME error using Chkdsk command**](https://tools.techidaily.com/drivereasy/download/) [**4) Fix UNMOUNTABLE_BOOT_VOLUME error by reinstalling Windows 10**](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **1) Fix UNMOUNTABLE\_BOOT\_VOLUME Windows 10 blue screen error with Automatic Repair**
 
@@ -39,31 +43,25 @@ Using Automatic Repair is the easiest way to fix problem of this kind. **a)**On 
 
 **e)**The repair will be started immediately. Please wait patiently for the process to be finished.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2) Fix UNMOUNTABLE\_BOOT\_VOLUME error by Fixing Master Boot Record**
 
 **Master Boot Record (MBR)**identifies where and how your operating system is located so that you can boot your computer normally. A malfunctioning MBR can cause problems such as UNMOUNTABLE\_BOOT\_VOLUME. **a)** **Repeat the steps in method 1**until you see the screen of**Advanced options**. **b)**Select**Command Prompt**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592936ce6af22.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**Type “_**bootrec /fixboot**_“in Command Prompt, and then hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592929886a4b2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)** Wait for completion of the process, and then restart your computer to see if the error message shows up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3) Fix UNMOUNTABLE\_BOOT\_VOLUME error using Chkdsk command**
 
@@ -71,13 +69,14 @@ UNMOUNTABLE\_BOOT\_VOLUME error can be caused by problems on your hard drive. Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_592929bf2b117.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Wait for completion of the process, and then restart your computer to see if it runs normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **4) Fix UNMOUNTABLE\_BOOT\_VOLUME error by reinstalling Windows 10**
@@ -85,13 +84,6 @@ UNMOUNTABLE\_BOOT\_VOLUME error can be caused by problems on your hard drive. Yo
 If you try all methods above and you still get the  UNMOUNTABLE\_BOOT\_VOLUME blue screen error, you should consider reinstalling Windows 10. **a)**On the**Windows Setup**screen, after you finish choosing your language, click on**Install now**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5929382b8ea6b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Follow the instruction following to complete the process of reinstallation. If the methods above are not helpful for solving your UNMOUNTABLE BOOT VOLUME Windows 10 Blue Screen error, it may be caused by issues on your hardware devices. You may consult a computer expert or contact your device manufacturers for further assistance.
 
@@ -112,19 +104,18 @@ If you try all methods above and you still get the  UNMOUNTABLE\_BOOT\_VOLUME bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-essential-gif-sources-for-latest-iphones/"><u>[New] 2024 Approved Exploring Essential GIF Sources for Latest iPhones</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-high-performance-tools-youtube-meets-twitter-for-2024/"><u>[New] High-Performance Tools YouTube Meets Twitter for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-revolutionizing-remote-work-selecting-the-best-live-streamers/"><u>[New] Revolutionizing Remote Work Selecting the Best Live Streamers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-zest-up-social-feeds-create-meme-adobe-style/"><u>2024 Approved Zest Up Social Feeds Create Meme Adobe-Style</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-macbook-with-touch-display-prospective-costs-and-release-timeline/"><u>All You Need to Know About the New MacBook with Touch Display - Prospective Costs and Release Timeline</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/definitive-fix-for-the-dreaded-ntkrnlmpexe-bsod-tips-and-techniques/"><u>Definitive Fix for the Dreaded ntkrnlmp.exe BSOD: Tips and Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hitman-ebx-3-black-screen-problem-on-desktop-fixes-and-workarounds/"><u>Hitman Ebx 3 Black Screen Problem on Desktop - Fixes and Workarounds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-90-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 90 Phone Screen?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/quick-fixes-for-device-driver-errors-on-windows-11-get-your-system-running-smoothly/"><u>Quick Fixes for Device Driver Errors on Windows 11: Get Your System Running Smoothly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-the-kmodeexceptionnothandled-bugs-on-windows-10-and-11-platforms/"><u>Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-keeping-your-windows-10-drivers-current-and-compatible/"><u>The Ultimate Guide to Keeping Your Windows 10 Drivers Current and Compatible</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-sony-xperia-5-v-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Sony Xperia 5 V Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-security-enhanced-preventing-nxmemory-execution-problems/"><u>Windows Security Enhanced: Preventing NXMemory Execution Problems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-against-0x0000000a-your-ultimate-guide-to-resolving-blue-screens/"><u>Winning Against 0X0000000A: Your Ultimate Guide to Resolving Blue Screens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-veiled-content-on-youtube/"><u>[New] In 2024, Decoding Veiled Content on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-media-integration-adding-online-yt-videos-to-ppts/"><u>[Updated] 2024 Approved Mastering Media Integration Adding Online YT Videos to PPTs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-realtime-av-enthusiasts-community/"><u>[Updated] In 2024, RealTime AV Enthusiasts Community</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-secrets-to-impressive-cover-video-setup/"><u>2024 Approved Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-address-acpisys-malfunctions-on-your-windows-11-pc/"><u>How to Correctly Address acpi.sys Malfunctions on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-11-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 11 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/resolution-overcome-challenges-with-transcend-ssds-in-system-copying-process/"><u>Resolution: Overcome Challenges with Transcend SSDs in System Copying Process</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-critical-stop-error-blue-screen-with-code-0x00000133-in-windows-10/"><u>Resolving the Critical Stop Error: Blue Screen with Code 0X00000133 in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-lost-logildadll-instance/"><u>Revive Lost LogiLDA.dll Instance</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rewe-group/"><u>Rewe Group</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-fixes-for-the-persistent-thread-blocked-by-windows-driver-in-win-10/"><u>Simple Fixes for the Persistent Thread Blocked by Windows Driver in Win 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/the-definitive-fix-guide-for-windows-elusive-error-0x0000000a-blue-screen-challenge/"><u>The Definitive Fix Guide for Windows' Elusive Error 0X0000000A Blue Screen Challenge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/timeframe-equation-for-20mb-content-for-2024/"><u>Timeframe Equation for 20MB Content for 2024</u></a></li>
 </ul></div>
 

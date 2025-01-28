@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the 'kMODE_Exception_Not_Handled' Bugs on Windows 10 & 11 Platforms
-date: 2025-01-19T16:34:22.006Z
-updated: 2025-01-21T18:36:11.103Z
+date: 2025-01-22T19:08:50.684Z
+updated: 2025-01-27T21:25:26.917Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ Driver Verifier is built in every version of Windows operating system. It monito
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Reinstall your graphic card driver
@@ -37,22 +37,14 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598299073c0a1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After uninstalling your graphic card driver, go to its manufacturer’s website, find and download the latest driver for you card model.  
@@ -70,6 +62,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -77,7 +73,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
@@ -112,6 +108,10 @@ You need to do these:
  2) On the open black window, type**verifier** and press Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
@@ -149,16 +149,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-ineffectiveness-to-influence-with-smm-mastery/"><u>[Updated] 2024 Approved From Ineffectiveness to Influence with SMM Mastery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-for-smooth-playback-and-no-frame-dropping-in-obs-for-2024/"><u>[Updated] Techniques for Smooth Playback and No Frame Dropping in OBS for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199747968-genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/home-cinematic-excellence-with-5-quick-tips-for-2024/"><u>Home Cinematic Excellence with 5 Quick Tips for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-resolve-the-fat-file-error-on-your-windows-11-pc/"><u>How to Correctly Resolve the FAT File Error on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000000a-blue-screen-error/"><u>How to Fix 0X0000000A Blue Screen Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>In 2024, Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/krupp-ag-hoesch-krupp/"><u>Krupp AG Hoesch-Krupp</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-dvd-video-quality-what-does-dvd-resolution-mean-480p-720p-or-108n-p/"><u>Understanding DVD Video Quality: What Does DVD Resolution Mean – 480P, 720P, or 108N P?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-free-video-upload-sites-for-online-presence-and-visibility/"><u>Updated 10 Best Free Video Upload Sites for Online Presence and Visibility</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/value-and-versatility-combined-in-depth-review-of-the-2019-amazon-kindle/"><u>Value and Versatility Combined: In-Depth Review of the 2019 Amazon Kindle</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-dazzling-instagram-stories-with-multi-image-techniques/"><u>[New] Crafting Dazzling Instagram Stories with Multi-Image Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-strategies-for-hulu-screen-grabs-everywhere/"><u>[New] Expert Strategies for Hulu Screen Grabs Everywhere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovate-iconoclastic-images-using-giphy/"><u>[New] Innovate Iconoclastic Images Using Giphy</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199748754-solved-dpc-watchdog-violation-error-quickly-and-easily/"><u>[SOLVED] DPC Watchdog Violation Error | Quickly & Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-visual-narratives-the-leading-10-vector-editors/"><u>[Updated] Crafting Visual Narratives The Leading 10 Vector Editors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-diagnosing-and-repairing-fltrmgrsys-blue-screen-of-death-in-windows/"><u>Comprehensive Guide: Diagnosing and Repairing Fltrmgr.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/conveniently-connect-with-others-via-your-playlist-for-2024/"><u>Conveniently Connect with Others via Your Playlist for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-overcome-the-0x000000d1-bsod-windows-issue/"><u>Effortless Solutions to Overcome the 0X000000D1 BSOD Windows Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199739845-environmental-factors-can-affect-tool-accuracy-requiring-adjustments-to-maintenance-schedules/"><u>Environmental Factors Can Affect Tool Accuracy, Requiring Adjustments to Maintenance Schedules</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-repair-stop-error-0x0000003b-for-windows-users/"><u>How to Troubleshoot and Repair STOP Error 0X0000003B for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-xcover-6-pro-tactical-edition-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy XCover 6 Pro Tactical Edition Through Google Earth?</u></a></li>
+<li><a href="https://win11.techidaily.com/key-factors-when-choosing-windows-video-codecs/"><u>Key Factors When Choosing Windows Video Codecs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-critical-driver-corrupted-expool-windows-10-challenge-expert-solutions/"><u>Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solutions-for-windows-11-bsod-issues-a-comprehensive-approach/"><u>Solutions for Windows 11 BSOD Issues – A Comprehensive Approach</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-dealing-with-uncaught-system-thread-exceptions/"><u>Step-by-Step Fixes for Dealing with Uncaught System Thread Exceptions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ound-sphere-navigating-music-uploads-for-2024/"><u>The Sound Sphere Navigating Music Uploads for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-has-modern-warfare-3-stopped-working-and-what-you-can-do-about-it/"><u>Why Has Modern Warfare 3 Stopped Working and What You Can Do About It</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-bsod-help-solving-the-critical-error-dxgmms2sys/"><u>Windows 11 BSOD Help: Solving the Critical Error dxgmms2.sys</u></a></li>
 </ul></div>
 

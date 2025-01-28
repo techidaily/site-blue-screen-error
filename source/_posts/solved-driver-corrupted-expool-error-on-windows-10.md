@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2025-01-20T18:36:58.387Z
-updated: 2025-01-21T18:25:02.445Z
+date: 2025-01-21T06:43:01.498Z
+updated: 2025-01-28T05:51:08.275Z
 tags:
   - win11
   - win10
@@ -21,19 +21,11 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  Don’t panic. Usually this is a driver issue, and it’s easy to solve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Reinstall your graphic card driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Reinstall your graphic card driver
 
@@ -41,11 +33,11 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
@@ -66,11 +58,19 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829bed7962f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your device drivers
 
@@ -90,10 +90,6 @@ Then Windows will search the update for you automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Disable & Reset Driver Verifier
 
  If unluckily after solving the driver problems, the error still occur, try to disable and reset the Driver Verifier on your Windows 10\.
@@ -109,6 +105,10 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
@@ -122,7 +122,7 @@ You need to do these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
@@ -149,20 +149,24 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-the-new-era-top-tier-vr-exercise-machines/"><u>[Updated] In 2024, Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-uncovering-asmr-truths-for-viewers/"><u>[Updated] Uncovering ASMR Truths for Viewers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-impressive-instagram-story-bokeh-art/"><u>Crafting Impressive Instagram Story Bokeh Art</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-network-storage-errors-addressing-netwkstorsys-crashes-in-windows-11/"><u>Fix Network Storage Errors: Addressing NetWkstor.sys Crashes in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-volsnapsys-bsod-issues-and-prevent-blue-screen-crashes-on-your-windows-pc/"><u>Fix Volsnap.sys BSOD Issues & Prevent Blue Screen Crashes on Your Windows PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-driver-overran-stack-buffer-blue-screen-error/"><u>How to Fix DRIVER OVERRAN STACK BUFFER Blue Screen Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/igdkmd64sys-on-windows-10-blue-screen-error-solved/"><u>igdkmd64.sys on Windows 10 Blue Screen Error [Solved]</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-12-essential-websites-for-stunning-fb-profile-pictures/"><u>In 2024, 12 Essential Websites for Stunning FB Profile Pictures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-unsupported-boots-in-windows-the-5-essential-fixes/"><u>Overcoming Unsupported Boots in Windows: The 5 Essential Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-addressing-need-to-quit-in-roblox-on-pc/"><u>Quick Guide: Addressing Need To Quit in Roblox on PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11-bsod-the-clock-watchdog-timout-dilemma/"><u>Resolving Windows 11 BSoD: The 'Clock Watchdog Timout' Dilemma</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-discounted-hp-victus-15-for-just-515-exclusive-black-friday-at-best-buy-revealed/"><u>Secure Your Discounted HP Victus 15 for Just $515 – Exclusive Black Friday at Best Buy Revealed !</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unmountablebootvolume-error-on-windows-10-blue-screen-troubleshooting-steps-and-solutions/"><u>UNMOUNTABLE_BOOT_VOLUME Error on Windows 10 Blue Screen: Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-toms-insights/"><u>Unveiling the Latest in Computer Hardware - Tom's Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-netgear-wifi-card-drivers-a-step-by-nstep-guide/"><u>Update Your NETGEAR WiFi Card Drivers: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-error-bad-pool-caller-easy-solutions-for-a-persistent-problem/"><u>'Windows 10 Error - Bad Pool Caller': Easy Solutions for a Persistent Problem</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] 2024 Approved The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-antique-cinematography-in-the-digital-realm/"><u>[New] In 2024, Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-truth-in-the-world-of-insta-selfies-for-2024/"><u>[New] Truth in the World of Insta Selfies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-networks-generating-social-media-sensations/"><u>[Updated] 2024 Approved Navigating Networks Generating Social Media Sensations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-10-text-presets-for-after-effects/"><u>[Updated] In 2024, Best 10 Text Presets for After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-easy-pathway-to-fish-chatter-alteration-within-win-environment/"><u>[Updated] In 2024, Easy Pathway to Fish Chatter Alteration Within Win Environment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-road-warriors-top-virtual-races-listed-for-2024/"><u>[Updated] Road Warriors Top Virtual Races Listed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/efront-bastion-100plus-epic-game-battles/"><u>Battlefront Bastion 100+ Epic Game Battles</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/effiziente-strategien-zur-optimierung-ihres-c-laufwerks-auf-dem-windows-server-schritt-fur-schritt-anleitung/"><u>Effiziente Strategien Zur Optimierung Ihres C-Laufwerks Auf Dem Windows Server - Schritt Für Schritt Anleitung</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-to-eliminate-nvpcfsys-bsod-ensuring-seamless-pc-operation-again/"><u>Expert Tips to Eliminate nvpcf.sys BSOD – Ensuring Seamless PC Operation Again</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-driververifierdetectedviolation-bsod-error-on-windows-11-solved/"><u>Fix DRIVER_VERIFIER_DETECTED_VIOLATION BSOD Error on Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-driver-corruptedexpool-error-in-windows-10-a-step-by-step-guide/"><u>How to Fix 'DRIVER CORRUPTED_EXPOOL' Error in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-video-call-scheduler-crash-bug-in-windows-10-a-comprehensive-guide/"><u>How to Fix the Video Call Scheduler Crash Bug in Windows 10 – A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-videotdrfailure-bsod-error-in-windows/"><u>How to Stop the 'Video_TDR_Failure' BSOD Error in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-pc-stability-corrective-measures-against-asmthchisys-related-blue-screens-of-death/"><u>Mastering PC Stability: Corrective Measures Against AsmThChiSys-Related Blue Screens of Death</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-bad-configurations-fast-end-that-blue-screen-error-today/"><u>Resolve Bad Configurations Fast: End That Blue Screen Error Today</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-a-corrupted-pfn-list-leading-to-blue-screen-of-death-on-windows-11/"><u>Resolved: How to Fix a Corrupted PFN List Leading to Blue Screen of Death on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-basic-routes-to-sync-obs-with-zoom/"><u>The Basic Routes to Sync OBS with Zoom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows"
-date: 2025-01-16T19:08:22.106Z
-updated: 2025-01-21T19:23:18.773Z
+date: 2025-01-25T03:48:48.951Z
+updated: 2025-01-27T23:19:34.562Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-331.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 5) Check to see if the bad pool header blue screen problem has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Windows Memory Diagnostic
 
@@ -77,8 +73,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0e801ef60.jpg)
 2. Be sure to **save your work**   & **close all apps**   on your PC before clicking **Restart now and check for problems (Recommended)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a0ea7a77ce.jpg)
 3. Wait until Windows restarts again(that’s when the memory test finishes), and then:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **If you get a report of memory errors** , then follow the on-screen instructions to further troubleshoot.
 * **If you get a No memory errors were detected from Windows Memory Diagnostic** , then you don’t have failed memory on your RAM, please move on to**Fix 3** below to further troubleshoot.
@@ -94,25 +98,25 @@ To do so:
 2. Scroll down to the bottom, then right click on **Windows Search** and click **Stop** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1c77d1d5c.jpg)
 3. Double-click on **Windows Search** . Then in **Startup type:** , choose **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a1cd719341.jpg)
 4. Click **Apply**   \> **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and check if the **Bad\_Pool\_Header**  issue is fixed. If yes, then great! If it still persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for hardware issues
@@ -132,10 +136,6 @@ To do so:
 1. On your keyboard, press **the Windows logo key**   and **E**   at the same time. Then right-click on**Local Disk (C:)** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19b225ab5.jpg)
 2. Click the **Tools** tab > **Check** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a19e78b25d.jpg)
 3. Make sure to check**BOTH boxes** in the pop-up window and click**Start** .  
@@ -167,20 +167,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-reign-in-the-views-youtube-thumbnail-size-and-ratios/"><u>[New] 2024 Approved Reign in the Views Youtube Thumbnail Size & Ratios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-harmonious-hush-techniques-for-quieting-tunes-for-2024/"><u>[Updated] Harmonious Hush Techniques for QUIETing Tunes for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-conquering-cloud-storage-with-easy-tv-series-capture-methods/"><u>[Updated] In 2024, Conquering Cloud Storage with Easy TV Series Capture Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screensnapper-prox-the-premier-pc-screen-recorder-by-apowersoft-for-2024/"><u>[Updated] ScreenSnapper ProX The Premier PC Screen Recorder by Apowersoft for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-twitter-video-download-tool-for-mp3-conversion/"><u>2024 Approved Twitter Video Download Tool for MP3 Conversion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhanced-gaming-performance-update-your-nvidia-geforce-210-drivers-on-windows-11/"><u>Enhanced Gaming Performance: Update Your Nvidia GeForce 210 Drivers on Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-handling-kernel-level-heap-damage-for-optimal-performance/"><u>Expert Advice on Handling Kernel Level Heap Damage for Optimal Performance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/go-beyond-screens-how-to-watch-360-videos-and-vr-via-android/"><u>Go Beyond Screens How to Watch 360 Videos & VR via Android</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-13-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 13 and iPad</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-storportsys-bsod-in-windows-10/"><u>How to Fix storport.sys BSOD in Windows 10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-the-driververifierdetectedviolation-blue-screen-error-in-windows/"><u>Troubleshooting and Solving the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen Error in Windows #</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-hypervisor-errors-leading-to-bsod-crashes-on-windows-11-systems/"><u>Troubleshooting Hypervisor Errors Leading to BSoD Crashes on Windows 11 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-increase-attendance-and-engagement-with-strategic-zoom-recordings/"><u>[New] 2024 Approved Increase Attendance and Engagement with Strategic Zoom Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>[Updated] Craft Compelling Openers for Your Podcast Episodes Examples & Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-create-captivate-independent-animation-innovations/"><u>[Updated] In 2024, Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>2024 Approved How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-switching-up-your-iphones-call-sound-effectively/"><u>2024 Approved Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/avoiding-the-dreaded-win32ksys-bsod-on-your-pc-tips-and-solutions/"><u>Avoiding the Dreaded Win32K.sys BSOD on Your PC – Tips and Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-techniques-for-capturing-tunein-radio-shows-as-mp3-files-using-windows-operating-systems-teneleven/"><u>Easy Techniques for Capturing TuneIn Radio Shows as MP3 Files Using Windows Operating Systems (Ten/Eleven)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-and-correct-the-low-signal-strength-alert-in-windows-11/"><u>How to Address and Correct the 'Low Signal Strength' Alert in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-driver-corrupted-expool-issue-on-your-windows-11-machine/"><u>How to Resolve the DRIVER CORRUPTED EXPOOL Issue on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-securely-archive-your-windows-server-td-with-three-different-backup-techniques-in-2003/"><u>How To Securely Archive Your Windows Server T.d. with Three Different Backup Techniques in 2003</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862827552-snap-up-samsungs-premium-5k-ips-monitor-wwebcam-the-pixel-dense-viewfinity-s9-at-a-steal-just-899-after-44-off/"><u>Snap Up Samsung's Premium 5K IPS Monitor W/Webcam - The Pixel-Dense ViewFinity S9 at a Steal: Just $899 After 44% Off</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-immediate-sound-restoration-in-windows-systems/"><u>Step-by-Step Tutorial for Immediate Sound Restoration in Windows Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-blue-screen-of-death-caused-by-igdkmd64-in-windows-11/"><u>Troubleshoot and Fix Blue Screen of Death Caused by IGDKMD64 in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against IGDKMD64.sys - Fix Blue Screen for Windows 11 Users
-date: 2025-02-07T16:41:13.250Z
-updated: 2025-02-09T16:26:47.216Z
+date: 2025-02-18T17:32:37.517Z
+updated: 2025-02-19T16:05:15.015Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
  If you’re with Intel graphics card and you’re seeing the blue screen of death error with the code **_VIDEO TDR FAILURE_** , you’re not alone. Many Windows users are reporting this problem as well. But no worries, it’s possible to fix, no matter how dreadful it seems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 fixes for VIDEO TDR FAILURE
 
 * [What is VIDEO TDR FAILURE blue screen of death?](https://tools.techidaily.com/drivereasy/download/)
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
  Here are 4 fixes for you to try. You may not have to try them all; just work your way down until you find the one works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **What is VIDEO TDR FAILURE blue screen of death?**
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 **TDR** stands for **Timeout** , **Detection** , and **Recovery** components in Windows. If you’re seeing this notification, the most likely reason is that your graphics card driver stops responding. Windows might stop and restart the driver to fix the problem. You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and[restart it in Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1: Run System File Checker**
@@ -52,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de41231e7e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **sfc/ scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578de476b0552.png)
 
  3) **System File Checker** will help you scan for the corruptions in your system files and restore the corrupted or missing files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2:** **Restore graphics card driver**
 
@@ -72,17 +68,21 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91039ebb0d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Driver** tab, click **Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a910633218b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer after this change. If the **Roll Back Driver** option here is grey like the following screen shot, skip to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_578ded4881db6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Uninstall or disable graphics card driver**
 
@@ -98,12 +98,16 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9120f950a7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tick the box for **Delete the driver software for this device** and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9127db1094.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart. This change will allow Windows Update to help you find the correct driver for your system that won’t cause conflicting problem within the two graphics drivers.
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
  3) Click the **Update** button next to the flagged Intel graphics card driver to automatically download and install the correct version of that driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-intel-xe-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5: Repair corrupted system files with Fortect
 
@@ -166,24 +166,19 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-recording-simplified-review-insights/"><u>[New] 2024 Approved Screen Recording Simplified Review Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-exclusive-vr-movie-experiences-for-2024/"><u>[New] Exclusive VR Movie Experiences for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>[New] Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-bugcodeusbdriver-blue-screen-on-windows-11/"><u>[Solved] BUGCODE_USB_DRIVER Blue Screen on Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-finds-critical-6-fb-lite-downloads/"><u>[Updated] 2024 Approved Essential Finds Critical 6 FB Lite Downloads</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199729943-astm-e4n9-provides-a-standardized-approach-for-calibrating-measurement-tools-in-the-us/"><u>ASTM E4n9 Provides a Standardized Approach for Calibrating Measurement Tools in the US</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-directx-setup-failure-causes/"><u>Eliminating DirectX Setup Failure Causes</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-blue-screen-of-death-due-to-memory-management-issues-in-windows-10-or-11/"><u>How to Fix Blue Screen of Death Due to Memory Management Issues in Windows 10 or 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-properly-discard-drivers-with-incomplete-operations/"><u>How to Properly Discard Drivers with Incomplete Operations</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/master-the-art-of-repairing-crashing-windows-7-pcs-with-our-comprehensive-strategies/"><u>Master the Art of Repairing Crashing Windows 7 PCs with Our Comprehensive Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/masterclass-on-premiere-pro-fullscreen-mode-finesse/"><u>Masterclass on Premiere Pro Fullscreen Mode Finesse</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-classpnpsys-conflicts-for-smooth-windows-10-and-7-operation/"><u>Resolving CLASSPNP.SYS Conflicts for Smooth Windows 10 and 7 Operation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974817511-seamless-driver-update-process-for-brother-mfc-7360n-on-windows-tips-and-tricks/"><u>Seamless Driver Update Process for Brother MFC-7360N on Windows - Tips & Tricks</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199717505-speedy-solutions-to-overcome-hidclasssys-challenges-expert-advice-here/"><u>Speedy Solutions to Overcome HIDCLASS.SYS Challenges - Expert Advice Here!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-a-critical-memory-management-failure-pool-header-on-windows-11/"><u>Step-by-Step Guide to Correcting a Critical Memory Management Failure (Pool Header) on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-integrating-apple-music-into-your-videos/"><u>Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-walkthrough-for-fixing-the-tdr-blue-screen-error-due-to-nvlddmkmsys-windows/"><u>Step-by-Step Walkthrough for Fixing the TDR Blue Screen Error Due to nvlddmkm.sys (Windows)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/lpuzzle-editor/"><u>VisualPuzzle Editor</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-youtube-potential-with-imaginative-splitscreens/"><u>[New] In 2024, Unleash YouTube Potential with Imaginative Splitscreens</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-machine-check-exception-bsod-in-windows-10/"><u>[SOLVED] MACHINE CHECK EXCEPTION BSOD in Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[Updated] Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] In 2024, The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-blue-screen-resolving-windows-dxgkrnlsys-issues/"><u>Bypassing the Blue Screen: Resolving Windows 'dxgkrnl.sys' Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decode-and-debug-eliminating-blue-screen-error-code-0x00000/"><u>Decode & Debug: Eliminating Blue Screen Error Code 0X00000</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/deviantart-pros-sharing-snapchat-stories/"><u>DeviantArt Pros Sharing Snapchat Stories</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-advice-how-to-correctly-tackle-storportsys-bsod-issues-on-win11-computers/"><u>Expert Advice: How to Correctly Tackle Storport.sys BSoD Issues on Win11 Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-audio-adjustments-for-youtube-content-makers-for-2024/"><u>Expert Audio Adjustments for YouTube Content Makers for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntoskrnlexe-blue-screen-of-death-step-by-step-guide/"><u>Fixing the Notorious NTOSKRNL.EXE Blue Screen of Death: Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-critical-services-failure-and-avoid-bsod-errors-in-your-windows-10-device/"><u>How to Address Critical Services Failure and Avoid BSOD Errors in Your Windows 10 Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi 14 Pro FRP</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/resolving-imovie-cuts-understanding-crop-rationale/"><u>Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-game-lags-while-maintaining-maximum-fps/"><u>Ultimate Guide: Resolving Game Lags While Maintaining Maximum FPS</u></a></li>
 </ul></div>
 

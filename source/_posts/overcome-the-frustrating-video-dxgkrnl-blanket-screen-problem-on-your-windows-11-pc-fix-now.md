@@ -1,7 +1,7 @@
 ---
 title: Overcome the Frustrating Video Dxgkrnl Blanket Screen Problem on Your Windows 11 PC [Fix Now]
-date: 2025-02-04T16:05:23.426Z
-updated: 2025-02-09T16:22:33.624Z
+date: 2025-02-17T16:48:03.005Z
+updated: 2025-02-19T17:08:17.604Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 
  You’ll need to log into Windows 10 on your affected computer to try the following fixes. If you’re having trouble restarting your computer,[boot it into Safe Mode](https://tools.techidaily.com/drivereasy/download/) and then try the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update all your available drivers
 
  Most of the time, the UNEXPECTED\_KERNEL\_MODE\_TRAP error is caused by incompatible, faulty or outdated drivers. So you should update your available device drivers to see if it fixes your problem.
@@ -48,7 +44,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf77a964bd7b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Memory Diagnostics
@@ -65,10 +61,14 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the testing, Windows will restart automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run System File Checker
@@ -84,7 +84,7 @@ After the testing, Windows will restart automatically.
 4. Type**sfc /scannow** in the open command prompt window and press**Enter** . Wait till verification 100% complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-7.jpg)
@@ -99,13 +99,13 @@ Here’s how you can check for Windows Update
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 2. Click**Check for updates** on the right pane of the pop-up window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
 
 Go on to follow the on-screen instructions to install the updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair corrupted system files
 
@@ -130,6 +130,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -143,10 +147,6 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the**Windows logo key** and type cmd. Then right-click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Yes** when prompted to confirm.
 
@@ -185,18 +185,16 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-guide-implementing-chapters-in-vimeo/"><u>[New] 2024 Approved Master Guide Implementing Chapters in Vimeo</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-regular-vlogger-discussion-guidelines/"><u>[Updated] 2024 Approved Regular Vlogger Discussion Guidelines</u></a></li>
-<li><a href="https://discover-help.techidaily.com/best-screen-recording-apps-top-manycam-alternatives-with-live-streaming-features/"><u>Best Screen Recording Apps: Top ManyCam Alternatives with Live Streaming Features</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-unstuck-windows-1-10-threads-from-stubborn-driver-errors/"><u>Effortless Solutions to Unstuck Windows 1지어 10 Threads From Stubborn Driver Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-windows-10-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 10 Thread Stuck in Device Driver Error. Easily!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pixel-tablet-unveiling-whats-inside-teaser-on-upcoming-specs-and-release-timelines/"><u>Pixel Tablet Unveiling - What's Inside? Teaser on Upcoming Specs & Release Timelines</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-spark-go-2024-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-hardware-failure-blue-screen-of-death-bsod-error/"><u>Resolved: Fixing the Hardware Failure Blue Screen of Death (BSOD) Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/simple-steps-accessing-advanced-startup-settings-on-windows-10/"><u>Simple Steps: Accessing Advanced Startup Settings on Windows 10</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/solving-the-problem-of-png-files-wont-load-on-your-windows-11-pc/"><u>Solving the Problem of PNG Files Won't Load on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199729913-the-selection-of-sample-size-and-frequency-in-spc-should-balance-representativeness-with-resource-efficiency/"><u>The Selection of Sample Size and Frequency in SPC Should Balance Representativeness with Resource Efficiency</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/tips-and-tricks-for-dealing-with-the-notorious-read-only-memory-writing-bluscreen-error/"><u>Tips & Tricks for Dealing with the Notorious Read-Only Memory Writing BluScreen Error</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-cropping-like-a-pro-advanced-techniques-for-avidemux-users-for-2024/"><u>Updated Cropping Like a Pro Advanced Techniques for Avidemux Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-audio-engagement-exploration-delving-into-the-world-of-podcasts-vs-youtube/"><u>[New] 2024 Approved Audio Engagement Exploration Delving Into the World of Podcasts Vs. YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-video-editors-for-youtube-on-the-houseno-cost-included/"><u>[New] In 2024, Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlocking-potential-snapchats-business-toolkit/"><u>[New] In 2024, Unlocking Potential Snapchat's Business Toolkit</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-win32kfullsys-blue-screen-error/"><u>[SOLVED] win32kfull.sys Blue Screen Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725286358312-dvd-shrink/"><u>DVD-Shrinkファイルを解凍できない問題：エラー発生時の原因究明・回避策</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-iomgr-violations-in-driververifier-environment/"><u>Fixing Iomgr Violations in DriverVerifier Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722187249907-google-io-2023-reveals-an-array-of-amazing-upgrades-to-bard-ai-learn-about-the-top-7-new-features/"><u>Google I/O 2023 Reveals an Array of Amazing Upgrades to BARD AI - Learn About the Top 7 New Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Fingerprint Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-resolving-the-netwtw04sys-bsod-on-windows-10/"><u>Troubleshooting Guide: Resolving the Netwtw04.sys BSOD on Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/video-tdr-failure-atikmpagsys-on-windows-10-solved/"><u>Video TDR Failure (atikmpag.sys) on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

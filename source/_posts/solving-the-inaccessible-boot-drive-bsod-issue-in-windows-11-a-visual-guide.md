@@ -1,7 +1,7 @@
 ---
 title: Solving the Inaccessible Boot Drive BSOD Issue in Windows 11 – A Visual Guide
-date: 2025-02-06T16:26:22.585Z
-updated: 2025-02-09T16:32:24.004Z
+date: 2025-02-14T16:14:37.021Z
+updated: 2025-02-19T17:19:24.474Z
 tags:
   - win11
   - win10
@@ -38,31 +38,23 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Press **Y**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer so Windows will perform a hard disk check.
 
@@ -70,17 +62,21 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2: Update device drivers**
 
@@ -98,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
 
@@ -117,14 +113,22 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf648ccb5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) See if the **Video Scheduler Internal Error** is fixed now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Reinstall faulty drivers**
 
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
  1) On your keyboard, press the**Windows logo key** and**X** at the same time, then click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Scan for hardware changes** .
 
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other Work-arounds**
@@ -191,16 +191,18 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-engagement-10-must-have-tools-for-ig-gurus-for-2024/"><u>[Updated] Enhancing Engagement 10 Must-Have Tools for IG Gurus for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unlocking-creativity-top-10-insider-canva-tricks/"><u>[Updated] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-blurred-imagery-for-far-cry-6-players/"><u>Clearing Up Blurred Imagery for Far Cry 6 Players</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-critical-building-block-failures-in-windows-11-os-a-comprehensive-guide/"><u>Fixing Critical Building Block Failures in Windows 11 OS: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-corrupted-pfn-lists-leading-to-blue-screen-of-death-on-windows-10/"><u>How to Fix Corrupted PFN Lists Leading to Blue Screen of Death on Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-blue-screen-of-death-caused-by-tcpipsys-in-windows-operating-systems/"><u>How to Repair Blue Screen of Death Caused by TCPip.sys in Windows Operating Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-lite-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 90 Lite Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-progopro-sessions-four-meets-five/"><u>In 2024, ProGoPro Sessions Four Meets Five</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-best-free-online-calling-applications-in-2-new-trends-the-best-12-free-voip-services/"><u>Top 12 Best Free Online Calling Applications in 2# New Trends: The Best 12 Free VoIP Services</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-swiftly-correcting-unhandled-exception-in-thread-problems/"><u>Troubleshooting Guide: Swiftly Correcting 'Unhandled Exception in Thread' Problems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-vgk-system-crashes-and-blue-screen-issues-on-your-pc/"><u>Troubleshooting VGK System Crashes and Blue Screen Issues on Your PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-tactics-for-youtube-advertising-with-banners/"><u>[Updated] Essential Tactics for YouTube Advertising with Banners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-supercharge-your-videos-with-these-proven-keyword-analyst-tools/"><u>[Updated] In 2024, Supercharge Your Videos with These Proven Keyword Analyst Tools</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-clock-watchdog-timeout-blue-screen-on-windows-11/"><u>Effective Solutions for the Clock Watchdog Timeout Blue Screen on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-solve-win32ksys-blue-screen/"><u>How To Solve win32k.sys Blue Screen</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>In 2024, The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mannheimer-versicherungen-ag/"><u>Mannheimer Versicherungen AG</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/march-into-madness-wondershare-filmora-coupon-code-for-easter-2024/"><u>March Into Madness Wondershare Filmora Coupon Code for Easter 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-web-analytics-with-cookiebots-cutting-edge-tools/"><u>Revolutionize Your Web Analytics with Cookiebot's Cutting-Edge Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-the-process-of-converting-zip-to-srt-for-2024/"><u>Streamlining the Process of Converting Zip to Srt for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-blue-screen-of-death-due-to-corrupted-usb-drivers-in-windows-10/"><u>Troubleshooting and Resolving Blue Screen of Death Due to Corrupted USB Drivers in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-how-to-resolve-asmthchisys-system-crashes/"><u>Troubleshooting BSOD: How to Resolve 'AsmThChiSys' System Crashes</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-ntoskrnlexe-related-blue-screen-of-death-issues-on-your-computer/"><u>Understanding and Fixing ntoskrnl.exe-Related Blue Screen of Death Issues on Your Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/undisclosed-snapshotting-mastering-invisible-image-capture-on-snapchat-for-2024/"><u>Undisclosed Snapshotting Mastering Invisible Image Capture on Snapchat for 2024</u></a></li>
 </ul></div>
 

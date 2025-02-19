@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Fixing Key Infrastructure Problems on Windows 11 Systems
-date: 2025-02-07T16:52:16.199Z
-updated: 2025-02-09T16:43:42.798Z
+date: 2025-02-17T17:24:36.491Z
+updated: 2025-02-19T16:27:22.365Z
 tags:
   - win11
   - win10
@@ -38,11 +38,11 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click **Yes** when you’re prompted to confirm.
@@ -65,6 +65,10 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your device drivers
 
  One of the common causes of event tracing fatal error is corrupt or missing device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -80,13 +84,13 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check to see if the Event Tracing Fatal Error issue is resolved. If yes, then congrats! If it still occurs, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Disable secure boot** and driver integrity checks
 
@@ -107,11 +111,15 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
 5. Click**UEFI Firmware Settings** , then click the **Restart** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Wait for your system to**restart** and you will enter the **UEFI BIOS** screen.
@@ -124,16 +132,8 @@ Here are the steps on how to disable driver integrity checks:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-2.jpg)
 2. Click**Yes** once prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
@@ -174,24 +174,22 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/1723199728306-solved-bad-system-config-info-blue-screen-error-quickly-and-easily/"><u>[SOLVED] Bad System Config Info Blue Screen Error | Quickly & Easily!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[Updated] 2024 Approved Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/"><u>[Updated] Cut & Paste Success Enhancing Videos for Instagram Shares</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-integrating-social-features-for-playlist-dissemination/"><u>[Updated] In 2024, Integrating Social Features for Playlist Dissemination</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-top-6-free-online-video-downloads/"><u>[Updated] Your Guide to Top 6 Free, Online Video Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/becoming-an-expert-in-fisheye-panoramic-shots-for-2024/"><u>Becoming an Expert in Fisheye Panoramic Shots for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-elite-selection-of-zero-turn-mowers-a-zdnet-exclusive/"><u>Discover the Elite Selection of Zero-Turn Mowers - A ZDNET Exclusive</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199728268-effortless-fix-for-dpc-watchguard-alert-resolve-the-compliance-mistake-swiftly/"><u>Effortless Fix for DPC Watchguard Alert: Resolve the Compliance Mistake Swiftly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/eliminate-dpc-guard-error-swiftly-your-ultimate-troubleshooting-solution/"><u>Eliminate DPC Guard Error Swiftly - Your Ultimate Troubleshooting Solution!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-windows-11-bad-pool-caller-mistake-solutions-unveiled/"><u>Fixing Windows 11 'Bad Pool Caller' Mistake - Solutions Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000007e-stop-error-in-windows-7-troubleshooting-guide/"><u>How to Fix 0X0000007E STOP Error in Windows 7 – Troubleshooting Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-resolved-fixing-the-infamous-memory-error-12707/"><u>Modern Warfare 3 Resolved: Fixing the Infamous Memory Error 12707</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet/"><u>New In 2024, The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/nmi-hardware-malfunction-bsod-mistake-corrected-a-comprehensive-guide/"><u>NMI Hardware Malfunction BSOD Mistake Corrected - A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199718770-spc-uses-statistical-methods-to-monitor-and-control-manufacturing-processes-for-quality-assurance/"><u>SPC Uses Statistical Methods to Monitor and Control Manufacturing Processes for Quality Assurance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199681876-winning-against-windows-10-crashes-solve-your-critical-process-died-bsod-errors-permanently/"><u>Winning Against Windows 10 Crashes: Solve Your 'Critical Process Died' BSOD Errors Permanently</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough/"><u>[Updated] 2024 Approved Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>[Updated] In 2024, Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips-for-2024/"><u>An All-Inclusive Subtitle Handbook From Basics to Advanced Tips for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-fltmgrsys-crash-problems-in-windows-operating-systems/"><u>Diagnosing and Solving 'fltmgr.sys' Crash Problems in Windows Operating Systems.</u></a></li>
+<li><a href="https://win-trending.techidaily.com/distinguishing-features-between-wedding-and-club-djing-an-insightful-comparison-by-pcdj-experts/"><u>Distinguishing Features Between Wedding & Club DJing – An Insightful Comparison by PCDJ Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-access-starting-up-your-pc-with-windows-11s-advanced-tools/"><u>Effortless Access: Starting Up Your PC with Windows 11'S Advanced Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/find-your-custom-box-top-10-online-stores-offering-tailored-packaging-for-2024/"><u>Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-error-usb-driver-issues-in-windows-10/"><u>Fixing the Blue Screen Error: USB Driver Issues in Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/harmonic-phone-chimes-the-step-by-step-to-cut-tamil-alerts/"><u>Harmonic Phone Chimes The Step-by-Step to Cut Tamil Alerts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-unhandled-exceptions-fixing-kmode-errors-on-win10win11-systems/"><u>How to Address Unhandled Exceptions: Fixing kMODE Errors on Win10/Win11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-irql-not-less-or-equal-error-on-windows-7-solutions-and-explanations/"><u>How to Fix 'IRQL Not Less or Equal' Error on Windows 7 - Solutions and Explanations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-blue-screen-of-death-with-dxgmmsn2sys-error-on-windows-11/"><u>How to Resolve Blue Screen of Death with 'dxgmmsn2.sys' Error on Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-5-free-mpeg-video-editing-tools-with-joining-feature-for-2024/"><u>New Top 5 Free MPEG Video Editing Tools with Joining Feature for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-problems-with-microphones-voice-pickup-a-step-by-step-fix/"><u>Resolving Problems with Microphone's Voice Pickup: A Step-by-Step Fix</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-system-service-exceptions-on-windows-7-comprehensive-guide/"><u>Resolving System Service Exceptions on Windows 7 - Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-15-awesome-collection-of-news-background-music/"><u>Updated In 2024, 15 Awesome Collection of News Background Music</u></a></li>
 </ul></div>
 

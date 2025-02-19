@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 10'S HAL Setup Failure: Expert Tips and Solutions"
-date: 2025-02-03T16:36:03.913Z
-updated: 2025-02-09T16:10:19.270Z
+date: 2025-02-14T17:14:23.784Z
+updated: 2025-02-19T16:52:30.376Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 
 **NOTE:** The procedures below are based on the premise that you are able to log into your computer desktop. If you can’t logon to your PC desktop, refer to[**this post here**](https://tools.techidaily.com/drivereasy/download/) to go to the Safe Mode of your computer and then carry out the steps below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **First Thing First**
 
  Before we go any further, please make sure that you’ve done the following things:
@@ -53,10 +49,6 @@ T  o make it easy to understand, a thread in your processor is asking to use res
  1) You’ve installed all available updates and packs on**Windows Update** . You can check by following the path:**Start button > Settings > Updates & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
 
@@ -88,6 +80,10 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -95,7 +91,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
@@ -107,19 +103,23 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When you restart your PC, the check will start as well. It’ll take up to 10 minutes to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-memory-diagnostics-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you don’t see any error here, it’s likely that your memory card is not causing any issues. Move on to next step.
@@ -134,25 +134,25 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/tools-check.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -192,24 +192,24 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>[New] 2024 Approved Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-streamline-your-podcasts-for-apple-podcasts-for-2024/"><u>[New] Streamline Your Podcasts for Apple Podcasts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[Updated] Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199729012-blue-screen-blues-heres-how-to-fix-stop-error-0x00000050-on-your-winodws-7-pc/"><u>Blue Screen Blues? Here's How to Fix Stop Error 0X00000050 on Your Winodws 7 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-correctly-address-and-repair-storportsys-bsod-errors-on-a-windows-10-machine/"><u>Comprehensive Strategies to Correctly Address and Repair Storport.sys BSOD Errors on a Windows 10 Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-techniques-to-keep-escape-from-tarkov-running-smoothly-on-desktop-systems/"><u>Debugging Techniques to Keep 'Escape From Tarkov' Running Smoothly on Desktop Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-youtubes-algorithm-behind-prominent-comments-for-2024/"><u>Decoding YouTube's Algorithm Behind Prominent Comments for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fix-guide-bad-system-config-info-blue-screen-troubleshooting/"><u>Easy Fix Guide: Bad System Config Info Blue Screen Troubleshooting</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-stop-bsod-error-caused-by-asmtxhci-driver-failure/"><u>Effective Strategies to Stop BSOD Error Caused by ASMTXHCI Driver Failure</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-resolved-windows-10-blue-screen-with-dxgmms2-error/"><u>Fixing the [RESOLVED] Windows 10 Blue Screen with DxGmmS2 Error</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-an-internal-power-failure-problem-in-windows-11-easily-and-quickly/"><u>How to Fix an Internal Power Failure Problem in Windows 11 Easily and Quickly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-10/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-video-editor-top-tier-clarity/"><u>In 2024, Revolutionary Video Editor Top-Tier Clarity</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-dxgkrnl-bluescreen-obstacle-in-windows-10-a-comprehensive-fix/"><u>Overcoming the 'Dxgkrnl' Bluescreen Obstacle in Windows 10: A Comprehensive Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-assistance-streamlining-the-use-of-file-explorer-in-windows-10/"><u>Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-windows-11-boot-failure-due-to-unreadable-drive-see-pictures/"><u>Step-by-Step Fix for Windows 11 Boot Failure Due to Unreadable Drive – See Pictures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-diverse-world-of-uavs/"><u>The Diverse World of UAVs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlock-seamless-video-conversion-youtube-to-dailymotion-for-2024/"><u>Unlock Seamless Video Conversion YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-captivating-youtube-closures-expert-guides-included/"><u>[New] 2024 Approved Crafting Captivating YouTube Closures - Expert Guides Included</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-demystifying-the-instagram-video-constraint-for-2024/"><u>[New] Demystifying the Instagram Video Constraint for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-taking-a-step-back-inverting-image-queries-in-instagram/"><u>[New] In 2024, Taking a Step Back Inverting Image Queries in Instagram</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/beat-the-bluescreen-bug-expert-techniques-for-in-page-kernel-data-fix-and-optimization-strategies/"><u>Beat the Bluescreen Bug: Expert Techniques for In-Page Kernel Data Fix and Optimization Strategies</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bertelsmann/"><u>Bertelsmann</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-11/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-recover-from-dxgkrnlsys-bsod-error-in-your-windows-system/"><u>How to Recover From 'dxgkrnl.sys' BSOD Error in Your Windows System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-razr-40-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Razr 40 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/illuminate-iphone-clips-simple-solutions-to-lighten-video/"><u>Illuminate iPhone Clips Simple Solutions to Lighten Video</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-f23-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo F23 5G Phone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-screencapturegooglemeet-iphone-and-android-methods/"><u>In 2024, ScreenCaptureGoogleMeet IPhone and Android Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-who-takes-the-lead-in-live-action-footage-hero-4-or-x1000v/"><u>In 2024, Who Takes The Lead In Live-Action Footage, Hero 4 or X1000V?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/navigating-through-windows-11s-quickboot-to-advanced-options/"><u>Navigating Through Windows 11’S QuickBoot to Advanced Options</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-unfixable-whea-uncorrectable-error-a-step-by-step-guide/"><u>Resolving the Unfixable 'WHEA Uncorrectable Error': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-control-center-mastering-management-on-windows-11/"><u>Securing Your Control Center: Mastering Management on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-fixing-the-blue-screen-of-death-caused-by-faulty-usb-drivers-in-windows-10/"><u>Step-by-Step Guide: Fixing the Blue Screen of Death Caused by Faulty USB Drivers in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-picks-selecting-the-ultimate-prebuilt-gaming-machine-tailored-to-you/"><u>Top Picks: Selecting the Ultimate Prebuilt Gaming Machine Tailored to You</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-fat-drive-issues-on-windows-10/"><u>Troubleshooting and Repairing FAT Drive Issues on Windows 10</u></a></li>
 </ul></div>
 

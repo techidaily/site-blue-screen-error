@@ -1,7 +1,7 @@
 ---
 title: Eliminating BSOD Errors Caused by Inadequate Memory Management in Windows 10 & 11
-date: 2025-02-06T16:17:21.341Z
-updated: 2025-02-09T16:49:13.623Z
+date: 2025-02-17T16:39:28.434Z
+updated: 2025-02-19T16:23:24.381Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -34,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
@@ -54,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Restart** if prompted by System Configuration. Then see if your computer can boot to Windows 10 normally.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
 
@@ -76,16 +76,12 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Yes** when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type**sfc /scannow** in pop-up window and hit Enter to run it. Wait till Verification**100%** complete.
@@ -116,10 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
 
 ## Solution 4\. Check for Windows Updates
@@ -130,9 +122,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -158,24 +158,19 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram/"><u>[New] In 2024, Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>[New] In 2024, Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>[New] Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-recover-lost-watch-visual-preview/"><u>[New] Recover Lost Watch Visual Preview</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-swift-guide-eliminating-images-backdrops-with-affinity-photo/"><u>[Updated] 2024 Approved Swift Guide Eliminating Images' Backdrops with Affinity Photo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[Updated] In 2024, The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-smooth-file-migration-to-computer-5-proven-techniques/"><u>[Updated] Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-superior-mkv-player-pcandroid-experience/"><u>2024 Approved Superior MKV Player PC/Android Experience</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-to-correctly-address-internal-errors-within-the-video-scheduler-of-windows-11/"><u>Comprehensive Solutions to Correctly Address Internal Errors Within the Video Scheduler of Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-fatal-error-using-event-tracer-on-your-windows-10-pc-now-solved/"><u>How to Fix a Fatal Error Using Event Tracer on Your Windows 10 PC - Now Solved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-driververifierdetectedviolation-blue-screen-of-death-in-windows-10/"><u>How to Resolve the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-archive-video-team-hangouts-effectively/"><u>In 2024, How to Archive Video Team Hangouts Effectively</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-webs-winners-circle-worlds-most-subscribed-youtubers/"><u>In 2024, Web's Winners Circle World's Most Subscribed YouTubers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-blue-screen-error-troubleshooting-cmusbdacsys-on-pcs/"><u>Overcoming the Blue Screen Error: Troubleshooting CMUSBDAC.sys on PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-blue-screen-of-death-due-to-win32kfullsys-errors/"><u>Resolving Windows Blue Screen of Death Due to Win32KFull.sys Errors</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshoot-and-resolve-blue-screen-errors-from-system-pte/"><u>Step-by-Step Tutorial: Troubleshoot and Resolve 'Blue Screen' Errors From System PTE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netiosys-bsod-errors-on-your-windows-pc-step-by-step-tips/"><u>Troubleshooting NETIO.SYS BSoD Errors on Your Windows PC: Step-by-Step Tips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-sudden-bsod-errors-due-to-kernel-mode-issues-in-windows-11/"><u>Troubleshooting Sudden BSOD Errors Due to Kernel Mode Issues in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-guide-to-softening-volume-levels-on-lumafusion/"><u>[New] In 2024, The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-japanese-aesthetics-on-the-go-applying-anime-filters-to-snaps/"><u>[New] Japanese Aesthetics on the Go Applying Anime Filters to Snaps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unleash-potential-effective-desktop-sharing-on-livestreaming-platforms/"><u>[Updated] In 2024, Unleash Potential Effective Desktop Sharing on Livestreaming Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-meme-masters-at-your-fingertips-app/"><u>2024 Approved Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x8b-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X8b</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-to-address-critical-system-info-issue-causing-your-pc-to-crash/"><u>Easy Fixes to Address Critical System Info Issue Causing Your PC to Crash</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-to-overcome-memory-management-blue-screen-in-windows-11/"><u>Effective Solutions to Overcome 'Memory Management' Blue Screen in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-nxmemory-execution-issues-on-windows-a-step-by-step-guide/"><u>Fixing NXMemory Execution Issues on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-kernel-heap-instability-issues-in-your-system/"><u>How to Address Kernel Heap Instability Issues in Your System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-a-failed-ntfssys-error-and-stop-the-blue-screen-in-windows-10/"><u>How to Repair a Failed NTFS.sys Error and Stop the Blue Screen in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-90-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor 90 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-gt-3-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme GT 3 for Parents | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-ntfssys-bsod-issues-effective-solutions-for-windows-10-users/"><u>Overcoming NTFS.sys BSOD Issues: Effective Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide-for-2024/"><u>The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide for 2024</u></a></li>
 </ul></div>
 

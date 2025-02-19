@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the 'EA' BSOD Mistake: A Complete Fix Tutorial"
-date: 2025-02-02T16:43:52.167Z
-updated: 2025-02-09T16:32:49.458Z
+date: 2025-02-17T17:14:07.224Z
+updated: 2025-02-19T17:54:08.978Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
  Sometimes, this error could be caused by software conflict, although not as common as the two causes above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change SATA AHCI controller driver
@@ -59,18 +59,22 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/open-device-manager.png)
 2. Expand **IDE ATA/ATAPI Controllers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/IDE-ATA-ATAPI-controller.png)
 3. Right-click **SATA AHCI controller** and click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Standard-sata-ahci-controller.png)
 4. **To verify that you’ve chosen the correct controller** : go to the **Driver** tab, click **Driver Details** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Driver-details.png)  
  Make sure the **iaStorA.sys** is listed as a driver. Click**OK** to exit.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/Drvier-files.png)  
  If you’re seeing**storahci.sys** listed here, move on to[](https://tools.techidaily.com/drivereasy/download/) _**[Fix 2](https://tools.techidaily.com/drivereasy/download/)**_  for more help.  
@@ -84,20 +88,24 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver1.png)
 7. Click **Let me pick from a list of device drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver2.png)
 8. Click **Standard SATA AHCI Controller** , then click **Next** . Finish the rest of the procedure as instructed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver3.png)
 9. **Restart** your computer after for the change to take effect.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/update-driver4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may need to repeat the same procedure again every time after your Windows update. This is a normal situation. So there is no need for you to worry about it.
@@ -115,16 +123,16 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check hardware and software compatibility
 
@@ -142,10 +150,6 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
 
  If you are not sure what changes you have done, you might want to do a[**system restore**](https://tools.techidaily.com/drivereasy/download/) , to help you go back to the previous stage of your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Perform a disk check
 
  A blue screen of death error could indicate a disk problem. You may want to make sure that your disk is at a good state:
@@ -155,11 +159,15 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
  When prompted with the administrator permission, click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/cmd1.png)
 2. On your keyboard, type **chkdsk /f /r** , then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/cmd3.png)
 3. Press **Y** on your keyboard.  
@@ -168,10 +176,6 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
 
 **IMPORTANT:** Disk check will start the next time you boot your PC and it might take some time to complete (could be a day for some). If, when you restart, you don’t have time to wait for the disk check to complete, you can skip it. You’ll need to reschedule it again, as described above, though.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Run Event Viewer
 
  This method does not provide you with a solution, but you might be able to find the culprit driver or device that is causing you the DPC Watchdog Violation blue screen error.
@@ -179,10 +183,6 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
 1. On your keyboard, press the**Windows logo key** and**X** at the same time. Then click**Event Viewer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/event-viewer.png)
 2. On the left side of the panel, click**Windows Logs** , and then**System** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/event-viewer1.png)
 3. In the middle part of the panel, you will be able to some entries. Check the ones marked by**Error** or**Warning** , then you should be able to see the detailed information of what exact went wrong at a certain time range.  
@@ -211,19 +211,24 @@ In addition, o ne reason for **DPC Watchdog Violation** is outdated drivers for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-wheauncorrectableerror/"><u>[Solved] WHEA_UNCORRECTABLE_ERROR</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-artistry-the-finest-android-drawing-apps-reviewed/"><u>[Updated] Elevate Your Artistry The Finest Android Drawing Apps Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-error-resolution-how-to-fix-iastorasys-bsod/"><u>Blue Screen Error Resolution: How to Fix iastora.sys BSOD</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-overcoming-the-ntoskrnlexceptionnothandled-bsod-error-in-windows-computers/"><u>Expert Tips for Overcoming the NTOSKRNL_EXCEPTION_NOT_HANDLED BSOD Error in Windows Computers</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-bsod-troubleshooting-attempt-to-write-to-read-only-memory-issue/"><u>Fixing BSOD: Troubleshooting 'Attempt to Write to Read-Only Memory' Issue</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v29e-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo V29e</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-network-tools-using-the-ping-command-effectively/"><u>Mastering Network Tools: Using the 'Ping' Command Effectively</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>New 2024 Approved A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/transform-your-playtime-mastering-ps4-live-recordings-with-obs-for-2024/"><u>Transform Your Playtime Mastering PS4 Live Recordings with OBS for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-hardware-abstraction-layer-problems-during-windows-11-boot/"><u>Troubleshooting and Fixing Hardware Abstraction Layer Problems During Windows 11 Boot</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-for-overcoming-internal-errors-in-video-planning-tools-on-windows-11/"><u>Ultimate Solution for Overcoming Internal Errors in Video Planning Tools on Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4vm4a-mp3/"><u>오픈소스에서 제공하는 M4V/M4A 파일을 무료로 MP3로 변환 - 모바이핇비</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-impactful-youtube-channel-logo-tips-for-2024/"><u>[New] Crafting Impactful YouTube Channel Logo Tips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-shared-laughter-to-your-storage-twitters-gif-guide-for-2024/"><u>[New] From Shared Laughter to Your Storage Twitter's GIF Guide for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199748754-solved-dpc-watchdog-violation-error-quickly-and-easily/"><u>[SOLVED] DPC Watchdog Violation Error | Quickly & Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asmr-magic-made-simple-high-performance-at-economic-prices-for-2024/"><u>ASMR Magic Made Simple High Performance at Economic Prices for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-diagnosing-and-repairing-fltrmgrsys-blue-screen-of-death-in-windows/"><u>Comprehensive Guide: Diagnosing and Repairing Fltrmgr.sys Blue Screen of Death in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-when-key-services-trigger-blue-screen-of-death-in-windows-11/"><u>Effective Solutions for When Key Services Trigger Blue Screen of Death in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199739845-environmental-factors-can-affect-tool-accuracy-requiring-adjustments-to-maintenance-schedules/"><u>Environmental Factors Can Affect Tool Accuracy, Requiring Adjustments to Maintenance Schedules</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x0000001e-bsod-blue-screen-of-death-on-windows/"><u>Fixing the 0X0000001E BSOD (Blue Screen of Death) on Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-ntkrnlmpexe-bsod-comprehensive-troubleshooting-guide/"><u>Fixing the Notorious ntkrnlmp.exe BSOD: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-mobile-overlay-tools-top-10-innovative-photo-enhancers-for-2024/"><u>Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-overcoming-the-most-frequent-youtube-short-hurdles/"><u>In 2024, Overcoming the Most Frequent YouTube Short Hurdles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a15-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A15 4G FRP Bypass</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-videopad-video-editor-review-pros-cons-and-alternatives-for-2024/"><u>New Videopad Video Editor Review Pros, Cons, and Alternatives for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-critical-driver-corrupted-expool-windows-10-challenge-expert-solutions/"><u>Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cketing-your-youtube-business-the-famebit-approach-to-sponsorships-for-2024/"><u>Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sly-satire-crafting-digital-chuckles-on-kapwing/"><u>Sly Satire Crafting Digital Chuckles on Kapwing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solutions-for-windows-11-bsod-issues-a-comprehensive-approach/"><u>Solutions for Windows 11 BSOD Issues – A Comprehensive Approach</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-igdkmd64sys-causing-bsod-on-windows-10-solution-walkthrough/"><u>Understanding and Repairing igdkmd64.sys Causing BSOD on Windows 10 [Solution Walkthrough]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-cartoon-creativity-transforming-selfies-into-stories-for-2024/"><u>Unlock Cartoon Creativity Transforming Selfies Into Stories for 2024</u></a></li>
 </ul></div>
 

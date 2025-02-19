@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions
-date: 2025-02-03T16:35:45.926Z
-updated: 2025-02-09T16:23:04.654Z
+date: 2025-02-13T16:45:22.077Z
+updated: 2025-02-19T16:30:30.855Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 3. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Check for Windows Updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1\. Performing clean boot
 
  1) On your keyboard, press the **Windows logo key**  and **R**  (at the same time) to invoke the Run command.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Choose to view on**Services** pane. Click**Hide all Microsoft services** \>**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-39.jpg)
@@ -41,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  4) Go on to choose to view on**Startup** pane. Click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-32.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) On Task Manager window, tap on**Startup** pane. Then highlight the unnecessary services except Windows safe services and click**Disable** .
 
@@ -59,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2\. Running System File Checker
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
  4) Reboot your Windows 10 into normal mode. See if the Blue screen has gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 3\. Update your drivers**
 
  The blue screen errors are always caused by the incompatible, outdated or corrupted drivers. Therefore, we highly recommend updating device drivers on your Windows to ensure your system run properly whenever the blue screen shows on your computer.
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e56ed6c56f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -113,6 +117,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e574b9b9f3.jpg)
 
  4) After updating drivers, please restart your computer to make the new drivers take effect. Check to see if the blue screen is gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4\. Check for Windows Updates
 
@@ -122,17 +130,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click **Check for updates** on the right pane of pop-up window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Go on to follow the on-screen instructions to install the updates.
 
@@ -158,16 +158,18 @@ Your any comment or feedback is welcomed coming below, thanks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-critical-service-failed-bsod-on-windows-11/"><u>[SOLVED] CRITICAL SERVICE FAILED BSOD on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>2024 Approved Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-edit-like-a-pro-with-these-top-5-mac-videography-suites/"><u>2024 Approved Edit Like a Pro with These Top 5 Mac Videography Suites</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-network-service-issues-causing-blue-screen-in-win11/"><u>Diagnosing & Correcting 'NETWORK SERVICE' Issues Causing Blue Screen in Win11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-the-bluescreen-error-due-to-cmusbdacsys-malfunction-in-windows-os/"><u>How to Stop the Bluescreen Error Due to 'CMUSBDAC.sys' Malfunction in Windows OS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-guide-to-share-youtube-video-on-facebook/"><u>In 2024, Guide to Share YouTube Video on Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/is-itop-a-must-have-screencast-tool/"><u>Is ITop a Must-Have Screencast Tool?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-challenges-in-driver-unloading-with-incomplete-operations-a-successful-fix/"><u>Overcoming Challenges in Driver Unloading with Incomplete Operations – A Successful Fix</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establishing-service-connections-in-windows-1011-after-ms-sql-hiccup/"><u>Re-Establishing Service Connections in Windows 10/11 After MS SQL Hiccup</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-atikmpagsys-errors-a-step-by-step-guide-for-smooth-video-on-windows-10/"><u>Resolving 'Atikmpag.sys' Errors: A Step-by-Step Guide for Smooth Video on Windows 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/s-top-avchd-video-editing-tools-compared-for-2024/"><u>S Top AVCHD Video Editing Tools Compared for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-iphone-users-learn-simple-screen-recording-now/"><u>[New] Iphone Users, Learn Simple Screen Recording Now</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-step-by-step-link-up-on-desktop-and-mobile/"><u>[Updated] 2024 Approved Step-by-Step Link Up on Desktop and Mobile</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-youtube-content-manager-toolkit/"><u>2024 Approved Exploring the YouTube Content Manager Toolkit</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mbrgpt-uefi/"><u>重建MBR分区结构：从GPT UEFI(硬件安全启动模式)下车上的指南</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/how-to-fix-a-malfunctioning-graphics-card-installation-tips-by-yl-software/"><u>How to Fix a Malfunctioning Graphics Card Installation, Tips by YL Software</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-hal-initialization-failed-error-in-windows-11-expert-tips-and-tricks/"><u>How to Overcome 'Hal Initialization Failed' Error in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/kodi-cant-connect-solve-the-mystery-behind-unable-to-fetch-directory-data/"><u>Kodi Can't Connect? Solve the Mystery Behind 'Unable to Fetch Directory Data'</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/mastering-classpnpsys-error-resolution-for-a-smooth-experience-on-windows-117-systems/"><u>Mastering CLASSPNP.SYS Error Resolution for a Smooth Experience on Windows 11/7 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199745004-proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-in-page-kernel-data-error-and-blue-screen-of-death-comprehensive-fix-guide/"><u>Resolved: In-Page Kernel Data Error and Blue Screen of Death - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-glitch-in-windows-10-a-comprehensive-fix-guide/"><u>Resolving the 'Bad Pool Caller' Glitch in Windows 10: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-the-latest-release-of-my-ideal-gamepad-holds-a-special-place-in-my-heart/"><u>Why the Latest Release of My Ideal Gamepad Holds a Special Place in My Heart</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/yourphoneexe-friend-or-foe-in-latest-windows-versions/"><u>YourPhone.exe - Friend or Foe in Latest Windows Versions?</u></a></li>
 </ul></div>
 

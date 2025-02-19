@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Blue Screen Error (Code 0X0000007E) on Your Windows 7 Machine
-date: 2025-02-08T16:08:01.370Z
-updated: 2025-02-09T16:05:55.406Z
+date: 2025-02-18T16:33:31.742Z
+updated: 2025-02-19T16:11:00.959Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
 **Note** : You need to logon to your PC desktop to try the fixes below. If you’re having trouble logging in, feel free to leave us comments and we’ll see what we can do to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. Undo recent changes**
 
  Faulty hardware or fail to install hardware right is closely related to the blue screen of death error 0x00000050\.
@@ -37,15 +41,15 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
  Check if your existing hardware has failed. If you find any not working hardware, remove them as well or replace them with well-functioned ones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **2\. Rum Memory Diagnose and Disk Check**
 
  If your RAM or hard drive is defective, your PC will shut down to protect you from further damage. You can run a memory check and a disk check to see if you need to replace them with new ones:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f04d88bb.png) and type in**cmd** . Right-click**cmd** and click**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1ed24a366.jpg)
 
@@ -54,24 +58,28 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad1f3b7592e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type in**chkdsk /f /r** . Then press**Enter** . Then press**Y** so your system will help you scan for hard drive problems the next time you restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2087e3dbb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) On your keyboard, press the**Windows logo key** and**R** at the same time. Type in**mdsched.exe** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad20ccb9e98.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure you’ve all important files then click   **Restart now and check for problems (recommended)** . Your PC will restart right away.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad210bcaf6c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) You’ll see the Memory check going. The process could take some time.
 
@@ -80,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
  7) When the memory check finishes, your PC will start checking your disks. It’ll take some time to finish.
 
  8) If memory check and disk check report problems with your RAM or hard drive, you might need to get your RAM or hard drives replaced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3\. Update device drivers**
 
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad23e1b9457.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -130,17 +130,19 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sierras-best-curated-list-of-exceptional-mac-video-tools/"><u>[New] Sierra's Best Curated List of Exceptional Mac Video Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-economical-apple-watch-se/"><u>Comprehensive Review of the Economical Apple Watch SE</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199747833-fix-windows-10-thread-stuck-in-device-driver-error-easily/"><u>Fix Windows 10 Thread Stuck in Device Driver Error. Easily</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-drivercorruptedexpool-error-in-windows-11-a-comprehensive-guide/"><u>Fixing DRIVER_CORRUPTED_EXPOOL Error in Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fixing-downloadinstall-problems-with-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fixing Download/Install Problems with Age of Empires IV on Microsoft's Platform</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11x-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-blue-screen-errors-caused-by-ntkrnlmpexe-in-windows/"><u>How to Stop Blue Screen Errors Caused by ntkrnlmp.exe in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-apples-latest-upgrade-the-new-airpods-pro-revealed-a-detailed-analysis/"><u>Inside Apple's Latest Upgrade: The New AirPods Pro Revealed - A Detailed Analysis</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-storage-errors-on-windows-11-tackling-the-fat-file-system-failures/"><u>Overcoming Storage Errors on Windows 11: Tackling the FAT File System Failures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rejuvenate-printer-output-on-win10-systems/"><u>Rejuvenate Printer Output on Win10 Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-irql-not-less-or-equal-errors-in-windows-7-a-comprehensive-guide/"><u>Resolving IRQL Not Less or Equal Errors in Windows 7 - A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-yuva-2-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Yuva 2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-brief-tips-on-easy-audiovideo-recording-in-gotomeeting/"><u>[New] Brief Tips on Easy Audio/Video Recording in GoToMeeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-expert-mastering-video-identity-on-youtube-for-2024/"><u>[New] From Novice to Expert Mastering Video Identity on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-conversion-made-simple-3-actionable-solutions/"><u>[Updated] SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-and-fixes-for-overcoming-fatal-pnp-detected-error-messages-in-windows-11/"><u>Expert Tips and Fixes for Overcoming Fatal 'PNP Detected' Error Messages in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-dxgmms2sys-blue-screen-error-on-win-10/"><u>How to Troubleshoot and Fix Dxgmms2.sys Blue Screen Error on Win 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-splitcam-reviewed-topping-in-video-recording-technology/"><u>In 2024, SplitCam Reviewed Topping in Video Recording Technology?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/netwtw04sys-bluescreen-fix-effective-techniques-for-windows-10-users/"><u>Netwtw04.sys Bluescreen Fix - Effective Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-updating-your-dell-inspiron-70017432g7-laptops-drivers-with-simple-steps/"><u>Quick Guide: Updating Your Dell Inspiron 7001/7432G7 Laptop's Drivers with Simple Steps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-classpnpsys-issues-on-windows-11-and-7-a-comprehensive-guide/"><u>Resolving CLASSPNP.SYS Issues on Windows 11 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-pnpdetectedfatalerror-glitch-on-windows-11-systems/"><u>Resolving the 'PNP_Detected_Fatal_Error' Glitch on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failed-to-log-in-issue-on-windows-10-and-11-a-step-by-step-guide/"><u>Solving ‘User Profile Service’ Failed to Log In Issue on Windows 10 and 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blueprint-to-publicizing-your-private-ai-discussions/"><u>The Blueprint to Publicizing Your Private AI Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-7-steps-for-stellar-cooking-films-for-2024/"><u>The Ultimate Guide 7 Steps for Stellar Cooking Films for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-blue-screen-errors-related-to-read-only-memory-attempts/"><u>Understanding and Resolving Blue Screen Errors Related to Read-Only Memory Attempts</u></a></li>
 </ul></div>
 

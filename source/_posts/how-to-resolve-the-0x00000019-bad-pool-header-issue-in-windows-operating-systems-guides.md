@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the 0X00000019 Bad Pool Header Issue in Windows Operating Systems [GUIDES]
-date: 2025-02-04T16:20:31.073Z
-updated: 2025-02-09T16:14:39.730Z
+date: 2025-02-15T16:34:40.223Z
+updated: 2025-02-19T17:04:30.989Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 **IMPORTANT:** If you can’t boot into Windows properly, you’ll need to **[enter safe mode](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) to enter safe mode with networking in order to try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run SFC and DISM
@@ -41,16 +41,12 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click **Yes** when you’re prompted to confirm.
 3. In the command prompt window, type **sfc /scannow** and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/2.jpg)  
  It’ll take some time for SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -64,7 +60,7 @@ If you run into the**Event Tracing Fatal Error** blue screen of death, don’t w
  Wait a while for the whole process to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Restart your computer for the change to take effect.
@@ -108,15 +104,11 @@ Here are the steps on how to disable secure boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/settings-1.jpg)
 2. In the left pane, click**Recovery** . Then in Advanced startup, click**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/restart-1.jpg)
 3. In the**Choose an option** screen, click**Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/troubleshoot-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/advanced-options.jpg)
@@ -135,9 +127,17 @@ Here are the steps on how to disable driver integrity checks:
 3. In the command prompt window, type**bcdedit.exe /set nointegritychecks on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have disabled Secure Boot and driver integrity checks. Check to see if the event tracing fatal error blue screen issue is resolved. If it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Hard reset your PC
 
@@ -174,14 +174,24 @@ Hopefully the event tracing fatal error blue screen issue is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-thors-mighty-saga-ragnarok-dawns/"><u>[Updated] 2024 Approved Thor's Mighty Saga Ragnarok Dawns</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-creating-captivating-hdr-portraits-in-10-steps/"><u>[Updated] Creating Captivating HDR Portraits in 10 Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-intro-editors-for-device-applications/"><u>[Updated] Leading Intro Editors for Device Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nurturing-relationships-inspiring-connections-with-your-viewers/"><u>[Updated] Nurturing Relationships Inspiring Connections With Your Viewers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>2024 Approved The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-the-classpnpsys-missing-driver-on-windows-11-and-7-solved/"><u>Comprehensive Guide to Fixing the classpnp.sys Missing Driver on Windows 11 and 7 - Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-eliminating-stop-code-for-ndis-errors-on-pcs/"><u>Comprehensive Guide: Eliminating 'Stop Code' For NDIS Errors on PCs</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-connectivity-issues-solving-the-network-performance-problem-in-windows-11/"><u>Overcoming Connectivity Issues: Solving the 'Network Performance' Problem in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-windows-11-internal-power-error-fixes/"><u>Winning the Battle Against Windows 11: Internal Power Error Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-horizon-hurdlers-celebrating-the-most-staying-power-drones/"><u>[New] 2024 Approved Horizon Hurdlers Celebrating the Most Staying Power Drones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfect-your-virtual-meeting-vibes-google-meet-background-tips-for-2024/"><u>[New] Perfect Your Virtual Meeting Vibes Google Meet Background Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-top-10-hd-webcams-reviewed/"><u>[Updated] The Essential Top 10 HD Webcams Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertir-archivos-m4v-a-formato-mkv-sin-coste-guia-de-movavi/"><u>Convertir Archivos M4V a Formato MKV Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-with-error-0xc000021a-on-windows-11-and-8-detailed-tutorial/"><u>Fixing 'Blue Screen of Death' With Error 0xC000021A on Windows 11 & 8 - Detailed Tutorial</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-blue-screen-of-death-solutions-for-dxgmms2sys-in-windows-11/"><u>Fixing Blue Screen of Death: Solutions for dxgmms2.sys in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-windows-bsod-error-0x0000001a-step-by-step-solution/"><u>How to Fix Windows BSOD Error 0X0000001A: Step-by-Step Solution</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-windows-11-power-malfunction/"><u>How To Troubleshoot and Solve Windows 11 Power Malfunction</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-pova-5-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Pova 5 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-blaze-2-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lava Blaze 2 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-1/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-unmountablebootvolume-bsod-issue-in-windows-11-comprehensive-guide/"><u>Resolving the UNMOUNTABLE_BOOT_VOLUME BSOD Issue in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-persistent-blue-screen-due-to-dxgkrnl-in-windows-11-systems/"><u>Step-by-Step Fix for the Persistent Blue Screen Due to Dxgkrnl in Windows 11 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-internal-error-of-video-schedulers-for-windows-10-users/"><u>Troubleshooting and Fixing the Internal Error of Video Schedulers for Windows 10 Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-kernel-driven-system-failures-due-to-memory-conflicts-windows-1011/"><u>Troubleshooting Kernel Driven System Failures Due to Memory Conflicts (Windows 10/11)</u></a></li>
+<li><a href="https://facebook.techidaily.com/update-your-childs-profile-a-parental-guide-to-messenger-kids/"><u>Update Your Child's Profile: A Parental Guide to Messenger Kids</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-free-mp4-editor-for-windows-8-edit-videos-like-a-pro/"><u>Updated In 2024, Best Free MP4 Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
 

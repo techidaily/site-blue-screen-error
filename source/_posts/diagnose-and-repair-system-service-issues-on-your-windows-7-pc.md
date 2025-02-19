@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair System Service Issues on Your Windows 7 PC
-date: 2025-02-06T16:36:06.416Z
-updated: 2025-02-09T16:31:28.632Z
+date: 2025-02-16T17:17:40.702Z
+updated: 2025-02-19T16:19:18.279Z
 tags:
   - win11
   - win10
@@ -70,10 +70,6 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update Windows
 
  According to Microsoft, many blue screen errors can be fixed by simply updating Windows to the latest version. This is probably because an outdated system could have compatibility issues that can cause glitches like blue screen of death errors. To make sure that you have the latest available updates installed:
@@ -85,6 +81,10 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -105,6 +105,10 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -115,7 +119,7 @@ HYPERVISOR ERROR blue screen of death on Windows
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Adjust Hyper-V settings
@@ -126,10 +130,6 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Select**Turn Windows features on or off** on the left side menu.  
 
@@ -139,11 +139,23 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-6.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer if you make changes here.
 
  Then see if the blue screen of death HYPERVISOR ERROR is still seen. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Memory Diagnostic tool
 
@@ -172,14 +184,22 @@ HYPERVISOR ERROR blue screen of death on Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the HYPERVISOR ERROR. Then please[**move on to the next method**](https://tools.techidaily.com/drivereasy/download/) .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM checks
@@ -188,19 +208,11 @@ HYPERVISOR ERROR blue screen of death on Windows
 
 To run these tools:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6.1 Scan corrupt files with System File Checker
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -214,19 +226,11 @@ sfc /scannow
 
  4) After the scan, run your computer like how you normally would to see if the blue screen error HYPERVISOR ERROR still remains. If so, move on to the next test:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6.2 Run dism.exe
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -250,10 +254,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Repair damaged and corrupted system files
 
  If the built-in tools from Microsoft don’t help to repair the damaged and corrupted system files, or if you run into problems running the above tools, you can consider a third-party tool like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  : it can automate the entire repair process without you doing anything else other than a couple of clicks.
@@ -263,6 +263,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -270,10 +274,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Check the crash logs (or dump files)
 
@@ -305,16 +305,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-construct-powerpoint-into-digital-film/"><u>[New] 2024 Approved Construct PowerPoint Into Digital Film</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-charting-a-course-for-growth-precise-youtube-stats-from-social-blades-hub/"><u>[Updated] In 2024, Charting a Course for Growth Precise YouTube Stats From Social Blade's Hub</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>2024 Approved Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/defeated-error-0xc0000017-proven-repair-strategies-for-a-healthy-computer-system/"><u>DEFEATED: Error 0xC0000017 - Proven Repair Strategies for a Healthy Computer System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199723510-epigenetics-explores-how-environmental-factors-can-modify-gene-expression-and-influence-the-risk-of-heart-disease-without-changing-the-dna-sequence/"><u>Epigenetics Explores How Environmental Factors Can Modify Gene Expression and Influence the Risk of Heart Disease without Changing the DNA Sequence.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-error-code-0x0000007e-in-windows-7-a-comprehensive-guide/"><u>Fixing the 'Blue Screen of Death' Error Code 0X0000007E in Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-correct-system-services-failure-on-your-windows-11-pc/"><u>How to Troubleshoot and Correct System Services Failure on Your Windows 11 PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/melodic-masterpieces-top-sites-for-legal-skype-files-for-2024/"><u>Melodic Masterpieces Top Sites for Legal Skype Files for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/overcoming-internal-energy-disruptions-on-your-pc-running-windows-11/"><u>Overcoming Internal Energy Disruptions on Your PC Running Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prestigious-music-archives-for-vfx-artists/"><u>Prestigious Music Archives for VFX Artists</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/superior-stellar-file-destruction-pro-the-go-to-scheduled-eraser-for-mac-users/"><u>Superior Stellar File Destruction Pro: The Go-To Scheduled Eraser for MAC Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>[New] In 2024, The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smooth-video-in-every-shot-prime-mobile-cameras-with-ois/"><u>[Updated] Smooth Video in Every Shot Prime Mobile Cameras With OIS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-channel-description-perfection/"><u>2024 Approved The Ultimate Guide to Channel Description Perfection</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bugcode-ndis-error-corrected-step-by-step-solution-guide/"><u>Bugcode NDIS Error Corrected: Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://discover-help.techidaily.com/essential-system-specifications-needed-for-successful-windows-os-setup-guidance-by-yl-computing/"><u>Essential System Specifications Needed for Successful Windows OS Setup - Guidance by YL Computing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-fixing-windows-11-page-fault-in-nonpaged-area-errors/"><u>Expert Tips for Fixing Windows 11 'Page Fault in Nonpaged Area' Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-windows-11-bad-pool-caller-mistake-solutions-unveiled/"><u>Fixing Windows 11 'Bad Pool Caller' Mistake - Solutions Unveiled</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-0x0000007e-stop-error-in-windows-7-troubleshooting-guide/"><u>How to Fix 0X0000007E STOP Error in Windows 7 – Troubleshooting Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-critical-system-malfunctions-during-event-tracking-on-windows-11-success-stories-and-solutions/"><u>Overcoming Critical System Malfunctions During Event Tracking on Windows 11 – Success Stories & Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premium-uav-selection-in-stock/"><u>Premium UAV Selection in Stock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-hal-initialization-failed-error-in-windows-11-step-by-step-solutions/"><u>Resolving the 'HAL Initialization Failed' Error in Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-the-vanishing-mouse-pointer-in-windows-10/"><u>Troubleshooting: Fixing the Vanishing Mouse Pointer in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-productivity-leveraging-microsoft-copilot-for-enhanced-windows-11-performance/"><u>Unleashing Productivity: Leveraging Microsoft Copilot for Enhanced Windows 11 Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-13-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 13 5G Phone Network-Ready</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win32ksys-bluescreen-fixes-comprehensive-troubleshooting-steps/"><u>Win32k.sys Bluescreen Fixes: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-10-mov-4/"><u>Windows 10 MOVファイルの回転手順 4つの効果的な解決策</u></a></li>
 </ul></div>
 

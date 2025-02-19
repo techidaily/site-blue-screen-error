@@ -1,7 +1,7 @@
 ---
 title: "Solving the Blue Screen of Death: Fixing Video Dxgkrnl Errors in Windows 10"
-date: 2025-02-05T16:07:57.256Z
-updated: 2025-02-09T16:00:49.669Z
+date: 2025-02-14T16:02:14.935Z
+updated: 2025-02-19T17:11:45.973Z
 tags:
   - win11
   - win10
@@ -38,18 +38,18 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_582eaf9006535.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) T  ype **chkdsk /f /r** , then p  ress **Enter** on your keyboard.
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
  7) See if the **Video Scheduler Internal Error** is gone now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2: Update device drivers**
 
@@ -101,11 +101,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -120,7 +116,15 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf648ccb5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) See if the **Video Scheduler Internal Error** is fixed now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Reinstall faulty drivers**
 
@@ -134,21 +138,17 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted with the confirmation, click **OK** to continue.
 
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Other Work-arounds**
@@ -191,22 +191,24 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-ideal-set-best-8-macbook-themes-and-skins-for-2024/"><u>[Updated] Ideal Set Best 8 MacBook Themes & Skins for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inspire-humorous-graphics-for-online-platform/"><u>[Updated] Inspire Humorous Graphics for Online Platform</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse-for-2024/"><u>8 Best Metaverse Headsets and Glasses to Dive Into Metaverse for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatible-windows-11-drivers-available-now-what-you-need-for-your-epson-ds-530/"><u>Compatible Windows 11 Drivers Available Now - What You Need for Your Epson DS-530</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fix-for-the-igdkmd64sys-system-crash-on-windows-11-a-user-friendly-guide/"><u>Comprehensive Fix for the 'IGDKMD64.sys' System Crash on Windows 11: A User-Friendly Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-dealing-with-the-apc-index-mismatch-that-triggers-blue-screens/"><u>Comprehensive Fixes: Dealing with the 'APC Index Mismatch' That Triggers Blue Screens</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-strategies-to-overcome-the-notorious-blue-screen-error-from-nvpcnfsys/"><u>Comprehensive Strategies to Overcome the Notorious Blue Screen Error From nvpcnf.sys</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-critical-process-died-error-stop-0x0000007b/"><u>Effective Solutions for Fixing the Critical Process Died Error (STOP: 0X0000007B)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/end-of-an-era-amds-3dnow-architecture-loses-llvm-compiler-backing/"><u>End of an Era: AMD's 3DNow! Architecture Loses LLVM Compiler Backing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-resolve-machine-check-exception-blue-screen-errors-in-windows-11/"><u>How to Troubleshoot and Resolve 'Machine Check Exception' Blue Screen Errors in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mega-deals-at-best-buys-milestone-event-save-big-on-tech-gadgets-including-tablets-watches-and-computers-insights/"><u>Mega Deals at Best Buy's Milestone Event: Save Big on Tech Gadgets Including Tablets, Watches & Computers – Insights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-errors-storahcisys-troubleshooting-guide/"><u>Solving Blue Screen Errors: Storahci.sys Troubleshooting Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-fixing-the-dreaded-machine-check-exception-and-preventing-bsod-on-your-windows-10-system/"><u>Step-by-Step Solutions for Fixing the Dreaded Machine Check Exception and Preventing BSoD on Your Windows 10 System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-xbox-interactions-by-embracing-zooming-capabilities/"><u>Streamline Xbox Interactions by Embracing Zooming Capabilities</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-crafting-captivating-facebook-stories-for-2024/"><u>The Art of Crafting Captivating Facebook Stories for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-and-customizing-systems-preferred-applications/"><u>Understanding and Customizing System's Preferred Applications</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-error-code-0x00000amazing-for-pc-restarts/"><u>Understanding and Resolving Error Code 0X00000amazing for PC Restarts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-videotwitter-audible-direct-download/"><u>[New] 2024 Approved VideoTwitter Audible Direct Download</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-analyzing-instagram-de-followings/"><u>[New] Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-mic-for-digital-content-makers/"><u>[New] In 2024, Ultimate Mic for Digital Content Makers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-real-to-virtual-the-science-behind-vr/"><u>[Updated] From Real to Virtual The Science Behind VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-high-resolution-spaces-for-online-viewers/"><u>[Updated] In 2024, High-Resolution Spaces for Online Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003781149-2024s-top-tricks-for-a-smooth-dota-2-experience-stop-lag-once-and-for-good/"><u>2024'S Top Tricks for a Smooth Dota 2 Experience: Stop Lag Once and For Good</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bayerische-hypotheken-und-wechselbank/"><u>Bayerische Hypotheken Und Wechselbank</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-troubleshooting-for-video-tdr-failure-due-to-atikmpagsys-on-windows-11-fixed/"><u>Comprehensive Troubleshooting for Video TDR Failure Due to atikmpag.sys on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/critical-analysis-of-the-microsoft-surface-duo-costly-yet-problematic-device/"><u>Critical Analysis of the Microsoft Surface Duo: Costly Yet Problematic Device</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/critical-error-solved-eliminating-the-0x00000124-bsod-glitch-on-your-pcs-operating-system-windows-107/"><u>Critical Error Solved: Eliminating the 0X00000124 BSOD Glitch on Your PC's Operating System (Windows 10/7)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-storahcisys-blue-screen-issues/"><u>Fix storahci.sys Blue Screen Issues</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-critical-stop-error-due-to-video-memory-issues-in-windows/"><u>How to Fix Critical Stop Error Due to Video Memory Issues in Windows?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>In 2024, Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-death-fixing-critical-process-died-issues-on-windows-10/"><u>Resolving the Blue Screen of Death: Fixing 'Critical Process Died' Issues on Windows 10</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/revolutionize-your-life-strategies-for-effective-transformation/"><u>Revolutionize Your Life: Strategies for Effective Transformation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-persistent-clock-watchdog-timeout-blue-screen-of-death-on-windows-10-systems/"><u>Solving the Persistent Clock Watchdog Timeout Blue Screen of Death on Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/stop-ipadiphone-from-freezing-during-fb-playback-for-2024/"><u>Stop iPad/iPhone From Freezing During FB Playback for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-n-11-dxgkrnl-errors-leading-to-a-blue-screen-of-death/"><u>Troubleshooting and Solving Windows N 11 Dxgkrnl Errors Leading to a 'Blue Screen of Death'</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199690822-windows-10-blue-screen-troubles-fix-your-igdkmd64sys-error-today/"><u>Windows 10 Blue Screen Troubles? Fix Your igdkmd64.sys Error Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Crash: Ultimate Guide to Resolving Error Code 0xC000021A (BSoD) in Windows 10 & 8"
-date: 2025-02-06T16:51:39.223Z
-updated: 2025-02-09T16:06:24.321Z
+date: 2025-02-14T16:14:04.002Z
+updated: 2025-02-19T16:24:50.182Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db357b3699e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 easy and effective methods to fix 0x000000F4
 
 1. **[Update all your available drivers](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,7 +32,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
  IMPORTANT: You’ll need to be logged into Windows on the problem computer to try any of these solutions. If you can’t log into Windows, restart it in Safe Mode, then try these solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update all your available drivers
@@ -41,10 +45,14 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a5be1336da.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the blue screen disappear. If it shows again, you know your drivers weren’t to blame, and you should try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Uninstall your antivirus software temporarily
@@ -54,7 +62,7 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 **Important:**  Please reinstall your antivirus software whether Method 2 helps you fix this problem. It’s important to keep an antivirus software to protect your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Check your disk
@@ -65,19 +73,11 @@ If you’re on Windows, and you’re seeing this blue screen with this error cod
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db475dd7b40.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Yes**  when prompted by User Account Control.
 
  3) Type **chkdsk /f**  and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59db47077b1d2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Follow the instructions to finish the checking task.
 
@@ -101,22 +101,21 @@ Follow the instructions to finish the checking task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr/"><u>[New] In 2024, How to Create Stunning IGTV Video Footage Using Smartphones and DSLR</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-step-by-step-metaverse-marketing-plan/"><u>[Updated] 2024 Approved A Step-by-Step Metaverse Marketing Plan</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-simplified-strategies-for-muting-or-disabling-youtube-channels-computermobile/"><u>[Updated] 2024 Approved Simplified Strategies for Muting or Disabling Youtube Channels (Computer/Mobile)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/2-the-ultimate-guide-efficient-backup-strategies-for-ipad-and-ipad-pro-users/"><u>2. The Ultimate Guide: Efficient Backup Strategies for iPad and iPad Pro Users</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-solving-bsod-error-related-to-netwtw10sys-on-windows-systems/"><u>Diagnosing and Solving BSoD Error Related to Netwtw10.sys on Windows Systems</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-fix-for-dpc-watchguard-alert-resolve-the-compliance-mistake-swiftly/"><u>Effortless Fix for DPC Watchguard Alert: Resolve the Compliance Mistake Swiftly!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fix-guide-overcoming-write-to-read-only-memory-error-on-windows-blue-screens/"><u>Fix Guide: Overcoming 'Write to Read-Only Memory' Error on Windows Blue Screens</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-half-life-alyx-performance-issues-lags-and-stutters-solved/"><u>Fixes for 'Half-Life: Alyx' Performance Issues - Lags & Stutters Solved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-resolved-bsod-caused-by-machine-check-exception-on-windows-11/"><u>Fixing the [Resolved] BSOD Caused by Machine Check Exception on Windows 11</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-transfer-user-profiles-between-drives-on-windows-server-2012/"><u>How to Transfer User Profiles Between Drives on Windows Server 2012</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-ndis-driver-bug-fix-and-troubleshooting-steps/"><u>Resolve NDIS Driver Bug: Fix and Troubleshooting Steps</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/simple-solutions-to-resolve-unhandled-thread-exception-issues/"><u>Simple Solutions to Resolve Unhandled Thread Exception Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-picking-the-perfect-choice-on-zdnet/"><u>Top 5 Eco-Friendly Smartphones - Picking the Perfect Choice on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-cost-effective-solutions-in-xr-media-why-this-game-hub-is-a-must-visit-according-to-zdnet/"><u>Unlocking Cost-Effective Solutions in XR Media - Why This Game Hub Is a Must-Visit, According to ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unresolved-tackle-the-unexpected-store-exception-error-on-your-windows-10-machine-today/"><u>Unresolved? Tackle the Unexpected Store Exception Error on Your Windows 10 Machine Today</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-security-flaw-preventing-nx-data-execution-breach/"><u>Windows Security Flaw: Preventing NX Data Execution Breach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-audio-guide-for-vloggers-for-2024/"><u>[New] Expert Audio Guide for Vloggers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-free-online-video-capture-leaders-top-10-edition-for-2024/"><u>[New] Free Online Video Capture Leaders – Top 10 Edition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-get-hooked-on-fast-forward-finesse-in-snapchat-writes-for-2024/"><u>[Updated] Get Hooked on Fast-Forward Finesse in Snapchat' Writes for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos-for-2024/"><u>[Updated] Streamlining Content Acquisition 5 Ways to Download IGTV on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-storm-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Storm 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-to-correctly-address-internal-errors-within-the-video-scheduler-of-windows-11/"><u>Comprehensive Solutions to Correctly Address Internal Errors Within the Video Scheduler of Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-y-convertir-archivos-avi-a-mjpeg-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir Archivos AVI a MJPEG Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-a-fatal-error-using-event-tracer-on-your-windows-10-pc-now-solved/"><u>How to Fix a Fatal Error Using Event Tracer on Your Windows 10 PC - Now Solved</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-atikmpagsys-related-video-playback-issues-in-windows-10-solutions-included/"><u>How to Fix Atikmpag.sys-Related Video Playback Issues in Windows 10 - Solutions Included</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-driververifierdetectedviolation-blue-screen-of-death-in-windows-10/"><u>How to Resolve the DRIVER_VERIFIER_DETECTED_VIOLATION Blue Screen of Death in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p40-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P40 Through Google Earth?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-avi-player-for-pc-and-mobile/"><u>In 2024, Best AVI Player for PC and Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>In 2024, Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-blue-screen-of-death-due-to-win32kfullsys-errors/"><u>Resolving Windows Blue Screen of Death Due to Win32KFull.sys Errors</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshoot-and-resolve-blue-screen-errors-from-system-pte/"><u>Step-by-Step Tutorial: Troubleshoot and Resolve 'Blue Screen' Errors From System PTE</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-netiosys-bsod-errors-on-your-windows-pc-step-by-step-tips/"><u>Troubleshooting NETIO.SYS BSoD Errors on Your Windows PC: Step-by-Step Tips</u></a></li>
 </ul></div>
 

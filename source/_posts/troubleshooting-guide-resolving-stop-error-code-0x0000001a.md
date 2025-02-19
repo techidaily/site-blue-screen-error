@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Stop Error Code 0X0000001A
-date: 2025-02-06T16:05:12.233Z
-updated: 2025-02-09T16:35:34.508Z
+date: 2025-02-14T17:06:31.709Z
+updated: 2025-02-19T17:58:07.069Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
  Are you suffering the**0x00000116 blue-screen** error? It could be super frustrating, especially if it happens while you’re playing a video game. But don’t panic. You won’t be stuck with it forever. We’ll walk you through how to fix it step by step. Read on and find how…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for 0x00000116
@@ -45,10 +45,6 @@ Here’s how you can do it:
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c708ae90.jpg)
 3. Double-click**Display adapters** . Then**right-click** on your graphics card software to select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976d0aa02ea.jpg)
 4. Restart your computer, your Windows system should then load the basic display adapter driver for your computer.
 
@@ -69,13 +65,13 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You can do it   **for free**  if you like, but it’s partly manual.  
 
 **![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If unfortunately, updating driver fails to help you, don’t give up hope, you have something else to try…
 
@@ -91,14 +87,22 @@ See how to do it:
 2. Type**power** in the search box then select**Choose a power plan** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976ec81c2d5.jpg)
 3. Click**Choose when to turn off the display** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976efd15857.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Set**Turn off the display** to**Never** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976f21d008f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer to see if the blue-screen error disappears.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Reinstall your game
@@ -111,10 +115,6 @@ See how to do it:
 2. Type**control** and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9770177c33f.png)
 3. Click**Uninstall a program** when**View by Category** selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977044a3f5f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Find and right-click on your game, then**Uninstall** .
 
@@ -143,22 +143,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 2024 Approved 5 Ways To Transfer Files To Your Computer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ad-profits-unveiled-how-much-do-creators-make-on-youtube/"><u>[Updated] Ad Profits Unveiled How Much Do Creators Make on Youtube?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-minecraft-domicile-easy-to-build-residential-plans/"><u>2024 Approved Minecraft Domicile Easy-To-Build Residential Plans</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solution-to-overcome-bsod-d1-issue-on-your-computer/"><u>Comprehensive Solution to Overcome BSOD D1 Issue on Your Computer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/efficient-methods-to-retrieve-lost-pictures-on-usb-drive-software-or-hardware-solutions/"><u>Efficient Methods to Retrieve Lost Pictures on USB Drive - Software or Hardware Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-top-free-movie-and-tv-streaming-sites-instead-of-netflix/"><u>Exploring the Top Free Movie & TV Streaming Sites Instead of Netflix</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-infamous-video-dxgkrnl-bsod-issue-in-windows-11-step-by-step-guide/"><u>Fixing the Infamous Video Dxgkrnl BSOD Issue in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-nvpcfsys-blue-screen-of-death-error/"><u>How to Fix nvpcf.sys Blue Screen of Death Error</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-official-driver-for-your-brother-mfc-9130cw-printer/"><u>How to Get the Official Driver for Your Brother MFC-9130CW Printer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-the-fix-clear-devdriver-hang-ups-in-windows-10-without-a-sweat/"><u>Mastering the Fix: Clear DevDriver Hang-Ups in Windows 10 Without a Sweat</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970846-9781803410814-phoenixes-angels/"><u>Phoenixes & Angels | Free Book</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-critical-dxgkrnl-bsod-issue-in-windows-11/"><u>Resolved: Fixing the Critical 'Dxgkrnl' BSOD Issue in Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solution-correcting-acpisys-errors-on-your-windows-11-pc/"><u>Step-by-Step Solution: Correcting acpi.sys Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-tutorial-troubleshooting-the-infamous-netiosys-bsod-issue/"><u>Step-by-Step Tutorial: Troubleshooting the Infamous NETIO.SYS BSOD Issue</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-fixing-the-root-causes-behind-repeated-blue-screen-errors-from-concluded-interrupt-requests/"><u>Understanding and Fixing the Root Causes Behind Repeated Blue Screen Errors From Concluded Interrupt Requests</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-meet-your-voice-in-many-forms-a-deep-dive-into-electronic-sound-transformers-for-2024/"><u>Updated Meet Your Voice in Many Forms A Deep Dive Into Electronic Sound Transformers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-capturing-clarity-mastering-hd-videos-from-tweet/"><u>[New] Capturing Clarity Mastering HD Videos From Tweet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foremost-6-online-spaces-dominating-b2b-interactions/"><u>[New] Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-incorporate-mp3s-into-presentation-decks/"><u>[New] In 2024, Incorporate MP3s Into Presentation Decks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ords-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>[New] Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-best-mac-programming-options-excluding-bandicam/"><u>2024 Approved Best Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-wheauncorrectable-issues-in-your-system/"><u>Diagnosing and Fixing 'WHEA_UNCORRECTABLE' Issues in Your System</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-bluescreen-of-death-resolving-0x00000124-bsod-in-windows-10-and-windows-7/"><u>Fixing the Bluescreen of Death: Resolving 0X00000124 BSOD in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-address-the-unexpected-kernel-mode-trap-that-triggers-blue-screen-errors-in-windows-10-solved/"><u>How to Address the Unexpected Kernel Mode Trap That Triggers Blue Screen Errors in Windows 10 (Solved)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/662082-9781451650280-powerhunch/"><u>Powerhunch! | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-flight-tech-ready-to-buy-for-2024/"><u>Prime Flight Tech Ready to Buy for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-11s-ntfs-filesystem-compatibility-error-a-guide/"><u>Resolving Windows 11'S NTFS Filesystem Compatibility Error: A Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-blue-screen-issues-on-windows-7-pcs/"><u>Step-by-Step Solutions for Blue Screen Issues on Windows 7 PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/story-3-the-cisc-confusion/"><u>Story 3: The CISC Confusion</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-repair-persistent-system-crashes-in-windows-7-comprehensive-guide/"><u>Troubleshoot and Repair Persistent System Crashes in Windows 7 - Comprehensive Guide</u></a></li>
 </ul></div>
 

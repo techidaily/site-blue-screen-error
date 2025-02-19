@@ -1,7 +1,7 @@
 ---
 title: "[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 10"
-date: 2025-02-07T16:39:32.333Z
-updated: 2025-02-09T16:42:34.391Z
+date: 2025-02-16T17:56:56.255Z
+updated: 2025-02-19T17:02:01.757Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Driver Verifier is built in every version of Windows operating system. It monito
 2. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable & Reset Driver Verifier](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Reinstall your graphic card driver
 
  Mostly, the graphic card driver like NVIDIA, Intel or AMD is the culprit behind this BSOD error. Reinstall graphic card driver helped many users fix the issue. Thus you can give it a shot.
@@ -38,6 +34,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
  1) On your keyboard, press the **Windows** logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win-key.png) +**X** key together to open the quick-access menu. Then click**Device Manager** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982977c07674.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the pop-up window, find and expand**Display adapters** catalog. Then right-click on your graphic card software to choose**Uninstall device** .
 
@@ -58,6 +58,10 @@ Driver Verifier is built in every version of Windows operating system. It monito
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5981786113621.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged printer driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -76,10 +80,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59829f3c6382e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then Windows will search the update for you automatically.
 
  For some reasons, Microsoft cannot always detect the update, and moreover check the update for your drivers one by one could be really tedious. In such case, let **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  help you. It can find all your missing, outdated and incompatible drivers and offer the correct ones in less than 1 min! And with its Pro version, you can make all your drivers up-to-date in just one-go:**Update All** .
@@ -87,7 +87,7 @@ Then Windows will search the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982a05593fc6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Disable & Reset Driver Verifier
@@ -105,12 +105,16 @@ You need to do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c1206997f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Now the Driver Verifier Manager would be open. Tick on**Delete existing settings** and click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c19bde408.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your Windows 10 and the Driver Verifier would be disabled now.  
@@ -120,10 +124,6 @@ You need to do these:
  Then type**Verifier /reset** in the window and press**Enter** to run it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5982c37a6df81.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Reboot your Windows 10.
 
@@ -149,22 +149,20 @@ That’s all there is to it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-leading-edge-screen-snapshot-software/"><u>[New] Leading Edge Screen Snapshot Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-discover-the-best-in-igtv-every-week/"><u>[Updated] In 2024, Discover the Best in IGTV Every Week</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-step-by-step-mac-techniques-to-edit-srt-files/"><u>[Updated] In 2024, Step-by-Step Mac Techniques to Edit SRT Files</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-celebrating-androids-best-moba-players-today/"><u>2024 Approved Celebrating Android's Best MOBA Players Today</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/accelerate-resolution-effective-strategies-for-quick-fixes-on-watchdog-dpc-noncompliance/"><u>Accelerate Resolution: Effective Strategies for Quick Fixes on Watchdog DPC Noncompliance</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-system-error-0xc000000e-a-comprehensive-strategy/"><u>Fixing the Critical System Error 0xC000000E: A Comprehensive Strategy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-ai-is-reshaping-our-future-exploring-its-remarkable-possibilities/"><u>How AI Is Reshaping Our Future: Exploring Its Remarkable Possibilities</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-inaccessible-boot-device-blue-screen-error-on-windows-10-with-illustrative-images/"><u>How to Repair 'Inaccessible Boot Device' Blue Screen Error on Windows 10 with Illustrative Images</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-and-prevent-ntfssys-related-blue-screen-errors-in-windows-11/"><u>How to Repair and Prevent ntfs.sys-Related Blue Screen Errors in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v29-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V29 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-internal-power-error-on-windows-10/"><u>Solved: Internal Power Error on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-incorporating-gifs-into-your-insta-commentary/"><u>The Ultimate Tutorial for Incorporating GIFs Into Your Insta-Commentary</u></a></li>
-<li><a href="https://win-updates.techidaily.com/tout-savoir-sur-la-reparation-et-recuperation-des-cartes-sd-sony-un-guide-complet/"><u>Tout Savoir Sur La Reparation Et Récupération Des Cartes SD Sony : Un Guide Complet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-kernel-security-failures-in-windows-11-a-fix-guide/"><u>Troubleshooting Critical Kernel Security Failures in Windows 11 – A Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-crashes-overcoming-the-0x0000000a-bsod/"><u>Troubleshooting Windows Crashes: Overcoming the 0X0000000A BSOD</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>Updated In 2024, Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-over-the-dreaded-dxgmms2sys-stop-error-solutions-for-windows-10-users/"><u>Winning Over the Dreaded dxgmms2.sys Stop Error: Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-aces-top-10-list-choosing-superior-capture-cards/"><u>[New] Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/hapag-lloyd-ag/"><u>Hapag-Lloyd AG</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-x6-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco X6 Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-windows-crashing-with-rtwlanesys-a-comprehensive-guide/"><u>How to Stop Windows Crashing with 'rtwlane.sys': A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-your-inspiration-top-5-pinterest-videos-without-cost/"><u>In 2024, Capture Your Inspiration! Top 5 Pinterest Videos Without Cost</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s, Apples New iPhone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-effortless-mp4-editing-on-windows-8-a-user-friendly-guide/"><u>New 2024 Approved Effortless MP4 Editing on Windows 8 A User-Friendly Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-failed-to-change-from-dpc-mistake-on-your-pc-a-complete-walkthrough/"><u>Resolving the 'Failed to Change From DPC' Mistake on Your PC: A Complete Walkthrough</u></a></li>
+<li><a href="https://facebook.techidaily.com/spotting-hidden-usage-in-your-tech-environment/"><u>Spotting Hidden Usage in Your Tech Environment</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fix-for-the-notorious-bad-pool-header-problem-in-windows-tutorial/"><u>Step-by-Step Fix for the Notorious Bad Pool Header Problem in Windows [TUTORIAL]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-the-crash-comprehensive-steps-to-fix-the-blue-screen-with-stop-code-0x00000124-in-windows-os/"><u>Stop the Crash: Comprehensive Steps to Fix the Blue Screen with Stop Code 0X00000124 in Windows OS</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199733873-the-ultimate-guide-to-cancel-free-driver-deactivation-during-active-tasks-problem-solved/"><u>The Ultimate Guide to Cancel-Free Driver Deactivation During Active Tasks - Problem Solved</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transferez-facilement-votre-fichier-ogg-vers-aac-gratuitement-en-ligne-avec-mouvavi/"><u>Transférez Facilement Votre Fichier OGG Vers AAC Gratuitement en Ligne Avec Mouvavi</u></a></li>
 </ul></div>
 

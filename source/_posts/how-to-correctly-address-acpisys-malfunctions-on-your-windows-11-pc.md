@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address acpi.sys Malfunctions on Your Windows 11 PC
-date: 2025-02-07T16:24:51.658Z
-updated: 2025-02-09T16:07:51.073Z
+date: 2025-02-18T17:06:01.599Z
+updated: 2025-02-19T17:43:41.468Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  If you run into a blue screen of death with**Driver unloaded without cancelling pending operations** error code, you’re not alone. But don’t worry. it’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For Driver unloaded without cancelling pending operations
 
  Both fixes below work in**Windows 10** ,**8.1** and**7** . Just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 1. [**Update your drivers (nearly always fixes the problem)**](https://www.drivereasy.com/knowledge/driver-unloaded-without-cancelling-pending-operations-solved/#F1)
 2. **[](https://tools.techidaily.com/drivereasy/download/) [Reinstall the faulty driver](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Uninstall incompatible programs**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Update your drivers (nea** rly always fixes the problem)
 
@@ -41,22 +49,14 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted toupgrade when you click   **Update All.**  You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a282e05cc.jpg)
 4. Restart your computer and check if**DRIVER UNLOADED WITHOUT CANCELLING PENDING OPERATIONS** problem has been resolved. If the problem still exists, then move on to **Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall the faulty driver
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 2. Locate and double-click on**Unknown devices** or**Other devices** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Right-click on**an item** and click**Uninstall device** . (The item usually has an exclamation mark to indicate a conflict).
@@ -76,12 +76,12 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d2a3c0863.png)
 6. Click the**Scan for hardware changes** icon to reinstall the driver you just uninstalled.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7d806cf8e6.jpg)
 7. Repeat this process on the rest of the devices under the **Unknown devices** or**Other devices** category.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Check if the **driver unloaded without cancelling pending operations blue screen of death** issue has been solved. If not, then move on to**Fix 3** , below.
 
@@ -112,18 +112,21 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capture-your-sounds-on-pc-with-x-recorder/"><u>[New] 2024 Approved Capture Your Sounds on PC with X-Recorder</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>[New] 2024 Approved The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[Updated] In 2024, The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199752249-certain-gene-mutations-can-lead-to-higher-cholesterol-levels-and-hypertension-which-are-risk-factors-for-plaque-formation-in-the-arteries/"><u>Certain Gene Mutations Can Lead to Higher Cholesterol Levels and Hypertension, Which Are Risk Factors for Plaque Formation in the Arteries</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclude-automatic-recommended-podcasts-in-spotify-feed-for-2024/"><u>Exclude Automatic Recommended Podcasts in Spotify Feed for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-p55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel P55 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-g310-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia G310 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-logitech-sound-drivers-on-your-pc-running-windows-versions-11-7-or-8/"><u>Installing Logitech Sound Drivers on Your PC Running Windows Versions 11, 7, or 8</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-blue-screen-dxgmms2sys-errors-on-your-windows-11-pc/"><u>Step-by-Step Fixes for Blue Screen 'dxgmms2.sys' Errors on Your Windows 11 PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tier-auditory-theatre-plays-for-2024/"><u>Top-Tier Auditory Theatre Plays for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-bsod-errors-related-to-pfn-list-corruption-on-microsofts-latest-os-windows-11/"><u>Understanding and Resolving BSOD Errors Related to PFN List Corruption on Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-strategies-for-addressing-window-10s-power-error-internally/"><u>Winning Strategies for Addressing Window 10'S Power Error Internally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-connoisseur-of-cinematic-composition/"><u>[New] 2024 Approved Connoisseur of Cinematic Composition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-echoing-scenes-iphone-as-a-tool-for-music-filmmakers/"><u>[New] In 2024, Echoing Scenes IPhone as a Tool for Music Filmmakers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-tools-for-visual-storytelling-from-photographic-sources/"><u>[New] Prime Tools for Visual Storytelling From Photographic Sources</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-stop-0x0000001e-blue-screen-error-code/"><u>[Solved] Stop: 0X0000001E Blue Screen Error Code</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-premium-choices-in-video-capture-tools-for-websites/"><u>[Updated] 2024 Approved Premium Choices in Video Capture Tools for Websites</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-seamless-text-overlay-the-key-to-interactive-instagram-media/"><u>[Updated] In 2024, Seamless Text Overlay The Key to Interactive Instagram Media</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-supreme-speakers-showcase-selector/"><u>[Updated] In 2024, Supreme Speakers' Showcase Selector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-panasonic-toughbook-g2-the-ultimate-blend-of-durability-portability-and-customization-insights/"><u>Comprehensive Evaluation of the Panasonic Toughbook G2: The Ultimate Blend of Durability, Portability & Customization - Insights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-drivercorruptedexceptionpool-errors-in-windows-11-step-by-step-guide/"><u>Fixing DRIVER_CORRUPTED_EXCEPTION_POOL Errors in Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-bsod-with-error-code-ea/"><u>Fixing the Blue Screen of Death (BSoD) with Error Code Ea</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-update-or-replace-acpisys-in-your-windows-10-device/"><u>How to Correctly Update or Replace acpi.sys in Your Windows 10 Device</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/recupero-di-unita-eliminate-o-perdute-in-windows-11-passaggi-semplici-per-la-guida/"><u>Recupero Di Unità Eliminate O Perdute in Windows 11 - Passaggi Semplici per La Guida</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tints-shades-and-tones-practical-application-in-art/"><u>Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-tips-for-the-critical-process-failed-causing-blue-screen-of-death-errors-in-windows-11/"><u>Troubleshooting Tips for the Critical Process Failed, Causing Blue Screen of Death Errors in Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unraveling-the-mystery-successfully-overcoming-hal-initialization-problems-in-windows-nvme-storage-devices-cpu-overclocking-issues-and-more/"><u>Unraveling the Mystery: Successfully Overcoming HAL Initialization Problems in Windows Nvme Storage Devices, CPU Overclocking Issues, and More</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-11-driver-exception-pool-error-fixes-comprehensive-troubleshooting-techniques/"><u>Windows 11 Driver Exception Pool Error Fixes: Comprehensive Troubleshooting Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome Write Failed in Boot Directory – A Guide to Solving Blue Screen Errors
-date: 2025-02-02T16:25:24.512Z
-updated: 2025-02-09T16:39:12.937Z
+date: 2025-02-18T17:03:12.960Z
+updated: 2025-02-19T17:12:03.446Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 [Driver Easy Free](https://tools.techidaily.com/drivereasy/download/) helps you fix the Bad Pool Caller problem in one go!
 
  If you’re seeing a blue screen of death with the error message_**Bad\_Pool\_Caller**_ popping up on your screen, stopping you from doing anything, you’re not alone.Many Windows 10 users are reporting this problem as well. But no need for you to worry sick about it, it’s possible to fix. Here are[**4 solutions**](https://tools.techidaily.com/drivereasy/download/) for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **What is Bad\_Pool\_Caller blue screen of death error?**
 
@@ -51,7 +55,7 @@ T  o make it easy to understand, a thread in your processor is asking to use res
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d60756080b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the**Check for updates** button on the right side of the pane. If you can see any available updates, download and install them first before you move on.
@@ -84,19 +88,15 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee046d95f1d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ee0474d544c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Step 3:** **Run a Memory Check**
 
@@ -104,7 +104,15 @@ If the problem persists, move on to the next step.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You could click **Restart now and check for problems (recommended)** to check the status of your memory card right now, or click **Check for problems the next time I start my computer** if you are too occupied now.
 
@@ -126,13 +134,13 @@ If the problem persists, move on to the next step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-file-explorer-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click the hard driver you want to check and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa664b972ec.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to**Tools** tab and click**Check** .
 
@@ -141,14 +149,6 @@ If the problem persists, move on to the next step.
  4) If your hard disk drive is problem free, you will see the notification like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/problem-free.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Other options**
 
@@ -163,7 +163,7 @@ If the problem persists, move on to the next step.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d74518632e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Uninstall third-party antivirus programs.**  Antivirus apps apart from Windows Defender could be incompatible with your system settings. You should disable them to see if the problem is gone. You should never disable Windows Defender.
@@ -192,18 +192,20 @@ If the problem persists, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/solved-dpc-watchdog-violation-error-quickly-and-easily/"><u>[SOLVED] DPC Watchdog Violation Error | Quickly & Easily!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>2024 Approved Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
-<li><a href="https://fox-within.techidaily.com/advanced-guide-how-to-modify-executable-file-properties-window/"><u>Advanced Guide: How to Modify Executable File Properties Window</u></a></li>
-<li><a href="https://discover-best.techidaily.com/buy-now-comparing-value-of-dvds-blu-ray-discs-and-digital-media-formats-for-your-viewing-pleasure/"><u>Buy Now: Comparing Value of DVDs, Blu-Ray Discs, and Digital Media Formats for Your Viewing Pleasure</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/ditch-pinnacle-studio-here-are-the-best-mac-video-editing-alternatives/"><u>Ditch Pinnacle Studio? Here Are the Best Mac Video Editing Alternatives</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ting-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-repairing-blue-screen-issues-linked-to-rtkvhd64sys-malfunction/"><u>Guide to Repairing Blue Screen Issues Linked to rtkvhd64.sys Malfunction</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/live-streaming-guide-facebook-via-androidios-devices/"><u>Live Streaming Guide Facebook via Android/iOS Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sifting-through-media-options-vlc-versus-mx/"><u>Sifting Through Media Options VLC Versus MX</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-strategies-for-correcting-the-video-memory-management-bsod-error-on-your-pc/"><u>Solution Strategies for Correcting the 'Video Memory Management' BSOD Error on Your PC</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-storahcisys-errors-a-step-by-step-guide/"><u>Solving 'storahci.sys' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-non-paged-area-pages-faults-and-solutions-on-win11/"><u>Understanding Non-Paged Area Pages Faults & Solutions on Win11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/visual-storytellers-unite-7-prime-3d-design-and-animation-applications/"><u>Visual Storytellers Unite 7 Prime 3D Design & Animation Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-buy-on-cloud-storage-pricing-a-comparative-study/"><u>[New] Best Buy on Cloud Storage Pricing A Comparative Study</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>[New] In 2024, Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-guide-to-picture-perfect-framing-24/"><u>[New] In 2024, The Ultimate Guide to Picture-Perfect Framing '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-bp550-review-latest-tech-advances-for-2024/"><u>[Updated] BP550 Review Latest Tech Advances for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earn-on-youtube-decoding-recent-policy-changes/"><u>[Updated] In 2024, Earn on YouTube Decoding Recent Policy Changes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beijing-bid-wins-2022-winter-olympics-highlights/"><u>2024 Approved Beijing Bid Wins 2022 Winter Olympics Highlights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quality-streaming-balancing-webcam-and-gaming-recordings/"><u>2024 Approved Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/dealing-with-blue-screen-errors-caused-by-win32ksys-in-windows-systems/"><u>Dealing with Blue Screen Errors Caused by Win32k.sys in Windows Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-life-threatening-bugs-encountered-during-events-on-windows-11-solutions-revealed/"><u>How to Fix Life-Threatening Bugs Encountered During Events on Windows 11 – Solutions Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>In 2024, Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-how-to-fix-volsnapsys-bsod-issues-on-your-windows-pc/"><u>Resolved: How to Fix Volsnap.sys BSOD Issues on Your Windows PC</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-critical-pnp-detected-issues-on-windows-11-systems/"><u>Troubleshooting and Fixing Critical 'PNP Detected' Issues on Windows 11 Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-the-full-capability-of-your-website-using-cookiebot-features/"><u>Unleash the Full Capability of Your Website Using Cookiebot Features</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199734457-windows-10-bluestack-fix-guide-resolving-unmountablebootvolume-issues-successfully/"><u>Windows 10 Bluestack Fix Guide: Resolving UNMOUNTABLE_BOOT_VOLUME Issues Successfully</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-inaccessible-boot-device-bsod-issue-resolve-it-quickly-visuals/"><u>Windows 10 Inaccessible Boot Device BSOD Issue - Resolve It Quickly [Visuals]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions to Resolve Unhandled Thread Exception Issues
-date: 2025-02-02T16:24:36.811Z
-updated: 2025-02-09T16:13:52.768Z
+date: 2025-02-15T17:19:26.058Z
+updated: 2025-02-19T17:26:13.913Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 
 **BAD\_SYSTEM\_CONFIG\_INFO**  is one of the common Blue Screen of Death (BSOD) error on Windows system. If you’re experiencing this error, rest assured, you’re not alone. Many Windows users have this problem. More importantly, you can fix it through the methods below quickly & easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 effective methods to fix BAD\_SYSYTEM\_CONFIG\_INFO
 
  The Bad System Config Info blue screen error could be caused by different reasons. This guide is covering 3 different effective and easy methods for your to try. You may not have to try them all; just start from the top and work your way down, till you solve your problem.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 2. **[Fix your BCD file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Fix your Windows Registry](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update all your available drivers
 
  Many blue screen errors are blamed on  outdated, corrupted or missing device drivers. BAD\_SYSTEM\_CONFIG\_INFO is no exception. Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
@@ -49,14 +61,10 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 4. Reboot your Windows 10 to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Fix your BCD file
 
@@ -69,21 +77,13 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-43-48.jpg)
 3. Click **Repair your computer** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-45-25.jpg)
 4. Click **Troubleshoot** \>**Advanced options** \>**Command Prompt** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-46-49.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2019-10-30_11-48-00.jpg)  
@@ -148,21 +148,24 @@ See if this method works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-essential-blueprint-instagram-tiktok-merger-for-2024/"><u>[Updated] Essential Blueprint Instagram-TikTok Merger for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-on-set-questions-answered-quickly/"><u>[Updated] On-Set Questions Answered Quickly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unveiling-the-top-10-stealthy-story-audiences-for-2024/"><u>[Updated] Unveiling the Top 10 Stealthy Story Audiences for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/3-top-fixes-to-bridge-hp-printers-with-laptop-effortlessly/"><u>3 Top Fixes to Bridge HP Printers with Laptop Effortlessly</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-solutions-how-to-correct-faulty-memory-handling-on-windows/"><u>Blue Screen of Death Solutions: How To Correct Faulty Memory Handling on Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnose-and-repair-windows-11-bsod-tackling-clock-watchdog-timeouts/"><u>Diagnose and Repair Windows 11 BSoD - Tackling Clock Watchdog Timeouts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-sas-driver-version-on-windows-10-8-or-7-easy-download-guide/"><u>Get the Newest SAS Driver Version on Windows 10, 8 or 7 - Easy Download Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-acpisys-in-windows-10/"><u>How to Fix ACPI.sys in Windows 10</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-netiosys-blue-screen-errors-on-windows/"><u>How to Fix NETIO.SYS Blue Screen Errors on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x100-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X100 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-ifttt-to-optimize-to-do-usage/"><u>Leverage IFTTT to Optimize To-Do Usage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-living-room-learn-to-remove-apps-from-your-samsung-smart-tv/"><u>Streamlined Living Room: Learn to Remove Apps From Your Samsung Smart TV</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/the-ultimate-guide-to-cancel-free-driver-deactivation-during-active-tasks-problem-solved/"><u>The Ultimate Guide to Cancel-Free Driver Deactivation During Active Tasks - Problem Solved!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-eliminating-blue-screen-with-stop-code-ea-in-windows/"><u>Troubleshooting and Eliminating Blue Screen with Stop Code Ea in Windows</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-acpisys-file-for-smooth-operation-in-windows-11/"><u>Troubleshooting the acpi.sys File for Smooth Operation in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-asus-rog-phone-8-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Asus ROG Phone 8 Pro Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-no-cost-digital-video-editors-the-2023-guide/"><u>[New] Top 10 No-Cost Digital Video Editors The 2023 Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-quantifying-the-fortune-of-mr-beast/"><u>[Updated] 2024 Approved Quantifying the Fortune of Mr. Beast</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-darktable-pro-finding-the-best-paired-editor/"><u>[Updated] Darktable Pro Finding the Best Paired Editor</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>[Updated] Starting Out Right Budget-Friendly Game Editing Software for Beginners</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-limpando-seu-memoria-flash-4-maneiras-de-recuperar-dados-gratuito-do-cartao/"><u>1. Limpando Seu Memória Flash: 4 Maneiras De Recuperar Dados Gratuito Do Cartão</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199713730-addressing-key-component-deterioration-on-your-windows-11-machine-solution-found/"><u>Addressing Key Component Deterioration on Your Windows 11 Machine – Solution Found</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-s18-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo S18 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bsod-resolved-troubleshooting-guide-for-video-memory-configuration-problems/"><u>BSOD Resolved? Troubleshooting Guide for Video Memory Configuration Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-marketplace-failures-error-0x80073cf3/"><u>Deciphering and Resolving Windows Marketplace Failures (Error 0X80073CF3)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-resolved-bsod-caused-by-machine-check-exception-on-windows-11/"><u>Fixing the [Resolved] BSOD Caused by Machine Check Exception on Windows 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-syntpsys-blue-screen-of-death-error-in-windows/"><u>How to Fix SYNTP.SYS Blue Screen of Death Error in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-fatal-error-pnp-detected-on-windows-10-explained/"><u>Resolved: Critical Fatal Error 'PNP Detected' On Windows 10 Explained</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-igdkmd64sys-crash-on-windows-11-step-by-step-solutions/"><u>Resolving the 'IGDKMD64.sys' Crash on Windows 11 - Step-by-Step Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-critical-error-code-41-during-windows-10-boot-up-process/"><u>Resolving the Critical Error Code 41 During Windows 10 Boot Up Process</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-resolving-boot-device-not-found-bsod-issues-in-windows-10-visual-aids-included/"><u>Step-by-Step Guide: Resolving 'Boot Device Not Found' BSOD Issues in Windows 10 (Visual Aids Included)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-mastering-airpod-resets-timely-tips-and-troubleshooting-steps/"><u>The Ultimate Guide: Mastering AirPod Resets – Timely Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/unresolved-tackle-the-unexpected-store-exception-error-on-your-windows-10-machine-today/"><u>Unresolved? Tackle the Unexpected Store Exception Error on Your Windows 10 Machine Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-announced-essential-printing-and-scanning-drivers-now-available-for-windows-11/"><u>Update Announced: Essential Printing & Scanning Drivers Now Available for Windows 11</u></a></li>
 </ul></div>
 

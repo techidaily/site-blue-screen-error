@@ -1,7 +1,7 @@
 ---
 title: Guide to Solving Fatal Event Logging Issues on Windows 11 Computers
-date: 2025-02-06T16:08:12.282Z
-updated: 2025-02-09T16:42:31.123Z
+date: 2025-02-14T17:06:07.641Z
+updated: 2025-02-19T16:28:08.706Z
 tags:
   - win11
   - win10
@@ -38,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bdf261c6a.png)  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
   
 
-![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
  Click**Yes** to continue.
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer so Windows will perform a hard disk check.
 
  5) After the restart, press the **Windows logo key**  and type **cmd** . Right-click **Command Prompt** and click **Run as administrator** .
@@ -63,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/run-as-administrator-cmd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Type **sfc /scannow** and press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce77d37912.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for a while with patience so Windows will help you detect if there is any faulty files in your system and help get rid of them.
 
@@ -90,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9258049ecb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**_Pro version_**](https://tools.techidaily.com/drivereasy/download/) which comes with with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -101,11 +105,7 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae927c7ccb23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3:** **Update available Windows Updates**
@@ -130,29 +130,25 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59aa84e1d99ab.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Scan for hardware changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583ce97c71332.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) See if you can spot any device driver with some unusual mark next to it, such as a yellow exclamation mark, a question mark etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cea87c479d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) If you see such a device, or devices, right-click it or them and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583cf65c6a252.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When prompted with the confirmation, click **OK** to continue.
 
@@ -163,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
  Still, if you don’t have the time, patience or computer skills to update your display card driver manually, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’ll take care of all the headaches for you and save you tons of time and money.  No worry to try it as it comes with a no-questions-asked 30-day money-back guarantee and professional tech support 24/7\.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae92811b61d5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Work-arounds**
 
@@ -191,22 +191,18 @@ thumbnail: https://thmb.techidaily.com/3c352be9147d488745f63feb2196f5f1464c80156
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-top-5-drone-racing-headsets-ultimate-vr-experience-for-2024/"><u>[New] Top 5 Drone Racing Headsets Ultimate VR Experience for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rediscovering-archived-discussions-on-reddit-now/"><u>[Updated] Rediscovering Archived Discussions on Reddit Now</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/8and/"><u>最適な8つの無償ビデオ編集ツール&アプリで音楽追加：探せ!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-hal-initialization-failed-error-in-windows-11-expert-tips-and-tricks/"><u>How to Overcome 'Hal Initialization Failed' Error in Windows 11: Expert Tips & Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-a58-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo A58 4G without App | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-hear-the-difference-mastering-instagram-voice-customizations/"><u>In 2024, Hear the Difference Mastering Instagram Voice Customizations</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/mastering-classpnpsys-error-resolution-for-a-smooth-experience-on-windows-117-systems/"><u>Mastering CLASSPNP.SYS Error Resolution for a Smooth Experience on Windows 11/7 Systems</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-audio-dynamics-crafting-the-ideal-listening-environment-via-video-adjustments/"><u>New Audio Dynamics Crafting the Ideal Listening Environment via Video Adjustments</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-2/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk.</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199745004-proper-training-is-essential-for-effectively-implementing-spc-methods-and-avoiding-misinterpretation-of-data/"><u>Proper Training Is Essential for Effectively Implementing SPC Methods and Avoiding Misinterpretation of Data</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-in-page-kernel-data-error-and-blue-screen-of-death-comprehensive-fix-guide/"><u>Resolved: In-Page Kernel Data Error and Blue Screen of Death - Comprehensive Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-bad-pool-caller-glitch-in-windows-10-a-comprehensive-fix-guide/"><u>Resolving the 'Bad Pool Caller' Glitch in Windows 10: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-found-correcting-the-critical-system-error-0xc00-0000017-in-windows/"><u>SOLUTION FOUND: Correcting the Critical System Error 0Xc00지 0000017 in Windows</u></a></li>
-<li><a href="https://article-files.techidaily.com/step-up-your-photo-game-basic-snapseed-skills-guide-for-2024/"><u>Step Up Your Photo Game Basic Snapseed Skills Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/strategies-to-rectify-freeze-in-obs-fullscreen-functionality/"><u>Strategies to Rectify Freeze in OBS Fullscreen Functionality</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tips-and-tricks-for-exceptional-steam-playback-footage/"><u>Tips and Tricks for Exceptional Steam Playback Footage</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-the-win32kfullsys-blue-screen-of-death-problem/"><u>Understanding and Correcting the Win32KFull.sys Blue Screen of Death Problem</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-playtime-to-peak-time-top-gaming-women-in-the-digital-space/"><u>[New] In 2024, From Playtime to Peak Time Top Gaming Women in the Digital Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>[Updated] Navigating Best Options Expert Picks From Top 9 Free Logomakers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters/"><u>[Updated] Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banishing-blue-screen-issues-expert-tips-to-fix-bsod-in-windows-10/"><u>Banishing Blue Screen Issues: Expert Tips to Fix BSOD in Windows 10</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-repairing-unmountablebootvolume-bsod-errors-in-windows-11-easily/"><u>Diagnosing and Repairing 'UNMOUNTABLE_BOOT_VOLUME' BSOD Errors in Windows 11 Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/engineering-an-emotional-movie-segment/"><u>Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-video-scheduler-internal-error-issues-in-windows-11-a-complete-guide/"><u>How to Fix Video Scheduler 'Internal Error' Issues in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-financial-data-safe-from-gpt-powered-cyberattacks/"><u>Is Your Financial Data Safe From GPT-Powered Cyberattacks?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/kuppersbusch/"><u>Küppersbusch</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-secures-prestigious-witsa-accolade/"><u>Mondly Secures Prestigious WITSA Accolade</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-internal-power-error-issue-in-windows-11-a-comprehensive-guide/"><u>Resolving the 'Internal Power Error' Issue in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-when-you-cant-find-libcurldll-file/"><u>Troubleshooting Steps When You Can't Find Libcurl.dll File</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-bsod-errors-stemming-from-video-memory-complications/"><u>Troubleshooting Windows BSOD Errors Stemming From Video Memory Complications</u></a></li>
 </ul></div>
 
